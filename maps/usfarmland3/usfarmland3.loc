@@ -1,0 +1,126 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	발전소
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	발전소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	발전소의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 발전소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myUiName	북측 합류지점
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myWeCapturedText	북측 합류지점을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myWeLostText	북측 합류지점을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myEnemyCapturedText	적이 북측 합류지점을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	81고지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	81고지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	81고지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 81고지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	95고지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	95고지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	95고지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 95고지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myUiName	도로
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeCapturedText	도로를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeLostText	도로의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myEnemyCapturedText	적이 도로를 점령했다
+myWicedMap.myMissionStats.myName	do_Riverbed
+myWicedMap.myMissionStats.mySPName	%02d－산맥으로
+myWicedMap.myMissionStats.myDescription	전투는 케스케이드산맥주변의 구릉지대로까지 확대되었다. 미군은 여기서 소련군의 침략을 저지하려고 한다.
+myWicedMap.myMissionStats.mySPDescription	자네의 대대는 케스케이드산맥주변의 구릉지대에서 소련군임무부대의 진격을 늦추는 지구전을 전개해야 한다. 포트텔러주변의 방어부대가 방어진지를 구축하기 위한 시간을 버는 것이다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	여울
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	여울
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myDescription	두군데의 도하지점을 확보하라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myLongDescription	최초 두군데의 여울에서 소련군의 도하를 저지하면 적들은 다리로 향할 수 밖에 없고, 그 편이 격퇴하기 쉽다.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myVisualisationText	두군데의 도하지점을 확보하라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myDescription	전략거점인 다리를 점령해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myLongDescription	전략거점인 다리를 점령해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myVisualisationText	전략거점인 다리를 점령해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myDescription	전략거점인 다리를 확보해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myLongDescription	전략거점인 다리를 확보해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myVisualisationText	전략거점인 다리를 확보해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myDescription	x이내에 강의 전략거점을 점령해라!
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myLongDescription	x이내에 강의 전략거점을 점령해라!
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myVisualisationText	<empty>
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myDescription	사령본부를 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myLongDescription	사령본부를 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myVisualisationText	사령본부를 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myDescription	웹이 발견한 보병부대를 전멸시켜라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myLongDescription	웹이 발견한 보병부대를 전멸시켜라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myVisualisationText	웹이 발견한 보병부대를 전멸시켜라.
+myWicedMap.myMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised6500.myString	최대지원포인트가 6500이 됐다.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised7000.myString	최대지원포인트가 7000이 됐다.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised7500.myString	최대지원포인트가 7500이 됐다.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised.myString	최대지원포인트가 상승했다.
+myWicedMap.myMissionStats.myScriptEvents.RiverOnTimeAward.myString	2대의 중(中)전차를 무상유닛으로 배치할 수 있다.
+myWicedMap.myMissionStats.myScriptEvents.KillInfAward.myString	전술지원포인트의 최대치가 상승했다.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_01.myText	파커, 소련군은 코카콜라타운으로 급행하고 있네. 강 맞은편에서 발을 묶어 버린다면 적어도 4시간은 벌 수 있을 것이네. 자네는 이 두군데의 여울을 지키게.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_01.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_02.myText	소련군의 선견부대는 이 부근에만 있을게야. 대형차량이 나타나기 전에 놈들을 정리하면 성공할 가능성이 높아지지.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_02.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_03.myText	웹대위의 특수부대가 숲속에서 정찰에 성공했네. 정보를 활용하게. 어서 가게나, 파커! 1초라도 무의미하게 쓰지말게!
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_03.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_04.myText	잘 했네, 파커. 제2번 여울로 서둘러 주게. 웹이 지키고 있을 것이네.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_04.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_05.myText	숲속에서 적보병의 움직임을 잡아 냈네. 스페츠나츠일지도 몰라. 위치를 확인하고 공격준비를 하는 것이 놈들의 역할이지.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_05.myPortraitText	웹
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_06.myText	들었나, 파커. 포병이든 뭐든 써서 수비를 단단히 하기 전에 적을 정리하게나.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_06.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_07.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_07.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_08.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_08.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_09.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_09.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_10.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_10.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_11.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_11.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_12.myText	잘 했네, 파커. 자네가 다리로 이동할 때까지 웹이 그곳을 지키도록 하겠네.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_12.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_13.myText	배넌은 맞은편 물가에서 하류다리를 폭파하려고 하네. 이 다리가 없으면 나중에 그와 합류할 수 없네. 그가 돌아올 때까지 다리를 지키게. 알겠나, 파커?
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_13.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_14.myText	패배
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_14.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_15.myText	훌륭하네, 파커! 적은 주력부대를 데려 올 틈도 없었군. 방어진지를 구축하고 곧바로 이동하게! 다리로 이동하는 동안 여기는 웹이 지킬 것이네.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_15.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_16.myText	적의 주력부대가 쫓아 오고 있는 듯하네. 파커, 되도록 빨리 이동하게. 지금 당장.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_16.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_17.myText	기상이 악화되고 있네. 이제 곧 항공지원을 할 수 없다고 공군이 전달해 왔네. 다리방어에 필요한 원군은 모두 요청해 두게나. 번거롭겠지만 새로운 전력은 손에 들어 오지 않을 것이네.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_17.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_18.myText	저 다리를 잃어도 끝이고 배넌의 전차부대를 잃어도 끝이네. 배넌이 돌아 올 때까지 다리를 지키게. 어차피 희생은 따르기 마련이야. 선택의 여지가 없어. 부탁하네, 파커.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_18.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_19.myText	공격을 시작하게, 파커. 우리는 돌파를 시도하겠네!
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_19.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_20.myText	마지막 전차도 다 건넜구만. 이제 다리를 폭파한다!
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_20.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_21.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_21.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_22.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_22.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_23.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_23.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_24.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_24.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_25.myText	이 부근에 적 포병대가 숨어 있네. 색출해서 정리하게, 파커.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_25.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_26.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_26.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_27.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_27.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_28.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_28.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_29.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_29.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_30.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_30.myPortraitText	<empty>
+myWicedMap.myLocStrings.RiverTimer	추가목표의 남은시간 : 
+myWicedMap.myLocStrings.RemoveReinforcementTimer	증원을 얻지 못하게 될 때까지 : 

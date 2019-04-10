@@ -1,0 +1,743 @@
+﻿myGameText.myToolTips.myCancel	취소
+myGameText.myToolTips.myBack	돌아가기
+myGameText.myToolTips.myOpenMegaMap	목표화면 열기
+myGameText.myToolTips.myZoomIn	줌인
+myGameText.myToolTips.myZoomOut	줌아웃
+myGameText.myToolTips.myCloseMap	화면 닫기
+myGameText.myToolTips.myMultiplayerLobby	멀티플레이로비 열기
+myGameText.myToolTips.myAPCost	전술지원포인트 코스트
+myGameText.myToolTips.myPerception	탐색능력
+myGameText.myToolTips.myViewRange	시야
+myGameText.myToolTips.mySpeed	이동속도
+myGameText.myToolTips.myFirepower	화력
+myGameText.myToolTips.myNeutralUnit	중립
+myGameText.myToolTips.myOrderMove	이동
+myGameText.myToolTips.myOrderAttack	공격
+myGameText.myToolTips.myOrderGoToBase	기지로 이동
+myGameText.myToolTips.myOrderGoToLandingZone	강하지점으로 이동
+myGameText.myToolTips.myOrderToggleReturnToBase	기지로의 귀환을 전환
+myGameText.myToolTips.myOrderSelectLandingZone	강하지점을 선택
+myGameText.myToolTips.myOrderLoad	불러오기
+myGameText.myToolTips.myOrderUnloadAll	전부 하차
+myGameText.myToolTips.myOrderEnterBuilding	건물에 들어가기
+myGameText.myToolTips.myOrderExitBuilding	건물에서 나오기
+myGameText.myToolTips.myOrderBlow	폭파
+myGameText.myToolTips.myOrderRepair	수리
+myGameText.myToolTips.myOrderSwitchToSecondaryMode	보조모드로 전환
+myGameText.myToolTips.myOrderSwitchToPrimaryMode	기본모드로 전환
+myGameText.myToolTips.myNotEnoughAP	전술지원포인트가 부족
+myGameText.myToolTips.myOrderStop	정지
+myGameText.myToolTips.myOrderFollow	동행
+myGameText.myToolTips.myOrderStack	연속명령모드
+myGameText.myToolTips.myUpgradeDropship	수송기를 업그레이드
+myGameText.myToolTips.myReinforcements	증원요청
+myGameText.myToolTips.myDropshipBehaviour	강하지점에서의 수송기행동
+myGameText.myToolTips.mySelectSquad	분대선택
+myGameText.myToolTips.myCameraToggle	표준시점 RTS카메라/자유시점카메라 전환
+myGameText.myToolTips.myObjectives	미션목표표시
+myGameText.myToolTips.myRechargeableEquipment	재사용가능한 병기배치
+myGameText.myToolTips.myNotEnoughHonors	전술지원포인트부족
+myGameText.myToolTips.myUpgradeSupportWeapon	업그레이드 %s
+myGameText.myToolTips.myOrderLayBridge	다리 건조
+myGameText.myToolTips.myNotAvailable	사용불가
+myGameText.myToolTips.myChooseRole	담당병과
+myGameText.myToolTips.myETAToBase	C-130에 유닛투하재요청까지의 시간
+myGameText.myToolTips.myDSComing	C-130에 따른 새로운 유닛도착까지의 시간
+myGameText.myToolTips.myRechargablePending	 %s (대기중) (바로가기 :  %s)\n%s\n%us 재사용준비
+myGameText.myToolTips.myRechargableReady	%s (바로가기 :  %s)\n%s\n%us 재사용준비
+myGameText.myToolTips.myRechargableCooldown	%s (재사용준비중) (바로가기 :  %s)\n%s\n사용가능상태까지%us
+myGameText.myToolTips.myRechargableProcessing	%s (처리중) (바로가기 :  %s)\n%s\n남은 시간 :  %us
+myGameText.myToolTips.myRechargableProcessingNoTime	%s (처리중) (바로가기 :  %s)\n%s
+myGameText.myToolTips.myLANChangeName	LAN이름변경
+myGameText.myToolTips.mySetCustomPlayerColor	플레이어지정색설정
+myGameText.myToolTips.myMute	음소거
+myGameText.myToolTips.myUnmute	음소거해제
+myGameText.myTUIText.myEchelonLeftFormation	좌사다리꼴대형
+myGameText.myTUIText.myEchelonRightFormation	우사다리꼴대형
+myGameText.myTUIText.myWedgeFormation	쐐기대형
+myGameText.myTUIText.myLineFormation	횡대대형
+myGameText.myTUIText.myColumnFormation	종대대형
+myGameText.myTUIText.myBoxFormation	상형대형
+myGameText.myTUIText.myHealth	체력 : 
+myGameText.myTUIText.myEnergy	에너지 : 
+myGameText.myTUIText.myCameraDistance	카메라로부터의 거리
+myGameText.myTUIText.myOrderQueue	명령대기열 : 
+myGameText.myTUIText.myMove	이동
+myGameText.myTUIText.myMoveAdd	목적지추가
+myGameText.myTUIText.myDropshipReturns	귀환
+myGameText.myTUIText.myDropshipStays	정류
+myGameText.myTUIText.myInShadow	그림자보너스 효과
+myGameText.myTUIText.myHighGround	고지보너스 효과
+myGameText.myTUIText.myInForest	숲보너스 효과
+myGameText.myTUIText.mySuppressed	억제
+myGameText.myTUIText.myNoDropship	수송기없음
+myGameText.myTUIText.myStoreCamera	저장한 카메라위치
+myGameText.myTUIText.myRestoreCamera	카메라위치 되돌리기
+myGameText.myTUIText.myGamePaused	게임을 일시정지하고 있습니다
+myGameText.myTUIText.myChangedName	%s(이)가 이름을 %s(으)로 변경했습니다
+myGameText.myTUIText.mySetCustomColorTitle	%s의 지정색설정
+myGameText.myTUIText.myTeamPlayersText	%s : %u명 플레이중
+myGameText.myTUIText.myPlayerDropZoneText	%s : %s
+myGameText.myTUIText.myPlayerDropTimeText	배치까지의 시간 : %0d
+myGameText.myTUIText.myMOTDHeaderText	서버정보
+myGameText.myTUIText.myJoinTeamPenalty	페널티 :  %u
+myGameText.myFrontEnd.myDifficultyEasy	초급
+myGameText.myFrontEnd.myDifficultyNormal	중급
+myGameText.myFrontEnd.myDifficultyHard	상급
+myGameText.myFrontEnd.myDifficultyVeryHard	최상급
+myGameText.myFrontEnd.myCampaignCompleted	클리어
+myGameText.myFrontEnd.myCampaignInProgress	플레이중
+myGameText.myFrontEnd.myCampaignNotStarted	개시전
+myGameText.myFrontEnd.myVersionText	월드 인 컨플릭트 빌드넘버
+myGameText.myFrontEnd.myAvailablePersonnelSlots	비어있는 플레이어슬롯수 : %u
+myGameText.myFrontEnd.myIPCost	IP코스트 : %u
+myGameText.myFrontEnd.myBotsEnabled	봇사용가능
+myGameText.myFrontEnd.myBotsDisabled	<empty>
+myGameText.myFrontEnd.myRoundTimeSeveralSeconds	디버그 : 몇초(×0.05)
+myGameText.myFrontEnd.myRoundTimeSeveralDays	디버그 : 몇일(×99.99)
+myGameText.myFrontEnd.myRoundTimeVeryShort	상당히 짧게(x0.25)
+myGameText.myFrontEnd.myRoundTimeShort	짧게(x0.5)
+myGameText.myFrontEnd.myRoundTimeNormal	노멀(x1)
+myGameText.myFrontEnd.myRoundTimeLong	길게(x1.5)
+myGameText.myFrontEnd.myRoundTimeVeryLong	매우 길게(x2)
+myGameText.myFrontEnd.myMapName	맵이름 : %s
+myGameText.myFrontEnd.myGameMode	게임모드 : %s
+myGameText.myFrontEnd.myMatchTime	대전시간 : %u분
+myGameText.myFrontEnd.myCreditsName	크레디트
+myGameText.myFrontEnd.myStartVolumeTest	테스트시작
+myGameText.myFrontEnd.myEndVolumeTest	테스트종료
+myGameText.myChat.myChat	채팅 : 
+myGameText.myChat.myTeamChat	팀채팅 : 
+myGameText.myChat.myVoipFrom	송신자 : 
+myGameText.myChat.myVoipTo	수신자 : 
+myGameText.myChat.myVoipSome	팀내의 복수멤버
+myGameText.myChat.myVoipAll	팀전원
+myGameText.myChat.myChatToAllPrefix	전원
+myGameText.myChat.myChatToTeamPrefix	팀
+myGameText.myStatus.myGameWon	미션 성공
+myGameText.myStatus.myGameLost	미션 실패
+myGameText.myStatus.myObjectiveCompleted	성공
+myGameText.myStatus.myObjectiveFailed	실패
+myGameText.myStatus.myGameWonByTeam	―게임에 승리한 팀
+myGameText.myStatus.myWinnerText	%s－승자(토탈 : %i)
+myGameText.myStatus.myLoserText	%s－패자(토탈 : %i)
+myGameText.myStatus.myWinningSideText	%s의 승리
+myGameText.myStatus.myWinningSideTextWithTime	%s의 승리 [남은 시간 : %u:%02u]
+myGameText.myStatus.myCamPosDebugInfoReport	레포트넘버 : %u / %u
+myGameText.myStatus.myCamPosDebugInfoAdded	새로운 카메라위치의 디버그정보를 추가했습니다
+myGameText.myStatus.mySPWonHeadline	미션 성공
+myGameText.myStatus.mySPWonDescription	미션을 성공했습니다
+myGameText.myStatus.mySPLostHeadline	미션 실패
+myGameText.myStatus.mySPLostDescription	미션을 실패했습니다
+myGameText.mySaveText.myNewSave	새로 저장
+myGameText.mySaveText.myDeleteConfirm	저장게임을 삭제해도 좋습니까?
+myGameText.mySaveText.myReplaceConfirm	저장게임을 덮어써도 좋습니까?
+myGameText.mySaveText.myDelete	삭제
+myGameText.mySaveText.myReplace	치환
+myGameText.mySaveText.myCampaignName	캠페인명 : %s
+myGameText.mySaveText.myDate	날짜 : %04u-%02u-%02u
+myGameText.mySaveText.myTime	시간 :  %02u:%02u:%02u
+myGameText.mySaveText.myMedalsEarned	획득한 훈장 : %u
+myGameText.mySaveText.myMissionsCompleted	클리어한 미션 : %u
+myGameText.myUnitInfo.myViewRange	시야
+myGameText.myUnitInfo.mySpeed	이동속도
+myGameText.myUnitInfo.myWeaponRange	사정거리
+myGameText.myUnitBar.myTransporting	수송
+myGameText.myUnitBar.myTransported	수송중
+myGameText.myUnitBar.myInBuilding	건물안
+myGameText.myUnitBar.myInCover	잠복중
+myGameText.myUnitBar.myHoldingFire	사격금지중
+myGameText.myUnitBar.myRightClickDesc	<empty>
+myGameText.myPlayer.myPlayerCloseToLoosing	적팀이 다음 승리포인트를 공략하면 패배합니다
+myGameText.myPlayer.myPlayerLoosing	마지막 승리포인트가 함락직전입니다
+myGameText.myPlayer.myPlayerCloseToWinning	남은 하나의 승리포인트를 공략하면 승리입니다
+myGameText.myPlayer.myPlayerEntersGame	참전
+myGameText.myPlayer.myPlayerLeavesGame	전선이탈
+myGameText.myPlayer.myVictoryLocationTooltip	승리포인트
+myGameText.myPlayer.myLandingZoneTooltip	착륙지점
+myGameText.myPlayer.myDropshipAspectCost	%d전술지원포인트, %ds
+myGameText.myPlayer.myFrom	%s(으)로부터 : %s
+myGameText.myPlayer.myClient	클라이언트 : %s
+myGameText.myPlayer.myNewPrimaryObjective	새로운 기본목표
+myGameText.myPlayer.myNewSecondaryObjective	새로운 추가목표
+myGameText.myPlayer.myObjectiveCompletedString	클리어
+myGameText.myPlayer.myObjectiveCancelledString	취소되었습니다
+myGameText.myPlayer.myObjectiveFailedString	실패
+myGameText.myPlayer.myCurrentMissionText	현재미션 :  %s
+myGameText.myPlayer.myGiveTAMessage	%s(이)가 %s(에)게 전술지원포인트를 제공했습니다.(%i포인트를 제공)
+myGameText.myPlayer.myAlliedPlayerSwitchedRoleMessage	%s(이)가 병과를 %s(으)로 변경했습니다
+myGameText.myPlayer.mySelectTeamText	팀변경(현재팀 :  %s)
+myGameText.myPlayer.myMatchWaitingForPlayers	팀의 플레이어수가 갖춰질 때까지 대기중 : %s (%d/%d)－%s (%d/%d)
+myGameText.myPlayer.myMatchCountdownToStart	대전개시 준비중
+myGameText.myPlayer.myMatchWaitingForReady	아직 모든 플레이어가 준비를 하지 않았습니다
+myGameText.myPlayer.myReloadingResources	월드 인 컨플릭트를 다시 불러오고 있습니다. 잠시만 기다려 주세요...
+myGameText.myPlayer.myAdmin	|ADMIN|
+myGameText.myPlayer.myInstantMessageEventString	%s님에게서 인스턴트메시지가 도착했습니다.
+myGameText.myPlayer.myTeamBalancedMessage	팀의 인원수를 균등하게 하기 위해 다른 진영으로 강제이동되었습니다.
+myGameText.myPlayer.myFriendlyFireWarning	경고 : 우군을 공격하고 있습니다
+myGameText.myPlayer.myMapCycleMessage	맵사이클이 곧 시작됩니다. 잠시만 기다려 주세요.
+myGameText.myMissionStats.myColumn0	적군격파에 사용한 전술지원포인트치
+myGameText.myMissionStats.myColumn1	자군에 손실을 발생시킨 전술지원포인트치
+myGameText.myMissionStats.myColumn2	전술지원포인트에 따른 스코어
+myGameText.myMissionStats.myColumn3	토탈스코어
+myGameText.myMissionStats.myColumn4	유닛손실수
+myGameText.myMissionStats.myColumn5	유닛획득수
+myGameText.myMissionStats.myColumn6	적군격파에 사용한 전술지원포인트치
+myGameText.myMissionStats.myColumn7	가장 규모가 큰 군
+myGameText.myMissionStats.myColumn8	경험레벨
+myGameText.myMissionStats.myColumn9	격파스코어　
+myGameText.myMissionStats.myColumn10	수송스코어
+myGameText.myMissionStats.myColumn11	업그레이드에 사용한 전술지원포인트
+myGameText.myMissionStats.myColumn12	수송기 격파수
+myGameText.myMissionStats.myColumn13	수송기 손실수
+myGameText.myMissionStats.myColumn14	전장에서의 시간
+myGameText.myMissionStats.myColumn15	총 획득전술지원포인트수
+myGameText.myMissionStats.myColumn16	격파로 획득한 전술지원포인트
+myGameText.myMissionStats.myColumn17	영역제압으로 획득한 지원포인트
+myGameText.myMissionStats.myColumn18	그 외의 방법으로 획득한 전술지원포인트
+myGameText.myMissionStats.myColumn19	총 사용전술지원포인트치
+myGameText.myMissionStats.myColumn20	유닛소비
+myGameText.myMissionStats.myColumn21	수송기소비
+myGameText.myMissionStats.myColumn22	그 외의 소비
+myGameText.myMissionStats.myColumn23	보수정비에 사용한 전술지원포인트
+myGameText.myMissionStats.myName	이름
+myGameText.myMissionStats.myVictoryText	승리!
+myGameText.myMissionStats.myDefeatText	패배!
+myGameText.myMultiplayerFrontend.myDefaultGameName	새로운 게임
+myGameText.myMultiplayerFrontend.myDefaultPlayerName	<empty>
+myGameText.myMultiplayerFrontend.myTeamName	팀
+myGameText.myMultiplayerFrontend.myLobbySlotOpen	공개
+myGameText.myMultiplayerFrontend.myLobbySlotClosed	비공개
+myGameText.myMultiplayerFrontend.myLobbySlotAI	AI
+myGameText.myMultiplayerFrontend.myAllowDropin	참가자유
+myGameText.myMultiplayerFrontend.myNoUnits	유닛보급이 끊기면 패배
+myGameText.myMultiplayerFrontend.myNoPresence	맵상에 유닛이 전부 없어지면 패배
+myGameText.myMultiplayerFrontend.myNoLZ	강하지점이 없어지면 패배
+myGameText.myMultiplayerFrontend.myAllVL	승리포인트를 제압하면 승리
+myGameText.myMultiplayerFrontend.myIgnoreScripted	시나리오에 따른 승리를 무시
+myGameText.myMultiplayerFrontend.myTimeLimit	<empty>
+myGameText.myMultiplayerFrontend.myScoreLimit	스코어제한
+myGameText.myMultiplayerFrontend.myNoScoreLimit	스코어제한없음
+myGameText.myMultiplayerFrontend.myNoTimeLimit	시간제한없음
+myGameText.myMultiplayerFrontend.myGamenameHeader	게임명
+myGameText.myMultiplayerFrontend.myMapnameHeader	맵
+myGameText.myMultiplayerFrontend.myPasswordHeader	잠겨 있습니다
+myGameText.myMultiplayerFrontend.myGameStartedAgo	게임은 %d:%02d분 전에 시작했습니다.
+myGameText.myMultiplayerFrontend.myHostUnknownMap	호스트에서 당신이 갖고 있지 않은 맵을 선택했습니다
+myGameText.myMultiplayerFrontend.myDSEnRoute	강하위치로의 도착예정시각 : 
+myGameText.myMultiplayerFrontend.myCentSign	¢
+myGameText.myMultiplayerFrontend.myCargoSpace	카르고 스페이스 : 
+myGameText.myMultiplayerFrontend.myETAtoBase	기지로의 도착예정시각 : 
+myGameText.myMultiplayerFrontend.myGameMode	게임모드
+myGameText.myMultiplayerFrontend.myDomination	제압
+myGameText.myMultiplayerFrontend.myAssault	강습
+myGameText.myMultiplayerFrontend.myKingOfTheHill	킹 오브 더 힐
+myGameText.myMultiplayerFrontend.myPrisonerOfWar	프리즈너 오브 워
+myGameText.myMultiplayerFrontend.myUnknown	알 수 없음
+myGameText.myMultiplayerFrontend.myUnknownMap	알 수 없는 오류입니다.
+myGameText.myMultiplayerFrontend.myPlayers	플레이어
+myGameText.myMultiplayerFrontend.mySpectators	관전자
+myGameText.myMultiplayerFrontend.myRanked	랭크
+myGameText.myMultiplayerFrontend.myYes	네
+myGameText.myMultiplayerFrontend.myNo	아니오
+myGameText.myMultiplayerFrontend.myTimeLeft	남은 시간
+myGameText.myMultiplayerFrontend.myIpNumber	IP주소
+myGameText.myMultiplayerFrontend.myBotModeNone	봇없음
+myGameText.myMultiplayerFrontend.myBotModeAuto	자동으로 팀수균형 맞추기
+myGameText.myMultiplayerFrontend.myBotModePvsB	플레이어vs봇
+myGameText.myMultiplayerFrontend.myBotModeAdvanced	상급모드
+myGameText.myMultiplayerFrontend.myTugOfWar	공방전
+myGameText.myMultiplayerFrontend.myTeamDeathmatch	팀데스매치
+myGameText.myErrors.myServerConnectionLost	서버와의 접속이 끊어졌습니다.
+myGameText.myErrors.myErrorWhileLoading	미션을 불러오는 도중에 오류가 발생했습니다.
+myGameText.myErrors.myMissingMapError	찾을 수 없는 맵 : %s
+myGameText.myErrors.myMOSErrorOccured	접속오류가 발생해 Massgate와 접속이 끊어졌습니다.
+myGameText.myErrors.myTimeoutWhileConnecting	서버에 접속하는 도중 타임아웃이 발생했습니다.
+myGameText.myErrors.myFailedToConnectToServer	서버접속에 실패했습니다.
+myGameText.myErrors.myUnknownCommand	서버로부터 알 수 없는 커맨드를 수신했기 때문에 접속을 종료했습니다.
+myGameText.myErrors.myWrongVersion	서버접속에실패했습니다. 버전이 올바르지 않습니다.
+myGameText.myErrors.myServerFull	서버접속에 실패했습니다. 서버가 가득 찼습니다.
+myGameText.myErrors.myServerError	서버접속에 실패했습니다. 접속이 거부되었습니다(서버오류일 가능성이 있습니다).
+myGameText.myErrors.myNoUDP	서버접속에 실패했습니다. UDP접속을 확립하지 못했습니다.
+myGameText.myErrors.myGameClose	서버접속에 실패했습니다. 서버가 폐쇄되었습니다.
+myGameText.myErrors.myBindFailed	로컬포트접속에 실패했습니다. 접속을 완료하지 못했습니다.
+myGameText.myErrors.myConnectionLostMessage	서버와의 접속이 끊어졌습니다(%.0f초).
+myGameText.myErrors.myGeneralNetworkError	일반적인 네트워크오류가 발생했습니다.
+myGameText.myErrors.myHostShutdown	게임호스트가 게임을 종료했습니다.
+myGameText.myErrors.myDataErrorClient	서버와 같은 맵데이터를 소유하고 있지 않습니다.
+myGameText.myErrors.myDataErrorServer	%s(은)는 서버와 같은 맵데이터를 소유하고 있지 않습니다. 맵의 버전이 틀릴 가능성이 있습니다.
+myGameText.myErrors.myWrongPassword	서버접속에 실패했습니다. 패스워드가 올바르지 않습니다.
+myGameText.myErrors.myCamPosDebugInfoUploadFailed	서버로 버그레포트를 보내지 못했습니다
+myGameText.myErrors.myCamPosDebugInfoDownloadFailed	서버에서 버그레포트셋을 다운로드하지 못했습니다
+myGameText.myErrors.myCamPosDebugInfoDownloadCorrupted	다운로드한 버그레포트는 망가진 파일입니다.
+myGameText.myErrors.myDisconnectedIdleMessage	장시간 조작하지 않아 서버에서 단절되었습니다.
+myGameText.myErrors.myDisconnectedFriendlyFireMessage	우군에 대한 오사가 너무 많아 서버에서 단절되었습니다.
+myGameText.myErrors.myWarningSpamMessage	당신의 음성은 %i초간 음소거상태에 들어갑니다. 이유 : 스팸행위
+myGameText.myErrors.myWarningTeamBalanceMessage	자동팀밸런스기능이 활성되었습니다. %d의 팀밸런스는 강제적으로 결정됩니다
+myGameText.myErrors.myWarningTeamBalancedMessage	%s(이)가 상대팀으로 이동했습니다
+myGameText.myErrors.myDx9ToDx10	DirectX 9와 DirectX 10의 렌더링을 전환했습니다. 이 변경은 월드 인 컨플릭트를 다시 실행해야 적용됩니다
+myGameText.myErrors.myWarningRequestSpamMessage	다른 플레이어의 요청으로 당신의 음성은 %i초간 음소거상태에 들어갑니다.이유 : 스팸행위
+myGameText.myErrors.myBannedMessage	이 서버는 접근이 금지되어 있습니다.
+myGameText.myErrors.myDisconnectedKickMessage	투표결과, 추방되었습니다.
+myGameText.myErrors.myDisconnectedKickBanMessage_KickOnly	관리자에 의해 서버에서 추방되었습니다.\n이유 : %s
+myGameText.myErrors.myDisconnectedKickBanMessage_Indefinitely	관리자에 의해 현시간부로 서버접근이 금지되었습니다.\n이유 : %s
+myGameText.myErrors.myDisconnectedKickBanMessage	관리자에 의해 %u분간 서버접근이 금지되었습니다.\n이유 : %s
+myGameText.myOptions.MouseWheelUp	마우스휠을 위쪽으로
+myGameText.myOptions.MouseWheelDown	마우스휠을 아래쪽으로
+myGameText.myOptions.PressKey	<키를 누른다>
+myGameText.myOptions.FSAA_none	없음
+myGameText.myOptions.FSAA_2x	2x
+myGameText.myOptions.FSAA_4x	4x
+myGameText.myOptions.TexQual_low	낮음
+myGameText.myOptions.TexQual_med	중간
+myGameText.myOptions.TexQual_high	높음
+myGameText.myOptions.AF_none	없음
+myGameText.myOptions.AF_2x	2x
+myGameText.myOptions.AF_4x	4x
+myGameText.myOptions.AF_8x	8x
+myGameText.myOptions.AF_16x	16x
+myGameText.myOptions.Shad_none	끄기
+myGameText.myOptions.Shad_simple	(옵션사용불가)
+myGameText.myOptions.Shad_complex	켜기
+myGameText.myOptions.Refl_none	없음
+myGameText.myOptions.Refl_sky	하늘
+myGameText.myOptions.Refl_skyground	하늘/지면
+myGameText.myOptions.Refl_skygroundprops	하늘, 지면, 각종소도구
+myGameText.myOptions.Refl_all	모두
+myGameText.myOptions.PS_LOW	낮음
+myGameText.myOptions.PS_HIGH	높음
+myGameText.myOptions.TexSharp_veryblurry	애매모호하게
+myGameText.myOptions.TexSharp_blurry	모호하게
+myGameText.myOptions.TexSharp_normal	보통
+myGameText.myOptions.TexSharp_sharp	날카롭게
+myGameText.myOptions.TexSharp_verysharp	매우 날카롭게
+myGameText.myOptions.Subs_none	없음
+myGameText.myOptions.Subs_ingameonly	디폴트
+myGameText.myOptions.Subs_allcutscenes	모든 영상
+myGameText.myOptions.GraphicsDetail_Low	낮음
+myGameText.myOptions.GraphicsDetail_Med	중간
+myGameText.myOptions.GraphicsDetail_High	높음
+myGameText.myOptions.GraphicsDetail_VeryHigh	매우 높음
+myGameText.myOptions.GraphicsDetail_Custom	사용자 정의
+myGameText.myOptions.PhysicsDetail_Low	낮음
+myGameText.myOptions.PhysicsDetail_Med	중간
+myGameText.myOptions.PhysicsDetail_High	높음
+myGameText.myOptions.TQuality	텍스쳐품질
+myGameText.myOptions.WQuality	수면품질
+myGameText.myOptions.SQuality	그림자
+myGameText.myOptions.OODLevel	(옵션사용불가)
+myGameText.myOptions.FSAA	전체장면 안티앨리어싱
+myGameText.myOptions.Aniso	이방성필터링
+myGameText.myOptions.UnitTracks	유닛항적(航跡)
+myGameText.myOptions.Decals	지면소흔(燒痕)
+myGameText.myOptions.Autoprops	꽃/수풀
+myGameText.myOptions.HQTerrain	고품질지형
+myGameText.myOptions.WRClouds	수면에 구름반사
+myGameText.myOptions.WRUnits	수면에 유닛반사
+myGameText.myOptions.WRProps	수면에 소도구반사
+myGameText.myOptions.WREffects	수면에 특수효과반사
+myGameText.myOptions.WCrests	수위상승
+myGameText.myOptions.WTrails	수위하락
+myGameText.myOptions.Roads	도로
+myGameText.myOptions.Clouds	구름
+myGameText.myOptions.ZF	Z-Feather
+myGameText.myOptions.PostFX	포스트이펙트
+myGameText.myOptions.PostFXSS	소프트셰도우
+myGameText.myOptions.PostFXBloom	빛번짐효과
+myGameText.myOptions.PostFXHH	아지랑이
+myGameText.myOptions.TreeShad	나무 그림자
+myGameText.myOptions.VSync	VSync
+myGameText.myOptions.PS	픽셀셰이더
+myGameText.myOptions.RefreshRate	재생빈도
+myGameText.myOptions.FSAA_6x	6x
+myGameText.myOptions.FSAA_8x	8xCSAA
+myGameText.myOptions.FSAA_16x	16xCSAA
+myGameText.myOptions.MouseButton	마우스버튼
+myGameText.myOptions.PhysDetail	물리시뮬레이션품질
+myGameText.myOptions.TerrainTQuality	지형 텍스쳐품질
+myGameText.myOptions.TransAA	투명도 안티앨리어싱
+myGameText.myOptions.WRefSize	수면반사 크기
+myGameText.myOptions.TreeHQShad	고품질 트리셰이더
+myGameText.myOptions.MaxFPSNone	없음
+myGameText.myOptions.MaxFPS15	매초 15프레임
+myGameText.myOptions.MaxFPS20	20 FPS
+myGameText.myOptions.MaxFPS30	30 FPS
+myGameText.myOptions.MaxFPS	프레임레이트상한(저전력)
+myGameText.myOptions.ParticlePhys	입자 물리시뮬레이션
+myGameText.myOptions.Display_Adapter	디스플레이 어댑터
+myGameText.myOptions.DualScreen	제2화면에서 메가맵표시
+myGameText.myOptions.DX10Render	DirectX 10 렌더링사용
+myGameText.myOptions.ObjectLODLevel	원경 디테일
+myGameText.myOptions.MeshLODLevel	애니메이션 품질
+myGameText.myOptions.GraphicsDetail_VeryLow	매우 낮음
+myGameText.myOptions.UseHighestLod	최고레벨 기하학연산처리
+myGameText.myOptions.RenderWindows	건물 창
+myGameText.myOptions.RenderDetails	오브젝트 추가디테일
+myGameText.myOptions.QuadCoreLineOfSight	광경 고해상도화
+myGameText.myOptions.QuadCoreWind	바람재현 고도화
+myGameText.myOptions.CloudShadows	구름 그림자
+myGameText.myOptions.UITexQual	UI텍스쳐품질
+myGameText.myOptions.Compressed	압축
+myGameText.myOptions.Uncompressed	비압축
+myGameText.myOptions.Grass	풀
+myGameText.myOptions.Craters	지면 패임정도
+myGameText.myOptions.VeryShort	매우 짧게
+myGameText.myOptions.Short	짧게
+myGameText.myOptions.Medium	중간
+myGameText.myOptions.Long	길게
+myGameText.myOptions.VeryLong	매우 길게
+myGameText.myOptions.UnitTracksLength	유닛 궤적길이
+myGameText.myOptions.UseWreckFx	파괴Fx
+myGameText.myOptions.DX9ToDX10	DirectX 9와 DirectX 10의 전환을 실시했습니다. 이 변경은 월드 인 컨플릭트를 다시 시작해야 적용됩니다.
+myGameText.myOptions.MulticoreExplosionDebris	폭발시 비산물추가
+myGameText.myContentDownload.myAvailableFiles	입수가능한 파일
+myGameText.myContentDownload.mySelectedFiles	선택한 파일
+myGameText.myContentDownload.mySize	크기
+myGameText.myContentDownload.myStatusGettingFileList	파일리스트를 가져오는 중
+myGameText.myContentDownload.myStatusDownloadStarting	다운로드시작중
+myGameText.myContentDownload.myStatusDownloadingFile	파일 “%s”(을)를 다운로드중
+myGameText.myContentDownload.myErrorDownloadingFile	파일 “%s”(을)를 다운로드중에 오류발생
+myGameText.myContentDownload.myDownloadComplete	다운로드가 완료되었습니다. 다운로드한 파일을 사용하려면 다시 시작해야 합니다.
+myGameText.myContentDownload.myTimeout	파일을 다운로드하는 도중에 타임아웃이 발생했습니다. 서버와의 접속이 회복할 가능성은 있습니다. [중단]을 클릭하면 다운로드가 중지됩니다.
+myGameText.myStrategicMap.myTaunt1	마음에 드셨나?
+myGameText.myStrategicMap.myTaunt2	그런 공격은 효과없다
+myGameText.myStrategicMap.myTaunt3	젠장...
+myGameText.myStrategicMap.myTaunt4	이 빚은 반드시 갚아주마! 방심하지 마라...
+myGameText.myStrategicMap.myWarnInf	%s(이)가 %s%s영역의 보병부대를 경고
+myGameText.myStrategicMap.myWarnArmor	%s(이)가 %s%s영역의 기갑부대를 경고
+myGameText.myStrategicMap.myWarnAir	%s(이)가 %s%s영역에 접근중인 적항공기를 경고
+myGameText.myStrategicMap.myWarnArty	%s(이)가 %s%s영역의 포격을 경고
+myGameText.myStrategicMap.myTacticsAA	%s(은)는 %s%s영역에서 대공부대가 필요
+myGameText.myStrategicMap.myTacticsArmor	%s(은)는 %s%s영역에서 기갑부대가 필요
+myGameText.myStrategicMap.myTacticsRepair	%s(은)는 %s%s영역에서 수리가 필요
+myGameText.myStrategicMap.myTacticsArty	%s(은)는 %s%s영역에서 화력지원이 필요
+myGameText.myStrategicMap.myStrategyBridge	%s : %s%s에 다리가 필요하다
+myGameText.myStrategicMap.myStrategyClearForest	%s : %s%s에서 숲을 일소해라
+myGameText.myStrategicMap.myStrategyAttack	여길 공격해 줘!
+myGameText.myStrategicMap.myStrategyDefend	여길 방어한다
+myGameText.myStrategicMap.myAcceptRequest	%s(이)가 요청을 받아들였습니다
+myGameText.myStrategicMapRequestToolTips.myTauntTip	도발
+myGameText.myStrategicMapRequestToolTips.myWarnTip	경고
+myGameText.myStrategicMapRequestToolTips.myTacticsTip	전술
+myGameText.myStrategicMapRequestToolTips.myStrategiesTip	전략
+myGameText.myStrategicMapRequestToolTips.myTaunt1Tip	마음에 드셨나?
+myGameText.myStrategicMapRequestToolTips.myTaunt2Tip	그런 공격은 효과없다
+myGameText.myStrategicMapRequestToolTips.myTaunt3Tip	젠장...
+myGameText.myStrategicMapRequestToolTips.myTaunt4Tip	이 빚은 반드시 갚아주마!
+myGameText.myStrategicMapRequestToolTips.myWarnInfTip	보병공격 경고
+myGameText.myStrategicMapRequestToolTips.myWarnArmorTip	기갑공격 경고
+myGameText.myStrategicMapRequestToolTips.myWarnAirTip	항공공격 경고
+myGameText.myStrategicMapRequestToolTips.myWarnArtyTip	대포공격 경고
+myGameText.myStrategicMapRequestToolTips.myTacAATip	대공부대 요청
+myGameText.myStrategicMapRequestToolTips.myTacArmorTip	기갑부대 요청
+myGameText.myStrategicMapRequestToolTips.myTacRepairsTip	수리 요청
+myGameText.myStrategicMapRequestToolTips.myTacArtyTip	포병대 요청
+myGameText.myStrategicMapRequestToolTips.myStratBridgeTip	다리건조 요청
+myGameText.myStrategicMapRequestToolTips.myStratForestTip	숲파괴 요청
+myGameText.myStrategicMapRequestToolTips.myStratAttackTip	공격 요청
+myGameText.myStrategicMapRequestToolTips.myStratDefendTip	방어 요청
+myGameText.myGameMode.myAssaultFirstRoundStart	강습전 제1라운드가 시작합니다!
+myGameText.myGameMode.myAssaultSecondRoundStart	강습전 제2라운드가 시작합니다!
+myGameText.myGameMode.myAssaultRoundOneOver	강습전 제1라운드가 종료되었습니다.
+myGameText.myGameMode.myAssaultGameOver	강습전 종료.
+myGameText.myGameMode.myDominatingWin	완전히 제압할 듯 합니다. 승리가 눈앞입니다!
+myGameText.myGameMode.myDominatingLose	완전히 제압될 듯 합니다. 패배가 눈앞입니다!
+myGameText.myGameMode.myKingStart	킹 오브 더 힐이 시작됩니다!
+myGameText.myGameMode.myKingGo	킹 오브 더 힐 시작!
+myGameText.myGameMode.myKing10Seconds	킹 오브 더 힐이 10초후에 시작됩니다!
+myGameText.myGameMode.myAssaultRound1AttackHeading	1회전‐당신은 공격측입니다
+myGameText.myGameMode.myAssaultRound1DefendHeading	1회전‐당신은 방어측입니다
+myGameText.myGameMode.myAssaultRound2AttackHeading	2회전‐당신은 공격측입니다
+myGameText.myGameMode.myAssaultRound2DefendHeading	2회전‐당신은 방어측입니다
+myGameText.myGameMode.myAssaultAttackText	각 전략거점을 되도록이면 짧은 시간에 공략해 주세요!
+myGameText.myGameMode.myAssaultDefendText	각 전략거점을 적의 공격에서 방어해 주세요
+myGameText.myChatCommandTriggers.myChatTrigger	say(채팅)
+myGameText.myChatCommandTriggers.myChatHelp	/say, 사용방법 :  /say 플레이어전원에게 채팅메시지를 보냅니다!
+myGameText.myChatCommandTriggers.myTeamChatTrigger	팀
+myGameText.myChatCommandTriggers.myTeamChatHelp	/team, 사용방법 : /team 팀메이트에게 채팅메시지를 보냅니다!
+myGameText.myChatCommandTriggers.myWhisperTrigger1	whisper(비공개채팅)
+myGameText.myChatCommandTriggers.myWhisperTrigger2	w
+myGameText.myChatCommandTriggers.myWhisperHelp	/whisper, /w 사용방법 :  /w 플레이어이름 다른 플레이어에게 비공개채팅메시지를 보냅니다!
+myGameText.myChatCommandTriggers.myWhisperPlayerDoesNotExist	지정한 플레이어가 존재하지 않습니다
+myGameText.myChatCommandTriggers.myWhisperSentToPlayerName	%s에게 : %s
+myGameText.myChatCommandTriggers.myHelpTrigger	도움말
+myGameText.myChatCommandTriggers.myHelpHelp	이용가능한 시스템커맨드 : \n/help, /quit, /say, /team, /whisper.\n복수의 커맨드를 help와 조합할 수 있습니다(예시 : /quit help).
+myGameText.myChatCommandTriggers.myQuitTrigger	종료
+myGameText.myChatCommandTriggers.myQuitHelp	/quit. 추가가능한 커맨드 : menu(/quit menu로 게임을 종료하는 대신에 메뉴로 이동합니다)
+myGameText.myChatCommandTriggers.myQuitAdditionalCommandMenu	메뉴
+myGameText.myChatCommandTriggers.myEETrigger_DoNotTranslate	fussball커맨드
+myGameText.myChatCommandTriggers.myEEHelp	개발팀에서 큰 사랑을 담아.
+myGameText.myChatCommandTexts.myOptionalHelpString	도움말
+myGameText.myChatCommandTexts.myNoCommandProvidedString	커맨드가 입력되지 않습니다. /help를 입력하면 이용가능한 커맨드를 확인할 수 있습니다.
+myGameText.myChatCommandTexts.myUsageString	사용방법 :  %s
+myGameText.myChatCommandTexts.myFailedToExecuteCommandString	커맨드/%s의 실행에 실패했습니다
+myGameText.myChatCommandTexts.myInvalidCommandString	/%s(은)는 없는 커맨드입니다
+myGameText.myServerMessages.myShutdownWarningMins	이 서버는 %d분후에 종료됩니다.
+myGameText.myServerMessages.myShutdownWarningSecs	이 서버는 %d초후에 종료됩니다.
+myGameText.myServerMessages.myStatsReported	Massgate에 성적이 보고되었습니다.
+myGameText.myServerMessages.myStatsPlayLonger	플레이시간이 짧아 성적은 Massgate에 보고되지 않았습니다.
+myGameText.myServerMessages.myStatsNotRanked	비랭크서버이기 때문에 Massgate에 성적은 보고되지 않았습니다.
+myGameText.myServerMessages.myRankedModeSet	서버는 다음 맵사이클후에 랭크별로 바뀝니다.
+myGameText.myServerMessages.myRankedModeUnset	이 서버는 비랭크서버이기 때문에 Massgate에 성적은 보고되지 않습니다.
+myGameText.myVoteMessages.myVoteYes	찬성에 투표했습니다.
+myGameText.myVoteMessages.myVoteNo	반대에 투표했습니다.
+myGameText.myVoteMessages.myVoteEndedYes	투표결과는 찬성.
+myGameText.myVoteMessages.myVoteEndedNo	 투표결과는 반대.
+myGameText.myVoteMessages.myVoteHelpText	(%s(을)를 누르면 찬성, %s(을)를 누르면 반대에 투표합니다.)
+myGameText.myVoteMessages.myVoteStatsText	찬성률 : %d%% (%d명이 투표 [총 %d명])
+myGameText.myVoteMessages.myVoteLayoutHasVoted	%s\n%s
+myGameText.myVoteMessages.myVoteLayoutHasNotVoted	%s\n%s %s
+myGameText.myVoteMessages.myVoteNoSpectating	관리자 %s의 결정 : 관전을 할 수 없습니다.
+myGameText.myVoteMessages.myVoteLockFreeSpec	관리자 %s의 결정 : 모든 관전을 할 수 없습니다.
+myGameText.myVoteMessages.myVoteLockTeamFromSpec	관리자%s의 결정 : 팀 %s의 관전을 할 수 없습니다.
+myGameText.myVoteMessages.myVoteLockChatFromSpec	%s(이)가 투표 제기 : 관전자의 채팅을 금지할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteUnlockChatFromSpec	%s(이)가 투표 제기 : 관전자의 채팅을 해제할지투표해 주세요.
+myGameText.myVoteMessages.myVoteLockTeams	관리자 %s의 결정 : 팀을 잠궜습니다.
+myGameText.myVoteMessages.myVoteUnlockTeams	관리자 %s의 결정 : 팀의 잠금설정을 해제했습니다.
+myGameText.myVoteMessages.myVoteKickClientFromServer	%s(이)가 투표 제기 : %s(을)를 추방할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteKickClientFromTeam	%s(이)가 투표 제기 : %s(을)를 팀에서 배제할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteChangeMap	%s(이)가 투표 제기 : 맵을 %s(으)로 변경할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteTimeLimit	%s(이)가 투표 제기 : 시간을 %i분으로 변경할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteInvitePlayer	%s(이)가 투표 제기 : %s(을)를 팀에게 권유할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteSetMatchMode	관리자 %s의 결정 : 대전모드를 유효처리하고, 맵을 다시 시작합니다.
+myGameText.myVoteMessages.myVoteExitMatchMode	관리자 %s의 결정 : 대전모드를 무효처리하고, 맵을 다시 시작합니다.
+myGameText.myVoteMessages.myVoteServerGameOver	%s(이)가 투표 제기 : 게임을 종료할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteAllowSpectating	관리자 %s의 결정 : 관전을 허가했습니다.
+myGameText.myVoteMessages.myVoteAllowFreeSpec	관리자 %s의 결정 : 전원의 관전을 허가했습니다.
+myGameText.myVoteMessages.myVoteUnlockTeamFromSpec	관리자 %s의 결정 : 팀 %s의 관전을 허가했습니다.
+myGameText.myVoteMessages.myVoteSetClanMatch	%s(이)가 투표 제기 : 클랜전을 설정할지 투표해 주세요.
+myGameText.myVoteMessages.myVoteKickBanFromServer	관리자 %s의 결정 : %s(을)를 서버에 넣지않게 했습니다.
+myGameText.myVoteMessages.myVoteKickBanFromServer_KickOnly	관리자 %s의 결정 : %s(을)를 서버에서 추방했습니다.
+myGameText.myVoteMessages.myVoteInProgress	다른 튜표가 현재 진행되고 있으므로 새로 투표를 제기할 수 없습니다.
+myGameText.myVoteMessages.myVoteTooFewVoteEntitled	양팀의 참가인원이 %d명 이하일 경우는 새로 투표를 제기할 수 없습니다.
+myGameText.myVoteMessages.myVoteCooldownInProgress	막 투표를 시작했기 때문에 %d초가 지날 때까지 새로 투표를 제기할 수 없습니다.
+myGameText.myVoteMessages.myVoteMapNotFound	알 수 없는 맵
+myGameText.myVoteMessages.myVotePause	관리자에 의한 일시정지
+myGameText.myVoteMessages.myVoteResume	관리자에 의한 게임재개
+myGameText.myMinimap.myDirectionNorth	N
+myGameText.myMinimap.myDirectionEast	E
+myGameText.myMinimap.myDirectionSouth	S
+myGameText.myMinimap.myDirectionWest	W
+myGameText.myInformationBoxes.myPaletteStop.myHeadline	정지
+myGameText.myInformationBoxes.myPaletteStop.myDescription	선택한 유닛에게 정지명령을 하달합니다.
+myGameText.myInformationBoxes.myPaletteMove.myHeadline	이동
+myGameText.myInformationBoxes.myPaletteMove.myDescription	선택한 유닛에게 이동명령을 하달합니다.
+myGameText.myInformationBoxes.myPaletteMoveBackwards.myHeadline	후퇴
+myGameText.myInformationBoxes.myPaletteMoveBackwards.myDescription	후퇴명령을 하달합니다.\n\n전선의 기갑부대를 적에게 등을 보이지 않고 이동시킵니다.
+myGameText.myInformationBoxes.myPaletteUnloadAll.myHeadline	하차
+myGameText.myInformationBoxes.myPaletteUnloadAll.myDescription	선택한 수송차(기)와 건물에서 모든 보병을 하차시킵니다.
+myGameText.myInformationBoxes.myPaletteHoldFire.myHeadline	사격금지
+myGameText.myInformationBoxes.myPaletteHoldFire.myDescription	사격금지 전환을 실시합니다. \n\n충전시간관리에 세세한 도움이 됩니다.
+myGameText.myInformationBoxes.myPaletteAttackGround.myHeadline	대지공격
+myGameText.myInformationBoxes.myPaletteAttackGround.myDescription	선택한 위치로 포격합니다. \n\n포병유닛의 효과적인 이용에 빠지지 않는 커맨드입니다.
+myGameText.myInformationBoxes.myPaletteRepair.myHeadline	수리
+myGameText.myInformationBoxes.myPaletteRepair.myDescription	아군유닛 하나를 수리하도록 명령합니다.
+myGameText.myInformationBoxes.myPaletteStack.myHeadline	경유점
+myGameText.myInformationBoxes.myPaletteStack.myDescription	복수의 경유점을 통과하는 이동명령을 하달합니다.
+myGameText.myInformationBoxes.myPaletteFollow.myHeadline	유닛과 동행
+myGameText.myInformationBoxes.myPaletteFollow.myDescription	하나 또는 복수의 유닛을 특정유닛과 동행시킵니다.
+myGameText.myInformationBoxes.myPaletteEnterTransport.myHeadline	가까운 수송차(기)에 타기
+myGameText.myInformationBoxes.myPaletteEnterTransport.myDescription	선택한 보병이 근처의 비어 있는 수송차로 들어갑니다.
+myGameText.myInformationBoxes.myPaletteEnterBuilding.myHeadline	가까운 건물에 들어가기
+myGameText.myInformationBoxes.myPaletteEnterBuilding.myDescription	선택한 보병이 근처의 비어 있는 건물로 들어갑니다.
+myGameText.myInformationBoxes.myAbilityNext.myHeadline	다음 특수능력
+myGameText.myInformationBoxes.myAbilityNext.myDescription	선택중인 유닛중에서 다음 유닛타입의 특수능력을 표시합니다.
+myGameText.myInformationBoxes.myAbilityCurrent.myHeadline	유닛타입별 능력
+myGameText.myInformationBoxes.myAbilityCurrent.myDescription	선택한 유닛중에서 현재특수능력이 표시되고 있는 유닛타입입니다.
+myGameText.myInformationBoxes.myAbilityPrev.myHeadline	이전 특수능력
+myGameText.myInformationBoxes.myAbilityPrev.myDescription	선택한 유닛중에서 이전 유닛타입의 특수능력을 표시합니다.
+myGameText.myInformationBoxes.myResupply.myHeadline	분대보충
+myGameText.myInformationBoxes.myResupply.myDescription	보병분대의 결원을 모두 보충합니다.\n\n증원포인트를 소비합니다.
+myGameText.myInformationBoxes.myMiniMapContacts.myHeadline	연락처
+myGameText.myInformationBoxes.myMiniMapContacts.myDescription	Massgate의 연락처를 표시합니다.
+myGameText.myInformationBoxes.myMiniMapObjectives.myHeadline	목표
+myGameText.myInformationBoxes.myMiniMapObjectives.myDescription	현재목표를 표시합니다.
+myGameText.myInformationBoxes.myMiniMapSwapUnitGroup.myHeadline	유닛그룹전환
+myGameText.myInformationBoxes.myMiniMapSwapUnitGroup.myDescription	전장에 흩어져 있는 유닛을 순차적으로 표시합니다.
+myGameText.myInformationBoxes.myMiniMapGoToDropZone.myHeadline	강하지점으로 이동
+myGameText.myInformationBoxes.myMiniMapGoToDropZone.myDescription	카메라를 자신의 강하지점으로 이동합니다.\n\n우클릭으로 가장 최근에 투하된 유닛을 선택할 수 있습니다.
+myGameText.myInformationBoxes.myMiniMapHelp.myHeadline	도움말
+myGameText.myInformationBoxes.myMiniMapHelp.myDescription	도움말화면을 표시합니다.
+myGameText.myInformationBoxes.myMiniMapSelectTeam.myHeadline	팀변경
+myGameText.myInformationBoxes.myMiniMapSelectTeam.myDescription	자신이 플레이하는 팀을 변경합니다. \n\n<#f00>팀을 변경하면 현재 사용중인 유닛은 전부 잃게 됩니다.</>
+myGameText.myInformationBoxes.myMiniMapToggleFormation.myHeadline	대형전환
+myGameText.myInformationBoxes.myMiniMapToggleFormation.myDescription	다른 이동대형으로 전환합니다.
+myGameText.myInformationBoxes.myMiniMapZoomIn.myHeadline	줌인
+myGameText.myInformationBoxes.myMiniMapZoomIn.myDescription	미니맵에서 줌인
+myGameText.myInformationBoxes.myMiniMapZoomOut.myHeadline	줌아웃
+myGameText.myInformationBoxes.myMiniMapZoomOut.myDescription	미니맵에서 줌아웃
+myGameText.myInformationBoxes.myMiniMapMegaMapToggle.myHeadline	메가맵전환
+myGameText.myInformationBoxes.myMiniMapMegaMapToggle.myDescription	전장전체를 내려다 보는 전략도를 표시합니다.
+myGameText.myInformationBoxes.myMiniMapDisband.myHeadline	선택유닛해산
+myGameText.myInformationBoxes.myMiniMapDisband.myDescription	<#f00>선택한 유닛을 전장에서 철수시킵니다.</>\n\n철수한 유닛포인트는 추가중인 증원포인트에 가산되고 재입수할 수 있습니다.
+myGameText.myInformationBoxes.myTAToggle.myHeadline	전술지원메뉴
+myGameText.myInformationBoxes.myTAToggle.myDescription	여기서는 맵밖에서의 지원을 요청할 수 있습니다.
+myGameText.myInformationBoxes.myTAPoints.myHeadline	전술지원포인트
+myGameText.myInformationBoxes.myTAPoints.myDescription	현재의 총 전술지원포인트수입니다.\n\n이 포인트를 소비하면 맵밖에서 각종지원을 요청할 수 있습니다.
+myGameText.myInformationBoxes.myTAProgress.myHeadline	전술지원과정
+myGameText.myInformationBoxes.myTAProgress.myDescription	다음 전술지원포인트가 완전히 회복할 때까지의 과정을 표시합니다.
+myGameText.myInformationBoxes.myTACategory0.myHeadline	비파괴
+myGameText.myInformationBoxes.myTACategory0.myDescription	도움이 되는 비파괴형 전술지원의 일람입니다.
+myGameText.myInformationBoxes.myTACategory1.myHeadline	선택적공격
+myGameText.myInformationBoxes.myTACategory1.myDescription	특정한 표적을 격파하기 위한 전술지원입니다.
+myGameText.myInformationBoxes.myTACategory2.myHeadline	무차별공격
+myGameText.myInformationBoxes.myTACategory2.myDescription	적과 아군을 구별않고 효과범위전체를 공격하는 파괴형 전술지원입니다.
+myGameText.myInformationBoxes.myReinforcementToggle.myHeadline	증원메뉴
+myGameText.myInformationBoxes.myReinforcementToggle.myDescription	여기서는 유닛요청및 담당병과와 팀을 변경할 수 있습니다.
+myGameText.myInformationBoxes.myReinforcementPoints.myHeadline	증원포인트
+myGameText.myInformationBoxes.myReinforcementPoints.myDescription	좌측의 숫자는 현재 총포인트수를 표시하고 있습니다.\n\n우측의 숫자는 현재 추가중인 포인트수를 표시하고 있습니다.
+myGameText.myInformationBoxes.myReinforcementPointsPenalty.myHeadline	증원포인트
+myGameText.myInformationBoxes.myReinforcementPointsPenalty.myDescription	<#f00>증원포인트에 대한 밸런스에 따른 페널티가 부과되고 있습니다.</>\n\n좌측의 숫자가 당신의 현재 총포인트수입니다.\n\n우측의 숫자가 추가되는 포인트수입니다.
+myGameText.myInformationBoxes.myBalancePenalty.myHeadline	밸런스에 따른 페널티
+myGameText.myInformationBoxes.myBalancePenalty.myDescription	순위가 높은 팀에 참가했기 때문에 현재 증원포인트에 대한 페널티가 부과되고 있습니다.\n\n팀간 밸런스가 좋아지면  이 페널티는 감소합니다.
+myGameText.myInformationBoxes.myReinforcementProgressIn.myHeadline	수송기 도착
+myGameText.myInformationBoxes.myReinforcementProgressIn.myDescription	유닛도착까지 걸리는 시간입니다.
+myGameText.myInformationBoxes.myReinforcementProgressOut.myHeadline	수송기 귀환
+myGameText.myInformationBoxes.myReinforcementProgressOut.myDescription	수송기가 기지로 귀환할 때까지의 시간입니다. 귀환하면 새로운 유닛을 요청할 수 있습니다.
+myGameText.myInformationBoxes.myReinforcementDeploy.myHeadline	유닛 배치
+myGameText.myInformationBoxes.myReinforcementDeploy.myDescription	선택한 유닛을 배치합니다.
+myGameText.myInformationBoxes.myReinforcementSetDropZone.myHeadline	강하지점 변경
+myGameText.myInformationBoxes.myReinforcementSetDropZone.myDescription	강하지점을 다른 장소로 옮깁니다.
+myGameText.myInformationBoxes.myReinforcementChangeRole.myHeadline	병과변경
+myGameText.myInformationBoxes.myReinforcementChangeRole.myDescription	병과를 변경하면 포인트환급외에 다른 유닛도 선택할 수 있게 됩니다.\n\n<#f00>병과를 변경하면 현재 유닛은 전부 잃게 됩니다.</>
+myGameText.myInformationBoxes.myReinforcementRoleArmor.myHeadline	기갑<#f00>(미담당)</>
+myGameText.myInformationBoxes.myReinforcementRoleArmor.myDescription	기갑병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleArmorActive.myHeadline	기갑(담당병과)
+myGameText.myInformationBoxes.myReinforcementRoleArmorActive.myDescription	기갑병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleArmorFPM.myHeadline	기갑
+myGameText.myInformationBoxes.myReinforcementRoleArmorFPM.myDescription	기갑유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleInfantry.myHeadline	보병 <#f00>(미담당)</>
+myGameText.myInformationBoxes.myReinforcementRoleInfantry.myDescription	보병병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleInfantryActive.myHeadline	보병(담당병과)
+myGameText.myInformationBoxes.myReinforcementRoleInfantryActive.myDescription	보병병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleInfantryFPM.myHeadline	보병
+myGameText.myInformationBoxes.myReinforcementRoleInfantryFPM.myDescription	보병유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleAir.myHeadline	항공 <#f00>(미담당)</>
+myGameText.myInformationBoxes.myReinforcementRoleAir.myDescription	항공병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleAirActive.myHeadline	항공(담당병과)
+myGameText.myInformationBoxes.myReinforcementRoleAirActive.myDescription	항공병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleAirFPM.myHeadline	항공
+myGameText.myInformationBoxes.myReinforcementRoleAirFPM.myDescription	항공유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleSupport.myHeadline	지원 <#f00>(미담당)</>
+myGameText.myInformationBoxes.myReinforcementRoleSupport.myDescription	지원병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleSupportActive.myHeadline	지원(담당병과)
+myGameText.myInformationBoxes.myReinforcementRoleSupportActive.myDescription	지원병과플레이어고유의 유닛을 포함합니다.
+myGameText.myInformationBoxes.myReinforcementRoleSupportFPM.myHeadline	지원
+myGameText.myInformationBoxes.myReinforcementRoleSupportFPM.myDescription	지원유닛을 포함합니다.
+myGameText.myInformationBoxes.myDominationBarFlags.myHeadline	팀 제압전
+myGameText.myInformationBoxes.myDominationBarFlags.myDescription	우세한 팀의 깃발이 막대를 점령합니다.
+myGameText.myInformationBoxes.myDominationBarLeftPush.myHeadline	아군 세력
+myGameText.myInformationBoxes.myDominationBarLeftPush.myDescription	여기에 포시되는 화살표는 얼마만큼 적보다 많은 주변거점을 제압하고 있는지 표시하고 있습니다.\n\n화살표의 수가 증가하면 승리에 가속도가 붙습니다.
+myGameText.myInformationBoxes.myDominationBarRightPush.myHeadline	적 세력
+myGameText.myInformationBoxes.myDominationBarRightPush.myDescription	여기에 표시되는 화살표는 얼마만큼 적보다 많은 주변거점을 제압하고 있는지 표시하고 있습니다.\n\n화살표의 수가 증가하면 승리에 가속도가 붙습니다.
+myGameText.myInformationBoxes.myDominationBarTimeLeft.myHeadline	대전시간
+myGameText.myInformationBoxes.myDominationBarTimeLeft.myDescription	현재 라운드의 남은 시간입니다.
+myGameText.myInformationBoxes.myAssultBarTimeLeft.myHeadline	대전시간
+myGameText.myInformationBoxes.myAssultBarTimeLeft.myDescription	현재 대전의 남은 시간입니다.
+myGameText.myInformationBoxes.mySelectSquad.myHeadline	분대 %u
+myGameText.myInformationBoxes.mySelectSquad.myDescription	클릭하면 %u분대의 전유닛이 선택됩니다.\n\n더블클릭하면 카메라가 분대로 이동합니다.
+myGameText.myPopupBoxes.myResetDefaults.myHeadline	디폴트 재설정
+myGameText.myPopupBoxes.myResetDefaults.myDescription	디폴트세팅을 리셋하겠습니까?
+myGameText.myPopupBoxes.myRevert.myHeadline	복원
+myGameText.myPopupBoxes.myRevert.myDescription	오리지날설정으로 돌아 가겠습니까
+myGameText.myPopupBoxes.myDeleteReplay.myHeadline	리플레이 삭제
+myGameText.myPopupBoxes.myDeleteReplay.myDescription	이 리플레이를 삭제하겠습니까?
+myGameText.myPopupBoxes.myDeleteSavedGame.myHeadline	저장된 게임 삭제
+myGameText.myPopupBoxes.myDeleteSavedGame.myDescription	저장된 게임을 삭제하겠습니까?
+myGameText.myPopupBoxes.myDeleteCurrentCampaignSave.myHeadline	저장된 게임 삭제
+myGameText.myPopupBoxes.myDeleteCurrentCampaignSave.myDescription	이 저장파일은 현재 불러온 캠페인데이터를 포함하고 있습니다. 삭제할 수 없습니다.
+myGameText.myPopupBoxes.myOverwriteSavedGame.myHeadline	저장한 게임을 덮어쓰기
+myGameText.myPopupBoxes.myOverwriteSavedGame.myDescription	지정한 이름은 이미 존재합니다. 덮어 쓰겠습니까?
+myGameText.myPopupBoxes.myOverwriteCampaign.myHeadline	캠페인 덮어쓰기
+myGameText.myPopupBoxes.myOverwriteCampaign.myDescription	지정한 캠페인명은 이미 존재합니다. 덮어 쓰겠습니까?
+myGameText.myPopupBoxes.myRestartMap.myHeadline	맵 다시 하기
+myGameText.myPopupBoxes.myRestartMap.myDescription	정말로 이 미션을 재시작하겠습니까?
+myGameText.myPopupBoxes.myVoipMicWarning.myHeadline	음성채팅
+myGameText.myPopupBoxes.myVoipMicWarning.myDescription	음성입력에 마이크가 선택되어 있지 않아 음성채팅이 정상적으로 작동하지 않을 가능성이 있습니다. Windows의 음성설정을 확인해 주세요.
+myGameText.myPopupBoxes.myStartTutorial.myHeadline	튜토리얼 시작
+myGameText.myPopupBoxes.myStartTutorial.myDescription	튜토리얼을 시작합니다.
+myGameText.myPopupBoxes.myResumeCampaign.myHeadline	캠페인 시작
+myGameText.myPopupBoxes.myResumeCampaign.myDescription	실행중인 캠페인을 시작합니다.
+myGameText.myPopupBoxes.myExitConfirmation.myHeadline	윈도우화면으로 돌아갑니다
+myGameText.myPopupBoxes.myExitConfirmation.myDescription	월드 인 컨플릭트를 종료합니다.
+myGameText.myPopupBoxes.myExitToMenuConfirmation.myHeadline	메인메뉴로 돌아갑니다
+myGameText.myPopupBoxes.myExitToMenuConfirmation.myDescription	메인메뉴로 돌아갑니다.
+myGameText.myPopupBoxes.myFirstRunTutorial.myHeadline	튜토리얼 시작
+myGameText.myPopupBoxes.myFirstRunTutorial.myDescription	이 게임을 처음 플레이한다면 튜토리얼부터 시작하길 권합니다. 지금 바로 튜토리얼을 시작하겠습니까?
+myGameText.myPopupBoxes.myNoChangeTeamLeft.myHeadline	팀 변경횟수가 상한에 도달했습니다
+myGameText.myPopupBoxes.myNoChangeTeamLeft.myDescription	이 대전에서는 더 이상 팀을 변경할 수 없습니다!
+myGameText.myHelpBoxes.myFollowOrder.myLeftHandedDescription	우클릭하면 그 유닛을 추적합니다. 좌클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myFollowOrder.myRightHandedDescription	좌클릭하면 그 유닛을 추적합니다. 우클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myStackOrder.myLeftHandedDescription	지면을 좌클릭하면 연속으로 이동명령을 하달할 수 있습니다. 우클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myStackOrder.myRightHandedDescription	지면을 우클릭하면 연속으로 이동명령을 하달할 수 있습니다. 좌클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myForceAttackOrder.myLeftHandedDescription	우클릭으로 대지공격을 실시합니다.
+myGameText.myHelpBoxes.myForceAttackOrder.myRightHandedDescription	좌클릭으로 대지공격을 실시합니다.
+myGameText.myHelpBoxes.mySetDropzoneOrder.myLeftHandedDescription	점멸하고 있는 영역를 우클릭하면 강하지점을 설정할 수 있습니다. 좌클릭하면 취소됩니다.
+myGameText.myHelpBoxes.mySetDropzoneOrder.myRightHandedDescription	점멸하고 있는 영역를 좌클릭하면 강하지점을 설정할 수 있습니다. 우클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myRepairOrder.myLeftHandedDescription	우클릭하면 그 유닛을 수리합니다. 좌클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myRepairOrder.myRightHandedDescription	수리할 유닛을 좌클릭합니다. 우클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myLayBridgeOrder.myLeftHandedDescription	강변을 우클릭하면 다리를 구축할 수 있습니다. 좌클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myLayBridgeOrder.myRightHandedDescription	강변을 좌클릭하면 다리를 구축할 수 있습니다. 우클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myPlaceRequestOrder.myLeftHandedDescription	우클릭하면 선택한 요청이 배치됩니다. 좌클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myPlaceRequestOrder.myRightHandedDescription	좌클릭하면 선택한 요청이 배치됩니다.우클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myOffensiveSpecialAbilityOrder.myLeftHandedDescription	우클릭으로 특수능력을 배치합니다.
+myGameText.myHelpBoxes.myOffensiveSpecialAbilityOrder.myRightHandedDescription	좌클릭으로 특수능력을 배치합니다.
+myGameText.myHelpBoxes.myMoveBackwardsOrder.myLeftHandedDescription	우클릭으로 후퇴. 좌클릭으로 취소.
+myGameText.myHelpBoxes.myMoveBackwardsOrder.myRightHandedDescription	좌클릭하면 후퇴합니다. 우클릭하면 취소됩니다.
+myGameText.myHelpBoxes.myMoveOrder.myLeftHandedDescription	우클릭으로 이동. 좌클릭으로 취소.
+myGameText.myHelpBoxes.myMoveOrder.myRightHandedDescription	좌클릭하면 이동합니다. 우클릭하면 취소됩니다.
+myGameText.myGameModeAssault.myAssaultingText	공격측
+myGameText.myGameModeAssault.myDefendingText	수비측
+myGameText.myGameModeAssault.myAssaultCapturedText	<#0f0>점령당했다</>
+myGameText.myGameModeAssault.myAssaultDefendedText	<#f00>방어</>
+myGameText.myGameModeAssault.myDefendCapturedText	<#f00>함락</>
+myGameText.myGameModeAssault.myDefendDefendedText	<#0f0>지켜냈다</>
+myGameText.myGameModeAssault.myCapTimeText	<#0f0>%02d:%02d</>
+myGameText.myGameModeAssault.myDefTimeText	<#f00>%02d : %02d</>
+myGameText.myGameModeAssault.myDisabledTimeText	<#888>--:--</>
+myGameText.myGameModeAssault.myDisabledText	<#888>사용정지</>
+myGameText.myGameModeAssault.myRoundCompletionText	클리어시간%02d : %02d
+myGameText.myGameModeAssault.myRoundStartsInText	2회전개시까지 : %02d
+myGameText.myGameModeAssault.myClickToContinueText	클릭해서 계속
+myGameText.myGameModeAssault.myFullAttackingText	당신은 공격측입니다
+myGameText.myGameModeAssault.myFullDefendingText	당신은 수비측입니다
+myGameText.myGameModeAssault.myPhase1Text	- 페이즈1 -
+myGameText.myGameModeAssault.myPhase2Text	- 페이즈2 -
+myGameText.myGameModeAssault.myRoundLengthAttacking1Text	각 전략거점을 되도록이면 짧은 시간안에 공략해 주세요!
+myGameText.myGameModeAssault.myRoundLengthDefending1Text	각 전략거점으로의 적의 공격을 격퇴해 주세요!
+myGameText.myGameModeAssault.myRoundLengthAttacking2Text	%02d : %02d이내에 되도록이면 많은 전략거점을 공략해 주세요!
+myGameText.myGameModeAssault.myRoundLengthDefending2Text	%02d : %02d동안 적을 격퇴해 주세요!
+myGameText.myGameModeAssault.myWaitScreenCountdownText	2회전개시까지 : 
+myGameText.myGameModeAssault.myWaitScreenUnknownTimeText	2회전개시준비중
+myGameText.mySPStats.myMissionTime	미션에 걸린 시간 : %02u : %02u.%02u
+myGameText.mySPStats.myTotalScoreEarned	토탈스코어 : %u
+myGameText.mySPStats.myDamageScore	유닛에게 준 데미지로 획득한 스코어 : %u
+myGameText.mySPStats.myRepairScore	수리로 획득한 스코어 : %u
+myGameText.mySPStats.myTransportingScore	수송으로 획득한 스코어 : %u
+myGameText.mySPStats.myTAScore	전술지원으로 획득한 스코어 : %u
+myGameText.mySPStats.myReinforcementPointsSpent	사용한 증원포인트 합계 : %u
+myGameText.mySPStats.myUnitsLost	유닛손실수 : %u
+myGameText.mySPStats.myUnitsKilled	유닛격파수 : %u
+myGameText.mySPStats.myFortificationsDestroyed	방어진지 파괴수 : %u
+myGameText.mySPStats.myTAPointsEarned	획득한 전술지원포인트 : %u
+myGameText.mySPStats.myTAPointsSpent	사용한 전술지원포인트 : %u
+myGameText.mySPStats.myTACrits	전술지원 크리티컬히트 : %u
+myGameText.mySPStats.myBestTACrit	전술지원 최강크리티컬히트 : %u, %s
+myGameText.mySPStats.myBestTACritEmpty	전술지원 최강크리티컬히트 : %u
+myGameText.mySPStats.myFavoriteTA	선호하는 전술지원 : %s
+myGameText.mySPStats.myMaxKillStreak	연속격파수 : %u
+myGameText.mySPStats.myMaxDeathStreak	연속사망수 : %u
+myGameText.mySPStats.myUnitsRank2	레벨2로 승격한 유닛 : %u
+myGameText.mySPStats.myUnitsRank3	레벨3로 승격한 유닛 : %u
+myGameText.mySPStats.myUnitsRank4	레벨4로 승격한 유닛 : %u
+myGameText.mySPStats.myUnitsRank5	레벨5로 승격한 유닛 : %u
+myGameText.mySPStats.myMostUsedUnit	가장 많이 사용한 유닛 : %s
+myGameText.myWirelessFrontend.myStatusConnected	접속 있음
+myGameText.myWirelessFrontend.myStatusNoConnection	접속 없음
+myGameText.myWirelessFrontend.myAdHocEnabled	활성화
+myGameText.myWirelessFrontend.myAdHocDisabled	정지중
+myGameText.myWirelessFrontend.myAdHocConnecting	접속중
+myGameText.myWirelessFrontend.myAdhocEnable	애드호크 네트워크 실행
+myGameText.myWirelessFrontend.myAdHocDisable	애드호크 네트워크 정지
+myGameText.myWirelessFrontend.myAdHocFailedHeader	무선 네트워크 문제
+myGameText.myWirelessFrontend.myAdHocFailed	무선 애드호크접속에 실패했습니다. 무선 네트워크 장치가 제대로 작동하는지 확인해 주세요.

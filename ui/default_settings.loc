@@ -1,0 +1,86 @@
+﻿myKeyboardActions.Exit_Close.myLocName	<empty>
+myKeyboardActions.Attack.myLocName	대지공격
+myKeyboardActions.Back.myLocName	카메라를 뒤로 이동
+myKeyboardActions.CameraToLZ.myLocName	강하지점으로 이동
+myKeyboardActions.CameraSwapUnitGroup.myLocName	유닛그룹전환
+myKeyboardActions.ChangeFaction.myLocName	진영변경
+myKeyboardActions.Chat.myLocName	전체채팅
+myKeyboardActions.ChatTeam.myLocName	팀채팅
+myKeyboardActions.CreateSquadModifier.myLocName	<empty>
+myKeyboardActions.CycleBehaviour.myLocName	사격금지
+myKeyboardActions.CycleFormation.myLocName	대형전환
+myKeyboardActions.DeploySpawner.myLocName	유닛 배치
+myKeyboardActions.EnterBuilding.myLocName	가까운 건물에 들어가기
+myKeyboardActions.EnterUnit.myLocName	가까운 수송차(기)에 타기
+myKeyboardActions.ExitUnits.myLocName	하차
+myKeyboardActions.Follow.myLocName	동행
+myKeyboardActions.Forward.myLocName	카메라를 앞으로 이동
+myKeyboardActions.Left.myLocName	카메라를 왼쪽으로 이동
+myKeyboardActions.Move.myLocName	이동
+myKeyboardActions.MoveBackwards.myLocName	후퇴
+myKeyboardActions.OpenObjectivesScreen.myLocName	목표메뉴
+myKeyboardActions.Pause.myLocName	일시정지
+myKeyboardActions.Right.myLocName	카메라를 오른쪽으로 이동
+myKeyboardActions.Reinforcements.myLocName	증원메뉴
+myKeyboardActions.Repair.myLocName	수리
+myKeyboardActions.Screenshot.myLocName	스크린샷찍기
+myKeyboardActions.SelectSquad1.myLocName	<empty>
+myKeyboardActions.SelectSquad2.myLocName	<empty>
+myKeyboardActions.SelectSquad3.myLocName	<empty>
+myKeyboardActions.SelectSquad4.myLocName	<empty>
+myKeyboardActions.SelectSquad5.myLocName	<empty>
+myKeyboardActions.SelectSquad6.myLocName	<empty>
+myKeyboardActions.SelectSquad7.myLocName	<empty>
+myKeyboardActions.SelectSquad8.myLocName	<empty>
+myKeyboardActions.SelectSquad9.myLocName	<empty>
+myKeyboardActions.SelectSquad10.myLocName	<empty>
+myKeyboardActions.SetSpawnPosition.myLocName	강하지점 변경
+myKeyboardActions.ShowAllHealth.myLocName	<empty>
+myKeyboardActions.ShowScore.myLocName	스코어보드
+myKeyboardActions.Stack.myLocName	<empty>
+myKeyboardActions.StackModifer.myLocName	<empty>
+myKeyboardActions.Stop.myLocName	정지
+myKeyboardActions.TacticalAid.myLocName	전술지원메뉴
+myKeyboardActions.ToggleConsole.myLocName	<empty>
+myKeyboardActions.ToggleGUI.myLocName	GUI 표시전환
+myKeyboardActions.ToggleMegamap.myLocName	메가맵
+myKeyboardActions.VOIP_Talkbutton.myLocName	음성채팅버튼
+myKeyboardActions.VoteYes.myLocName	찬성에 투표
+myKeyboardActions.VoteNo.myLocName	반대에 투표
+myKeyboardActions.ToggleRequest.myLocName	요청메뉴
+myKeyboardActions.OffensiveRechargable.myLocName	공격특수능력
+myKeyboardActions.DefensiveRechargable.myLocName	방어특수능력
+myKeyboardActions.myNextAbility.myLocName	다음 특수능력
+myKeyboardActions.myPrevAbility.myLocName	이전 특수능력
+myKeyboardActions.UndoSelection.myLocName	선택 변경 취소
+myKeyboardActions.SelectTypeModifier.myLocName	<empty>
+myKeyboardActions.DisbandUnit.myLocName	선택한 유닛 해산
+myKeyboardActions.myResupply.myLocName	분대 보충
+myKeyboardActions.Shortcut1.myLocName	게임내의 메뉴로 바로가기1
+myKeyboardActions.Shortcut2.myLocName	게임내의 메뉴로 바로가기2
+myKeyboardActions.Shortcut3.myLocName	게임내의 메뉴로 바로가기3
+myKeyboardActions.Shortcut4.myLocName	게임내의 메뉴로 바로가기4
+myKeyboardActions.Shortcut5.myLocName	게임내의 메뉴로 바로가기5
+myKeyboardActions.Shortcut6.myLocName	게임내의 메뉴로 바로가기6
+myKeyboardActions.Shortcut7.myLocName	게임내의 메뉴로 바로가기7
+myKeyboardActions.Shortcut8.myLocName	게임내의 메뉴로 바로가기8
+myKeyboardActions.Shortcut9.myLocName	게임내의 메뉴로 바로가기9
+myKeyboardActions.Shortcut10.myLocName	게임내의 메뉴로 바로가기10
+myKeyboardActions.ShortcutTab.myLocName	게임내의 메뉴탭 전환
+myKeyboardActions.SelectCat1.myLocName	게임내의 메뉴탭1 선택
+myKeyboardActions.SelectCat2.myLocName	게임내의 메뉴탭2 선택
+myKeyboardActions.SelectCat3.myLocName	게임내의 메뉴탭3 선택
+myKeyboardActions.SelectCat4.myLocName	게임내의 메뉴탭4 선택
+myKeyboardActions.SelectCat5.myLocName	게임내의 메뉴탭5 선택
+myKeyboardActions.StoreCamera0.myLocName	카메라1 위치 저장
+myKeyboardActions.StoreCamera1.myLocName	카메라2 위치 저장
+myKeyboardActions.StoreCamera2.myLocName	카메라3 위치 저장
+myKeyboardActions.StoreCamera3.myLocName	카메라4 위치 저장
+myKeyboardActions.RestoreCamera0.myLocName	카메라1 위치 불러오기
+myKeyboardActions.RestoreCamera1.myLocName	카메라2 위치 불러오기
+myKeyboardActions.RestoreCamera2.myLocName	카메라3 위치 불러오기
+myKeyboardActions.RestoreCamera3.myLocName	카메라4 위치 불러오기
+myKeyboardActions.Camera_Height_Up.myLocName	카메라높이 올리기
+myKeyboardActions.Camera_Height_Down.myLocName	카메라높이 낮추기
+myKeyboardActions.MouseLook.myLocName	마우스룩
+myKeyboardActions.SelectDeployed.myLocName	최근 투하된 유닛 선택

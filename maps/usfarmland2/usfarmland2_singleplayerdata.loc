@@ -1,0 +1,226 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	등뒤에서 케스케이드폴에서 솟아 오른 버섯구름이 서서히 사라져 갈 때, 우리는 열풍으로 검게 그을린 나무들이 늘어선 죽음의 황야에서 계속 싸우고 있었다. 그래도 살아 남은 우리는 행운이었다. 배넌과 그가 지휘하고 있던 중대에 비하면 말이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	그들 덕분에 소련군의 진격은 저지됐다. 한때는 포트텔러를 파괴하자는 안도 검토되었지만 그럴 필요성은 없었다. 하지만 대신 우리는 동료들을 잃었으니 남은 건 허무함뿐이었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	핵폭발과 동반한 전자발스로 인해 무전기를 쓸 수 없게 되었고, 덕분에 대대의 잔재부대는 재집결하지 못한 채 주변지역 일대에 흩어져 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	대령과도 연락을 할 수 없게 됐다. 이윽고 모두는 각자의 판단하에 움직이기 시작했다. 태세를 재정비함과 동시에 소련군의 잔재부대소탕을 시도하기 위해.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	핵폭풍은 예상외로 강렬했다. 최악의 사태가 일어날거라는 우리의 예감이 적중했다. 하지만 나중엔 어떻게 될까? 그건 누구도 알지 못했다...
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MeetWebb.myDescription	여울에서 웹과 합류하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MeetWebb.myLongDescription	우군은 여기저기 산개되어 있는 판국이며 전자발스로 인해 통신망도 마비상태다. 웹과 합류해 부대규합에 착수해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 지점으로 이동해야 한다.\n\n거느리고 있는 유닛을 모두 잃으면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MeetWebb.myVisualisationText	여울에서 웹과 합류하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1CleanUp.myDescription	웹을 수리차량으로 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1CleanUp.myLongDescription	소여대령과 연락이 닿지 않기 때문에 웹은 대대의 잔재전력을 거느리고 대령을 수색하기 위해 남쪽으로 향했다. 지금은 자신이 할 수 있는 일을 해야만 한다. 자신이 할 수 있는 것. 그것은 그룹내의 모든 유닛을 생존시키는 것. 즉, 계속 수리를 하는 것이다. 증원은 얻을 수 없으니 자네의 지휘하에 있는 유닛도 소중히 다뤄야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1CleanUp.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1HealUp.myDescription	집결지점에서 모든 유닛을 수리하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1HealUp.myLongDescription	수많은 우군차량이 임시 집결지점으로 모이고 있다. 우군의 차량과 방치된 소련군의 차량까지 수리해서 사용가능한 상태로 만들어라.\n\n목표를 달성하려면 이 지역에 있는 모든 망가진 차량을 수리해야 한다.\n\n거느리고 있는 유닛을 모두 잃으면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1HealUp.myVisualisationText	집결지점에서 모든 유닛을 수리하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2CleanUp.myDescription	웹을 수리차량으로 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2CleanUp.myLongDescription	다음 집결지점으로 향하기 위해 웹대대의 차량들이 제대로 움직일 수 있도록 수리한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2CleanUp.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2HealUp.myDescription	집결지점에서 모든 유닛을 수리하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2HealUp.myLongDescription	우군의 차량과 방치된 소련군의 전차들이 모여 있는 제2집결지점에 도달했다. 차량을 신속하게 수리하고 사용가능한 상태로 만들어라.\n\n목표를 달성하려면 이 지역에 있는 모든 망가진 차량을 수리해야 한다.\n\n거느리고 있는 유닛을 모두 잃으면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2HealUp.myVisualisationText	집결지점에서 모든 유닛을 수리하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FakeEscape.myDescription	웹을 따라 집결지점으로 향하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FakeEscape.myLongDescription	겨우 소여대령과 연락이 닿아 그리드 K-2-9에 있는 집결지점으로 향하라는 지시를 받았다. 여기서 남동쪽에 8km 떨어진 장소다. 집결지점으로 가는 와중에도 수리로 웹을 지원한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FakeEscape.myVisualisationText	이 일대에서 탈출하고 차량을 수리해 웹을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Retreat.myDescription	웹을 따라 안전한 장소로 향하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Retreat.myLongDescription	겨우 소여대령과 연락이 닿아 그리드 K-2-9에 있는 집결지점으로 가라는 지시를 받았다. 여기서 남동쪽에 8km 떨어진 장소다. 집결지점으로 가는 와중에도 수리로 웹을 지원한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Retreat.myVisualisationText	웹을 따라 안전한 장소로 향하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Advance.myDescription	강변의 적을 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Advance.myLongDescription	소여대령에게서 화력지원과 항공지원을 받을 수 있게 됐다. 이를 사용해 강변에 집결하고 있는 러시아군을 격파해라.\n\n목표를 달성하려면 강변에 나타나는 적을 일정수 이상 격파해야 한다.\n\n거느리고 있는 유닛을 모두 잃으면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Advance.myVisualisationText	강변의 적을 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FinalBattle.myDescription	소련군의 반격을 격퇴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FinalBattle.myLongDescription	케스케이드폴 전투에서 목숨을 부지한 적 부대가 집결해 이쪽 전략거점으로 반격을 가해 왔다. 전력을 다 해 적을 전멸시켜라. 웹의 부대를 수리하는 것도 잊어서는 않된다.\n\n목표를 달성하려면 소련군의 반격을 격퇴해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FinalBattle.myVisualisationText	소련군의 반격을 격퇴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HealWebb.myDescription	웹을 수리차량으로 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HealWebb.myLongDescription	소여대령과 연락이 끊어져 웹은 대대의 잔재전력을 거느리고 대령을 수색하기 위해 남쪽으로 향했다. 지금 할 수 있는 건 그룹내의 모든 유닛이 생존하도록 수리를 계속하는 것이다. 증원은 얻을 수 없으니 지휘하에 있는 유닛도 소중히 다뤄야 한다.\n\n목표를 달성하려면 웹의 부대를 계속 수리해야 한다.\n\n유닛을 모두 잃으면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HealWebb.myVisualisationText	웹을 수리차량으로 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.UnitHunt.myDescription	방치된 유닛을 수리하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.UnitHunt.myLongDescription	이 근처에는 소련군의 포병차량과 수리차량이 방치되어 있다. 그것들을 찾아서 수리하면 전력이 미미한 우리부대에게 큰 도움이 될 것이다.\n\n목표를 달성하려면 맵상에 마킹되어 있는 소련군의 차량을 찾아 수리해야 한다.\n\n거느리고 있는 유닛을 모두 잃으면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.UnitHunt.myVisualisationText	방치된 유닛을 수리하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.OneUnitMustSurvive.myDescription	유닛을 생존시켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.OneUnitMustSurvive.myLongDescription	미션중에는 증원을 얻을 수 없으니 전장에 방치된 것을 수리해서 사용해야 한다. 거느리고 있는 유닛이 전멸하면 미션은 실패한다.\n\n목표를 달성하려면 미션 마지막까지 최소한 1개의 유닛은 생존해야 한다.\n\n거느리고 있는 유닛을 모두 잃으면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.OneUnitMustSurvive.myVisualisationText	유닛을 생존시켜라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded1.myDescription	우회해서 공격해 오는 소련군을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded1.myLongDescription	강쪽 기슭에 있는 소비에트군이 측면에서 공격을 걸어 왔다. 격퇴해라.\n\n목표를 달성하려면 측면과 배후에서 공격해 오는 소련군을 전멸시켜야 한다.\n\n측면과 배후에서 공격해 오는 소련군을 전멸시키지 않으면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded1.myVisualisationText	우회해서 공격해 오는 소련군을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded2.myDescription	우회해서 공격해 오는 소련유닛을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded2.myLongDescription	배후와 측면에서 소련군부대의 공격이 더욱 심해지고 있다. 화력지원을 요청해 격파해라.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded2.myVisualisationText	우회해서 공격해 오는 소련유닛을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded3.myDescription	우회해서 공격해 오는 소련유닛을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded3.myLongDescription	배후와 측면에서 소련군부대의 공격이 더욱 심해지고 있다. 화력지원을 요청해 격파해라.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded3.myVisualisationText	우회해서 공격해 오는 소련유닛을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded4.myDescription	우회해서 공격해 오는 소련유닛을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded4.myLongDescription	배후와 측면에서 소련군부대의 공격이 더욱 심해지고 있다. 화력지원을 요청해 격파해라.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded4.myVisualisationText	우회해서 공격해 오는 소련유닛을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	최대지원포인트가 상승했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	화기지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.updatedTA.myString	지원화기리스트가 업데이트됐다!
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myHeader	전투학교－체력표시
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myText	체력표시버튼(디폴트 : ALT키)을 누르고 있는 동안에는 모든 우군유닛의 체력이 표시된다. 이를 사용하면 신속하고 효율적으로 유닛의 체력을 파악할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_010.myText	알파 식스가 브라보 식스에게! 웹이 파커에게, 응답바란다! 만약 듣고 있다면 오래된 물레방아가 있는 오두막근처에 있는 여울에서 합류하자. 부하들을 모아서 오도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_010.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_020.myText	그리고 파커, 패잔병들을 조심하게. 그 근처에 있을거야. 불의의 일격을 당할지도 몰라.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_020.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_030.myText	파커, 무사해서 다행이네. 무선이 제대로 작동하지 않아 듣고는 있는건지 걱정했다네. 수리차량도 가져 왔나! 실로 하늘이 도왔군! 이 차량을 고칠 수 있는지 봐 주겠나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_030.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_040.myText	북쪽과 남쪽에 적! 전부대, 공격개시!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_040.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_050.myText	남은 부대를 모아 대령과 접촉해야 하네. 헤어지고 난 후 전혀 연락이 닿질 않아.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_050.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_060.myText	남쪽으로 이동하지. 차량수리에 전력을 다 해 주게. 적과 조우하면 도망가자구. 사격전이 되면 자네의 차량으로 버티긴 힘들테니까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_060.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_070.myText	케스케이드폴에선 맹활약했더군, 파커. 배넌과 챨리중대를 잃은건 뼈아프지만 배넌도 마지막엔 꽤나 멋진 지휘관의 모습이였지...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_070.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_080.myText	적이다! 해치워라! 머리를 조아리게 해 줘라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_080.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_090.myText	파커, 척후병이 이 근처에서 방치된 소련의 차량을 발견했네. 자주포랑 수리차량일걸세. 그걸 찾아서 쓸 수 있는지 확인해 주겠나. 단, 여기서도 수리는 계속 할 수 있게 몇몇은 남겨 뒀으면 좋겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_090.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_100.myText	좋아, 발견했나. 수리가 끝나면 지휘를 맡도록 하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_100.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_110.myText	잘 했네, 파커! 어떤 차량이든 우리에겐 전부 소중하네. 될 수 있으면 빨리 돌아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_110.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_120.myText	소련군을 소탕해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_120.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_130.myText	저 전차부대는 윌킨스대대의 소속 아닌가? 주력부대는 도대체 어디에 있는거지... 하여튼 자네는 매우 성과가 좋구만, 파커. 저쪽에 있는 차량을 수리해 주게. 방치된 적 전차도 잊지 말게. 화력을 손에 넣을 필요가 있네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_130.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_140.myText	공격을 받고 있네! 안전한 장소에 있게나, 파커! 그곳에 있는 차량을 수리하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_140.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_150.myText	장난 그만하고 수리나 하게, 파커. 이곳에 오래 있고 싶지 않아.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_150.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_160.myText	좋아, 이걸로 모두 정리했네! 남쪽에서 또 적들이 집결하기 시작한 모양이야. 이동하자구! 파커, 떨어지지 말게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_160.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_170.myText	파커, 화력지원을 요청할 수 있네. 필요하다면 망설일 필요 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_170.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_180.myText	젠장, 소련병투성이군! 통솔사관이 없는게 불행중 다행이구만. 각자, 발포를 허가한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_180.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_190.myText	자네가 있어서 다행이네, 파커. 잘 해주고 있네. 여기에 있는 고물을 수리해서 이동하지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_190.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_200.myText	놈들은 포기란걸 모르는 건가!? 격퇴해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_200.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_210.myText	맞은편에 있는 차량을 부탁하네, 파커. 여기서 이탈해야겠어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_210.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_220.myText	...이글 식스가 전부대에게. 누군가 있나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_220.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_230.myText	소여대령! 웹입니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_230.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_240.myText	...식스가 전부대에게! 집결지점은 그리드스퀘어 K-2-9. 이글예하의 모든...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_240.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_250.myText	이글 식스! 응답해라! 들었지, 파커. 일단 다시 돌아가서 강을 건너 남쪽으로 가야 하네. 모두 준비해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_250.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_260.myText	젠장! 케스케이드폴에서 살아남은 놈들이 틀림없다! 머릿수가 너무 많다! 후퇴!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_260.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_270.myText	...식스가 웹에게! 들리나!? 상황보고를 부탁한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_270.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_280.myText	제대로 들립니다, 대령! 파커와 함께 있습니다. 집결지점까지는 약 8킬로. 적 잔재부대의 주력부대와 조우한 것 같습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_280.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_290.myText	라져. 지원을 요청하겠네. 그때까지 힘내주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_290.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_300.myText	라져, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_300.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_310.myText	파커, 지원이 올 때까지 될수 있으면 많은 차량을 수리해 두게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_310.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_320.myText	여기는 이글식스. 포격과 항공지원을 수배했네. 무의미하게 만들지 말게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_320.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_330.myText	들었겠지, 파커. 자네가 목표를 지정하게. 난 병사들을 집결시키겠네. 우선 강에 있는 제방부터 제압하는거야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_330.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_340.myText	착탄관측병을 해도 되겠군, 파커. 이번엔 도로를 정리하자구.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_340.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_350.myText	저걸로 끝이네, 파커! 젠장, 반격해 오는군! 용서하지 말게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_350.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_355.myText	포위됐다! 적은 강을 건넌게 틀림없다. 서쪽방면에서 공격해 온다! 지원은 있는대로 전부 필요하다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_355.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_360.myText	여기는 이글 식스. 포병과 항공지원을 자유롭게 쓸 수 있네. 적을 일소해 주게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_360.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_370.myText	파커, 자네에게 맡기지! 지원요청을 계속하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_370.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_380.myText	동료들의 피해가 크네. 파커! 수리를 도와주게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_380.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_390.myText	모든방향에 적출현! 허를 찌르다니! 동료들은 상관말고 지원을 요청하게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_390.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_400.myText	완전히 불모의 황야로군. 폭풍의 영향이 여기까지 미치리라곤 아무도 생각 못했을 거야. 운좋게 엄폐물을 찾게 되서 다행이군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_400.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_410.myText	케스케이드폴에서 승부가 끝난게 아니야. 시애틀에서 소련군을 쫓아 낼 때까지는 아무것도 끝나지 않아. 그 다음엔 유럽이겠고...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_410.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_420.myText	핵병기따위 두번 다시 쓰고싶지 않아. 한번이면 족해...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_420.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_430.myText	배넌은 폭심지에 남을 결심을 하기 전에 무슨 생각을 했을까? 그와 함께했던 병사들은? 나에겐 그들 모두가 영웅이야...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_430.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_440.myText	파커! 응답하게! 젠장, 연락이 닿질 않아. 하지만 이동을 계속하지 않으면...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_440.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_450.myText	파커! 트랜스미션이 망가졌네. 주포도 쓸 수 없네. 어떻게든 해야...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_450.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_460.myText	파커! 응답하게! 당했나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_460.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_470.myText	위험한 순간이였는데 해낸건가! 자네는 화력지원 사용방법을 잘 알고 있군. 자, 이제 집결지점까지 어떻게 이동하는가가 문제네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_470.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_480.myText	제군, 잘 했네. 포트텔러를 지켜냈어. 이번엔 적을 바다까지 밀어내게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_480.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_490.myText	위험했네, 파커! 측면의 적들은 도망쳤지만 주력은 처리했네. 남은 건 윌킨스대대에게 맡기지. 집결지점으로 서둘러야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_490.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_500.myText	제군, 잘 했네. 포트텔러는 지켜냈어. 이번엔 적을 바다까지 밀어내게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_500.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_510.myText	이글 식스가 웹에게! 젠장! 응답하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_510.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_520.myText	파커, 수리가 필요하네! 도대체 어디에 있나! 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_520.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_530.myText	여긴 괜찮네, 파커! 전차가 움직이기만 하면 되네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_530.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_540.myText	정말로 집요한 놈들이군. 저 근성은 보고 배워야겠어!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_540.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_550.myText	시애틀은 어떻게 되가고 있을까... 그리고 이 전쟁도. 몇주동안 좋은 뉴스는 들어 본 기억이 없군. 유럽은 완전히 제압당했을지도 모르겠고 말야...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_550.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_560.myText	떨어지지 말게. 그곳에 있는 적에게 문안인사대신 몇발정도 날려주게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_560.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_570.myText	어째서 포기하지 않는 거지? 핵폭탄까지 떨어트렸는데도!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_570.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_580.myText	우회해라! 일격이탈이다! 쏘면 도망가라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_580.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_590.myText	수리차량을 발견하다니 훌륭하네, 파커. 자네가 없었다면 어떻게 됐을까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_590.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_770.myText	내 차량을 수리해 주겠나, 파커! 꽤 손상을 입었네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_770.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_780.myText	파커! 수리가 필요하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_780.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_790.myText	수리할 수 있는지 봐 주게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_790.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_800.myText	수리해 줘서 고맙네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_800.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_600.myText	수리진행상태는 어떤가, 파커?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_600.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_610.myText	키릴문자를 읽을 수 있나, 파커! 아니면 기계에 터무니없이 강한 것 뿐인가? 하여튼 덕분에 죽다 살았네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_610.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_620.myText	제압사격이네! 고개를 들지 말게! 남겨진 가족에게 후회의 편지따위 쓰긴 싫으니까!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_620.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_630.myText	대령은 러시아어를 유창하게 할 수 있더군. 아마도 베트남에 가기 전에 배운거겠지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_630.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_640.myText	우선 대형차량을 노리게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_640.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_650.myText	놈들도 지휘관과 연락이 닿지 않는게 틀림없네. 그게 아니라면 좀 더 조직적으로 공격해 왔겠지. 그런데도 엄청난 맹공이로군. “스스로 생각하는 힘을 기르자”는 소련의 교육신조에 반하는데도 말야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_650.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_660.myText	꽤 규모있는 적이네, 파커. 하지만 우리라면 격퇴할 수 있네! 총원, 잘 겨냥해서 쏴라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_660.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_670.myText	파커! 저 헬기는 착탄관측기가 틀림없네. 언제 포격이 날라올지 몰라. 다른 장소로 이동하던가 날 따라 오게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_670.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_680.myText	거기에 있으면 않되네, 파커! 이탈하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_680.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_690.myText	굉장한 솜씨였어, 파커! 포술학교라도 다녔나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_690.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_700.myText	굉장한 일격이였네, 파커! 적은 정신줄을 놓아 버렸군!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_700.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_710.myText	파커! 적이 대거 우회해 오고 있네! 격퇴하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_710.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_720.myText	또 왔나! 우회해 들어 온 적을 저지하게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_720.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_730.myText	젠장! 추가병력이군. 우회할 작정이야. 쏴라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_730.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_740.myText	좋아, 파커! 우회해 들어 온 적은 전멸했네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_740.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_810.myText	천하의 수리공각하께서 날 또 다시 구해주셨군. 파커, 자네가 같이 있어줘서 정말 다행이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_810.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	소련의 잔재공격부대는 모두 해결됐고 일단 포트텔러의 안전은 확보됐다. 이제 적의 방어선을 돌파하고 시애틀탈환에 전력을 쏟을 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	미군은 케스케이드폴 근방에서 잔재병력들을 재편성하는데에 실패했다. 병사들은 지휘관을 잃은 채 지금도 적들이 넘치는 땅에서 방황하고 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.WebbPercentageLeft	웹의 수리상황 : %d%%
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.WebbUnitsLeft	웹의 잔여유닛수 : %d/%d
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_16_01.myTitle	Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_16_01.myText	Repair tanks are able to rapidly repair other vehicles. Press [[X]] to repair Webb's tanks.

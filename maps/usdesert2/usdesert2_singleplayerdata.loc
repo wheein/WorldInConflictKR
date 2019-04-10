@@ -1,0 +1,321 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	공군기지
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ThisIsObjectiveBrowser.myDescription	목표화면
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ThisIsObjectiveBrowser.myLongDescription	목표화면에서는 주어진 목표를 확인할 수 있다. 자세한 사항은 튜토리얼에서 설명한다.\n\n이 화면은 [닫기]버튼을 클릭하면 닫을 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ThisIsObjectiveBrowser.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveOne.myDescription	전략거점을 제압하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveOne.myLongDescription	선으로 이어진 원(주변거점)에 유닛을 이동시켜 전략거점을 점령한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveOne.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveTwo.myDescription	전략거점을 제압하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveTwo.myLongDescription	선으로 이어진 원(주변거점)에 유닛을 이동시켜 전략거점을 점령한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveTwo.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_OpenObjectiveBrowser.myDescription	목표화면을 연다
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_OpenObjectiveBrowser.myLongDescription	이것은 목표화면이다.\n여기에서는 수행중이거나 달성한 기본목표및 추가목표를 확인할 수 있다.\n이 화면은 [닫기]버튼을 클릭하면 닫을 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_OpenObjectiveBrowser.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Lesson3_SecondaryObjective.myDescription	적의 보병분대를 무력화한다
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Lesson3_SecondaryObjective.myLongDescription	적의 보병분대를 무력화한다
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Lesson3_SecondaryObjective.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM1.myString	TIPS : 카메라이동은 W, A, S, D키를 사용한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM2.myString	TIPS : 화면 가장자리로 마우스커서를 움직이면 카메라도 그 방향으로 움직인다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM3.myString	TIPS : 마우스휠을 사용하면 카메라의 높이를 변경할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM4.myString	TIPS : 화면 좌하단의 미니맵상에서 임의의 장소를 좌클릭하면 곧바로 그 지점으로 카메라가 이동한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM5.myString	TIPS : 카메라이동은 W, A, S, D키를 사용한다. 마우스커서를 화면의 가장자리로 움직이면 카메라도 그 방향으로 움직인다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM1.myString	TIPS : 유닛선택은 좌클릭으로 행한다. 동시에 복수의 유닛을 선택하고 싶을 때는 좌클릭으로 드래그 해 선택한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM2.myString	TIPS : 유닛을 이동시키려면 좌클릭으로 유닛을 선택한 후 우클릭으로 목적지를 지정한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM3.myString	TIPS : 수송차(기)에 보병을 태우고 싶을 때는 보병을 선택한 후 수송차(기)를 우클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM4.myString	TIPS : 수송차(기)에서 보병을 내리게 하고 싶을 때는 수송차(기)를 선택한 후 명령팔레트의 하차버튼을 클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM5.myString	TIPS : 공격을 시작할 때는 자군유닛을 선택한 후 적유닛을 우클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM6.myString	TIPS : 유닛을 건물안에 넣고 싶을 때는 유닛을 선택한 후 건물을 우클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM7.myString	TIPS : 유닛을 건물안에서 나오게 하고 싶을 때는 유닛을 선택한 후 건물의 바깥을 우클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM8.myString	TIPS : 유닛선택은 좌클릭으로 한다. 동시에 복수의 유닛을 선택하고 싶을 때는 좌클릭으로 드래그 해 선택한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM9.myString	TIPS : 특수공격능력버튼을 좌클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM10.myString	TIPS : 특수공격능력이 선택되어 있는 상태로 타겟을 좌클릭하면 공격이 시작된다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM1.myString	TIPS : 전략거점을 점령하고 싶을 때는 선으로 이어진 원안(주변거점)에 유닛을 이동시킨다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM2.myString	TIPS : 미니맵에서 목표화면을 열면 목표를 확인할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM3.myString	TIPS : 전략거점을 점령하고 싶을 때는 선으로 이어진 원안(주변거점)에 유닛을 이동시킨다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM4.myString	TIPS : 전략거점을 점령하고 싶을 때는 선으로 이어진 원안(주변거점)에 유닛을 이동시킨다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON4_REM1.myString	TIPS : 지원을요청하고싶을 때는 화면우상단의 증원메뉴를 연다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON4_REM2.myString	TIPS : 강하지점을 변경하고싶을 때는 증원메뉴의 [강하지점변경]버튼을 클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON4_REM3.myString	TIPS : 유닛을 선택한 후 증원메뉴의 배치버튼을 클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON5_REM1.myString	TIPS : 화면 좌상단의 전술지원버튼을 좌클릭해 전술지원메뉴를 연다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON5_REM2.myString	TIPS : 전술지원을 배치하고싶을 때는 좌클릭으로 [전술지원]을 선택한 후 배치하고 싶은 장소를 좌클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON5_REM3.myString	TIPS : 전술지원을 배치하고싶을 때는 좌클릭으로 [전술지원]을 선택한 후 배치하고 싶은 장소를 좌클릭한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool_UnitFactionColoring.myHeader	전투학교－유닛마커
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool_UnitFactionColoring.myText	전장에서 적과 동료를 구별할 수 있도록 유닛에는 소속마다 다른 색의 마커가 붙어 있다.\n\n녹색마커는 자군유닛이라는 것을 표시하고 있다.\n\n파란색마커는 우군플레이어와 캐릭터유닛이다.\n\n빨간색마커는 적유닛이라는 것을 표시하고 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG1.myText	호오, 사관학교출신 엘리트의 등장이군요. 나는 왓슨상사입니다. 이곳에서 훈련을 담당하고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG1.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG2.myText	여기는 국립훈련센터이며, 사관훈련의 총마무리를 실시하는 장소입니다. 웨스트포인트에서는 사관의 마음가짐에 대해 배웠을테지만, 이곳에서는 싸우는 방법을 가르칩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG2.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG3.myText	우선 전장카메라의 조작방법부터 시작하겠습니다. W, A, S, D 각각의 키로 카메라를 움직입니다. 웨스트포인트에서 배운대로 카메라를 조작해 보세요. A키를 누르고 카메라를 왼쪽으로 움직여 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG3.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG4.myText	좋아요. 다음은 W키로 카메라를 앞으로.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG4.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG5.myText	좋습니다. D키로 카메라를 오른쪽으로.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG5.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG6.myText	잘하고 있습니다. 이번에는 S키로 카메라를 뒤로 움직여 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG6.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG7.myText	잘 하셨습니다! 그럭저럭 사관학교에서도 때로는 쓸만한 것을 알려주고 있는 모양이군요. 다음은 카메라의 회전입니다. 마우스커서를 화면 가장자리로 움직이면 됩니다. 우선 왼쪽으로 회전시켜 볼까요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG7.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG8.myText	좋아요. 다음은 마우스커서를 화면 위로 가져가 카메라를 위로 향하게 해보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG8.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG9.myText	OK. 다음은 마우스커서를 오른쪽 가장자리로 가져가 카메라를 오른쪽으로 회전시켜 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG9.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG10.myText	좋습니다. 마지막으로 마우스커서를 화면 아래부분으로 가져가면 카메라는 아래를 향하게 됩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG10.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG11.myText	마우스룩이라는 기능도 있습니다. 이것을 사용하면 자유롭게 전장을 멀리까지 바라볼 수 있습니다. 마우스의 가운데버튼을 계속 눌러 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG11.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG12.myText	잘 하셨습니다. 그러면 지형을 가까이서 봐 보도록 합시다. 마우스휠을 사용하면 카메라가 지면에 접근할 수 있습니다. 해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG12.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG13.myText	좋아요. 이번에는 반대로 지면에서 떨어져 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG13.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG14.myText	잘 하셨습니다. 전장카메라를 자유롭게 조작할 수 있다는 것은 사관에게는 기본중의 기본이니까요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG14.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG15.myText	몇년전에 어샤우협곡에서 상관에게 배운 것을 보여드리겠습니다. 미니맵입니다. 이것을 이용하면 전장전체의 상황을 볼 수가 있고 특정한 지점으로 재빠르게 이동할 수도 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG15.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG16.myText	미니맵을 좌클릭하면 카메라는 곧바로 그 위치로 이동합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG16.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG17.myText	중요한 연습 하나만 더 하고 오늘 교육은 끝내도록 하겠습니다. 빨간 원이 보입니까? 저 원 한가운데를 빠져나가는 것입니다. 오늘의 훈련성과를 보여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG17.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG18.myText	좋아요. 다음 원으로.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG18.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG19.myText	이 상태라면 당장 유럽에 가도 좋겠군요. 그 곳은 위관이 꽤 부족한듯 하니까요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG19.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG1.myText	지금까지 사관학교측에서 오신 높으신 양반들보다는 싹수가 보이는군요. 그건 인정하겠습니다. 하지만 다음 훈련도 잘 완수할 수 있을런지요?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG1.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG2.myText	지금부터 험비의 지휘를 맡기겠습니다. 명령을 내릴때에는 우선 좌클릭으로 선택해야 합니다. 동시에 복수의 유닛을 선택하고 싶을 때는 마우스의 왼쪽버튼을 누른채 선택박스를 그려서 선택하고 싶은 유닛의 주위를 드래그하면 OK.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG2.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG3.myText	좋습니다. 이걸로 선택한 험비에게 명령을 내릴 수가 있습니다. 이동명령을 하고싶을 때는 험비를 선택하고 목적지를 우클릭하면 OK.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG3.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG4.myText	OK. 그러면 지금부터 수송에 대해 알려드리겠습니다. 이 연습에서는 험비뿐만 아니라 보병부대의 지휘도 맡기겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG4.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG5.myText	보병부대를 선택하고 나서 험비를 우클릭하고 험비에 올라 타도록 명령합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG5.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG6.myText	OK. 보병부대는 험비안에 있기 때문에 명령을 내릴 수는 없지만 평소처럼 험비는 움직일 수 있습니다. 보병부대를 내리게 하고싶을 때는 험비를 선택하고 나서 명령팔레트의 [하차]을 클릭합니다. 해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG6.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG7.myText	좋아요, 좋습니다. 그럼 전투로 옮겨 갑시다. 진짜는 아닙니다만. 이것은 모의훈련으로 상대는 가상의 적부대입니다. 오줌 지리거나 하지는 말아 주세요...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG7.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG8.myText	공격명령을 내리고싶을 때는 쓰고 싶은 유닛을 선택하고 적유닛을 우클릭합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG8.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG9.myText	저쪽에 부대가 보입니까? 친구가 되어 줄 분위기는 아니죠? 자, 우물쭈물하지 말고 시작하세요!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG9.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG10.myText	좋습니다! 그 기세예요. 이정도면 독일에서도 잘 할겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG10.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG11.myText	시가전에서 실력을 풀로 발휘하려면 주위의 지형을 이용하지 않으면 않됩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG11.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG12.myText	저쪽에 건물이 보입니까? 보병부대를 저 안으로 이동시키면 적의 포화로부터 지킬 수 있습니다. 보병부대를 선택하고 마우스커서를 저 건물위로 올려 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG12.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG13.myText	커서가 변했다면 보병부대를 안에 들어가도록 명령을 내립니다. 보병부대를 선택하고 건물을 우클릭합니다. 해보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG13.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG14.myText	좋아요. 건물안에 있으면 적에게 발각되기 힘들어 지는 것 뿐만 아니라, 건물의 엄폐물로 이용해 적의 포화로부터 받는 데미지를 경감할 수 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG14.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG15.myText	이 적차량이 보병부대을 빠져 나갈려고 하면 어떻게 되는지 봅시다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG15.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG16.myText	봤습니까? 가상의 적부대는 대응할 틈도 없었습니다. 수고하셨습니다, 소위.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG16.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG17.myText	건물에서 나오도록 명령하고 싶을 때는 건물을 선택하고 어디든 좋으니 건물밖을 우클릭합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG17.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG18.myText	잘 하셨습니다, 소위. 보병은 다른 유닛보다 데미지를 받기 쉽습니다. 되도록이면 엄폐물의 그림자속에 들어 가도록 지시하는 것을 잊지 마십시오.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG18.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG19.myText	다음으로 유닛의 특수능력에 대해 말 해 두겠습니다. 언젠가 이 능력으로 목숨을 부지하게 될테니까 잘 들어 두십시오!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG19.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG20.myText	이 연습에서는 브레들리 보병전투차의 지휘를 맡기겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG20.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG21.myText	우선 브레들리를 선택하세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG21.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG22.myText	좋아요. 명령팔레트에 브레들리의 2가지 특수능력이 표시되어 있는 걸 눈치챘습니까?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG22.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG23.myText	하나는 공격능력...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG23.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG24.myText	...나머지 하나는 방어능력입니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG24.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG25.myText	공격능력을 사용하면 적을 빠르게 쓰러트릴 수 있고, 방어능력을 사용하면 유닛이 생존할 가능성이 높아집니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG25.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG26.myText	모든 특수능력에는 재사용타이머가 있습니다. 이것은 탄약을 재충전하거나, 한숨 돌리는데 필요한 시간입니다. 즉, 각각의 능력을 쓸 타이밍은 자신이 알아서 판단해야 한다는 겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG26.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG27.myText	험비에는 공격능력을 사용한 공격밖에 효과가 없습니다. 혹시라도 체인건으로 쏘자는 식의 생각은 하지 마세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG27.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG28.myText	공격특수능력을 사용하고 싶을 때는 우선 해당하는 버튼을 좌클릭합니다. 해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG28.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG29.myText	좋아요. 다음은 험비를 좌클릭해서 대전차유도탄을 발사합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG29.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG30.myText	꽤 좋군요. 지금 본 것처럼 현재 이 능력은 대기상태에 들어가 있습니다. 잠시동안 기다리지 않으면 다음 미사일은 발사할 수 없습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG30.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG31.myText	방어특수능력을 가진 유닛도 있습니다. 예를 들어 브레들리는 연막을 사용해 적의 눈을 피할 수가 있습니다. 연막은 버튼을 좌클릭하자 마자 발사되니까 당황해서 발사하지 않도록 주의하세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG31.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG32.myText	대부분의 유닛에는 고유의 특수능력이 있습니다. 각기 어떤 움직임을 보여주는지 확실하게 기억해 둬야 합니다. 전장에서 우위에 서기 위한 열쇠를 쥐고 있으니까요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG32.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG33.myText	이동과 전투에 대해 최소한 알아야 할 것은 가르쳐 드렸습니다. 이 상태라면 상위권으로 졸업할 수 있을겁니다. 그 후에는 실제 전투라는 험난한 학교가 기다리고 있을테지만... 전략거점과 목표에 대해서는 내일 설명하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG33.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG1.myText	아직 그만 둘 생각은 없으십니까? 그럼 오늘은 전략거점과 목표에 대해 알려 드리겠습니다. 사관으로 성공하고 싶다면 이 개념을 완전히 이해해야 합니다. 잘 들어 주십시오!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG1.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG2.myText	이것이 전략거점입니다. 이 포인트를 지배하는가 못하는가가 전국에 중요한 영향을 미칩니다. 전략거점을 점령하면 전국이 유리해 질 뿐만 아니라 새로운 원군을 요청할 수 있게 되는 경우도 많으니까요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG2.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3.myText	전략거점의 색은 상태에 따라 변화합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3a.myText	전략거점의 색은 상태에 따라 변화합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3a.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3b.myText	흰색은 중립으로 아무도 지배하고 있지 않다는 것을 나타내고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3b.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3c.myText	빨간색은 적이 지배하고 있는 것을 의미합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3c.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3d.myText	그리고 녹색은 우리군의 지배하에 있다는 것을 나타내고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3d.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG4.myText	전략거점을 점령하려면 각각의 원, 즉 주변거점 안쪽에 자신의 유닛을 놔 두면 OK. 그 시점에서 전략거점은 자신의 것이 됩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG4.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG5.myText	잘 하셨습니다, 소위. 그 전략거점은 미국의 것이 되었습니다. 다음 목표에 대해 설명하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG5.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG6.myText	임무중에는 사령관에게서 그 임무의 달성에 필요한 목표를 계속해서 받게 됩니다. 목표에는 2가지 종류가 있습니다. 기본목표와 추가목표입니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG6.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG7.myText	기본목표는 임무의 성공에 빠질 수 없습니다. 그 중 하나라도 달성하지 못하면 임무는 실패합니다. 저 전략거점이 보입니까? 새로운 기본목표는 저곳을 확보하는 것입니다. 이전에 연습해 본 것 처럼 말이죠.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG7.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG8.myText	목표를 확인하고싶을 때는 미니맵 옆에 있는 목표버튼을 클릭해서 목표로그화면을 열면 됩니다. 해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG8.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG9.myText	좋아요! 그럼 저 전략거점을 점령해 주세요!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG9.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG10.myText	수고하셨습니다. 기본목표를 달성했습니다. 하지만 아직 끝이 아닙니다. 아까 말했다 시피 목표에는 기본목표와 추가목표가 있으니까요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG10.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG11.myText	추가목표는 필수는 아니기 때문에 꼭 달성조건을 충족시킬 필요는 없습니다. 내버려 둬도 임무에 실패하지는 않지만 승진이나 보수획득이 느려질지도 모릅니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG11.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG12.myText	추가목표를 달성하면 보수를 받을 수 있습니다. 무엇이든 획득할 수 있는 것은 입수하는 편이 좋습니다. 전투에서 오래 살고 싶다면 말이죠.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG12.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG13.myText	그러면 실습을 시작하겠습니다. 기본목표는 저 전략거점의 확보, 추가목표는 보병분대의 제거입니다. Go!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG13.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG14.myText	전략거점을 확보하고 적병사를 제거합니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG14.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG15.myText	기본목표와 추가목표를 달성. 꽤 그럴싸 했습니다, 소위. 다음 훈련은 내일 하도록 합시다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG15.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG1.myText	그럭저럭 끝까지 하려는 결의를 다진 모양이군요, 소위. 유럽에 가면 반드시 도움이 될겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG1.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG2.myText	오늘은 증원에 대해 알려 드리겠습니다. 병사의 부상과 사망은 전쟁터에는 늘상 있기 마련입니다. 하지만 사령관은 항상 전체를 크게 보고 목표달성에 전력을 다해야 합니다. 이를 위해 상관에게서 증원요청허가를 받을 수 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG2.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG3.myText	우선은 증원메뉴를 열어야 합니다. [증원메뉴]버튼을 누르세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG3.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG4.myText	좋아요. 이용가능한 지원은 포인트로 나타납니다. 좌측의 숫자는 이용가능한 포인트, 우측의 숫자는 발생하는 포인트입니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG4.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG5.myText	이용가능한 포인트가 그 시점에서 사용할 수 있는 포인트입니다. 이를 소비 해 유닛을 전장으로 투입할 수가 있습니다. 발생포인트는 시간이 경과함에 따라 이용가능한 포인트에 가산됩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG5.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG6.myText	지원을 요청할 때 소비되는 포인트는 유닛마다 다릅니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG6.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG7.myText	예로 브레들리는 750포인트를 필요로 합니다. 300만달러정도의 세금도 같이 말이죠. 전투에서 잃게 되면 750포인트는 발생포인트풀로 되돌아가고 잠시 기다리면 다시 사용할 수 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG7.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG8.myText	지원을 요청하려면 우선 강하지점마커를 설정해야 합니다. 이 마커는 수송기가 유닛을 강하시키는 장소를 나타냅니다. [강하지점변경]버튼을 클릭해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG8.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG9.myText	지금 포시되고 있는 것은 메가맵입니다. 여기서 전장전체의 상황을 자세하게 볼 수 있습니다. 단 지상의 전술적상황은 알 수 없게 됩니다. 지금 이 메가맵으로 할 수 있는 유일한 것은 강하지점마커를 설정하는 것입니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG9.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG10.myText	잘 하셨습니다, 소위. 이 정도는 누워서 떡먹기겠죠. 강하지점마커를 설정했으니 언제든지 원군요청이 가능합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG10.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG11.myText	현재의 증원포인트는 2000입니다. 이를 사용해서 필요한 유닛을 부를 수 있습니다. 원군을 요청하고 싶을 때는 우선 원군유닛의 아이콘을 좌클릭합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG11.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG12.myText	구입하고 싶은 유닛을 좌클릭하세요. 클릭한 횟수만큼 유닛이 추가됩니다. 유닛을 제거하려면 그 유닛의 아이콘을 우클릭하거나 화면아래의 선택유닛패널에 있는 유닛아이콘을 좌클릭하면 됩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG12.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG13.myText	선택유닛패널에서 현재의 증원요청상황과 증원유닛의 합계코스트를 확인할 수 있습니다. 합계코스트는 이용가능한 증원포인트를 넘지는 못합니다. 유닛은 잘 생각하고 나서 선택해야 합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG13.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG14.myText	요청이 끝났다면 [유닛배치]버튼을 클릭합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG14.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG15.myText	원군은 공수되기 때문에 전장에 도착할 때까지 약간 시간이 걸립니다. 이를 고려해 원군을 요청하도록 하세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG15.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG16.myText	수고하셨습니다. 앞으로 하루면 졸업입니다. 내일 보도록 하죠.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG16.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG1.myText	벌써 최종훈련이군요, 소위. 지금까지 잘 해왔습니다. 생각했던 것보다 기합이 들어가 있군요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG1.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG2.myText	오늘은 사관이 보유한 가장 강력한 무기에 대해 알려 드리겠습니다, 소위. 그건 무선을 의미합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG2.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG3.myText	무선을 사용해 전술지원을 요청할 수 있습니다. 전술지원에는 정찰에서부터 야전포나 공폭까지 모든 것이 포함되어 있어서 위기상황에서도 우위에 설 수 있습니다. 적을 제거하고 전략거점을 확보해서 전적을 올리면 전략지원포인트를 받을 수 있습니다. 이를 사용해 전술지원을 요청할 수 있다는 겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG3.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG4.myText	하지만 오늘은 운이 좋습니다. 전적에 관계없이 무한으로 전술지원포인트를 받을 수 있으니까요. 진검승부를 위해 가상의 적부대가 공격을 걸어 오도록 설정해 놨습니다. 빨리 시작하고 싶어서 몸이 근질근질 합니까? 서론은 이쯤에서 그만 하고 시작하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG4.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG5.myText	좋아요. 전술지원을 배치하려면 필요한 무기와 지원을 좌클릭하고 나서 투입하고 싶은 장소를 좌클릭하면 됩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG5.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG6.myText	OK! 가상적부대를 쓰러트렀습니다! 굉장하군요!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG6.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG7.myText	이미 눈치챘을지 모르지만, 전술지원이 투입될 때까지는 다소 시간이 걸립니다. 소요시간은 전술지원의 종류에 따라 다르지만, 적을 치기 위해서는 미리 계획을 세우고 적의 움직임을 분석해 둘 필요가 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG7.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG8.myText	지금 전멸시킨 타겟은 정지하고 있었습니다. 해병대정도는 한입거리도 않되죠. 이를 의미있는 연습으로 하고 싶다면 이동하는 타겟을 맞추는 방법을 배워야 합니다. 다시 한번 해 보겠습니다. 단 이번 상대는 이동합니다. 자, 도전해 보시죠!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG8.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG9.myText	축하합니다, 소위! 가상의 적부대는 괴멸했습니다. 누가 뭐라하든 아주 잘하셨습니다. 훈련은 이걸로 끝입니다. 지금부터 필요한 스킬은 실전에서 익히는 수밖에 없습니다. 하지만 소위라면 잘 할 겁니다. 그럼 반드시 훌륭한 사관이 되시길.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG9.myPortraitText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS1.myText	호오, [부대해산]버튼을 발견했군요. 다행이긴 하지만 제가 그 버튼을 클릭하라고 지시내린 적이 있습니까? 제 지시에 불복종하는 겁니까, 소위?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS1.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS2.myText	재훈련을 해야겠습니다. 제 교육훈련이 제대로 머리에 박혀 있는지 확인해 봐야겠습니다. 그 [부대해산]버튼은 손대지 마세요. 않그러면 하루종일 훈련만 계속 하게 될겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS2.myPortraitText	왓슨
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.TEST	CTRL＋SHIFT＋(1-5)키를 눌러 레슨을 시작합시다.\n아무것도 하지 않아도 10초후에 자동으로 레슨1이 시작됩니다.\n #이것은 디버그용으로 나중에 삭제됩니다#
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT1	레슨1－카메라
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT2	A키를 눌러 카메라를 왼쪽으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT3	W키를 눌러 카메라를 전방으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT4	D키를 눌러 카메라를 오른쪽으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT5	S키를 눌러 카메라를 후방으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT6	마우스커서를 화면좌측으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT7	마우스커서를 화면상단으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT8	마우스커서를 화면우측으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT9	마우스커서를 화면하단으로 움직여 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT10	가운데버튼을 누르면서 마우스를 움직이면 카메라를 여러 방향으로 회전시킬 수 있습니다.\n커서를 화면 가장자리로 이동시켜도 같은 조작을 할 수 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT11	마우스휠을 사용해 카메라를 지면과 가깝게 내려 보세요.\n주의 : 휠이 없는 마우스를 사용하고 있는 경우에는 옵션메뉴에서 줌기능을 취소해야 합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT12	마우스휠을 사용해 카메라의 높이를 올려 보세요.\n주의 : 휠이 없는 마우스를 사용하고 있는 경우에는 옵션메뉴에서 줌기능을 취소해야 합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT13	미니맵을 좌클릭해서 카메라를 이동시켜 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT14	카메라를 움직여 빨간 동그라미를 통과해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT15	얼마동안 카메라를 이동하는 연습을 해 보세요.\n튜토리얼을 다음으로 진행하고 싶을 때는 [다음 레슨]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT1	레슨2－이동과 공격
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT2	좌클릭으로 험비를 선택해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT3	좌클릭으로 험비를 선택한 후 원안을 우클릭해 이동시켜 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT4	좌클릭으로 보병분대를 선택한 후 험비를 우클릭해 승차시켜 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT5	험비를 선택한 후 하차버튼을 눌러 보병분대가 내리도록 해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT6	적의 보병분대를 섬멸해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT7	보병분대에게 건물안으로 들어가도록 명령해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT8	보병분대에게 건물안에서 나오도록 명령해 보세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT9	좌클릭으로 브레들리를 선택해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT10	좌클릭으로 특수공격능력을 선택해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT11	특수능력이 선택된 상태로 적유닛을 좌클릭하면 공격이 개시됩니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT12	튜토리얼을 계속할 때는 [다음 레슨]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT1	레슨3－전략거점과 목표
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT2	선으로 이어진 주변거점(원)에 유닛을 이동시켜 전략거점을 점령해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT3	목표화면을 열고 목표를 확인해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT4	선으로 이어진 주변거점(원)에 유닛을 이동시켜 전략거점을 점령해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT5	전략거점을 점령하고 적보병분대를 섬멸해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT6	튜토리얼을 계속할 때는 [다음 레슨]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT1	레슨4－증원
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT2	증원메뉴를 열어 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT3	증원메뉴의 [강하지점변경]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT4	임의의 장소를 좌클릭해서 강하지점마커를 배치해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT5	요청하고 싶은 유닛을 좌클릭해 주세요. 준비가 끝나면 [유닛배치]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT6	튜토리얼을 계속할 때는 [다음 레슨]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT1	레슨5－전술지원
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT2	[전술지원메뉴]버튼을 좌클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT3	전술지원을 요청해 적부대를 전멸시켜 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT4	전술지원을 요청해 적부대를 전멸시켜 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT5	튜토리얼을 종료하고싶을 때는 [튜토리얼 종료]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.TUT_TEXT_RESTART	레슨을 재개하고싶을 때는 [재개]버튼을 클릭해 주세요.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myEnemyCapturedText	<empty>

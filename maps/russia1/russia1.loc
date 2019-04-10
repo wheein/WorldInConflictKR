@@ -1,0 +1,69 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myMissionStats.myName	tw_Radar
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	대범하게도 NATO군은 공격목표를 소련령내에 있는 낡은 레이더기지로 정했다. 외지와는 꽤 거리가 있고 숲으로 둘러쌓인 언덕을 중심으로한 싸움은 날로 격해져만 갔다.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	레이더
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	레이더
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	전선을 지켜라

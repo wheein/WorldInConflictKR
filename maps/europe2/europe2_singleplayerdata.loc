@@ -1,0 +1,196 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	소련군은 상당히 번거로운 존재였다. 어지간해서는 절대 물러서지 않았기 때문에 1야드의 땅조차 탈환하기 힘들었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	하지만 수확은 있었다. 우리들도 몇일에 걸친 전투 끝에 적들의 방어선을 돌파할 수 있었다. 소여대령은 몇몇 중대에게 침입명령을 내렸고, 이내 소련군사령부를 발견할 수 있었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	일초라도 빨리 사령부를 쳐부셔야 한다. 소련군의 방어선을 모두 무너트려야 프랑스를 해방할 수 있을 것이다. 하지만 실패하면 주력부대로부터 단절되고 전멸하는건 시간문제다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	작전에는 대령 특유의 대범함이 뭍어났다. [언제 어디서든 놈들을 박살낼 각오를 해야 한다. 그렇지 않으면 지금까지의 시간과 노력이 물거품이 될 것이다]. 대령은 항상 이렇게 타일러 왔다. 이 신념은 대령이 결정하는 모든 행동 하나하나에 잠식되어 있었다. 망설임같은게 있을 리가 없었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	하지만 대령의 말이 씨도 않먹히는 사람이 있다. 그건 바로 배넌대위다. 그는 무슨일을 저지를지 알 수 없는 위험인물이였다. 배넌대위는 명령을 제대로 이행하지 않는 일이 잦아서 엄청난 골치덩어리였다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridges.myDescription	다리를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridges.myLongDescription	우선은 2개의 다리를 확보해 진격의 발판으로 한다. 적수비대를 격멸한 다음 다리를 건넌 후, 교두보를 철저히 막아라. \n\n목표를 달성하려면 양쪽 다리에 방어진지를 구축해야 한다.\n\n제한시간내에 이 목표를 달성하지 못하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridges.myVisualisationText	다리를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearTown.myDescription	시가지의 수비대를 일소하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearTown.myLongDescription	교회에 도달하기 위해선 우선 시가지에 있는 수비대를 격멸해야 한다. 저항이 멈출 때까지 거점을 하나씩 격파해 나가야 한다.\n\n목표를 달성하려면 제한시간내에 마킹된 모든 적 진지를 격파해야 한다.\n\n제한시간내에 목표를 달성하지 못하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearTown.myVisualisationText	시가지의 수비대를 일소하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeChurch.myDescription	적사령부를 파괴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeChurch.myLongDescription	연합군이 이 일대에 공세를 펼칠 예정이다. 그 때까지 소련군사령부를 확보해야 한다.\n\n목표를 달성하려면 제한시간내에 교회주변에 방어진지를 구축해야 한다.\n\n만일 제한시간내에 목표를 달성하지 못하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeChurch.myVisualisationText	적사령부를 파괴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myDescription	다리를 방어하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myLongDescription	소련군이 다리로 기습을 가해 왔다. 다리가 함락되면 자네의 부대는 포위되고 섬멸당할 것이 뻔하다. 다리를 단호하게 사수하도록.\n\n목표를 달성하려면 소련군의 공격으로부터 다리를 지켜 내야 한다.\n\n소련군이 다리 주변에 방어진지를 구축하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myVisualisationText	다리를 방어하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectBridges.myDescription	다리를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectBridges.myLongDescription	시가지로 통하는 다리를 지켜라. 다리를 잃으면 증원요청이 불가능하게되고 고립될 것이다.\n\n목표를 달성하려면 소련군으로부터 다리를 지켜 내야 한다.\n\n소련군이 다리를 점령하고 방어진지를 구축하게 되면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectBridges.myVisualisationText	다리를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BannonArtillery.myDescription	적의 박격포를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BannonArtillery.myLongDescription	소련군의 박격포가 우리군의 진지를 겨냥을 하고 있다. 박격포를 격파하면 자네의 부대는 지금보다 훨씬 안전해 질 것이다.\n\n목표를 달성하려면 소련군의 박격포부대를 찾아 격파해야 한다.\n\n미션종료까지 박격포를 격파하지 못하면 목표달성에 실패하게 된다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BannonArtillery.myVisualisationText	적의 박격포를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Artillery.myDescription	MLRS를 탈취 또는 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Artillery.myLongDescription	MLRS가 자네의 부대를 공격해 왔다. MLRS를 탈취할 수 있다면 전력에 상당한 도움이 될 것이다.\n\n목표를 달성하려면 자네의 유닛중 하나로 MLRS에 접근해야 한다. MLRS를 격파했을 경우도 목표달성으로 인정한다.\n\n미션종료까지 MLRS를 탈취하거나 격파하지 못하면 목표달성에 실패하게 된다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Artillery.myVisualisationText	MLRS를 탈취 또는 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveChurch.myDescription	적으로부터 교회를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveChurch.myLongDescription	이 교회는 1123년 시토수도회에 의해 건립된 프랑스의 오래된 문화유산중 하나로 손꼽힌다. 전투가 끝날 때까지 이 오래된 석조교회를 안전하게 보존시켜 동맹국에게 경의를 표하도록 한다.\n\n목표를 달성하려면 미션을 완료할 때까지 교회가 온전해야 한다.\n\n어떤 이유에서든 교회가 파괴되면 목표실패다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveChurch.myVisualisationText	적으로부터 교회를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_01.myText	파커! 탄막사격이 끝나는대로 공격을 시작하겠네. 시가지 안쪽을 지나 교회옆에 있는 지휘소를 치도록 하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_01.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_02.myText	우리군에서 본격적인 공세작전을 필칠 때까지 얼마 남지 않았네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_02.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_03.myText	소령이 말한대로네. 공세를 취하기 전에 뱀머리를 잘라 둘 필요가 있어. 시간낭비할 필요없네. 잘만 하면 NATO군 병사들의 피해를 줄일 수 있네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_03.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_04.myText	잘 했네! 본격적인 공세는 앞으로 1시간남짓이네. 적은 이제 조직적인 저항이 힘들어 졌을게 틀림없네. 교회가 무사하다는 것도 다행이고 말이지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_04.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_05.myText	잘 했네, 파커! 이걸로 본격적인 공세작전이 상당히 수월해 질 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_05.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_06.myText	대령, 교회를 잊어선 안되오.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_06.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_07.myText	파커, 되도록이면 교회가 파손되지 않도록 노력해 보게. 문화적가치가 높은 건물이라는군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_07.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_08.myText	12세기에 지어진 귀중한 건물이오! 미국과는 역사의 깊이가 다르오!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_08.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_09.myText	뭐, 그렇다는군. 하지만 작전수행의 방해가 될 것같으면 주저하지 말고 부셔버리게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_09.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_10.myText	곤란하네, 파커! 자네때문에 동맹국의 감정이 악화되지 않으면 좋으련만.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_10.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_11.myText	중위, 공격을 개시하겠네! 첫관문인 저 다리부터 확보하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_11.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_12.myText	배넌! 파커가 다리를 확보하면 소대를 배치하고 방어하도록. 남은 부대는 남쪽으로 우회하는 사바티에소령을 호위하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_12.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_13.myText	소령을 호위해야 필요가 있습니까? 제 중대는 파커를 지원하고 싶습니다만.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_13.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_14.myText	불평하지 말게, 배넌! 이런 좁은 길에서 자네의 전차는 좋은 먹잇감에 불과하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_14.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_15.myText	좋아, 파커! 다리는 배넌중대가 지키고 있다네. 자네는 교회를 노리게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_15.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_16.myText	파커! 적의 대포를 어떻게든 해보게나. 빼앗던지 부수던지말야. 전진하기 쉽게 항공지원을 요청해 두겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_16.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_18.myText	파커! 언덕위의 박격포를 어떻게든 해보게나. 필요하다면 항공지원을 요청하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_18.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_20.myText	좋아! 자네가 탈취한 것은 독일제 로켓포로군. 분명히 도움이 될 걸세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_20.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_21.myText	로켓포를 하나 해치웠군. 그 기세로 밀어붙히게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_21.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_22.myText	이제 박격포때문에 골치 썩는건 끝이네. 파커, 잘 했네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_22.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_23.myText	파커, 시가지의 적을 일소하게. 신속하고 신중하게 말이지. 필요하다면 화력지원을 요청하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_23.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_24.myText	하나 해치웠군! 그 기세로 밀어붙히게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_24.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_25.myText	또 하나 정리했군, 파커. 사바티에소령, 그쪽 상황은 어떤가?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_25.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_26.myText	제2경유점에 접근하고 있지만, 적의 그림자는 없소.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_26.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_27.myText	이글 식스, 여기는 배넌. 이쪽에도 적은 없습니다. 시가지로 공격지원을 가고 싶습니다만.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_27.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_28.myText	아니. 자네는 소령과 함께 행동해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_28.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_29.myText	절반까지 왔네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_29.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_30.myText	시가지의 적은 대충 정리한 것 같군! 이제 거의 남아 있지 않을게야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_30.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_31.myText	시가지를 확보했네. 소련군은 도망간 것 같군. 한숨 돌렸어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_31.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_32.myText	이글 식스. 다리쪽으로 향하는 적부대를 발견! 전투에 돌입하기엔 거리가 너무 멀다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_32.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_33.myText	적의 반격이군! 파커, 다리를 지켜야 해! 다리가 무너져선 않되네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_33.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_34.myText	배넌입니다! 저도 다리로 향하겠습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_34.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_35.myText	배넌! 자네는 소령의 곁을 떠나서는 않돼! 같은 말을 계속하게 만들지 말게! 알았나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_35.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_36.myText	소령이라면 괜찮을겁니다. 제 중대의 선두가 이미 다리에 도착한 것 같습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_36.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_37.myText	배넌, 돌아 와! 소령에게 돌아가라니까! 배넌! 빌어먹을 자식! 파커, 다리를 확실하게 지켜 주게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_37.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_38.myText	꼴 좋구나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_38.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_39.myText	배넌! 이 병신새끼! 빨리 돌아 가서...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_39.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_40.myText	이글 식스! 적에게 포위됐다! 매복이다, 도와 줘! 우리는...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_40.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_41.myText	사바티에소령! 무슨 일인가! 배넌, 당장 소령에게 돌아 가게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_41.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_42.myText	라져. 지금 가고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_42.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_43.myText	이글 식스로부터 파커에게! 응답해라! 제길! 미션은 중지다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_43.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_50.myText	파커! 항공지원은 상층부의 결정에 따라 다른 장소로 바뀌었네. 항의해 봤지만 묵살당했네. 이젠 항공지원을 요청할 수 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_50.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_51.myText	파커! 좁은 길에는 보병이 안성맞춤이네. 커다란 전차는 걸리적거리니까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_51.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_52.myText	배넌대위, 우측은 이상없나? 뭔가가 움직인 것 같이 보였는데.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_52.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_53.myText	지금 보고 있습니다만, 아무 이상 없습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_53.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_54.myText	틀림없나, 대위?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_54.myPortraitText	사바티에
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_55.myText	틀림없습니다. 그렇게 벌벌떨면 나라를 지킬 수 없을 텐데요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_55.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_56.myText	헛소리하지 말게, 배넌! 임무에나 집중하게. 무선으로 쓸데없는 말을 지껄이지 말도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_56.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_57.myText	기병대에서 이쪽으로 헬기를 보내줬네. 매복하고 있는 적이나 숨어 있는 적을 찾아내긴 안성맞춤일게야. 하지만 무장이 빈약하니 공격받지 않도록 주의하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_57.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_Briefing.myText	상황설명 : \nNATO군은 소련군에게 최후의 공세을 가하기 위해 전력을 집결시키고 있다. 소여대령이 지휘하는 전투집단은 본격적인 공세를 가하기 전에 적 사단의 총사령부를 치도록 명령받았다. 적 사령부는 엄중한 경비로 둘러 쌓인 시가지에 인접한 언덕위에 있다. 시가지를 먼저 탈환하고 언덕으로 진격해 적 사령부를 파괴한다면 점령군에게 큰 타격을 줄 수 있을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_Briefing.myPortraitText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_58.myText	제길, 다리가 하나 무너졌군! 나머지 하나는 누가 어떻게든 지켜내야 하네! 동료들을 시가지로 진격시키려면 반드시 지켜내야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_58.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	파커! 적들이 그쪽 수비를 강화하기 전에 역습하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	파커, 그 포인트를 가져 오게! 이반이 수비를 강화하면 작전은 실패할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	이반이 수비를 강화하기 전에 그 포인트를 탈환하게! 지금까지의 노력을 물거품으로 만들 순 없네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	중위, 이반이 포인트를 탈취했네. 당장 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	파커! 이반을 밀어 내게! 포인트를 되찾게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	정신차리게! 파커, 적이 포인트를 가져갔네! 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	소여대령의 작전은 큰 공을 세웠다. 상당히 위험한 도박이었지만 자네는 본격적인 공세에 앞서 소련군의 사령부를 괴멸하는데 성공한 것이다. NATO군이 최종공세를 펼치면 잔재소련군은 조직적인 저항을 하지 못할 것이다. 프랑스는 1주일안에 해방될 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	소여대령의 작전은 실패로 끝났다. 자네의 능력부족으로 우군은 고립, 전멸해 버렸다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_01.myTitle	Entering Structures
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_01.myText	To have an infantry unit seek cover inside a building, select it and press on the structure.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_02.myTitle	Exiting Structures
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_02.myText	Press on the structure to exit.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_03.myTitle	Defensive Special Abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_03.myText	Infantry units are slow moving, press to use the Sprint ability and give them a burst of speed.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myWeLostText	 (을)를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myWeCapturedText	배넌더미지휘소를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myWeLostText	배넌더미지휘소를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myEnemyCapturedText	적이 배넌더미지휘소를 점령했다

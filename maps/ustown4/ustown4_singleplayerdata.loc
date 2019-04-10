@@ -1,0 +1,361 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	우리는 하이웨이를 걸치고 있는 다리를 폭파해 소련군의 진격을 늦출 수 있었다... 하지만 결국은 시간벌기에 불과했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	우리는 대령의 지휘아래 남쪽으로 향했다. 대부분 무사히 도착했지만 매번 배넌과 챨리중대는 늦기 마련이었다. 배넌은 땅이 질퍽거린다는 이유로 변명했지만 실제로는 일부러 늦게 도착해 대령과 떨어져 있길 은근히 기대했을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	이윽고 우리는 작은 시가지인 파인밸리에 도착했다. 우리는 이곳에 진을 치고 증원을 기다리기로 했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	하지만 그 전에 이 시가지를 적에게서 탈환해야만 했다. 적의 공수부대가 이미 우리보다 먼저 시가지를 점령하고 있었다. 우리는 대부분이 2, 3일정도 잠을 자지 못했다. 대령이 고작 몇시간의 휴식밖에 허락하지 않았기 때문이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	하지만 누구도 불만을 표현하는 사람은 없었다. 미국은 지금 위기상황에 놓여 있고 자신들은 무엇을 위해 싸우고 있는지 모두가 이해하고 있었기 때문이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGas.myDescription	주유소를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGas.myLongDescription	파인밸리는 이미 소련군이 점령하고 있다. 시가지를 탈환하기 위해 우리는 시가지의 바깥쪽에 있는 전략거점을 급습하려고 한다. 우선은 주유소를 탈환하고 그곳에 방어거점을 구축해라. 다른 임무는 그 다음이다.\n\n목표를 달성하려면 주유소에 설정된 전략거점을 제압하고 그곳에 방어진지를 구축해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGas.myVisualisationText	주유소를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myDescription	파인밸리로 가는 길을 열어라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myLongDescription	파인밸리탈환전의 제2단계가 시작됐다. 자네의 임무는 외측부에 있는 3개의 적 방어거점을 격파하는 것이다. 배넌휘하의 챨리중대는 시가지의 중심부로 향해 서쪽으로 진군한다. 웹휘하의 알파중대는 배넌중대를 지원한다.\n\n목표를 달성하려면 맵상에 마킹되어 있는 소련군의 방어진지를 격파해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myVisualisationText	파인밸리로 가는 길을 열어라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeTV.myDescription	방송국을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeTV.myLongDescription	파인밸리의 소련군 잔재부대는 방송국에 설정된 집결지점으로 후퇴했다. 적은 중(重)포병대를 배치해 우리가 집결지점으로 정면공격을 하지 못하도록 하고 있다. 우회해서 적을 쳐라. 적 부대를 모두 격파하고 방송국의 전략거점을 제압한다.\n\n목표를 달성하려면 맵상에 마킹되어 있는 소련군의 전략거점을 공략하고 적 부대를 전멸시켜야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeTV.myVisualisationText	방송국을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldMarket.myDescription	슈퍼마켓을 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldMarket.myLongDescription	소련군의 주력공세는 북동방면에서 오리라 예상되나 동시에 교외에서도 슈퍼마켓으로 지원공격부대가 쳐들어 올 것이다. 절대로 슈퍼마켓이 뚫리면 않된다.\n\n목표를 달성하려면 맵상에 마킹되어 있는 전략거점을 별도의 명령이 있을 때까지 보존및 유지해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldMarket.myVisualisationText	슈퍼마켓을 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReTakeMarket.myDescription	슈퍼마켓을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReTakeMarket.myLongDescription	소련군이 우리의 방어선인 슈퍼마켓을 돌파했다. 즉시 슈퍼마켓으로 향해서 반격을 실시하고 주변거점을 탈환해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 전략거점을 탈환해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReTakeMarket.myVisualisationText	슈퍼마켓을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldTownSquare.myDescription	시가지 광장을 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldTownSquare.myLongDescription	시가지 광장을 지켜야 한다. 파인밸리가 적의 손에 들어가 남진하지 못하게 되면 적은 오리건 앞까지 단숨에 전진할 것이다. 되도록 길게 전략거점을 보존및 유지해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 전략거점을 따로 명령이 있을 때까지 빈틈없이 지켜야 한다.\n\n소련군이 전략거점을 제압하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldTownSquare.myVisualisationText	시가지 광장을 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeEntrance.myDescription	남동쪽 루트를 탈환하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeEntrance.myLongDescription	남동쪽에서 파인밸리로 들어가는 루트에 위치한 중앙방어진지에서 웹의 중대가 어쩔 수 없이 철수했다.\n\n목표를 달성하려면 맵상에 마킹되어 있는 전략거점을 탈환해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeEntrance.myVisualisationText	남동쪽 루트를 탈환하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldEntrance.myDescription	남동쪽루트를 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldEntrance.myLongDescription	당장이라도 소련군의 추가공격이 시작될 것이다. 다음 지시가 있을 때까지 남동쪽루트의 전략거점을 보존및 유지해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 전략거점을 따로 명령이 있을 때까지 빈틈없이 지켜야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldEntrance.myVisualisationText	남동쪽루트를 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MissouriTA.myDescription	소련군의 공세를 떨쳐내라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MissouriTA.myLongDescription	미주리로부터 강력한 함포사격을 지원받게 되었다. 포격을 요청해 쳐들어오는 적의 공세를 격퇴한다.\n\n목표를 달성하려면 함포사격을 지시해 소련군을 격파해 철수시켜야 한다.\n\n소련군이 시가지 광장에 있는 전략거점을 제압하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MissouriTA.myVisualisationText	소련군의 공세를 떨쳐내라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSniper.myDescription	소련군저격병을 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSniper.myLongDescription	소련군의 저격병이 주유소 주변에 숨어 있다. 색출해서 제거해라.\n\n목표를 달성하려면 적의 저격병을 찾아 쓰러트려야 한다.\n\n저격병이 도망가면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSniper.myVisualisationText	소련군저격병을 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myDescription	소련군 포병대를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myLongDescription	연구시설 부근에서 소련군의 자주박격포가 목격됐다. 옥외에 전개한 모든 보병에게 위험한 존재다. 가능하면 파괴해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 소련군 포병부대를 격파해야 한다.\n\n파인밸리로 가는 진입로에서 적 부대를 일소하기전에 적 자주박격포를 격파하지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myVisualisationText	소련군 포병대를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HealBannon.myDescription	배넌대위를 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HealBannon.myLongDescription	배넌의 중대는 주유소에서 적의 격렬한 공격을 받아 수리를 필요로하고 있다. 험비를 파견해 전차를 수리해라.\n\n목표를 달성하려면 배넌대위가 지휘하는 전차를 수리해야 한다.\n\n전차가 파괴되면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HealBannon.myVisualisationText	배넌대위를 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveArtillery.myDescription	포병대를 구하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveArtillery.myLongDescription	박격포소대가 소련군의 진격으로 고립된데다 공격까지 받고 있다. 가능하면 그들을 구출해라.\n\n목표를 달성하려면 연구시설 근처에 있는 포병대와 접촉해 적의 공격으로부터 지켜내야 한다.\n\n포병대가 격파당하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveArtillery.myVisualisationText	포병대를 구하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillTvSpotter.myDescription	소련군의 전진관측병을 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillTvSpotter.myLongDescription	소련군은 근거리 포병지원을 안전하게 수행할 수 있도록 전진관측병을 방송국 주변에 배치하고 있다. 이 관측병을 제거하면 적의 탄막사격은 멈출 것이다.\n\n목표를 달성하려면 소련군의 전진관측병을 찾아내서 쓰러트려야 한다.\n\n방송국을 제압하기 전에 전진관측병을 쓰러트리지 않으면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillTvSpotter.myVisualisationText	소련군의 전진관측병을 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SOEArtillery.myDescription	적의 박격포를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SOEArtillery.myLongDescription	자주박격포가 전략거점에 접근하고 있다. 가능하면 격파해라.\n\n목표를 달성하려면 적 박격포를 격파해야 한다.\n\n따로 명령이 하달되기 전까지 격파하지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SOEArtillery.myVisualisationText	적의 박격포를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeCityInXMinutes.myDescription	거점을 즉시 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeCityInXMinutes.myLongDescription	소련군의 주력부대가 접근하고 있다. 되도록이면 빨리 시가지로 들어가는 편이 좋다.\n\n목표를 달성하려면 제한시간 내에 소련군의 방어진지를 격파해야 한다.\n\n제한시간 내에 격파하지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeCityInXMinutes.myVisualisationText	거점을 즉시 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjAttackGround.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjAttackGround.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjAttackGround.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjHoldFire.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjHoldFire.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjHoldFire.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___dropZoneChanged.myString	강하지점이 변경됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___dropZoneExpanded.myString	강하지점이 확대됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___newUnits.myString	새로운 유닛이 주어졌다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___newTank.myString	새로운 전차가 주어졌다. 전차는 지금 강하지점에 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___newUnit.myString	새로운 유닛이 주어졌다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___givenTA.myString	지원화기를 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___abrahmGiven.myString	에이브럼스 1대를 무상으로 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myHeader	특수능력
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myText	특수능력은 모든 유닛이 장비하고 있다. 특수능력은 공격형과 방어형으로 나뉘어 진다. 특수능력을 사용하면 유닛의 공격력을 높히거나 절체절명의 위기에서 유닛을 구할수도 있다. 일단 특수능력을 사용하면 다시 사용할수 있을 때까지 시간이 걸린다. 이때다싶을 때 사용하도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myHeader	전투학교－방어진지
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myText	전략거점에 방어진지를 구축하려면 유닛을 주변거점 모든곳에 배치해야 한다. 주변거점에 있는 유닛의 수가 많으면 많을수록 그만큼 빨리 방어진지를 구축할 수 있다. 이렇게 구축된 방어진지는 적유닛에게 공격당해도 손쉽게는 파괴되지 않는다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.TacticalAid.myHeader	전투학교－전술지원
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.TacticalAid.myText	전술지원이란 필요에 따라 요청할 수 있는 맵밖에서의 화력지원이며, 네이팜공격과 탄막사격등이 있다. 전술지원포인트는 적을 격파하거나 목표를 달성하면 얻을 수 있다. 전술지원을 요청할 때는 전술지원메뉴에서 요청할 지원을 선택해 우클릭으로 조준지점을 지정한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MoveDropZone.myHeader	전투학교－강하지점
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MoveDropZone.myText	증원이 투하되는 강하지점은 변경할 수 있다. [강하지점변경]버튼을 클릭해 화면이 전환되면 녹색으로 되어 있는 지역에서 새로운 투하지역을 좌클릭으로 지정하면 된다. 이 기능을 제대로 사용하면 증원을 전선에 보내기 위한 보급선을 짧게 할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AttackGround.myHeader	전투학교－대지공격
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AttackGround.myText	무인건물과 지점을 공격할 때는 [대지공격]버튼을 누른채(디폴트 : F키) 목표지점을 좌클릭한다. 포병유닛의 경우는 항상 이 방법으로 공격목표를 결정한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myHeader	전투학교 - 무상유닛
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myText	무상유닛을 받을 수 있다. 전장에 배치는 다른 유닛과 동일하게 증원메뉴에서 실시하지만 증원과 달리 배치해도 증원포인트는 줄지 않는다. 단, 무상유닛은 격파당해도 보충은 할 수 없다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_01.myText	파커, 명령이네. 주유소를 제압하고 철저하게 지키게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_01.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_02.myText	그리고 파커, 유리스이등병은 살리지 못했네. 절대 저 저격병놈을 용서하지 말게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_02.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_03.myText	유리스이등병의 복수네, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_03.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_04.myText	저격병입니다! 저기 굴뚝쪽에!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_04.myPortraitText	병사
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_05.myText	당했다! 저격병이다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_05.myPortraitText	병사
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06.myText	저격병이 노리고 있습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06.myPortraitText	병사
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06a.myText	저격병이 아직까지도 지랄이네, 파커! 정리해 주게. 놓치면 않되네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06a.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_07.myText	저격병이 도망간 것 같네, 파커. 전력을 다 했겠지만 아쉬운 결과네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_07.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_08.myText	잘 했네, 파커! 당장이라도 적이 반격해 올 것이네. 그 장소에 방어진지를 구축하게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_08.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_09.myText	파커! 담당구역을 지키게. 우리는 배넌의 중대가 돌파하면 곧바로 공격을 재개할테니.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_09.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_10.myText	적을 정리하고 주유소를 탈환하게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_10.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_11.myText	이글 식스. 여기는 배넌. 슈퍼마켓 부근에서 격렬한 저항세력과 조우. 지원을 부탁합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_11.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_12.myText	더 이상 지원은 해 줄 수가 없네, 배넌. 조금만 더 힘내게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_12.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_13.myText	이글 식스, 여기는 배넌. 슈퍼마켓을 제압했습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_13.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_14.myText	라져, 배넌. 서쪽으로 공격을 이어가게. 웹의 중대가 지원할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_14.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_15.myText	파커! 시가지 중심부 부근에 있는 세군데의 방어거점을 제압및 확보하게. 전황은 유리하게 흐르고 있네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_15.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_16.myText	제1방어거점을 제압. 앞으로 두군데 남았네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_16.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_17.myText	파커! 여기는 이글식스. 연구시설 부근에서 적 포병대를 발견했네. 되도록이면 파괴하게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_17.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_18.myText	적 포병은 침묵했네. 잘 했네, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_18.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_19.myText	실수했군, 파커. 적 포병은 무사히 철수해버렸네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_19.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20.myText	방어거점은 이제 하나 남았네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20a.myText	배넌! 상황보고를 부탁하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20a.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_21.myText	배넌입니다! 주위가 온통 적투성이입니다. 놈들이 RPG로 전차를 노리고 있습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_21.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_22.myText	담당구역을 지키게, 배넌. 웹이 공격을 이어 받을 것이네. 괜찮겠나, 웹?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_22.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_23.myText	라져, 대령. 공격을 이행하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_23.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_24.myText		이글 식스, 여기는 웹. 적의 방어선을 돌파했습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_24.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_25.myText	라져, 웹. 잘 했네, 제군! 적은 남쪽으로 철수하고 있네. 잘만하면 점심먹기 전에 시가지는 우리의 것이 될 수 있어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_25.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_26.myText	파커! 남아 있는 적 부대는 포병대네. 방송국 부근에서 야무지게 수비하고 있네. 동쪽으로 우회해서 격파하게. 배넌과 웹은 해안에서 접근하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_26.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_27.myText	숲 근처의 공터로 빠지게, 파커! 해안으로는 접근하지 말게! 자네의 목표는 방송국이네. 가능하면 적의 착탄관측병도 정리해 주게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_27.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_28.myText	파커! 적 포병대는 침묵했네. 방송국을 제압하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_28.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_30.myText	이글 식스로부터 배넌에게! 지금 어딘가?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_30.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_31.myText	적 보병부대때문에 발이 묶였습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_31.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_32.myText	여기는 웹. 배넌중대를 우회해서 방송국으로 가겠습니다. 허가를 부탁합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_32.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_33.myText	거절하겠네, 웹. 배넌을 지원하게. 방송국은 파커에게 맡기겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_33.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_34.myText	잘 했네, 파커! 방송국을 제압했군. 이제 적은 얼마 남지 않았네. 13시에 시가지 광장에서 사령관에게 상황설명을 해야하네. 시간이 얼마 없어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_34.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_36.myText	파커, 슈퍼마켓은 제압했네. 북쪽은 자네에게 맡기지. 따로 명령이 있을 때까지 슈퍼마켓을 지키도록 하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_36.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_37.myText	여기는 배넌! 전차부대와 교전중. 북동쪽에서 대거 밀려 오고 있습니다. 언제까지 버틸 수 있을지 모르겠습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_37.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_38.myText	라져, 배넌. 이글 식스로부터 웹에게. 배넌을 지원해주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_38.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_39.myText	라져. 제2소대를 보내겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_39.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_40.myText		파커, 지금 바로 수비측으로 붙게나. 적의 돌파를 허용하지 말게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_40.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_41.myText	주변거점을 제압했네. 잘 했네, 파커. 계속해서 수비를 부탁하지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_41.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_42.myText	여기는 배넌! 전황이 불리합니다! 전차대의 피해가 큰데다가 수리차량마저 당했습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_42.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_43.myText	라져, 배넌. 어떻게든 해보겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_43.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_44.myText	파커, 응답하게! 가용 험비가 있다면 지금 바로 배넌대위가 있는 곳으로 보내 주게. 주유소쪽이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_44.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_45.myText	너무 늦었잖아, 파커. 덕분에 전차를 또 잃을뻔 했다구.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_45.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_46.myText	잘 했네, 파커. M1의 지휘를 맡기지. 잘 쓰게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_46.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_47.myText	여기는 배넌! 정비병은 어쨌나, 파커!? 주포는 고장났고 전차도 2대정도 뒤집혔어. 뭐, 우리때문에 서두를 필요는 없지만 말야!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_47.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_48.myText	여기는 배넌. 전차가 또 당했습니다. 니 덕분에 흥하는구나, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_48.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_49.myText	헛소리하지 말게, 배넌.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_49.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_50.myText	파커, 포병대가 노리고 있네! 적이 겨냥하기 전에 후퇴하게! 반복하네, 후퇴하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_50.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_51.myText	지금 당장 후퇴하게, 파커! 포격당할지 몰라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_51.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_52.myText	이글 식스. 여기는 웹. 적의 맹공에 시달리고 있습니다. 희생자가 꽤 많이 나왔습니다. 다른 방어지점으로 이동하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_52.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_53.myText	라져. 파커! 남동쪽 진입로로 가게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_53.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_54.myText	따로 명령이 있을 때까지 담당구역을 지키게, 파커! 방어선을 따라 공격이 예상되네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_54.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_55.myText	여기는 배넌... 맹공격으로 인해 피해가 너무 커서, 버틸 수가 없으니.... 시가지 광장으로 후퇴하겠습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_55.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_56.myText	않되네, 배넌! 거기 남아서 싸우게. 알겠나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_56.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_57.myText	이글 식스, 다시 한번... 잘 않들립니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_57.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_58.myText	젠장! 거기에 쳐박혀서 싸우라고 명령했네, 배넌!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_58.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_59.myText	...희생자.... 철수... 교신종료!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_59.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_60.myText	배넌! 응답하게, 챨리 식스! 제길. 이글 식스가 전대대에게. 시가지 광장까지 후퇴한다. 반복한다. 시가지 광장까지 후퇴한다. 수비를 강화해야 한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_60.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_61.myText	주위가 온통 적투성이입니다! 이대로라면 전멸하고 맙니다. 후퇴해야 합니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_61.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_62.myText	철저하게 막아야 하네, 배넌! 이건 명령일세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_62.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_63.myText	대령! 무리입니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_63.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_64.myText	후퇴하면 내 손으로 자넬 죽여 주지! 중대를 집결시켜!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_64.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_65.myText	총원, 담당구역을 지켜라. 적을 격퇴해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_65.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_66.myText	올테면 와 봐라! 전부 때려 눕혀 주마!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_66.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_67.myText	헛소리하지 말게, 배넌!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_67.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_68.myText	여기는 이글 식스. 전방향에서 적이 밀려 오고 있다! 탄약을 확인하고 제대로 겨냥하고 쏴라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_68.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_69.myText	이 시가지를 잃으면 해안 모두를 잃는 것이나 마찬가지다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_69.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_70.myText	어떻게 해서든 적의 전진을 막아라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_70.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_71.myText	파커! 별동의 박격포부대에서 요청이 들어 왔네. 연구시설 부근에서 공격을 받고 있는 모양이네. 할 수 있다면 지원해 주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_71.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_72.myText	잘 했네, 파커. 박격포부대의 지휘권을 주겠네. 되는대로 계속 지원하도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_72.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_73.myText	파커! 박격포부대와 교신이 두절되었네. 그들을 잃는다면 큰 타격이 아닐수 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_73.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_74.myText	여기는 이글 식스! 해안으로 후퇴한다! 반복한다. 후퇴한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_74.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_75.myText	파커! 화력지원이 가능하네. 필요에 따라 요청하게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_75.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_76.myText	파커, 오리건주군의 공수부대가 지원을 신청했네! 필요하다면 헬기로 원군을 실어다 줄 것이네. 화력지원 채널에서 요청하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_76.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_77.myText	여기는 배넌! 슈퍼마켓에 접근하고 있습니다. 현재는 별다른 저항이 없습니다. 완전 낙승인데요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_77.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_78.myText	방심하지 말게, 대위. 매복하고 있을지 몰라.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_78.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_79.myText	저도 아마추어는 아니... 으악! 시발! 포수, 오른쪽 전차다! 쏴라!!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_79.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_80.myText	좀더 서두를 필요가 있겠습니다, 대령. 정찰부대로부터 보고가 들어 왔습니다. 적 본대가 접근하고 있다고 합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_80.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_81.myText	젠장! 녀석들이 도착하기 전에 시가지를 제압하지 않으면 움직임을 포착할 수 없는데. 파커! 무슨 수를 써서라도 적의 거점을 부셔버려야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_81.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_82.myText	뭐하나, 파커! 적의 거점을 부셔야만 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_82.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_83.myText	지금 당장 거점을 부수지 못하면 동시에 두군데에서 전쟁의 실마리가 피어 오를 것이네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_83.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_84.myText	파커! 적 본대가 머지않아 도착하네. 자네가 그 거점을 정리해 주면 우리는 이 시가지를 제압할 수 있겠는데 말야!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_84.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85a.myText	잘 했네, 파커! 이걸로 돌파구를 열게 됐다면 좋겠네만. 공수부대는 이동해 버렸으니 헬기의 지원은 이제 끊겼네. 보유병력으로 어떻게든 해야만 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85a.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85b.myText	잘 했네, 파커! 이로써 돌파구가 열렸다면 좋겠네만.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85b.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_86.myText	파커! 적의 박격포를 발견했네 .자네 근처네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_86.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_87.myText	되도록이면 파괴하게, 파커! 하지만 우선목표는 도로방어네, 알겠나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_87.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_88.myText	파커중위, 포격이네! 되도록이면 서둘러 적의 박격포를 정리하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_88.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_89.myText	박격포를 정리했나. 잘 했네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_89.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_90.myText	서투르기 짝이 없군, 파커. 박격포를 정리했어야 했네. 이로써 누군가가 궁지에 몰리게 되버렸어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_90.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_91.myText	파커! 그곳에서 움직이지말게! 소련군을 포격하도록 명령해 뒀네. 적이 정리됐다는 연락이 있을 때까지 움직이지 말게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_91.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_92.myText	움직여도 좋네, 파커! 적은 철수중이네. 적이 태세를 정비하기 전에 그 포인트를 탈환하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_92.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_93.myText	파커! 적 헬기가 오고 있네! 공군이 현재 지역에서 공중전투경계를 실시하고 있네. 화력지원채널에서 지원을 요청해 헬기를 정리하게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_93.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_94.myText	전군에게 전한다. 여기는 오리건주군의 윌킨스대령이다. 지금부터 우리는 남쪽에서 파인밸리로 들어가겠다. 발포하기 전에 타겟을 확인해라.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_94.myPortraitText	윌킨스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_95.myText	늦었잖나, 윌킨스! 그래도 대환영이네! 지금부터 공격하려던 참이었네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_95.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_96.myText	그럴거라 생각했네, 소여.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_96.myPortraitText	윌킨스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_97.myText	제5대대의 전부대에게 전한다. 사격을 중지해라. 반복한다. 사격을 중지해라. 기갑부대가 도착해 적은 퇴각중이다. 시가지는 이제 우리의 손에 들어왔다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_97.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_98.myText	왜 그런가, 배넌? 유럽에서는 너무나도 열심이더니.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_98.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_99.myText	명중이다, 파커! 얼마 남지 않았네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_99.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_100.myText	파커! 자네는 지금부터 전진관측병이네. 미주리의 함포사격을 구분해 주게. 나는 대대를 집결시키겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_100.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_101.myText	날렵하군, 파커. M1전차를 맡기지. 잘 사용해 주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_101.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_102.myText	서투르군, 파커! 서둘러 공격하지 않으면 태세를 정비하기 전에 두군데에서 전쟁의 실마리가 피어 오를지 몰라.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_102.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_103.myText	셰리던 경(輕)전차부대를 투입하겠네. 하지만 보급소에 있는 것은 딱 5대뿐이네. 자네는 보유병력으로 대처해야만 하네, 알겠나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_103.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_104.myText	파커! 공수부대의 보고에 따르면 보급소에 남아 있는 전차는 1대뿐인 모양이네. 신중하게 사용해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_104.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_105.myText	이게 마지막 셰리던이네, 파커! 공수부대는 다른 장소로 이동했기 때문에 더이상 그들의 지원은 받을 수 없네. 이제부터는 자력으로 승부해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_105.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_106.myText	자네에게 말한 16인치포 9문은 함포로써는 최대급인 크기네. 이것으로 분쇄하지 못할 적은 존재하지 않아. 정확한 좌표를 전달하도록 하게. 자네에게 의지하고 있네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_106.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_107.myText	그리고 방어진지 공격에 착수하기 전에 기동방어부대를 모두 정리해 두게, 파커! 그렇지 않으면 꽤 고생할꺼야!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_107.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	파커! 적들이 그쪽 수비를 강화하기 전에 역습하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	파커, 그 포인트를 가져 오게! 이반이 수비를 강화하면 작전은 실패할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	이반이 수비를 강화하기 전에 그 포인트를 탈환하게! 지금까지의 노력을 물거품으로 만들 순 없네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	중위, 이반이 포인트를 탈취했네. 당장 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	파커! 이반을 밀어 내게! 포인트를 되찾게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	정신차리게! 파커, 적이 포인트를 가져갔네! 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	자네는 파인밸리를 해방하고 소련군이 철수하게끔 몰아 넣었다. 적은 큰 타격을 받았으니 당분간 회복에 시간이 걸릴 것이 분명하다. 우리는 그 사이에 병력의 증강을 꾀한다. 대통령은 주군과 정규군을 추가로 소집하고 이 지역으로 집결하도록 명령을 하달했다. 소련군을 시애틀에서 쫓아내는데 충분할지는 모르겠지만.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	자네의 부대는 케스케이드폴에서 소련군 본대와 공수부대에게 둘러쌓여 괴멸했다. 이로 인해 소련군의 공격을 저지할 수단을 잃어버리게 됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_01.myTitle	Free Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_01.myText	Occasionally a limited set of free units are made available and may be deployed as any other.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_02.myTitle	Timed Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_02.myText	Some objectives must be completed within a frame time in addition to other conditions.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_03.myTitle	Attack Ground
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_03.myText	To have units fire at a specific location, hold and press.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_04.myTitle	Hold Fire
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_04.myText	To have units hold fire, hold and press. Press again to resume fire.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_GotoObjective.myTitle	Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_GotoObjective.myText	Hold i?? and press Down on the to cycle through available objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_1.myTitle	Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_1.myText	To access the reinforcements menu using voice commands, hold and name the units you require then release the button.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myUiName	연구시설
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myUiName	방송국
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myUiName	슈퍼마켓
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myUiName	해안
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myUiName	시가지 광장
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myEnemyCapturedText	<empty>

@@ -1,0 +1,265 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	남쪽 교두보
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	남쪽 교두보를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	남쪽 교두보를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 남쪽 교두보를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	항구
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	항구를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	항구를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 항구를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	북쪽 교두보
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	북쪽 교두보를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	북쪽 교두보를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 북쪽 교두보를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	중앙부
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	중앙부를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	중앙부를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 중앙부를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	병원
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	병원을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	병원을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 병원을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	교외
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	교외를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	교외를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	적이 교외를 점령했다
+myWicedMap.myMissionStats.myName	as_Bridge
+myWicedMap.myMissionStats.mySPName	%02d－재회
+myWicedMap.myMissionStats.myDescription	아침 해가 시애틀교외를 비추는 동안 전략적요소인 I-90교를 둘러싼 소련군과 미군의 싸움이 시작되려고 한다.
+myWicedMap.myMissionStats.mySPDescription	시애틀중심가에서 퇴각한 다음 배넌대위가 지휘하는 미군은 교외를 빠져나와 동쪽으로 향했다. 하이웨이근처에서 소여대령과 합류하고 민간인들의 피난을 지원해라. 피난지원이 끝나면 소련군의 진격을 늦추기 위해 다리를 폭파한다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	다리
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	다리
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myDescription	적어도 1개부대를 생존시킨다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myLongDescription	부대가 전멸하면 미션은 실패다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myDescription	45-7에 있는 소련군공격부대를 격파하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myLongDescription	우군보병부대가 소련군의 공격을 받고 있다. 이 적의 위치를 파악하고 격파해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myVisualisationText	45-7에 있는 소련군공격부대를 격파하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myDescription	I-98교를 건너라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myLongDescription	I-98교는 시애틀시내에서 아직 사용할 수 있는 몇 않되는 다리중 하나다. 서둘러 이 다리를 건너야만 한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myVisualisationText	I-98교를 건너라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj4.myDescription	소련군의 검문소를 무력화하라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj4.myLongDescription	소련군이 근처에 검문소를 설치하고 있다. 전진하려면 이 검문소를 무력화할 필요가 있다. 근처의 숲을 지나 검문소로 접근해라. 숲은 보병을 막아주는 방패가 되어 줄 것이다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj4.myVisualisationText	소련군의 검문소를 무력화하라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj5.myDescription	그리드32-4의 로미오 파이브를 엄호하라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj5.myLongDescription	로미오 파이브가 적의 맹공을 받고 있다. 그들의 곁으로 급행해 협력하고 방전을 맡아라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj5.myVisualisationText	그리드32-4의 로미오 파이브를 엄호하라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj6.myDescription	우군차량을 수리하고 적의 공격을 회피하라. 적어도 브레들리가 1대는 살아 남아야 한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj6.myLongDescription	브레들리부대는 적헬리콥터에 맞서 강력한 방패가 되어 주겠지만 지급수리가 필요하다. 험비를 사용해 브레들리를 수리해라. 여전히 적의 공격은 주의해야 한다. 적 헬리콥터가 일대에 기총소사를 시작하면 철수한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj6.myVisualisationText	우군차량을 수리하고 적의 공격을 회피하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7.myDescription	우군차량을 수리하고 소련군공격부대 격퇴에 협력하라. 적어도 M60A3가 1대는 살아 남아야 한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7.myLongDescription	어떻게 해서든 이 검문소를 탈환하려고 소련군이 본격적인 공세를 걸어 왔다. 자네의 협력이 필요하다. 소련군의 공세가 그칠 때까지 모든 우군전차를 계속 수리하며 싸운다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7.myVisualisationText	우군차량을 수리하고 소련군공격부대 격퇴에 협력하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj8.myDescription	보병을 험비에 태워라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj8.myLongDescription	보병분대를 수송차량에 태우면 재빨리 이동할 수 있는 것뿐만 아니라 보병을 지킬 수도 있다. 또한 차량이 격파당할 것 같을 때는 보병에게 하차명령을 내릴 필요가 있다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj8.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7_2.myDescription	M60전차 수리를 게을리하지 마라. 적어도 전차를 1대는 살려둬야 한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7_2.myLongDescription	어떻게 해서든 이 검문소를 탈환하려고 소련군이 본격적인 공세를 걸어 왔다. 자네의 협력이 필요하다. 소련군의 공세가 그칠 때까지 모든 우군전차를 계속 수리하며 싸운다.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7_2.myVisualisationText	M60전차 수리를 게을리하지 마라. 적어도 전차를 1대는 살려둬야 한다.
+myWicedMap.myMissionStats.mySecondaryObjectives.SecObj1.myDescription	모든 M60전차를 생존시켜라.
+myWicedMap.myMissionStats.mySecondaryObjectives.SecObj1.myLongDescription	지금부터 시작될 싸움에 대비해 모든 M60전차를 생존시킨다.
+myWicedMap.myMissionStats.mySecondaryObjectives.SecObj1.myVisualisationText	모든 M60전차를 생존시켜라.
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	남쪽 교두보
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	남쪽 교두보를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	남쪽 교두보를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	항구
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	항구를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	항구를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	북쪽 교두보
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	북쪽 교두보를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	북쪽 교두보를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	중앙부
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	중앙부를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	중앙부를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	병원
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	병원을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	병원을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myDescription	교외
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myLongDescription	교외를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myVisualisationText	교외를 점령해라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	남쪽 교두보
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	남쪽 교두보를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	남쪽 교두보를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	항구
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	항구를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	항구를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	북쪽 교두보
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	북쪽 교두보를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	북쪽 교두보를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	중앙부
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	중앙부를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	중앙부를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	병원
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	병원을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	병원을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myDescription	교외
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myLongDescription	교외를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myVisualisationText	교외를 지켜라
+myWicedMap.myMissionStats.myScriptEvents.ScriptEventNewReinforcements.myString	새로운 유닛이 주어졌다.
+myWicedMap.myMissionStats.myTipTexts.Tip01.myHeader	전투학교－레슨1
+myWicedMap.myMissionStats.myTipTexts.Tip01.myText	유닛선택은 좌클릭. 유닛에게 이동과 공격을 내릴 때는 목적지 또는 공격목표를 우클릭.
+myWicedMap.myMissionStats.myTipTexts.Tip02.myHeader	전투학교－레슨2
+myWicedMap.myMissionStats.myTipTexts.Tip02.myText	목표는 맵상에서는 원형마커로 표시된다. 기본목표는 미션성공을 위해서는 반드시 달성해야 하지만, 추가목표는 그렇지 않다. 목표는 [목표]버튼을 누르면 언제라도 확인할 수 있다.
+myWicedMap.myMissionStats.myTipTexts.Tip03.myHeader	전투학교－레슨3
+myWicedMap.myMissionStats.myTipTexts.Tip03.myText	목표화면에 표시된 목표를 클릭하면 그와 관련된 자세한 정보가 정보창에 표시된다. 모든 목표의 상태, 달성에 실패했는지 성공했는지도 알 수 있다.
+myWicedMap.myMissionStats.myTipTexts.Tip04.myHeader	전투학교－레슨4
+myWicedMap.myMissionStats.myTipTexts.Tip04.myText	보병유닛은 숲속을 지나갈 수 있다. 또 그 순간에는 적차량에게 발견되지 않는다. 이 특징을 잘 살려서 싸움을 유리하게 이끌어 가자.
+myWicedMap.myMissionStats.myTipTexts.Tip05.myHeader	전투학교－레슨5
+myWicedMap.myMissionStats.myTipTexts.Tip05.myText	건물을 우클릭하면 안으로 들어간다. 건물에서 나올 때는 건물을 선택하고 나서 주위의 지면을 우클릭한다.
+myWicedMap.myMissionStats.myTipTexts.Tip06.myHeader	전투학교－레슨6
+myWicedMap.myMissionStats.myTipTexts.Tip06.myText	보병을 수송할 때는 보병유닛을 선택해 둔 후에 수송유닛을 우클릭한다. 보병을 수송유닛에서 내리게 할 때는 수송유닛을 선택하고 하차버튼을 우클릭한다.
+myWicedMap.myMissionStats.myTipTexts.Tip07.myHeader	전투학교－레슨7
+myWicedMap.myMissionStats.myTipTexts.Tip07.myText	험비를 손상을 입은 동료차량에게 접근시키면 수리를 할 수가 있다. 적헬리콥터가 돌아오기 전에 수리를 완료할 것. 수리차량을 선택하고 수리를 필요로 하는 동료차량을 우클릭했을 경우에도 수리가 가능하다.
+myWicedMap.myMissionStats.myMessageBoxList.01_01.myText	젠장! 이대로 계속 걷는 수밖에 없다. 방심하지 마라!
+myWicedMap.myMissionStats.myMessageBoxList.01_01.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_02.myText	여기는 킬로 에이트! 공격받고 있다. 지금 당장 원군이 필요하다. 반복한다. 원군이 필요하다. 장난 아니다!
+myWicedMap.myMissionStats.myMessageBoxList.01_02.myPortraitText	웹소위
+myWicedMap.myMissionStats.myMessageBoxList.01_03.myText	킬로 에이트, 여기는 시에라 세븐. 침착해라. 현재위치를 알려 주게.
+myWicedMap.myMissionStats.myMessageBoxList.01_03.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_04.myText	그리드45-7근처의 집안이다.
+myWicedMap.myMissionStats.myMessageBoxList.01_04.myPortraitText	웹소위
+myWicedMap.myMissionStats.myMessageBoxList.01_05.myText	라져, 킬로 에이트. 조금만 참아라. 지금 가고 있다.
+myWicedMap.myMissionStats.myMessageBoxList.01_05.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_06.myText	45-7은 이 근처입니다. 도우러 갑시다.
+myWicedMap.myMissionStats.myMessageBoxList.01_06.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_07.myText	얼마 않남았다. 각자, 발포를 허가한다!
+myWicedMap.myMissionStats.myMessageBoxList.01_07.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_08.myText	고맙다, 덕분에 목숨을 구했다, 시에라. 벌써 5시간이나 계속 싸우고 있다. 우리편은 기진맥진한 상태다.
+myWicedMap.myMissionStats.myMessageBoxList.01_08.myPortraitText	웹소위
+myWicedMap.myMissionStats.myMessageBoxList.01_09.myText	여기저기서 수비가 붕괴되어 있습니다. 여단에 합류하기 위해 시가지 중심부로 향하고 있습니다만, 함께 가는 편이 좋겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_09.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_10.myText	좋다, 상사. 하지만 이 근처에 소련의 검문소가 있다고 들었다. 그곳을 돌파하지 않으면 어디도 못가는데.
+myWicedMap.myMissionStats.myMessageBoxList.01_10.myPortraitText	웹소위
+myWicedMap.myMissionStats.myMessageBoxList.01_11.myText	I-98교가 가깝습니다. 그곳을 건너 시가지 중심으로 갈 수 있겠지요. 여단지휘소도 거기 있을 겁니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_11.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_12.myText	검문소다! 숲에 숨어라. 기습한다.
+myWicedMap.myMissionStats.myMessageBoxList.01_12.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_13.myText	훌륭하다.
+myWicedMap.myMissionStats.myMessageBoxList.01_13.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_14.myText	누군가 듣고 있나!? 여기는 로미오 파이브! 이대로는 당할 것 같다! 가는 곳마다 소련군이...
+myWicedMap.myMissionStats.myMessageBoxList.01_14.myPortraitText	로미오 파이브
+myWicedMap.myMissionStats.myMessageBoxList.01_15.myText	로미오 파이브! 응답해라, 로미오 파이브!
+myWicedMap.myMissionStats.myMessageBoxList.01_15.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_16.myText	...32-4에서 교전중. 여러...
+myWicedMap.myMissionStats.myMessageBoxList.01_16.myPortraitText	로미오 파이브
+myWicedMap.myMissionStats.myMessageBoxList.01_17.myText	32-4라면 그리 멀지 않다. 갑시다, 소위. 내버려 둘 수는 없습니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_17.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_18.myText	추가적인 적보병입니다! 집안에 숨어 해치웁시다!
+myWicedMap.myMissionStats.myMessageBoxList.01_18.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_19.myText	때맞춰 와줬군, 시에라. 지휘관은 2시간전에 총에 맞았고, 대대와는 연락이 닿지 않는다.
+myWicedMap.myMissionStats.myMessageBoxList.01_19.myPortraitText	로미오 파이브
+myWicedMap.myMissionStats.myMessageBoxList.01_20.myText	대대 통신망은 다운되어 있습니다. 여단지휘소까지 돌아갈 참인데 함께 가는 편이 좋겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_20.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_21.myText	좋다, 상사. 이쪽은 험비도 2대 있다.
+myWicedMap.myMissionStats.myMessageBoxList.01_21.myPortraitText	로미오 파이브
+myWicedMap.myMissionStats.myMessageBoxList.01_22.myText	고맙습니다. I-98교는 가까우니 그곳을 건너 중심부로 갑시다. 그곳에 여단지휘소가 있을 겁니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_22.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_23.myText	언제 다리가 파괴될지 모릅니다. 지금 건너야 합니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_23.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_24.myText	자네들은 제5대대인가?
+myWicedMap.myMissionStats.myMessageBoxList.01_24.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_25.myText	아니요, 워싱턴주방위군입니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_25.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_26.myText	그런가. 제5대대는 2시간전에 이곳에 도착했을 텐데. 수리를 도와주지 않겠나? 브레들리가 하보크에게 두들겨 맞았다. 공병이 폭약설치가 끝날 때까지 이곳을 사수해야 한다.
+myWicedMap.myMissionStats.myMessageBoxList.01_26.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_27.myText	물론 협조하겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_27.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_28.myText	이 다리를 날려버리자는 말입니까?
+myWicedMap.myMissionStats.myMessageBoxList.01_28.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_29.myText	지휘소와 연락이 두절되기 전에 그리 명령받았다. 여태 준비를 계속... 적이다!
+myWicedMap.myMissionStats.myMessageBoxList.01_29.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_30.myText	브레들리를 수리하는 걸 잊지 말도록. 그리고 사선에는 들어가지 않도록.
+myWicedMap.myMissionStats.myMessageBoxList.01_30.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_31.myText	방심하지 마라! 아직 오고 있다!
+myWicedMap.myMissionStats.myMessageBoxList.01_31.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_32.myText	저걸로 마지막이다.
+myWicedMap.myMissionStats.myMessageBoxList.01_32.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_33.myText	공병이 폭약설치를 끝냈다. 철수한다. 따라 오는 편이 좋을거야.
+myWicedMap.myMissionStats.myMessageBoxList.01_33.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_34.myText	젠장! 전차가 당했다!
+myWicedMap.myMissionStats.myMessageBoxList.01_34.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_35.myText	수리는 하고 있나, 시에라! 이대로는 헬기에 당한다!
+myWicedMap.myMissionStats.myMessageBoxList.01_35.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_36.myText	브레들리가 전멸하면 다음은 우리가 하보크의 제물이 될겁니다, 소위!
+myWicedMap.myMissionStats.myMessageBoxList.01_36.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_37.myText	브레들리에 달라 붙지 않으면 헬기에 당해 버립니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_37.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_38.myText	폭파하기 전에 이 다리에서 떨어져야 합니다. 갑시다, 소위.
+myWicedMap.myMissionStats.myMessageBoxList.01_38.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_39.myText	동료들은 신속하게 퇴피해라. 다리를 폭파한다. 10, 9, 8...
+myWicedMap.myMissionStats.myMessageBoxList.01_39.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_40.myText	추가병력입니다! 1개대대정도!
+myWicedMap.myMissionStats.myMessageBoxList.01_40.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_41.myText	...2, 1.기폭!
+myWicedMap.myMissionStats.myMessageBoxList.01_41.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_42.myText	이걸로 놈들도 잠시동안은 손을 놓을 수 없겠지.
+myWicedMap.myMissionStats.myMessageBoxList.01_42.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_43.myText	아직 숲에서 나오지 않는 편이 좋습니다. 브레들리에 붙어서 갑시다.
+myWicedMap.myMissionStats.myMessageBoxList.01_43.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_44.myText	여기는 탱고 포! 누가 지휘를 하고 있는지 모르나?
+myWicedMap.myMissionStats.myMessageBoxList.01_44.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_45.myText	여기는 시에라 세븐. 대대통신망은 다운되어 있다. 지원이 필요합니까?
+myWicedMap.myMissionStats.myMessageBoxList.01_45.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_46.myText	그리 해주면 좋겠다. 전차가 2대나 당한데다 적의 중대가 이리 향하고 있다. 여기서 항전중이다.
+myWicedMap.myMissionStats.myMessageBoxList.01_46.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_47.myText	수리를 도와드리겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_47.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_48.myText	여단에서 뭔가 연락은?
+myWicedMap.myMissionStats.myMessageBoxList.01_48.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_49.myText	아무것도. 통신은 완전히 두절되었습니다. 시가지 중심부로 향해 여단지휘소를 찾을 작정입니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_49.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_50.myText	보병에게 은신지시를 내리는 걸 잊지 말도록. 그렇지 않으면 한방에 끝이다.
+myWicedMap.myMissionStats.myMessageBoxList.01_50.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_51.myText	배치에 들어가라! 사격준비!
+myWicedMap.myMissionStats.myMessageBoxList.01_51.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_52.myText	전차가 더 당하게 되면 이쪽은 완전히 무너진다!
+myWicedMap.myMissionStats.myMessageBoxList.01_52.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_53.myText	포기할 낌새는 없어 보이는군요. 시작합시다...
+myWicedMap.myMissionStats.myMessageBoxList.01_53.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_54.myText	빚을 졌군, 시에라. 솔직히 이젠 끝이라고 생각했다.
+myWicedMap.myMissionStats.myMessageBoxList.01_54.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_55.myText	잘 하셨습니다. 하지만 이제 이동해야 합니다. 앞으로 대략 2, 3키로입니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_55.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_56.myText	여기는 로미오 파이브. 통신병이 총에 맞았다... 사망했다!
+myWicedMap.myMissionStats.myMessageBoxList.01_56.myPortraitText	로미오 파이브
+myWicedMap.myMissionStats.myMessageBoxList.01_57.myText	소위, 죽게 내버려 둘 수는 없습니다. 당장 지원을 갑시다.
+myWicedMap.myMissionStats.myMessageBoxList.01_57.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_58.myText	여기는 로미오 파이브, 더는 버틸 수 없...
+myWicedMap.myMissionStats.myMessageBoxList.01_58.myPortraitText	로미오 파이브
+myWicedMap.myMissionStats.myMessageBoxList.01_59.myText	당했다. 당신이 죽게 내버려 뒀다.
+myWicedMap.myMissionStats.myMessageBoxList.01_59.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_60.myText	마지막 전차를 잃었다. 소련군은 당장이라도 방어선을 돌파해 올 것입니다. 임무는 실패입니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_60.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_61.myText	여기는 양키 포. 다수의 적 그림자를 확인. 주방위군부대가 전개하고 있지만 통제가 되지 않는 것 같다. 아래는 심한 상태다.
+myWicedMap.myMissionStats.myMessageBoxList.01_61.myPortraitText	헬리콥터파일럿
+myWicedMap.myMissionStats.myMessageBoxList.01_62.myText	시에라 식스! 응답해라! 대위에게 연락이 닿질 않습니다, 소위. 자력으로 어떻게든 하지 않으면.
+myWicedMap.myMissionStats.myMessageBoxList.01_62.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_63.myText	검문소 하나정도는 돌파할 수 있을겁니다. 앞장서 주십시오, 소위.
+myWicedMap.myMissionStats.myMessageBoxList.01_63.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_64.myText	험비에 탑시다. 그쪽이 빠릅니다.
+myWicedMap.myMissionStats.myMessageBoxList.01_64.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.01_65.myText	돌아 온다! 확실하게 겨냥해라!
+myWicedMap.myMissionStats.myMessageBoxList.01_65.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_66.myText	얼마 남지 않았다!
+myWicedMap.myMissionStats.myMessageBoxList.01_66.myPortraitText	브레들리
+myWicedMap.myMissionStats.myMessageBoxList.01_67.myText	전차를 노려라! 장탄! 장갑차에 주의해라!
+myWicedMap.myMissionStats.myMessageBoxList.01_67.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_68.myText	퇴각하고 있다. 정신줄 놓지마라! 대형을 유지해라!
+myWicedMap.myMissionStats.myMessageBoxList.01_68.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_69.myText	제1, 제2소대, 집합해라! 녀석들을 처리한다!
+myWicedMap.myMissionStats.myMessageBoxList.01_69.myPortraitText	M60전차장
+myWicedMap.myMissionStats.myMessageBoxList.01_70.myText	대대와 합류할 수 있어서 다행이다. 우리는 14:00시까지 이곳에 머무르라고 명령받았다. 다음에 한턱 내지.
+myWicedMap.myMissionStats.myMessageBoxList.01_70.myPortraitText	M60전차장
+myWicedMap.myLocStrings.AssistBannon	배넌을 지원 : 

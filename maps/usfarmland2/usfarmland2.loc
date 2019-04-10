@@ -1,0 +1,95 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myUiName	전선
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myWeCapturedText	전선을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myWeLostText	전선의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myEnemyCapturedText	적이 전선을 점령했다
+myWicedMap.myMissionStats.myName	tw_Wasteland
+myWicedMap.myMissionStats.mySPName	%02d－그 후
+myWicedMap.myMissionStats.myDescription	인류멸망의 시기가 점점 다가오는 와중에도 어스름한 황야에서 미군과 소련군은 전선을 확대하기 위해 계속 싸우고 있다.
+myWicedMap.myMissionStats.mySPDescription	케스케이드폴에서 핵이 작열해 현재는 미군도 소련군도 주변지역에 뿔뿔히 흩어져 있다. 핵의 불길로 타오른 죽음의 대지에서 자네는 동료들과 합류하고 대대의 지휘부대와 연락해야 한다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	황야
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	황야
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myDescription	두군데의 도하지점을 확보하라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myLongDescription	최초 두군데의 여울에서 소련군의 도하를 저지한다면 적은 다리로 향하지 못하게 되며, 그렇게 하는 편이 격퇴하기 쉽다.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myVisualisationText	두군데의 도하지점을 확보하라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myDescription	전략거점인 다리를 점령해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myLongDescription	전략거점인 다리를 점령해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myVisualisationText	전략거점인 다리를 점령해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myDescription	전략거점인 다리를 확보해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myLongDescription	전략거점인 다리를 확보해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myVisualisationText	전략거점인 다리를 확보해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myDescription	x이내에 강의 전략거점을 점령해라!
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myLongDescription	x이내에 강의 전략거점을 점령해라!
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myVisualisationText	<empty>
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myDescription	사령본부를 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myLongDescription	사령본부를 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myVisualisationText	사령본부를 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myDescription	웹이 발견한 보병부대를 전멸시켜라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myLongDescription	웹이 발견한 보병부대를 전멸시켜라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myVisualisationText	웹이 발견한 보병부대를 전멸시켜라.
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__10.myDescription	전선
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__10.myLongDescription	전선을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__10.myVisualisationText	전선을 점령해라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__10.myDescription	전선
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__10.myLongDescription	전선을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__10.myVisualisationText	전선을 지켜라
+myWicedMap.myMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대되었다
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised6500.myString	최대지원포인트가 6500이 됐다.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised7000.myString	최대지원포인트가 7000이 됐다.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised7500.myString	최대지원포인트가 7500이 됐다.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised.myString	최대지원포인트가 상승했다.
+myWicedMap.myMissionStats.myScriptEvents.RiverOnTimeAward.myString	2대의 중(中)전차를 무상유닛으로 배치할 수 있다.
+myWicedMap.myMissionStats.myScriptEvents.KillInfAward.myString	전술지원포인트의 최대치가 상승했다.
+myWicedMap.myLocStrings.RiverTimer	추가목표의 남은시간 : 

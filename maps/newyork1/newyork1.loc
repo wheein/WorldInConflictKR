@@ -1,0 +1,39 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myUiName	막사
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myWeCapturedText	막사를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myWeLostText	막사의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myEnemyCapturedText	적이 막사를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myUiName	크레이그 도로
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myWeCapturedText	크레이그 도로를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myWeLostText	크레이그 도로의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myEnemyCapturedText	적이 크레이그 도로를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myUiName	남쪽 교두보
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myWeCapturedText	남쪽 교두보를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myWeLostText	남쪽 교두보의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myEnemyCapturedText	적이 남쪽 교두보를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myUiName	포트
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myWeCapturedText	포트를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myWeLostText	포트를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myEnemyCapturedText	적이 포트를 점령했다
+myWicedMap.myMissionStats.myName	do_Liberty
+myWicedMap.myMissionStats.mySPName	%02d－잃어버린 자유의 여신상
+myWicedMap.myMissionStats.myDescription	자유의 여신상은 업퍼 뉴욕 베이에서 벌어진 미군과 소련군의 격전을 지켜보고 있다.
+myWicedMap.myMissionStats.mySPDescription	소련군특수부대 스페츠나츠는 엘리스와 거버너, 두 섬에 잠입, 점거했다. 그 과정에서 스페츠나츠는 미군의 병기를 대량으로 탈취했고 병사들과 VIP를 인질로 삼았다. 때문에 자네가 육군레인져중대와 협력해 인질들을 해방하고 두 섬을 탈환해 줬으면 한다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	자유의 여신상
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	자유의 여신상
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1Primary.myDescription	업퍼 뉴욕 베이에 침입한 소련군을 무력화해라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1Primary.myLongDescription	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1Primary.myVisualisationText	<empty>
+myWicedMap.myLocStrings.TimeToNuke	투하목표지점 : 

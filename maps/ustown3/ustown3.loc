@@ -1,0 +1,101 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	고등학교
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	고등학교를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	고등학교의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 고등학교를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	서쪽 교외
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	서쪽 교외를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	서쪽 교외의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 서쪽 교외를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	농장
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	농장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	농장의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 농장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	드라이브인
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	드라이브인을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	드라이브인을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 드라이브인을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	동쪽 교외
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	동쪽 교외를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	동쪽 교외를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 동쪽 교외를 점령했다
+myWicedMap.myMissionStats.myName	do_Xmas
+myWicedMap.myMissionStats.mySPName	%02d－최종방어선
+myWicedMap.myMissionStats.myDescription	케스케이드폴의 주민은 소련군으로부터 도망치기 위해 어쩔수없이 피난했다. 그리고 지금 눈에 뒤덮힌 크리스마스장식들이 치장된 고요한 산간의 시가지에서 격전의 불씨가 타오른다.
+myWicedMap.myMissionStats.mySPDescription	케스케이드폴에서 소련군의 진격을 막는다. 이제 더 이상 한발자국도 앞으로 진군하게 해서는 않된다. 포트텔러까지 적이 진격하게 되면 스타워즈계획이 실제로는 그림의 떡이라는게 명백해지고 소련은 우리나라를 향해 즉각 핵미사일을 발사할 것이다. 말할 것도 없지만 그것은 기필코 저지해야만 한다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	크리스마스
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	크리스마스
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myDescription	마릭대령을 구속하라
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myLongDescription	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myVisualisationText	<empty>
+myWicedMap.myLocStrings.text00	[TEMP] 펑
+myWicedMap.myLocStrings.text01	\n현재 창 왼쪽에 있는 [계속하기]버튼을 누르면 미션이 시작됩니다
+myWicedMap.myLocStrings.text20	[TEMP] 이런! 학교가 파괴됐다! [TEMP]
+myWicedMap.myLocStrings.text25	[TEMP] 차량행열이 떠났다 [TEMP]
+myWicedMap.myLocStrings.text26	[TEMP] - 플레이어발견 - 지금 다리를 폭파한다... - [TEMP]
+myWicedMap.myLocStrings.01_A1_talk	소여상사 : 좋아, 시작하자. 적의 차량행열은 [x]분후에 도착한다. 준비는 빠른편이 좋아. 메인스트리트따라 늘어선 집안에 숨자.
+myWicedMap.myLocStrings.01_A2_talk	소여상사 : 차량행열이 도착전에 정찰부대가 올지도 모른다. 방심하지 않도록!
+myWicedMap.myLocStrings.01_A3_tip	집안에 병사를 배치하고 매복준비를 한다. 사격을 금하고, 적들에게 이른 시간에 병사들의 위치를 들키지 않게 방지할 것.
+myWicedMap.myLocStrings.01_A4_tip	사격을 금지하고 싶을 땐 유닛을 선택하고 [G]키를 누른다. 사격을 재개할 때는 다시 한번[G]키를 누를 것. 적을 우클릭해도 공격명령을 내릴 수가 있다.
+myWicedMap.myLocStrings.01_A5_tip	적을 우클릭하면 일시적인 공격명령도 내릴 수 있다. 사격금지모드인 유닛에게 공격을 명령한 경우, 그 유닛은 지정된 적유닛을 격파한 후, 사격금지모드로 돌아가며 다음 공격명령을 기다린다.
+myWicedMap.myLocStrings.01_B1_talk	공병대하사관 : 시에라 에이트로부터 시에라 식스에게. 다리를 파괴할 준비가 되었습니다, 소령. 명령이 있는대로 폭파하겠습니다.
+myWicedMap.myLocStrings.Diary1	[마르크스 올센 현지보고1]\n마르크스 올센. 배후에는 크리스마스를 목전에 둔 수많은 장식들이 넘치는 시가지.\n웨스트코스트힐의 옛스러운 시가지라고 보고서에 씌여 있다. 촌스러운 교외시가지는 지금까지 전쟁의 횡포를 피해 왔지만 이번만은 그렇지 않았다. 주민들은 시가지에서 피난했고 남아 있는 집들은 새로운 주인을 맞이했다. 무장하고 소련군과의 결전의 순간을 기다리는 병사들을 말이다.
+myWicedMap.myLocStrings.02_A1_talk	소여상사 : 척후병인 모양입니다, 소령. 여기서 정리해 버려도 좋지만 적의 대대에게 우리들의 위치를 큰소리로 알려주는 꼴이 될겁니다.
+myWicedMap.myLocStrings.02_A2_talk	소여상사 : 이대로 가게 놔둘거라면 이쪽 지원부대를 발견하지 못하도록 주의해야 합니다.
+myWicedMap.myLocStrings.02_A3_tip	지금 당장 기습을 걸 작정이라면 각자의 판단으로 발포하도록 명령해 주세요. 전투가 시작되면 다리는 폭파됩니다.
+myWicedMap.myLocStrings.02_B1_talk	소여상사 : 총원, 사격개시!
+myWicedMap.myLocStrings.02_B2_talk	공병하사관 : 여기는 시에라 에이트, 다리를 폭파한다! 퇴피해라!
+myWicedMap.myLocStrings.02_B3_talk	공병대하사관 : 젠장! 1개소 폭파실패했다! 그러니까 신관은 교체하자고 하니까! 뭐, 신관이 그거밖에 없어지만 말야.
+myWicedMap.myLocStrings.02_C1_talk	소여상사 : 적에게 우리의 존재를 들켜버렸습니다, 소령. 남은 차량행열은 공격에 대비하겠습니다.
+myWicedMap.myLocStrings.03_A1_talk	소여상사 : 왔습니다... 모두 침착해라. 명령할 때까지 쏘지 마라.
+myWicedMap.myLocStrings.03_A2_talk	소여상사 : 제길! 전투를 대비해 전개중입니다. 이쪽 위치를 파악하고 있습니다, 소령. 격전이 될것같습니다.
+myWicedMap.myLocStrings.03_B1_talk	소여상사 : 그다지 시간이 없습니다, 소령. 마릭이 도망가면 큰일날겁니다.
+myWicedMap.myLocStrings.03_B2_talk	소여상사 : 지금 당장 공격명령을 내리지 않으면 늦습니다, 소령.
+myWicedMap.myLocStrings.03_C1_talk	소여상사 : 이쪽이 우세합니다, 소령. 하지만 마릭대령은 도대체 어디에 있는거지?
+myWicedMap.myLocStrings.03_C2_talk	소여상사 : 적이 또 나타났습니다. 마릭대령도 함께 있는게 틀림없다!
+myWicedMap.myLocStrings.03_D1_talk	소여상사 : 녀석들은 언덕으로 향하고 있습니다. 박격포를 조심하십시오!
+myWicedMap.myLocStrings.03_E1_talk	소여상사 : 공격받고 있습니다! 명령을 부탁합니다! 대령이 거기에 있다면, 어떻게해서든 저 언덕을 제압해야만 합니다.
+myWicedMap.myLocStrings.03_E2_talk	소여상사 : 소령, 희생자 다수발생! 극진한 지원이 없다면 공격은 실패합니다! 증원을 요청하겠습니다.
+myWicedMap.myLocStrings.03_F1_talk	소여상사 : 지원부대가 도착! 가교전차도 손에 넣었습니다. 이것으로 강을 건너서 북쪽언덕을 강습할 수 있습니다.
+myWicedMap.myLocStrings.03_F2_tip	새로운 부대가 지휘하에 들어왔습니다. 부대의 위치는 발연통으로 통보됩니다. 그중 하나가 가교전차입니다.
+myWicedMap.myLocStrings.Diary2	[마르크스 올센 현장보고2]\n마르크스 올센. 배후의 조금 떨어진 장소에서는 전투가 진행되고 있다.\n격렬한 싸움이 펼쳐지고 소련의 종대를 지금 막 기습한 참이다. 오늘의 목표는 적의 사관을 나포하는 것이다. 잘하면 여기 소련군이 항복하지 않는 이유를 알 수 있을지 모른다. 항복하면 크리스마스전에 싸움을 끝낼 수 있을 것이다. 하지만 싸움의 상황을 보고 있자니 항복할 기미는 없어 보인다.
+myWicedMap.myLocStrings.04_A1_talk	소여상사 : 소령, 공군으로부터 연락입니다. 소련의 제4종대가 남쪽에서 접근하고 있습니다.전차, 장갑차, 헬기부대입니다. 놈들이 도착하기 전에 대령을 나포해 심문해야만 합니다. 예정대로 가교전차를 이용합시다.
+myWicedMap.myLocStrings.04_A2_tip	가교전차를 사용해 마킹되어 있는 장소에 다리를 이을 것.
+myWicedMap.myLocStrings.04_A3_tip	가교전차를 선택한 상태로 다리를 건설할 수 있는 장소에 마우스포인터를 움직이면 포인터가 다리모양으로 바뀐다. 그 상태로 우클릭하면 다리가 설치된다.
+myWicedMap.myLocStrings.04_A4_talk	소여상사 : 썩 잘된것같습니다, 소령. 습격부대를 건너도록 해주세요.
+myWicedMap.myLocStrings.04_A5_talk	소여상사 : 발밑을 조심해라. 잘 하면 기습을 걸 수 있습니다.
+myWicedMap.myLocStrings.04_A6_talk	소여상사 : 사격중지! 대령은 지프로 이동하고 있다고 생각됩니다.
+myWicedMap.myLocStrings.04_A7_talk	소여상사 : 마릭이 도망치려고 한다! 저 지프를 세워라! 쏴라!
+myWicedMap.myLocStrings.04_A8_talk	소여상사 : 엔진에 명중! 대령에게 탈것을.
+myWicedMap.myLocStrings.04_A9_tip	이로써 대령에게 명령할 수 있습니다. 대령을 차에 태우고 여기서 떨어집시다.
+myWicedMap.myLocStrings.04_A10_talk	소여상사 : 나포했습니다, 소령! 이탈합시다!
+myWicedMap.myLocStrings.04_A11_talk	소여상사 : 과연 맨입으로 사령관을 데려가게는 하지 않는군요. 대형차량을 조금 남겨 항전하도록 하겠습니다.
+myWicedMap.myLocStrings.05_A1_talk	육군첩보부원 : 반송에 감사한다, 소령. 지금부터는 우리에게 맡겨라. [x]분 후에는 출발 할 수 있다.
+myWicedMap.myLocStrings.05_A2_talk	소여상사 : 젠장, 저건 마릭대대의 생존병력입니다, 빠르군.
+myWicedMap.myLocStrings.05_A3_talk	육군첩보부원 : 조금 더 시간이 걸리겠다. 적을 저지해라, 소령. 그렇지 않으면 오늘 하루의 성과가 무의미하다.
+myWicedMap.myLocStrings.05_A4_talk	소여상사 : 시가지안에서 대응하면 발을 묶을 수 있습니다. 배넌대위와 전차대로 응원을 요청했습니다.
+myWicedMap.myLocStrings.05_B1_talk	소여상사 : 이대로는 돌파당합니다. 배넌대위는 어디입니까?
+myWicedMap.myLocStrings.05_B2_talk	소여상사 : 왔다! 배넌대위다!
+myWicedMap.myLocStrings.05_B3_talk	배넌대위 : 어디로 가면 됩니까, 소령?
+myWicedMap.myLocStrings.05_B4_tip	전차 몇대가 지휘하에 들어왔다. 전차의 위치는 발연통으로 통보된다. 전차를 사용해 적을 묶어라.
+myWicedMap.myLocStrings.05_C1_talk	소여상사 : 심문진척상태는?
+myWicedMap.myLocStrings.05_C2_talk	육군첩보부원 : 소련군의 의도에 대해 참고가 될만한 사항을 탐문한 참이다. 우리가 러시아에서 수집한 정보는 전부 사실인듯 하다. 후퇴해서 다음 계획을 세워야 한다.
+myWicedMap.myLocStrings.05_C3_talk	소여상사 : 이쪽 사정도 좋아 보입니다, 소령. 후퇴하겠습니다.
+myWicedMap.myLocStrings.05_D1_talk	육군첩보부원 : 적들을 가까이 오게 하지마라, 소령! 우리를 지키는 것이 자네의 역할이야!
+myWicedMap.myLocStrings.Diary3	[마르크스 올센현장보고3]\n마르크스 올센. 현장보고1때와 같은 장소에 있지만 지금은 대부분의 집이 파괴되어 있다.\n또 다시 우리는 승리를 손에 넣었지만 대신에 시가지가 폐허로 변했다. 우리군은 적의 대령을 나포했다. 그에게서 알아낸 정보가 전쟁의 조기종결에 도움이 되면 좋겠지만. 하지만, 주위를 둘러보면 이런 생각도 하게된다. 승리같은 건 무의미하다라고.
+myWicedMap.myLocStrings.msgInitialRussianAttack	소련 공격부대의 도착예정시간 : 
+myWicedMap.myLocStrings.msgBridgeDestroy	다리 파괴까지 남은 시간 : 
+myWicedMap.myLocStrings.msgFortifyTownCenter	시가지 중심부에 방어진지를 구축 : 
+myWicedMap.myLocStrings.msgLaunchNuke	핵폭탄 투하 : 

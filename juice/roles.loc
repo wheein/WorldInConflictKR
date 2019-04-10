@@ -1,0 +1,27 @@
+﻿Roles.Army.myUIName	보병
+Roles.Army.myDescription	보병병과의 유닛은 이동속도가 느리고 확 트인 장소에서는 쉽게 공격받습니다. 하지만 주택이나 숲에 몸을 숨기면 놀랄만한 힘을 발휘할 수 있습니다.
+Roles.Engineer.myUIName	지원
+Roles.Engineer.myDescription	지원병과의 유닛은 수리, 화력지원, 대공엄호의 능력을 갖추고 있습니다. 하지만 접근전은 매우 취약합니다.
+Roles.Armor.myUIName	기갑
+Roles.Armor.myDescription	기갑병과의 유닛은 이른바 육상전력의 주역이라고 할 수 있지만 헬리콥터와 숨어 있는 보병에게 매우 취약합니다.
+Roles.Air.myUIName	항공
+Roles.Air.myDescription	항공병과의 유닛은 기동성이 높고 화력이 압도적이지만 전략거점을 공략하지 못합니다.
+Roles.FPM.myUIName	<empty>
+Roles.FPM.myDescription	<empty>
+Roles.SINGLEPLAYER.myUIName	<empty>
+Roles.SINGLEPLAYER.myDescription	<empty>
+Roles.SINGLEPLAYER_USSR.myUIName	<empty>
+Roles.SINGLEPLAYER_USSR.myDescription	<empty>
+RebateColors.RebateColor(0).myRoleName	고유
+RebateColors.RebateColor(1).myRoleName	코스트환원 완료
+RebateColors.RebateColor(2).myRoleName	보통
+RebateColors.RebateColor(3).myRoleName	추가코스트
+RebateColors.RebateColor(4).myRoleName	한정
+AIRoleDescriptions.Balanced.myUISelectionName	밸런스형
+AIRoleDescriptions.Balanced.myDescription	이 AI는 밸런스가 잡혀 있습니다.
+AIRoleDescriptions.Aggressive.myUISelectionName	공격형
+AIRoleDescriptions.Aggressive.myDescription	이 AI는 공격을 중시합니다.
+AIRoleDescriptions.Defensive.myUISelectionName	방어형
+AIRoleDescriptions.Defensive.myDescription	이 AI는 방어를 중시합니다.
+AIRoleDescriptions.Obedient.myUISelectionName	순종형
+AIRoleDescriptions.Obedient.myDescription	이 AI는 상당히 순종적으로 움직입니다.

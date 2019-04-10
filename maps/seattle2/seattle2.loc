@@ -1,0 +1,268 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	지하도
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	지하도를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	지하도의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 지하도를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	킹덤
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	킹덤을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	킹덤의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 킹덤을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	I-90교
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	I-90교를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	I-90교의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 I-90교를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	5번가와 잭슨거리의 교차점
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	5번가와 잭슨거리의 교차점을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	5번가와 잭슨거리를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	적이 5번가와 잭슨거리의 교차점을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	킹스트리트역
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	킹스트리트역을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	킹스트리트역을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 킹스트리트역을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	1번가
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	1번가를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	1번가의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 1번가를 점령했다
+myWicedMap.myMissionStats.myName	as_Dome
+myWicedMap.myMissionStats.mySPName	%02d－침략!
+myWicedMap.myMissionStats.myDescription	시애틀의 평온한 일상은 침략자에 의해 처참하게 짓밟혔다. 소련군이 항구, 킹덤 스타디움, 그리고 중심부의 좁은 골목을 이용해 쳐들어 온 것이다.
+myWicedMap.myMissionStats.mySPDescription	소련군의 시애틀기습으로 미군은 완전히 허를 찔린 상태다. 자네의 이름은 파커중위. 때가 늦기 전에 미군 잔재부대를 집결시키고 민간인들을 되도록이면 빨리 피난시키라는 명령을 받았다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	돔
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	돔
+myWicedMap.myMissionStats.myPrimaryObjectives.FindBrigade.myDescription	여단지휘소를 찾아내라
+myWicedMap.myMissionStats.myPrimaryObjectives.FindBrigade.myLongDescription	마지막 통신에 의하면 여단지휘소는 이 근처 일대 어딘가에 있을 것이다. 지시에 따르기 위해 여단지휘소를 찾아낸다.
+myWicedMap.myMissionStats.myPrimaryObjectives.FindBrigade.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.StayAlive.myDescription	적어도 [x]개의 부대를 생존시킨다.
+myWicedMap.myMissionStats.myPrimaryObjectives.StayAlive.myLongDescription	부대가 전멸하면 미션은 실패한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.StayAlive.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.CaptureCP1.myDescription	소련군을 격파하고 전략거점을 점령하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.CaptureCP1.myLongDescription	소련군이 전략적요점을 점령하고 자네의 전진을 저지하고 있다. 수단을 가릴거 없이 적을 격파하고 일대를 확보해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.CaptureCP1.myVisualisationText	소련군을 격파하고 전략거점을 점령하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Flanker.myDescription	적의 측면으로 돌아가서 타격하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Flanker.myLongDescription	북동쪽에 전개하고 있는 적의 측면으로 돌아가서 타격하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Flanker.myVisualisationText	적의 측면으로 돌아가서 타격하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.LinkUpAtStadium.myDescription	스타디움에 있는 우군과 만나라.
+myWicedMap.myMissionStats.myPrimaryObjectives.LinkUpAtStadium.myLongDescription	스타디움에서 후위부대를 형성하도록 명령받았다. 우군과 접촉하기위해 당장 스타디움으로 가라.
+myWicedMap.myMissionStats.myPrimaryObjectives.LinkUpAtStadium.myVisualisationText	스타디움에 있는 우군과 만나라.
+myWicedMap.myMissionStats.myPrimaryObjectives.DestroyArtillery.myDescription	모든 적 포병대를 찾아내서 격멸하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.DestroyArtillery.myLongDescription	적이 스타디움에 포격을 가해 왔다. 모든 적포병대를 찾아 내서 격파해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.DestroyArtillery.myVisualisationText	모든 적 포병대를 찾아내서 격멸하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.RepellFirstWave.myDescription	스타디움까지 후퇴해서 방어선을 보존및 유지하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.RepellFirstWave.myLongDescription	판국이 지극히 불리하다. 스타디움까지 철수해라. 철수 도중에 건물마다 약간의 보병부대를 투입해 놓고 가라. 스타디움에 도달하면 공격해 오는 적을 격퇴해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.RepellFirstWave.myVisualisationText	스타디움까지 후퇴해서 방어선을 보존및 유지하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Locked.myDescription	전차소대와 접촉하고 그들을 스타디움까지 유도하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Locked.myLongDescription	도착한 우군 전차대를 스타디움까지 유도 할 필요가 있다. 그들과 접촉하고 스타디움까지 유도해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Locked.myVisualisationText	전차소대와 접촉하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.FinalHold.myDescription	[x]분 동안 스타디움 방어선을 보존및 유지하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.FinalHold.myLongDescription	적이 스타디움에 대대적인 공세를 취해 왔다. 여단의 철수가 완료될 때까지 적을 저지해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.FinalHold.myVisualisationText	[x]분 동안 스타디움 방어선을 보존및 유지하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeHarborCP.myDescription	하이웨이의 육교주변을 확보하고 보존및 유지하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeHarborCP.myLongDescription	하이웨이 육교주변의 전략요점을 모두 제압하고 보존및 유지해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeHarborCP.myVisualisationText	하이웨이의 육교주변을 확보하고 보존및 유지하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.SecureKingDome.myDescription	스타디움주변을 확보하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.SecureKingDome.myLongDescription	스타디움주변의 전략요점을 모두 제압하고 보존및 유지해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.SecureKingDome.myVisualisationText	스타디움주변을 확보하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Follow.myDescription	우군을 따라 시가지에서 철수하라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Follow.myLongDescription	모든 미군이 시애틀에서 철수를 시작했다. 우군을 따라 시가지에서 떨어져라.
+myWicedMap.myMissionStats.myPrimaryObjectives.Follow.myVisualisationText	우군을 따라 시가지에서 철수하라.
+myWicedMap.myMissionStats.mySecondaryObjectives.TacticalAid.myDescription	소련군 보병부대를 포병대로 공격하라.
+myWicedMap.myMissionStats.mySecondaryObjectives.TacticalAid.myLongDescription	시애틀 교외에 배치된 포병중대에게 공격명령을 내릴 수 있다. 포격을 요청해 적이 틀어박혀 있는 가옥을 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.TacticalAid.myVisualisationText	소련군 보병부대를 포병대로 공격하라.
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	지하도
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	지하도를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	지하도를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	1번가
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	1번가를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	1번가를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	킹덤
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	킹덤을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	킹덤을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	킹스트리트역
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	킹스트리트역을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	킹스트리트역을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myDescription	5번가와 잭슨거리의 교차점
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myLongDescription	5번가와 잭슨거리의 교차점을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myVisualisationText	5번가와 잭슨거리의 교차점을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myDescription	I-90교
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myLongDescription	I-90교를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myVisualisationText	I-90교를 점령해라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	지하도
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	지하도를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	지하도를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	1번가
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	1번가를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	1번가를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	킹덤
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	킹덤을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	킹덤을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	킹스트리트역
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	킹스트리트역을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	킹스트리트역을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myDescription	5번가와 잭슨거리의 교차점
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myLongDescription	5번가와 잭슨거리의 교차점을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myVisualisationText	5번가와 잭슨거리의 교차점을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myDescription	I-90교
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myLongDescription	I-90교를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myVisualisationText	I-90교를 지켜라
+myWicedMap.myMissionStats.myScriptEvents.Obj1Primary.myString	지휘소를 점령해라. 용서하지 마라!
+myWicedMap.myMissionStats.myScriptEvents.ScriptEventNewReinforcements.myString	새로운 유닛이 주어졌다.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool7.myHeader	전투학교－레슨7
+myWicedMap.myMissionStats.myTipTexts.CombatSchool7.myText	전략거점이란 문자 그대로 전략상 중요한 지점을 말한다. 각각의 전략거점은 하얀 동그라미로 표시되며 2개 내지 3개로 서로 이어진 주변거점으로 구성되어 있다. 전략거점에 있는 모든 주변거점을 동시에 제압하지 않으면 전략거점을 제압했다고 할 수 없다.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool8.myHeader	전투학교－레슨8
+myWicedMap.myMissionStats.myTipTexts.CombatSchool8.myText	모든 유닛에게는 장갑강도라는 것이 있다. 통상적으로 차량의 측면, 정면, 후면은 강도가 낮아 공격당한다면 충분한 방어력을 발휘할 수 없다. 전투시에는 이러한 특성을 고려해 차량의 정면이 항상 적과 정면을 대하도록 부대를 움직여라.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool9.myHeader	전투학교－레슨9
+myWicedMap.myMissionStats.myTipTexts.CombatSchool9.myText	하나의 전략거점을 우군과 연계해서 확보하는 것도 가능하다. 예를 들어 우군이 하나의 주변거점을 보존및 유지하고 있다면 자네의 부대가 남은 주변거점을 확보함으로써 전략거점을 제압할 수 있다.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool10.myHeader	전투학교－레슨10
+myWicedMap.myMissionStats.myTipTexts.CombatSchool10.myText	전술지원의 형태로 우군포병대를 쓸 수 있게 됐다.전략거점을 제압하거나 적부대를 격파하는 등 공적을 올리면 전술지원포인트를 획득할 수 있다. 그리고 이 포인트를 사용해 포격과 공폭등을 명령할 수 있는 것이다. 포격을 실시할 때는 전술지원버튼을 눌러 포격을 선택. 맵상에서 포격하고 싶은 장소를 우클릭해라.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool11.myHeader	전투학교－레슨11
+myWicedMap.myMissionStats.myTipTexts.CombatSchool11.myText	어느 장소를 점령하거나 확보하라는 명령받았을 때는 그 장소에 있는 전략거점을 지배해야 한다. 특정장소를 보존및 유지하라고 명령받았다면 그것은 거기에 있는 전략거점을 적에게 빼앗겨서는 않된다는 것이다. 적에게 전략거점을 빼앗겨 빨간 동그라미가 되면 목표달성은 실패한다.
+myWicedMap.myMissionStats.myTipTexts.RetreatToKD.myHeader	<empty>
+myWicedMap.myMissionStats.myTipTexts.RetreatToKD.myText	스타디움에서 후퇴해라. 후퇴 도중에 건물에 약간의 보병분대를 투입시켜 소련군의 진격을 늦춰라.
+myWicedMap.myMissionStats.myMessageBoxList.DUMMY.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.DUMMY.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.02_01.myText	조심하십시오. 소련군의 교두보가 곧 보입니다.
+myWicedMap.myMissionStats.myMessageBoxList.02_01.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_02.myText	소련군은 어디에 있는 걸까요? 여긴 너무나 조용하군요.
+myWicedMap.myMissionStats.myMessageBoxList.02_02.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_03.myText	왔다! 전투태세!
+myWicedMap.myMissionStats.myMessageBoxList.02_03.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_04.myText	적 차량이다! 전진을 위해선 전투는 피할 수 없다. 모두, 공격!
+myWicedMap.myMissionStats.myMessageBoxList.02_04.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_05.myText	적 유닛을 격파했습니다. 이로써 일대를 확보할 수 있습니다.
+myWicedMap.myMissionStats.myMessageBoxList.02_05.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_06.myText	해냈군요, 중위.
+myWicedMap.myMissionStats.myMessageBoxList.02_06.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_07.myText	여기는 탱고 식스. 시애틀의 다운타운에 있는 전부대는 후방의 스타디움에 집결하고 방어선을 펼쳐라. 소련군의 진격을 조금이라도 늦춰야 한다. 여기는 여단지휘소를 재설치하고 운영하고 있다. 최대한 시간을 벌어라.
+myWicedMap.myMissionStats.myMessageBoxList.02_07.myPortraitText	탱고 식스
+myWicedMap.myMissionStats.myMessageBoxList.02_08.myText	중위, 방금은 여단장입니다. 우리는 후방의 수비를 명받았습니다. 부하를 스타디움에 집결시켜 주십시오. 셰리던의 지휘권은 중위에게 있습니다.
+myWicedMap.myMissionStats.myMessageBoxList.02_08.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_09.myText	북동쪽에도 적이 있습니다. 측면을 찔러 해치웁시다. 나중에 배후에서 덮쳐오면 귀찮으니까요.
+myWicedMap.myMissionStats.myMessageBoxList.02_09.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_10.myText	훌륭한 기동력입니다, 중위.
+myWicedMap.myMissionStats.myMessageBoxList.02_10.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_11.myText	여기는 줄리엣 원! 스타디움옆에서 격렬한 공격을 받고 있다. 누군가가 도와 줬으면 한다!
+myWicedMap.myMissionStats.myMessageBoxList.02_11.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_12.myText	여기는 시에라 세븐. 지금 그쪽으로 이동중이다.
+myWicedMap.myMissionStats.myMessageBoxList.02_12.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_13.myText	라져. 그때까지 최대한 버텨 보겠다.
+myWicedMap.myMissionStats.myMessageBoxList.02_13.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_14.myText	기다리다 지칠 지경이다, 시에라. 자, 함께 적을 일소하자.
+myWicedMap.myMissionStats.myMessageBoxList.02_14.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_15.myText	라져. 공격개시.
+myWicedMap.myMissionStats.myMessageBoxList.02_15.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_16.myText	스타디움 주변의 중요거점을 모두 제압할 필요가 있다.
+myWicedMap.myMissionStats.myMessageBoxList.02_16.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_17.myText	라져.
+myWicedMap.myMissionStats.myMessageBoxList.02_17.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_18.myText	위험한 순간이었다. 자네들이 와 줘서 다행이야.
+myWicedMap.myMissionStats.myMessageBoxList.02_18.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_19.myText	여단지휘소를 찾고 있는 중이지만.
+myWicedMap.myMissionStats.myMessageBoxList.02_19.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_20.myText	명령은 받았나?
+myWicedMap.myMissionStats.myMessageBoxList.02_20.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_21.myText	아, 후방에서 수비를 맡으라는 지시다.
+myWicedMap.myMissionStats.myMessageBoxList.02_21.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_22.myText	좋아. 이곳에 방어선을 펼치고 되도록이면 길게 끌어 보도록. 여단을 위해 시간을 벌어야 한다.
+myWicedMap.myMissionStats.myMessageBoxList.02_22.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_23.myText	젠장! 누가 저 포병을 어떻게 좀 해 봐라!
+myWicedMap.myMissionStats.myMessageBoxList.02_23.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_24.myText	우리에게 맡겨라.
+myWicedMap.myMissionStats.myMessageBoxList.02_24.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_25.myText	포탄은 항구쪽에서 날아 온다. 저쪽은 상당히 위험지대다. 조심해라. 이쪽 부대가 앞장서겠다.
+myWicedMap.myMissionStats.myMessageBoxList.02_25.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_26.myText	여기는 탱고 식스. 지금 그쪽으로 증원을 보내겠다.
+myWicedMap.myMissionStats.myMessageBoxList.02_26.myPortraitText	탱고 식스
+myWicedMap.myMissionStats.myMessageBoxList.02_27.myText	동료들이 소련군의 대전차보병에게 당하고 있습니다! 놈들은 빌딩에 숨어서 공격하고 있는 것 같습니다다. 어떻게든 해야 합니다.
+myWicedMap.myMissionStats.myMessageBoxList.02_27.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_28.myText	전술지휘센터로부터 통신이 와 있습니다. 우리가 요청한다면 포격해 주겠다고 합니다!
+myWicedMap.myMissionStats.myMessageBoxList.02_28.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_65.myText	시에라 세븐, 여기는 탱고 식스. 45초 이내에 공격을 요청해 주길 바란다. 다른 포병대가 포격준비를 정비하고 대기중이다.
+myWicedMap.myMissionStats.myMessageBoxList.02_65.myPortraitText	탱고 식스
+myWicedMap.myMissionStats.myMessageBoxList.02_29.myText	일부를 해치웠다!
+myWicedMap.myMissionStats.myMessageBoxList.02_29.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_30.myText	탱고 식스다. 넓게 트인 장소에 있는 적병을 발견했다. 좌표를 보낼테니 포격해 주게.
+myWicedMap.myMissionStats.myMessageBoxList.02_30.myPortraitText	탱고 식스
+myWicedMap.myMissionStats.myMessageBoxList.02_31.myText	좌표확인. 포격하겠다.
+myWicedMap.myMissionStats.myMessageBoxList.02_31.myPortraitText	전술지휘센터의 사관
+myWicedMap.myMissionStats.myMessageBoxList.02_32.myText	해냈군요, 중위. 부두로 이동합시다.
+myWicedMap.myMissionStats.myMessageBoxList.02_32.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_33.myText	적은 처리했습니다. 부두로 이동합시다.
+myWicedMap.myMissionStats.myMessageBoxList.02_33.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_34.myText	시간을 무의미하게 쓰면 그만큼 많은 사람이 죽습니다. 서둘러 주십시오.
+myWicedMap.myMissionStats.myMessageBoxList.02_34.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_35.myText	이동하지 않으면 적의 먹잇감이 될 뿐입니다. 당장 전원에게 이동명령을 내리십시오!
+myWicedMap.myMissionStats.myMessageBoxList.02_35.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_36.myText	저쪽에 포병이! 먼저 호위병을 해치웁시다!
+myWicedMap.myMissionStats.myMessageBoxList.02_36.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_37.myText	시에라, 포병을 잘 처리해 줬다. 일대를 확보하고 되도록 시간을 길게 끌어주게. 지금 이쪽의 부대를 보내겠다.
+myWicedMap.myMissionStats.myMessageBoxList.02_37.myPortraitText	줄리엣 원
+myWicedMap.myMissionStats.myMessageBoxList.02_38.myText	이곳을 계속 확보해 둬야 합니다! 당장 탈환하겠습니다!
+myWicedMap.myMissionStats.myMessageBoxList.02_38.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_39.myText	여기는 줄리엣. 다수의 적차량이 이쪽을 향하고 있다. 스타디움까지 후퇴하는 편이 나아 보인다.
+myWicedMap.myMissionStats.myMessageBoxList.02_39.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_40.myText	후퇴해야 합니다, 중위. 하지만 보병을 조금 남겨두고 갑시다. 건물에 숨게 하면 후방수비에 도움이 될테니까.
+myWicedMap.myMissionStats.myMessageBoxList.02_40.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_41.myText	이제 시간이 없습니다. 이동합시다.
+myWicedMap.myMissionStats.myMessageBoxList.02_41.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_42.myText	젠장, 어떻게 된 숫자냐! 더 이상은 무리입니다. 당장에 스타디움까지 후퇴합시다.
+myWicedMap.myMissionStats.myMessageBoxList.02_42.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_43.myText	돌아와 줘서 다행이다, 시에라. 이곳은 우리가 저지하겠다.
+myWicedMap.myMissionStats.myMessageBoxList.02_43.myPortraitText	스타디움의 지휘관
+myWicedMap.myMissionStats.myMessageBoxList.02_44.myText	쳐들어 왔다! 모두 정신차려라!
+myWicedMap.myMissionStats.myMessageBoxList.02_44.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_45.myText	돌파당할지도 모른다! 전부대, 반격한다!
+myWicedMap.myMissionStats.myMessageBoxList.02_45.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_46.myText	적은 아직 남아있다. 남쪽에서 전차소대가 접근중이다. 녀석들을 요격해 이리 유도해 주지 않겠나?
+myWicedMap.myMissionStats.myMessageBoxList.02_46.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_47.myText	맡겨주십시오, 줄리엣.
+myWicedMap.myMissionStats.myMessageBoxList.02_47.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_48.myText	동료들이 있습니다. 적과 교전중이다! 협력해 줍시다.
+myWicedMap.myMissionStats.myMessageBoxList.02_48.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_49.myText	덕분에 살았다. 스타디움으로 향하는 도중에 매복이 있었다. 놈들, 어디서든 귀찮게 구는군.
+myWicedMap.myMissionStats.myMessageBoxList.02_49.myPortraitText	M60전차의 대위
+myWicedMap.myMissionStats.myMessageBoxList.02_50.myText	아닙니다, 대위. 자, 스타디움까지 앞장서겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.02_50.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_50a.myText	라져.
+myWicedMap.myMissionStats.myMessageBoxList.02_50a.myPortraitText	M60전차의 대위
+myWicedMap.myMissionStats.myMessageBoxList.02_51.myText	해냈군! 그 전차는 꽤 쓸만할 거야.
+myWicedMap.myMissionStats.myMessageBoxList.02_51.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_52.myText	적은 당장이라도 태세를 정비하고 다시 공격해 올 것이다. 지금 여단에서 연락이 왔다. 앞으로 [x]분정도 견뎌내라는 명령이다.
+myWicedMap.myMissionStats.myMessageBoxList.02_52.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_53.myText	측면이다!
+myWicedMap.myMissionStats.myMessageBoxList.02_53.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_54.myText	적은 후방입니다!
+myWicedMap.myMissionStats.myMessageBoxList.02_54.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_55.myText	적은 좌측입니다!
+myWicedMap.myMissionStats.myMessageBoxList.02_55.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_56.myText	중위, 전차에 주의해라!
+myWicedMap.myMissionStats.myMessageBoxList.02_56.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_57.myText	놈들은 당장이라도 다시 올겁니다! 탄약확인을!
+myWicedMap.myMissionStats.myMessageBoxList.02_57.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_58.myText	넓게 트인 장소에 보병이!
+myWicedMap.myMissionStats.myMessageBoxList.02_58.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_59.myText	연막탄을 끼얹어 줘라!
+myWicedMap.myMissionStats.myMessageBoxList.02_59.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_60.myText	반드시 저지한다!
+myWicedMap.myMissionStats.myMessageBoxList.02_60.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_61.myText	앞으로 [x]분안에 철수한다.
+myWicedMap.myMissionStats.myMessageBoxList.02_61.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_62.myText	줄리엣 식스로부터 시애틀의 전부대에게. 이 도시를 잃었다. 철수할 수 밖에 없다. 내일의 싸움에 희망을 걸자.
+myWicedMap.myMissionStats.myMessageBoxList.02_62.myPortraitText	줄리엣
+myWicedMap.myMissionStats.myMessageBoxList.02_63.myText	그들의 뒤를 따라 거리를 나갑시다. 그리고 서로 헤어져서 다른 루트로 로슬린 집합지점으로 향하는 겁니다.
+myWicedMap.myMissionStats.myMessageBoxList.02_63.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_64.myText	모두들, 로슬린 집합지점으로 향한다. 지그재그대형으로 주의하면서 전진해라. 아직 적의 세력권을 벗어난게 아니니까.
+myWicedMap.myMissionStats.myMessageBoxList.02_64.myPortraitText	소여상사
+myWicedMap.myMissionStats.myMessageBoxList.02_100.myText	시간이 됐습니다. 전술지휘센터는 좌표를 확인했습니다. 당장이라도 포격을 시작할 것입니다.
+myWicedMap.myMissionStats.myMessageBoxList.02_100.myPortraitText	소여상사

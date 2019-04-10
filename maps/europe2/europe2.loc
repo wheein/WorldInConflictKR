@@ -1,0 +1,70 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	시장의 집
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	시장의 집을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	시장의 집을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 시장의 집을 제압했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	중앙도로
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	중앙도로를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	중앙도로의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 중앙도로를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	시장
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	시장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	시장의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 시장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	보급기지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	보급기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	보급기지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 보급기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	교회
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	교회를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	교회를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 교회를 점령했다
+myWicedMap.myMissionStats.myName	as_Hillside
+myWicedMap.myMissionStats.mySPName	%02d－침공작전
+myWicedMap.myMissionStats.myDescription	남프랑스 공방전은 날이 갈수록 격심해지고 있었다. 지금 프랑스의 오래된 거리는 NATO군과 소련군들의 폭격으로 인해 볼품없이 망가져 있다.
+myWicedMap.myMissionStats.mySPDescription	소여대령휘하의 전투집단은 최종공세를 개시하기 전에 적사단의 총사령부를 치도록 명령받았다. 시가지를 우선 탈환한뒤 언덕위에 있는 적사령부를 파괴하면 소련점령군에게 큰 타격을 줄 수 있을 것이다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	산중턱
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	산중턱
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	시장의 집
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	시장의 집을 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	시장의 집을 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	중앙도로
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	중앙도로를 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	중앙도로를 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	시장
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	시장을 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	시장을 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	보급기지
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	보급기지를 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	보급기지를 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	교회
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	교회를 제압해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	교회를 제압해라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	시장의 집
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	시장의 집을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	시장의 집을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	중앙도로
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	중앙도로를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	중앙도로를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	시장
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	시장을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	시장을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	보급기지
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	보급기지를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	보급기지를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	교회
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	교회를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	교회를 지켜라
+myWicedMap.myLocStrings.Mainoffensivebegins	주공세 개시 : 

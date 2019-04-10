@@ -1,0 +1,240 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	배넌은 공식적으로 사바티에소령의 죽음에 대한 책임을 추궁받지 않았다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	하지만 우리가 노르웨이행 비행기에 오르기 직전에 대령은 배넌을 어디론가 데리고 갔다. 두 사람이 돌아 왔을 때 배넌의 얼굴에는 반성의 기미가 역력했다. 하지만 배넌의 지금까지의 행동거지로 보아 대령의 쓴소리가 얼마나 먹혀 들었을지는 미지수다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	우리의 임무는 국가최고기밀에 속했다. 노르웨이의 시르셰네스에 도착해서야 처음으로 우리는 임무의 개요를 듣게 되었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	우리의 임무는 소련령내에 있는 무르만스크근교로 강하해 추락한 스텔스폭격기의 프로토타입을 찾아내는 것이었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	기내에는 기밀정보가 남아있다. 무조건 소련군보다 먼저 추락현장에 도착해야 한다. 운좋게도 노르웨이군 레인져부대가 우리를 지원해 줄것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	레인져부대를 지휘하는 요한센소령은 지휘관으로 4번이나 소련령내에 잠입하는 임무를 수행하고 있었다. 말은 별로 없지만 유능한 인물이다. 얼어붙은 적지라곤 해도 소령의 가이드가 있다면 꽤나 든든할 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CrashSite.myDescription	추락현장을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CrashSite.myLongDescription	신속하게 추락현장주변의 안전을 확보한다. 레인져부대를 현장까지 유도해 소련군을 일소하고 추락현장을 지켜라. 침입할 때는 적에게 들키지 않도록 숲을 통해 갈 것.\n\n목표달성을 위해서는 추락현장을 확보해야 한다.\n\n추락현장을 확보하기 전에 부대가 전멸하면 실패한다.\n\n현시점에서는 증원요청은 할 수 없다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CrashSite.myVisualisationText	추락현장을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myDescription	대공포를 파괴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myLongDescription	공병과 증원이 올 수 있도록 대공포를 파괴해야 한다. 레인져부대를 이용해 포격을 요청해서 소련군을 공격한다.\n\n목표를 달성하려면 맵상에 마킹된 대공포부대를 격파해야 한다.\n\n대공포부대를 격파하기 전에 부대가 전멸하면 미션은 실패한다.\n\n현시점에서는 증원요청은 할 수 없다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myVisualisationText	대공포를 파괴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldCrashSite.myDescription	추락현장을 사수하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldCrashSite.myLongDescription	현장은 확보되었다. 하지만 공병이 임무를 끝내기 전까지 현장을 사수할 필요가 있다. 공병의 일은 기체의 잔해로부터 카메라와 필름을 회수하고 나머지를 전부 폭파처리하는 것이다.\n\n목표달성을 위해서는 공병이 임무를 완료할 때까지 현장을 지켜야만 한다.\n\n추락현장주변에 소련군이 방어진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldCrashSite.myVisualisationText	추락현장을 사수하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Extraction.myDescription	퇴로를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Extraction.myLongDescription	파일럿은 구출되었다. 남은건 철수뿐이지만 예정되어 있던 퇴로를 소련군전투집단이 봉쇄해 버렸다. 적 대응부대가 오기 전에 이 전투집단을 격파하고 퇴로를 확보해야 한다.\n\n목표를 달성하려면 퇴로상에 마킹된 좁은 길에 방어진지를 구축해야 한다.\n\n제한시간내에 이 목표를 달성하지 못하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Extraction.myVisualisationText	퇴로를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart1.myDescription	역을 수색하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart1.myLongDescription	추락한 파일럿이 근처에 구속되어 있다는 정보를 입수했다. 우선은 역을 수색해라. 규모가 큰 적 대응부대가 근처의 도시에서 출격했다. 작전은 일각을 다툰다.\n\n목표달성을 위해서는 역을 확보해야 한다.\n\n제한시간내에 역을 제압하지 못하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart1.myVisualisationText	역을 수색하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart2.myDescription	단지를 수색하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart2.myLongDescription	파일럿은 단지의 어딘가에 구속되어 있다. 구출하려면 한동씩 수색해 나가는 수밖에 없다. 소련군부대는 그리 멀지 않은 곳까지 온 것 같다. 적이 도달하기 전에 수색을 완료해라.\n\n목표달성을 위해서는 제한시간내에 주변건물을 수색해서 파일럿을 찾아 낼 것. 그러는 동안 각각의 전략거점을 보존및 유지하는 것도 필요하다.\n\n시간내에 파일럿을 발견하지 못하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart2.myVisualisationText	단지를 수색하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myDescription	배넌을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myLongDescription	소련군의 헬기부대를 상대로 싸우고 있는 배넌을 지원해라. 보유한 대공부대를 배넌 곁으로 보내 헬기를 소탕한다.\n\n목표달성을 위해서는 배넌대위를 공격하는 헬리콥터를 격파해야 한다.\n\n적 헬기를 살려 보냈을 경우 목표달성은 실패한 것이 된다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myVisualisationText	배넌을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyPowerPlant.myDescription	발전소를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyPowerPlant.myLongDescription	발전소는 최적의 전략목표다. 이것을 파괴하면 넓은 범위에 걸쳐 정전이 되니 소련의 인프라에 큰 타격을 줄 수 있을 것이다.\n\n목표달성을 위해서는 발전소내에 있는 마킹된 건물을 파괴해야 한다.\n\n대령이 목표지점에 공군파견을 결단내리기 전에 마킹된 건물을 파괴하지 못하면 목표달성에 실패하게 된다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyPowerPlant.myVisualisationText	발전소를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SecureTrainStation.myDescription	역을 탈환하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SecureTrainStation.myLongDescription	역을 탈환하고 그곳에 증원이 강하할 수 있도록 해라.\n\n목표를 달성하려면 역을 탈환해야 한다.\n\n단지를 수색하는 중에 소련군이 역을 확보하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SecureTrainStation.myVisualisationText	역을 탈환하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HoldTrainStation.myDescription	역을 사수하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HoldTrainStation.myLongDescription	역을 사수하고 그곳에 증원이 강하할 수 있도록 해라. 소련군이 역을 제압한 경우는 역을 탈환할 때까지 추락현장에 증원을 보내야 한다.\n\n목표를 달성하려면 미션완료까지 역사를 빈틈없이 지켜야 한다.\n\n단지를 수색하는 중에 소련군이 역을 제압하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HoldTrainStation.myVisualisationText	역을 사수하라
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneReduce.myString	강하지점이 축소됐다
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcmentsAndTA.myString	증원과 화기지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenMoreAP.myString	보다 많은 지원포인트가 지급됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.trucksGiven.myString	트럭을 증원요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcments.myString	증원요청을 할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	전술지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenMoreTA.myString	전술지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_01.myText	파커, 추락현장은 근처에 있을 것이네. 레인져부대를 지휘해서 현장으로 향하게. 적이 있다면 제거하고.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_01.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_02.myText	증원파견이 가능해 질때까지는 이 레인져부대가 유일한 전력이네. 불필요한 모험은 삼가토록 하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_02.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_03.myText	여기는 델타 식스. 25키로 전방에 적의 육군기지 발견, 대규모 대응부대가 대기하고 있다. 아직 이쪽의 존재는 눈치채지 못했지만 들키는 건 시간문제다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_03.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_04.myText	시간과의 승부군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_04.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_05.myText	적이네! 공격하게, 파커! 레인져부대는 화력지원을 요청할 수 있다는 걸 잊지말고!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_05.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_06.myText	이 일대를 확보했다. 당장 방어진지를 구축한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_06.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_07.myText	좋아, 추락지점을 제압했다. 남은 건 공병이 작업을 끝낼 때까지 이곳을 사수하는 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_07.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_08.myText	레인져부대와 연락이 두절됐다. 이반에게 들킨 모양이다. 미션을 중지한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_08.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_09.myText	파커! 서둘러서 추락지점을 다시 제압해 주게. 아직 공병들이 작업을 끝내지 못했어!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_09.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_10.myText	공병이 카메라와 필름을 회수하고 기체의 잔해에 폭약을 설치했다. 모두 잘 했다! 자, 모두 폭발에 말려들지 않게 떨어지도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_10.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_11.myText	추락지점을 제압하는데 실패했고 기체도 소련군의 손에 들어갔다. 미션은 중지다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_11.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_12.myText	파커! 추락지점 근처에 소련군 대공부대가 있네. 그것을 격파하지 않으면 공병과 증원을 부를 수 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_12.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_13.myText	앞으로 한곳 남았네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_13.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_14.myText	일대를 제압했다. 증원은 머지않아 도착할거야. 배넌, 자네는 도착하는대로 북측으로 이동하게. 넓게 트인 지형에서는 자네의 전차가 큰 도움이 될테니까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_14.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_15.myText	라져. 쥐새끼 한마리도 지나가지 못하게 하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_15.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_16.myText	부탁하네. 착륙후 공병은 곧바로 필름회수작업을 실시한다. 작업이 끝나면 기체를 날려 버려라. 모두 방심하지 말도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_16.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_17.myText	여기는 배넌! 소련군의 헬기에게 공격받고 있습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_17.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_18.myText	파커! 배넌에게는 대공병기가 없네. 가서 도와 주게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_18.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_19.myText	파커, 빨리 구하러 오라구! 뭘 우물쭈물하고 있는거야?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_19.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_20.myText	파커, 빨리 대공지원을 해 줘! 부하들이 계속 죽어가잖아!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_20.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_21.myText	너무 느긋한거 아냐, 파커. 어쨌든 구해줘서 고맙군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_21.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_22.myText	파커, 이제 도움따위 필요 없다. 적 헬기는 돌아갔어. 지상엔 이미 시체들로 산을 이루고 있다. 미련한 네놈때문에 수많은 목숨을 잃었다구!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_22.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_23.myText	여기는 델타 식스. 척후병의 보고에 의하면 이 부근에서 소련군이 파일럿을 열차로 이송할 예정인 것 같다. 또 하나, 소련군 대응부대가 우리들의 존재를 눈치챈 모양이다. 머지않아 이리 올 것이 분명하다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_23.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_24.myText	라져, 탈출해야겠군. 하지만 파일럿을 그냥 내버려 둘 순 없지. 역으로 간다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_24.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_25.myText	퇴로확보를 위해 숲은 네이팜으로 태워버려야 겠군. 일단 떨어진 다음 서둘러서 이동한다! 대응부대가 오기 전에 이곳을 떠나야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_25.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_26.myText	파커, 자네가 수색 지휘를 하도록. 배넌은 남아서 추락지점을 지키게. 파일럿을 찾을 때까지는 거기가 우리의 집합지점이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_26.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_27.myText	하지만 대령...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_27.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_28.myText	명령이네. “하지만”같은 말은 듣고 싶지 않네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_28.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_29.myText	알겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_29.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_30.myText	역은 조용한 것같군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_30.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_31.myText	여기는 델타 식스. 파일럿들은 단지쪽에 있는 듯 하다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_31.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_32.myText	들었나, 파커? 단지수색을 서두르게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_32.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_33.myText	대응부대가 벌써 와버렸군! 탈출해야 하네. 자네가 우물쭈물한 사이에 저 파일럿들은 조국에 살아서는 돌아가지 못할 수도 있네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_33.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_34.myText	파커! 그 발전소는 전략적으로 중요한 목표네. 강습팀을 보내 파괴하게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_34.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_35.myText	부근일대가 정전됐다. 이반은 아마도 꽤나 큰 피해를 입었을 것이다. 잘 했다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_35.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_36.myText	모처럼의 기회였는데 유감이군. 장소는 파악했으니 나중에 공폭시킨다. 제대로 파괴된다면 좋겠지만.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_36.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_37.myText	여기는 델타 식스. 대응부대가 근처까지 쫓아 왔다. 슬슬 탈출해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_37.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_38.myText	그 말 그대로다. 요한센소령의 부대가 건물을 수색하는 동안 일대를 계속 확보한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_38.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_39.myText	첫번째 건물수색을 완료했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_39.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_40.myText	두번째 건물수색 완료. 좀더 서둘러라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_40.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_41.myText	세번째 건물수색 완료. 더 이상 시간이 없다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_41.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_42.myText	파일럿을 발견했다. 쇠약한 상태지만 무사한 것 같군. 파커, 자네라면 성공할 것이라고 생각했네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_42.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_43.myText	여기는 델타 식스. 적의 대응부대가 외측거리에서 전개하고 있다. 적어도 3개중대 이상의 전차와 장갑병력수송차들로 이루어져 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_43.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_44.myText	젠장, 생각했던 것보다 빠르군! 파커, 파일럿들을 데리고 철수하게. 대군을 상대해봤자 승산이 없으니까!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_44.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_45.myText	배넌입니다! 제 중대로 적의 측면을 치겠습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_45.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_46.myText	진격을 늦출 수 있을지도 모르겠군. 부탁하지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_46.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_47.myText	맡겨만 주십시오! 전속력으로 전진! 쐐기대형으로 공격한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_47.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_48.myText	파커, 시간이 없네. 수색을 중단하고 후퇴하게. 파일럿에게 기대하는 수 밖에 없군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_48.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_49.myText	파커! 자네의 퇴로에는 소련군이 대기하고 있다네. 싸워서 활로를 여는 수 밖에 없네. 적의 대응부대에게 쫓기기 전에 서둘러서 탈출하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_49.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_50.myText	배넌대위! 휴식은 나중에 하게! 계획대로 전차로 이반의 측면을 치도록. 파커가 도움을 필요로 하고 있네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_50.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_51.myText	라져. 대령, 저는 그저...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_51.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_52.myText	이야기는 나중에 하지, 배넌! 자네가 한 짓은 결코 잊지 않을테지만 지금은 이 싸움에 집중하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_52.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_53.myText	파커! 서둘러서 퇴로를 열지 못하면 상황이 곤란해질 것이네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_53.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_54.myText	서둘러 퇴로를 열도록! 그렇지 않으면 적에게 둘러 쌓여 고립될지 모르네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_54.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_55.myText	퇴로가 확보됐다! 남쪽으로 탈출한다. 회수한 필름에는 실로 흥미깊은 정보가 들어 있었다. 새로 연안쪽 임무가 발생한 것 같다. 보고를 위해 전원 그리드7-3에 집합한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_55.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_56.myText	파커! 응답하게! 젠장!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_56.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_57.myText	방금은 위험천만했네! 절대 더 이상 적을 통과시키지 말게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_57.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_58.myText	앞으로 3분이네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_58.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_59.myText	공병은 앞으로 1분내에 작업을 끝낼 듯 보인다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_59.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_60.myText	병신새끼야! 여기는 도움따위 필요없다니까. 자신의 목표에 집중하라구!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_60.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_61.myText	파커! 쓸데없는 짓 하고 있을 때가 아니네! 활로를 열어야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_61.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_62.myText	건물에 들어간다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_62.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_63.myText	최초의 건물수색을 완료. 파일럿은 없는 것 같다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_63.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_64.myText	건물에 들어간다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_64.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_65.myText	여기에도 파일럿은 없다! 다음 건물로 이동한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_65.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_66.myText	이글 식스! 파일럿을 발견했다. 자, 이제 돌아 갈 수 있다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_66.myPortraitText	요한센
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_67.myText	파커, 역을 적에게 내주어선 않되네! 역을 확보하고 있어야 증원을 부를 수 있네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_67.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_68.myText	파커! 역부근에 있는 강하지점이 적의 공격에 노출되어 있네. 이래선 증원을 부르지 못하네. 재확보하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_68.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_69.myText	훌륭하게 역을 지켜 냈군. 저 강하지점은 큰 도움이 될 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_69.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_70.myText	역을  지켜내지 못한 것은 유감이네. 저 강하지점은 철수시에 꽤 도움이 될 것 같았는데 말야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_70.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_71.myText	파커.역을  빼앗겼네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_71.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	파커! 적들이 그쪽 수비를 강화하기 전에 역습하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	파커, 그 포인트를 가져 오게! 이반이 수비를 강화하면 작전은 실패할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	이반이 수비를 강화하기 전에 그 포인트를 탈환하게! 지금까지의 노력을 물거품으로 만들 순 없네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	중위, 이반이 포인트를 탈취했네. 당장 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	파커! 이반을 밀어 내게! 포인트를 되찾게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	정신차리게! 파커, 적이 포인트를 가져갔네! 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	적의 중압에 굴하지 않고 자네는 필름과 잡혀 있던 파일럿을 회수하는데 성공했다. 필름에는 소련해군에 관한 상당히 흥미로운 정보가 들어 있었다. 이 정보를 기인해 새로운 작전을 세우게 되었다. 아마 자네도 참가하게 될 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	추락한 기체와 파일럿을 회수하는데 실패했다. 작전은 중지되었고 자네는 어쩔 수 없이 빈손으로 노르웨이로 돌아가게 됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.DamagePrinter	발전소 건물을 %d동 더 파괴해라
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.ApartmentSearchedPrinter1	수색이 완료된 아파트 : %d/%d
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.ApartmentSearchedPrinter2	수색이 완료된 아파트 : %d/%d. 전략거점에 없어서는 않된다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.ApartmentSearchedPrinter3	수색이 완료된 아파트 : %d/%d
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_01.myTitle	Offensive Special Ability
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_01.myText	To call in Direct Artillery at a target location, select your Rangers and press .
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_02.myTitle	Offensive Special Ability
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_02.myText	Engineers may place demolition charges inside structures. Press to place a charge at target building.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_03.myTitle	Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_03.myText	To search the apartment building, keep units inside the circle by the building.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myWeCapturedText	(을)를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myWeCapturedText	(을)를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myWeCapturedText	(을)를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myWeCapturedText	교외를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myWeLostText	교외를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myEnemyCapturedText	적이 교외를 점령했다

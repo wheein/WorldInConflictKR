@@ -1,0 +1,50 @@
+﻿Cine1.myPresentation.Blank.myEvents.PresentationEvent(0).myLocalizedText	시애틀 교외\\17:00\\침공의 날
+Cine1.myPresentation.M02F01S01.mySubTitles.LOCTEXT(0)	[000.5-004.2] ...유럽여행을 좋아하신다면 지금 바로 전화주세요. 번호는 555-...
+Cine1.myPresentation.M02F01S01.mySubTitles.LOCTEXT(1)	[004.3-007.0] 다음 전화가 연결된 모양입니다.\n여보세요?
+Cine1.myPresentation.M02F01S01.mySubTitles.LOCTEXT(2)	[007.2-010.0] 놈들이 오고 있어! 하늘에서 쏟아지고 있다고!
+Cine1.myPresentation.M02F01S01.myEvents.Sub1.myLocalizedText	<empty>
+Cine1.myPresentation.M02F01S01.myEvents.Sub2.myLocalizedText	<empty>
+Cine1.myPresentation.M02F01S01.myEvents.Sub3.myLocalizedText	<empty>
+Cine1.myPresentation.M02F01S02.mySubTitles.LOCTEXT(0)	[000.1-001.6] 지, 진정해 주세요.
+Cine1.myPresentation.M02F01S02.mySubTitles.LOCTEXT(1)	[000.4-002.0] \n여기서 보인다니까! 어떻게 된거지 시발!
+Cine1.myPresentation.M02F01S02.mySubTitles.LOCTEXT(2)	[002.1-003.8] 여긴 미국입니다... 전쟁은 무슨놈의 전쟁입니까!
+Cine1.myPresentation.M02F01S02.mySubTitles.LOCTEXT(3)	[003.9-007.5] 지금 상황파악 않되지? 밖을 봐봐, 멍청아. 놈들이 쳐들어 오고 있다니까!
+Cine1.myPresentation.M02F01S02.myEvents.Sub1.myLocalizedText	<empty>
+Cine1.myPresentation.M02F01S02.myEvents.Sub2.myLocalizedText	<empty>
+Cine1.myPresentation.M02F01S02.myEvents.Sub3.myLocalizedText	<empty>
+Cine1.myPresentation.M02F01S02.myEvents.Sub4.myLocalizedText	<empty>
+Cine2.myPresentation.M02F02.mySubTitles.LOCTEXT(0)	[000.3- 006.0] 안톤, 빨리 좀 해!
+Cine2.myPresentation.M02F02.mySubTitles.LOCTEXT(1)	[002.5-006.0] \n빨리 피난시켜야 해! 빨리!
+Cine2.myPresentation.M02F02.mySubTitles.LOCTEXT(3)	[006.2-009.0] 서둘러, 서둘러! 시간이 없어!
+Cine2.myPresentation.M02F02.mySubTitles.LOCTEXT(4)	[009.6-012.5] 잠깐만!
+Cine2.myPresentation.M02F02.mySubTitles.LOCTEXT(5)	[012.6-015] 또 보자.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(0)	[011.6-013.6] 행차하셨군.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(1)	[013.8-018.0] 파커중위! 무사해서 다행이군.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(2)	[018.5-022.7] 배넌대위. 자네와는 꽤나 인연인것 같네.\n그렇군요, 대령.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(3)	[022.9-026.2] 철퇴전때는 너무 믿음직스러워서 미칠 지경이였지.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(4)	[026.3-032.1] 하지만 그건 그거고, 이건 이거야.\n또 실수하면 그냥 않둘테니까.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(5)	[032.3-035.0] 걱정 붙들어 매십시오.\n그렇다면 좋겠지만 말야.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(6)	[035.2-041.6] 이쪽이 제임스 웹대위. 그리고 파커중위와 배넌대위\n둘은 유럽에서 나와 함께 싸웠네.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(7)	[041.7-044.8] 꽤나 격전이였다고 들었네. 동참하지 못해서 유감이네.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(8)	[044.8-047.0] \n아니, 차라리 유럽에 없던게 행운일게요.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(9)	[047.3-053.5] 저 다리를 폭파해야 하네. 소련군이 건너지 못하게말일세.\n각자 해당위치로.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(10)	[054.0-57.5] 거기 자네! 소속은?\n워싱턴주방위군입니다. 지금부터말이죠...
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(12)	[057.5-060.8] 상관없다, 병사가 필요하니까. 짐을 챙겨라. 이동한다.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(13)	[061.0-061.7] 어서 가. 또 만나겠지.
+Cine3.myPresentation.M02F03.mySubTitles.LOCTEXT(14)	[061.7-064.0] \n뭘 우물쭈물하고 있나?
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(0)	[009.8-012.2] 저 다리를 다시 세우려면 힘들겠어.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(1)	[012.2-014.7] \n그래.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(2)	[019.2-020.6] 그건 뭐야?
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(3)	[020.6-024.2] \n휴대용 CD플레이어야.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(4)	[024.4-026.3] 가져가도 상관없는거야?\n응.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(5)	[026.5-028.2] 진짜로?\n응.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(6)	[028.4-033.5] 소리는 어때?\n들려주고는 싶은데 건전지를 잃어버려서 말야.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(7)	[034.3-036.8] 위험해!
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(8)	[039.4-041.8] 지금 한가하게 장난감으로 놀고 있을 때냐?!
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(9)	[041.8-044.2] \n딸래미가 준 선물입니다!
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(10)	[044.4-046.9] 후딱 정리하라구!
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(11)	[049.2-051.2] 저 자식부터 정리하고 싶구만!
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(12)	[051.2-054.0] \n피도 눈물도 없는 녀석이군.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(13)	[054.2-056.8] 집합지점으로 가려면 발품 좀 팔아야겠군.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(14)	[057.0-062.5] 응, 난 사령부로 돌아가야 돼.
+Cine4.myPresentation.M02F03.mySubTitles.LOCTEXT(15)	[058.0-062.5] \n오메!

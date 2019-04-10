@@ -1,0 +1,39 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	포도원
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	포도원을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	포도원의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 포도원을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	샤토
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	샤토를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	샤토의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 샤토를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	벙커단지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	벙커단지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	벙커단지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 벙커단지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	촌락
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	촌락을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	촌락의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	적이 촌락을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	골프코스
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	골프코스를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	골프코스의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 골프코스를 점령했다
+myWicedMap.myMissionStats.myName	do_Vineyard
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	열매가 익기 시작한 포도원과 예쁘게 정비된 골프코스가 이어진 프랑스의 아름다운 계곡에 소련군이 쳐들어와 NATO군은 일전을 치를 작정이다.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	포도원
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	포도원

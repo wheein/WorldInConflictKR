@@ -1,0 +1,248 @@
+﻿myCampaigns.cmp1.myCampaignName	WIC
+myCampaigns.cmp1.myItems.Cinematic_Seattle.myName	시애틀
+myCampaigns.cmp1.myItems.Cinematic_Seattle.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.primary1.myName	국방수장
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.primary1.myDescription	시애틀철퇴전에서의 영예로운 행동으로 인해 수여한다.
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.secondary1.myName	육군공로장
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.secondary1.myDescription	오도 가도 못한 브레들리를 수리한 공적으로 수상했다.
+myCampaigns.cmp1.myItems.Mission2_PhoneCall.myName	갑작스런 보고
+myCampaigns.cmp1.myItems.Mission2_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.primary2.myName	인도적행동장
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.primary2.myDescription	소련군과 전투가 시작되자 마자 시애틀교외의 민간인들을 피난시킨 뛰어난 활약으로 인해 수여한다.
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.secondary2.myName	청동성장
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.secondary2.myDescription	소련군과의 전투에서 용감한 행위로 인해 수여한다. 자네의 행동으로 적의 공수작전을 저지했으며, 계획대로 I-90교를 폭파할 수 있었고, 그 결과로 적의 침공을 늦추는데 성공했다.
+myCampaigns.cmp1.myItems.Mission3_PhoneCall.myName	고향으로의 전화
+myCampaigns.cmp1.myItems.Mission3_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.primary3.myName	육군훈공부대장
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.primary3.myDescription	파인밸리방위전에서 침략군을 상대로 용기있는 싸움을 펼쳐, 수많은 전과를 올린 대대의 공적으로 인해 수여한다.
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.secondary3.myName	은성장
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.secondary3.myDescription	파인밸리방위전에서 영웅과도 같은 행동을 높이 사 수여한다. 자네의 불굴의 정신과 용기가 우군을 도왔으며, 압도적인 전력을 갖춘 소련군에게서 마을을 지킬 수 있었다.
+myCampaigns.cmp1.myItems.Mission4_PhoneCall.myName	자유의 땅
+myCampaigns.cmp1.myItems.Mission4_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.primary4.myName	사관직무숙달장
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.primary4.myDescription	합중국육군장교로써 임무수행에 전력을 다하고 있는 점과 유망한 장래성을 인정하면 수여한다.
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.secondary4.myName	육군수훈장
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.secondary4.myDescription	중대임무에서 뛰어난 성과를 거둔 점으로 수여한다. 자네의 활약덕분에 소련군을 못박았으며, 케스케이드 폴과 포트 텔러의 침공을 늦추는데 성공했다. 그 사이 우군은 방어를 단단히 하고 적의 침공에 대비할 수 있었다.
+myCampaigns.cmp1.myItems.Mission5_PhoneCall.myName	가족의 굴레
+myCampaigns.cmp1.myItems.Mission5_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.primary5.myName	육군무용부대장
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.primary5.myDescription	케스케이드 폴방위전에서 용기와 희생정신을 발휘한 자네에게 경의를 표하며, 자네의 대대에 이 훈장을 수여한다.
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.secondary5.myName	수훈십자장
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.secondary5.myDescription	소련군과의 전투에서 보여준 용기와 희생정신으로 인해 수여한다. 케스케이드 폴방위전에서는 자네의 직무를 넘나드는 용기있는 행동덕분에 소련군의 침공을 제지했으며, 포트 텔러의 기밀을 지킬 수 있었다.
+myCampaigns.cmp1.myItems.Mission6_PhoneCall.myName	소여대령
+myCampaigns.cmp1.myItems.Mission6_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.primary6.myName	전투보병장
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.primary6.myDescription	남프랑스에서 치룬 지상전에서 전투부대의 일원으로 과감히 싸운 공적으로 수여한다.
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.secondary6.myName	육군칭찬훈장
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.secondary6.myDescription	소련군과의 전투에서 영웅과도 같은 행동으로 수여한다. 자네의 활약덕분에 남프랑스에서의 전초전을 승리로 이끌었으며, 계획적인 공세가 가능했다.
+myCampaigns.cmp1.myItems.Mission7_PhoneCall.myName	비밀이야기
+myCampaigns.cmp1.myItems.Mission7_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.primary7.myName	육군해외파견장
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.primary7.myDescription	국외에서 치러진 소련군과의 전투에 참가해 뛰어난 활약을 보여준 점으로 인해 수여한다.
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.secondary7.myName	전공장
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.secondary7.myDescription	남프랑스에서 치룬 대소련전에서 NATO군의 공세에 참가해 뛰어난 활약을 한 점으로 인해 수여한다. 소련군 사단지휘소를 향한 최종공세에서는 자신의 목숨도 마다하고 과감하게 진군했다.
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.extra1.myName	프랑스전종군장
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.extra1.myDescription	남프랑스탈환전투를 성공리에 끝낸 점을 기념해서 수여한다.
+myCampaigns.cmp1.myItems.Mission8_PhoneCall.myName	레이븐기동부대
+myCampaigns.cmp1.myItems.Mission8_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.primary8.myName	계급장：중위
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.primary8.myDescription	지휘관으로써 장래가 촉망되어 합중국육군 중위로 승진했다.
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.secondary8.myName	통합참모본부칭찬장
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.secondary8.myDescription	소련령내에서의 용기있는 작전활동으로 인해 수여한다. 자네의 활약덕분에 추락한 항공기의 파일럿을 구출했고, 기밀정보를 회수하는 작전을 성공했다.
+myCampaigns.cmp1.myItems.Mission9_PhoneCall.myName	용서
+myCampaigns.cmp1.myItems.Mission9_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.primary9.myName	NATO장
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.primary9.myDescription	NATO군 배속부대의 일원으로 소련군과의 전투에 참가해 뛰어난 활약을 한 점으로 인해 수여한다.
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.secondary9.myName	방위수훈장
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.secondary9.myDescription	NATO군의 일원으로 소련령내에서의 전투에서 뛰어난 활약을 한 점으로 수여한다. 자네의 리더쉽과 용기있는 행동은 복수의 소련잠수함을 격침했고, 합중국 동해안을 침공하는 소련군의 일부를 저지할 수 있었다.
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.extra2.myName	소련전종군장
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.extra2.myDescription	소비에트연방내에서의 전투작전을 성공한 점으로 인해 수여한다.
+myCampaigns.cmp1.myItems.Mission10_PhoneCall.myName	재집결
+myCampaigns.cmp1.myItems.Mission10_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Cinematic_NewYork.myName	뉴욕
+myCampaigns.cmp1.myItems.Cinematic_NewYork.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.primary10.myName	항공급습장
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.primary10.myDescription	항공급습작전에서의 공적으로 수여한다.
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.secondary10.myName	수훈십자장
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.secondary10.myDescription	소련군과의 전투에서 보여준 용감한 행동과 희생정신으로 인해 두번째 수훈십자장이 수여한다. 자네의 활약덕분에 뉴욕에 침공한 소련군을 격퇴했고, 붙잡힌 인질들을 해방할 수 있었다. 추가로 맨하탄남쪽 섬에서 소련병을 소탕하는 것도 성공했다.
+myCampaigns.cmp1.myItems.Mission11_PhoneCall.myName	구출
+myCampaigns.cmp1.myItems.Mission11_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.primary11.myName	전투위생병장
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.primary11.myDescription	전장에서 적의 포화에도 굴하지 않고 위생병및 공병으로 뛰어난 활약한 점으로 수여한다.
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.secondary11.myName	통합참모본부공로장
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.secondary11.myDescription	장기전인 대소련전에서의 공적으로 수여한다. 자네의 뛰어난 리더쉽과 용기있는 행동에 의해 케스케이드 폴전 후, 미군은 전투태세를 정비했고 곳곳에 흩어져 있던 소련군의 잔재부대를 전멸시킬 수 있었다.
+myCampaigns.cmp1.myItems.Mission12_PhoneCall.myName	괴로운 전화
+myCampaigns.cmp1.myItems.Mission12_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.primary12.myName	계급장：대위
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.primary12.myDescription	지휘관으로써 뛰어난 능력이 높이 평가되어 이례적인 속도로 합중국육군대위로 승진했다.
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.secondary12.myName	은성장
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.secondary12.myDescription	시애틀탈환을 위한 반공작전에서 용기있는 행동으로 두번째 은성장을 수여한다. 번뜩이는 능력과 뛰어난 자기희생정신으로 작전전체의 흐름이 빨라졌으며, 시애틀탈환에 크게 공헌했다.
+myCampaigns.cmp1.myItems.Mission13_PhoneCall.myName	임무대상
+myCampaigns.cmp1.myItems.Mission13_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.primary13.myName	통합훈공부대장
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.primary13.myDescription	샌드피쉬섬 탈환전에서 뛰어난 활약을 한 중대의 명예를 높이 사 수여한다.
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.secondary13.myName	전공장
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.secondary13.myDescription	퓨젯만 상륙작전에서 뛰어난 활약으로 두번째 전공장을 수상한다. 자네의 영웅과도 같은 행동으로 샌드피쉬섬 탈환전투가 더없이 유리하게 되었으며, 인명손실을 최소화할 수 있었다.
+myCampaigns.cmp1.myItems.Mission14_PhoneCall.myName	도망쳐
+myCampaigns.cmp1.myItems.Mission14_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.primary14.myName	미군방위훈장
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.primary14.myDescription	미합중국 정복을 계획하고, 본토에 침공한 소련군에 대항하는 방위전에서 뛰어난 활약을 기리며 수여한다.
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.secondary14.myName	의회명예장
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.secondary14.myDescription	소련군과의 전투에서 주어진 임무를 넘어선 뛰어난 활약을 한 점으로 의회명예장을 수여한다. 자신의 목숨을 마다하고 소련군중앙기지의 중추부에 진입해 지휘능력을 파괴했다. 이로써 적은 눈깜짝할 사이에 붕괴했고, 우리군은 승리를 거머쥐었다. 자네의 행동은 다른 병사들에게 자기희생과 영웅적인 행동이 무엇인지 알려주었으며, 병사들의 사기를 크게 충전시켰다.
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.extra3.myName	육군대통령표창장
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.extra3.myDescription	매우 곤란하고 위험한 상황하에서 번뜩이는 용기와 결단력, 단결심을 발휘, 임무를 달성한 대대의 명예를 높이 사 수여한다.
+myCampaigns.WIC_SA.myCampaignName	WIC_SA
+myCampaigns.WIC_SA.myItems.Prelude.myName	<empty>
+myCampaigns.WIC_SA.myItems.Prelude.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.primary15.myName	Order for Service of the Homeland
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.primary15.myDescription	Bestowed for exemplary service to the Motherland during the liberation of West Berlin.
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.secondary15.myName	Order of Bogdan Khmelnitsky
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.secondary15.myDescription	Bestowed for a display of exceptional bravery and resourcefulness when aiding a comrade with much needed anti-aircraft support during the battle for West Berlin.
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.extra4.myName	For the Liberation of Berlin
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.extra4.myDescription	Awarded to those fortunate comrades who participated in the liberation of Berlin - an act which has led to the unification of the once divided German capital.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Cinematic_SA_Seattle.myName	시애틀
+myCampaigns.WIC_SA.myItems.Cinematic_SA_Seattle.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.primary1.myName	국방수장
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.primary1.myDescription	시애틀철퇴전에서의 영예로운 행동으로 인해 수여한다.
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.secondary1.myName	육군공로장
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.secondary1.myDescription	오도 가도 못한 브레들리를 수리한 공적으로 수상했다.
+myCampaigns.WIC_SA.myItems.Mission3_PhoneCall.myName	갑작스런 보고
+myCampaigns.WIC_SA.myItems.Mission3_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.primary2.myName	인도적행동장
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.primary2.myDescription	소련군과 전투가 시작되자 마자 시애틀교외의 민간인들을 피난시킨 뛰어난 활약으로 인해 수여한다.
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.secondary2.myName	청동성장
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.secondary2.myDescription	소련군과의 전투에서 용감한 행위로 인해 수여한다. 자네의 행동으로 적의 공수작전을 저지했으며, 계획대로 I-90교를 폭파할 수 있었고, 그 결과로 적의 침공을 늦추는데 성공했다.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission4-Letter.myName	트랙터
+myCampaigns.WIC_SA.myItems.Mission4-Letter.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.primary16.myName	Excellent Reconnaissance Scout Badge
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.primary16.myDescription	Bestowed for excellent performance as a motorized rifle scout during combat maneuvers in America.
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.secondary16.myName	Medal for Combat Service
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.secondary16.myDescription	Due to your exceptional conduct when dealing with a strong adversary you have been awarded this medal. Your expedient use of firepower and small unit tactics contributed to the successful destruction of enemy forces outside Seattle. 
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission5_PhoneCall.myName	고향으로의 전화
+myCampaigns.WIC_SA.myItems.Mission5_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.primary3.myName	육군훈공부대장
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.primary3.myDescription	파인밸리방위전에서 침략군을 상대로 용기있는 싸움을 펼쳐, 수많은 전과를 올린 대대의 공적으로 인해 수여한다.
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.secondary3.myName	은성장
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.secondary3.myDescription	파인밸리방위전에서 영웅과도 같은 행동을 높이 사 수여한다. 자네의 불굴의 정신과 용기가 우군을 도왔으며, 압도적인 전력을 갖춘 소련군에게서 마을을 지킬 수 있었다.
+myCampaigns.WIC_SA.myItems.Mission6_PhoneCall.myName	자유의 땅
+myCampaigns.WIC_SA.myItems.Mission6_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.primary4.myName	사관직무숙달장
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.primary4.myDescription	합중국육군장교로써 임무수행에 전력을 다하고 있는 점과 유망한 장래성을 인정하면 수여한다.
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.secondary4.myName	Army 육군수훈장
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.secondary4.myDescription	중대임무에서 뛰어난 성과를 거둔 점으로 수여한다. 자네의 활약덕분에 소련군을 못박았으며, 케스케이드 폴과 포트 텔러의 침공을 늦추는데 성공했다. 그 사이 우군은 방어를 단단히 하고 적의 침공에 대비할 수 있었다.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission7-Interview.myName	극단적인 수단
+myCampaigns.WIC_SA.myItems.Mission7-Interview.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.primary17.myName	Excellent Infantryman Badge 
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.primary17.myDescription	For showing diligence and focus when commanding an infantry unit in battle you have been awarded this badge of excellence.
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.secondary17.myName	For Combat Merits
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.secondary17.myDescription	Bestowed for meritorious conduct during the battle. Your swift destruction of enemy supplies and the elimination of enemy officers and engineers will prove to the enemy that the Red Army's might is not to be questioned.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission8_PhoneCall.myName	가족의 굴레
+myCampaigns.WIC_SA.myItems.Mission8_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.primary5.myName	육군무용부대장
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.primary5.myDescription	케스케이드 폴방위전에서 용기와 희생정신을 발휘한 자네에게 경의를 표하며, 자네의 대대에 이 훈장을 수여한다.
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.secondary5.myName	수훈십자장
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.secondary5.myDescription	소련군과의 전투에서 보여준 용기와 희생정신으로 인해 수여한다. 케스케이드 폴방위전에서는 자네의 직무를 넘나드는 용기있는 행동덕분에 소련군의 침공을 제지했으며, 포트 텔러의 기밀을 지킬 수 있었다.
+myCampaigns.WIC_SA.myItems.Mission9_PhoneCall.myName	소여대령 
+myCampaigns.WIC_SA.myItems.Mission9_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.primary6.myName	전투보병장
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.primary6.myDescription	남프랑스에서 치룬 지상전에서 전투부대의 일원으로 과감히 싸운 공적으로 수여한다.
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.secondary6.myName	육군칭찬훈장
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.secondary6.myDescription	소련군과의 전투에서 영웅과도 같은 행동으로 수여한다. 자네의 활약덕분에 남프랑스에서의 전초전을 승리로 이끌었으며, 계획적인 공세가 가능했다.
+myCampaigns.WIC_SA.myItems.Mission10_PhoneCall.myName	비밀이야기
+myCampaigns.WIC_SA.myItems.Mission10_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.primary7.myName	육군해외파견장
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.primary7.myDescription	국외에서 치러진 소련군과의 전투에 참가해 뛰어난 활약을 보여준 점으로 인해 수여한다.
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.secondary7.myName	전공장
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.secondary7.myDescription	남프랑스에서 치룬 대소련전에서 NATO군의 공세에 참가해 뛰어난 활약을 한 점으로 인해 수여한다. 소련군 사단지휘소를 향한 최종공세에서는 자신의 목숨도 마다하고 과감하게 진군했다.
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.extra1.myName	프랑스전종군장
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.extra1.myDescription	남프랑스탈환전투를 성공리에 끝낸 점을 기념해서 수여한다.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission11-Letter.myName	좋은 소식!
+myCampaigns.WIC_SA.myItems.Mission11-Letter.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.primary18.myName	Distinguished Military Service
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.primary18.myDescription	For your participation in the successful raid into enemy territory you have been awarded the Distinguished Military Service Medal 1st Class.
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.secondary18.myName	Order of Alexander Nevsky
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.secondary18.myDescription	Awarded for outstanding heroism when repelling an incoming Norwegian air strike. If it hadn't been for your excellent maneuvering and expediency when capturing the SAM-launchers, many comrades on the beach would have perished in the incoming strike.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission12_PhoneCall.myName	레이븐기동부대
+myCampaigns.WIC_SA.myItems.Mission12_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.primary8.myName	계급장：중위
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.primary8.myDescription	지휘관으로써 장래가 촉망되어 합중국육군 중위로 승진했다.
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.secondary8.myName	통합참모본부칭찬장
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.secondary8.myDescription	소련령내에서의 용기있는 작전활동으로 인해 수여한다. 자네의 활약덕분에 추락한 항공기의 파일럿을 구출했고, 기밀정보를 회수하는 작전을 성공했다.
+myCampaigns.WIC_SA.myItems.Mission13_PhoneCall.myName	용서
+myCampaigns.WIC_SA.myItems.Mission13_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.primary9.myName	NATO장
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.primary9.myDescription	NATO군 배속부대의 일원으로 소련군과의 전투에 참가해 뛰어난 활약을 한 점으로 인해 수여한다.
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.secondary9.myName	방위수훈장
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.secondary9.myDescription	NATO군의 일원으로 소련령내에서의 전투에서 뛰어난 활약을 한 점으로 수여한다. 자네의 리더쉽과 용기있는 행동은 복수의 소련잠수함을 격침했고, 합중국 동해안을 침공하는 소련군의 일부를 저지할 수 있었다.
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.extra2.myName	소련전종군장
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.extra2.myDescription	소비에트연방내에서의 전투작전을 성공한 점으로 인해 수여한다.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission14-Letter.myName	신서(信書)
+myCampaigns.WIC_SA.myItems.Mission14-Letter.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.primary19.myName	Excellent Artillery Man Badge 
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.primary19.myDescription	Awarded for your skillful use of artillery when defending the Motherland against enemy raiders.
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.secondary19.myName	Order of the Red Star
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.secondary19.myDescription	For your successful protection of the prison camp you have been awarded the Order of the Red Star. Your skill in the use of both artillery and Frontal Aviation assets proved invaluable during the battle and helped save the lives of both the NATO prisoners and your comrades in the battle group. 
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission15_PhoneCall.myName	재집결
+myCampaigns.WIC_SA.myItems.Mission15_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Cinematic_SA_NewYork.myName	뉴욕
+myCampaigns.WIC_SA.myItems.Cinematic_SA_NewYork.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.primary10.myName	항공급습장
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.primary10.myDescription	항공급습작전에서의 공적으로 수여한다.
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.secondary10.myName	수훈십자장
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.secondary10.myDescription	소련군과의 전투에서 보여준 용감한 행동과 희생정신으로 인해 두번째 수훈십자장이 수여한다. 자네의 활약덕분에 뉴욕에 침공한 소련군을 격퇴했고, 붙잡힌 인질들을 해방할 수 있었다. 추가로 맨하탄남쪽 섬에서 소련병을 소탕하는 것도 성공했다.
+myCampaigns.WIC_SA.myItems.Mission16_PhoneCall.myName	구출
+myCampaigns.WIC_SA.myItems.Mission16_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.primary11.myName	전투위생병장
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.primary11.myDescription	전장에서 적의 포화에도 굴하지 않고 위생병및 공병으로 뛰어난 활약한 점으로 수여한다.
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.secondary11.myName	통합참모본부공로장
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.secondary11.myDescription	장기전인 대소련전에서의 공적으로 수여한다. 자네의 뛰어난 리더쉽과 용기있는 행동에 의해 케스케이드 폴전 후, 미군은 전투태세를 정비했고 곳곳에 흩어져 있던 소련군의 잔재부대를 전멸시킬 수 있었다.
+myCampaigns.WIC_SA.myItems.Mission17_PhoneCall.myName	괴로운 전화
+myCampaigns.WIC_SA.myItems.Mission17_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.primary12.myName	계급장：대위
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.primary12.myDescription	지휘관으로써 뛰어난 능력이 높이 평가되어 이례적인 속도로 합중국육군대위로 승진했다.
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.secondary12.myName	은성장
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.secondary12.myDescription	시애틀탈환을 위한 반공작전에서 용기있는 행동으로 두번째 은성장을 수여한다. 번뜩이는 능력과 뛰어난 자기희생정신으로 작전전체의 흐름이 빨라졌으며, 시애틀탈환에 크게 공헌했다.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission18-Interview.myName	전우
+myCampaigns.WIC_SA.myItems.Mission18-Interview.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.primary20.myName	Combined Arms Specialist
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.primary20.myDescription	Awarded for the display of extraordinary skill in combined arms warfare against a superior force during the American campaign. 
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.secondary20.myName	For Valor 
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.secondary20.myDescription	Awarded for exceptional heroism during maneuvers in America. Due to your exemplary actions, often performed with complete disregard for your own life, many wounded comrades were saved from certain death by American hands. If all the sons of the state carried themselves with such valor this war would already have been won.
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.extra5.myName	KGB Medal 
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.extra5.myDescription	Awarded for meritorious action in the service of the KGB. For your unwavering faith in the policies of the state, your sound political sense and high moral standards you are hereby commended with this medal.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission19_PhoneCall.myName	임무대상
+myCampaigns.WIC_SA.myItems.Mission19_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.primary13.myName	통합훈공부대장
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.primary13.myDescription	샌드피쉬섬 탈환전에서 뛰어난 활약을 한 중대의 명예를 높이 사 수여한다.
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.secondary13.myName	전공장
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.secondary13.myDescription	퓨젯만 상륙작전에서 뛰어난 활약으로 두번째 전공장을 수상한다. 자네의 영웅과도 같은 행동으로 샌드피쉬섬 탈환전투가 더없이 유리하게 되었으며, 인명손실을 최소화할 수 있었다.
+myCampaigns.WIC_SA.myItems.Mission20_PhoneCall.myName	도망쳐
+myCampaigns.WIC_SA.myItems.Mission20_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.primary14.myName	미군방위훈장
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.primary14.myDescription	미합중국 정복을 계획하고, 본토에 침공한 소련군에 대항하는 방위전에서 뛰어난 활약을 기리며 수여한다.
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.secondary14.myName	의회명예장
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.secondary14.myDescription	소련군과의 전투에서 주어진 임무를 넘어선 뛰어난 활약을 한 점으로 의회명예장을 수여한다. 자신의 목숨을 마다하고 소련군중앙기지의 중추부에 진입해 지휘능력을 파괴했다. 이로써 적은 눈깜짝할 사이에 붕괴했고, 우리군은 승리를 거머쥐었다. 자네의 행동은 다른 병사들에게 자기희생과 영웅적인 행동이 무엇인지 알려주었으며, 병사들의 사기를 크게 충전시켰다.
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.extra3.myName	육군대통령표창장
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.extra3.myDescription	매우 곤란하고 위험한 상황하에서 번뜩이는 용기와 결단력, 단결심을 발휘, 임무를 달성한 대대의 명예를 높이 사 수여한다.

@@ -1,0 +1,495 @@
+﻿WicData.myDefaultProfileName	플레이어
+WicData.myDefaultGameName	월드 인 컨플릭트
+WicData.myNoProfileName	프로필없음
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipTaken	공략한 전략거점\n\n이미 적에게서 빼앗은 거점입니다.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipFallen	상실한 전략거점\n\n이미 적에게 빼앗긴 거점입니다.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipContested	교전중인 전략거점\n\n현재교전중인 거점입니다.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipFrendlyUncaptured	미공략된 전략거점(우군)\n\n아직 아군 지배하에 있는 거점입니다.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipEnemyUncaptured	미공략된 전략거점(적)\n\n아직 적군 지배하에 있는 거점입니다.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipDisabled	2회전무효\n\n1회전의 공격은 이 전략거점에 도달하기 전에 저지되었습니다.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipTimeToHold	방어시간\n\n타이머에는 1회전에서 당신이 이 전략거점을 공략하는데 걸린 시간이 표시됩니다.\n\n<#b22>적이 표시된 시간보다 빠르게 이 거점을 탈환하면 패배하게 됩니다.</>
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipTimeToWin	공략시간\n\n타이머에는 1회전에서 당신이 이 전략거점을 지켜낸 시간이 표시됩니다.\n\n<#2b2>표시된 시간보다 빠르게 이 거점을 공략하면 승리하게 됩니다.</>
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipInstantLoose	<#b22>즉각 패배!</>\n\n1회전에서 당신은 이 전략거점을 공략하는데 실패했습니다.\n\n적이 이 거점을 탈환하면 곧바로 패배합니다!
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipInstantWin	<#2b2>즉각 승리!</>\n\n1회전에서 당신은 이 전략거점을 지켜냈습니다.\n\n2회전에서 이 거점을 공략하면 곧바로 승리합니다!
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPrice	코스트 : 
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myDeploymentTime	배치시간 : 
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myRechargeTime	재요청가능시간 : 
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPlacementCount1	x1
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPlacementCount2	x2
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPlacementCount3	x3
+WicData.myPlayState.myPlayer.myScoreSheet.myPlayerNameString	플레이어
+WicData.myPlayState.myPlayer.myScoreSheet.myScoreString	플레이어
+WicData.myPlayState.myPlayer.myScoreSheet.myTeamVictoryLocationsString	플레이어
+WicData.myPlayState.myOrderPaletteIcons.myRechargeTime	재요청가능시간 : 
+WicData.myPlayState.myOrderPaletteIcons.myDurationTime	지속시간 : 
+WicData.myPlayState.myFirstTimeTips.myMoveCameraText	W, A, S, D키를 사용해 카메라를 움직여 주세요.
+WicData.myPlayState.myFirstTimeTips.myDeployUnitsText	화면우측의 증원메뉴를 사용해 원군을 요청합니다.
+WicData.myPlayState.myFirstTimeTips.myGiveOrderText	우클릭으로 유닛을 선택후 목적지를 우클릭해 주세요.
+WicData.myPlayState.myFirstTimeTips.myDropTAText	화면좌측의 전술지원메뉴를 열면 지원요청이 가능합니다.
+WicData.myMassgateInfo.myCountryCode	US
+WicData.myMassgateInfo.myLanguageCode	EN
+WicData.myMassgateInfo.myDistributionId	1
+WicData.myMassgateInfo.myRankDefinitions.level0.myUiName	신병
+WicData.myMassgateInfo.myRankDefinitions.level1.myUiName	이등병
+WicData.myMassgateInfo.myRankDefinitions.level2.myUiName	일병
+WicData.myMassgateInfo.myRankDefinitions.level3.myUiName	상병
+WicData.myMassgateInfo.myRankDefinitions.level4.myUiName	병장
+WicData.myMassgateInfo.myRankDefinitions.level5.myUiName	하사
+WicData.myMassgateInfo.myRankDefinitions.level6.myUiName	중사
+WicData.myMassgateInfo.myRankDefinitions.level7.myUiName	상사
+WicData.myMassgateInfo.myRankDefinitions.level8.myUiName	원사
+WicData.myMassgateInfo.myRankDefinitions.level9.myUiName	소위
+WicData.myMassgateInfo.myRankDefinitions.level10.myUiName	중위
+WicData.myMassgateInfo.myRankDefinitions.level11.myUiName	대위
+WicData.myMassgateInfo.myRankDefinitions.level12.myUiName	소령
+WicData.myMassgateInfo.myRankDefinitions.level13.myUiName	중령
+WicData.myMassgateInfo.myRankDefinitions.level14.myUiName	대령
+WicData.myMassgateInfo.myRankDefinitions.level15.myUiName	준장
+WicData.myMassgateInfo.myRankDefinitions.level16.myUiName	소장
+WicData.myMassgateInfo.myRankDefinitions.level17.myUiName	중장
+WicData.myMassgateInfo.myRankDefinitions.level18.myUiName	대장
+WicData.myMassgateInfo.myMedals.myMedal1.myName	보병공적상
+WicData.myMassgateInfo.myMedals.myMedal1.myInfo	수많은 대전에서 최고스코어를 달성한 보병플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal1.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n최우수 보병플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal1.myNextForSilver	동상\n\n은상 획득조건 : \n최우수 보병플레이어 자리를 10번 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal1.myNextForGold	은상\n\n금상 획득조건 : \n10전 연속으로 최우수 보병플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal1.myStar1	영예성상 : \n대전에서 최우수 보병플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal1.myStar2	영예성상 : \n최우수 보병플레이어 자리를 10번 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal1.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal2.myName	항공공적상
+WicData.myMassgateInfo.myMedals.myMedal2.myInfo	수많은 대전에서 최고스코어를 달성한 항공플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal2.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n최우수 항공플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal2.myNextForSilver	동상\n\n은상 획득조건 : \n최우수 항공플레이어 자리를 10번 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal2.myNextForGold	은상\n\n금상 획득조건 : \n10전 연속으로 최우수 항공플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal2.myStar1	영예성상 : \n최우수 항공플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal2.myStar2	영예성상 : \n최우수 항공플레이어 자리를 10번차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal2.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal3.myName	기갑공적상
+WicData.myMassgateInfo.myMedals.myMedal3.myInfo	수많은 대전에서 최고스코어를 달성한 기갑플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal3.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n최우수 기갑플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal3.myNextForSilver	동상\n\n은상 획득조건 : \n최우수 기갑플레이어 자리를 10번 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal3.myNextForGold	은상\n\n금상 획득조건 : \n10전 연속으로 최우수 기갑플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal3.myStar1	영예성상 : \n대전에서 최우수 기갑플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal3.myStar2	영예성상 : \n최우수 기갑플레이어 자리를 10번차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal3.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal4.myName	지원공적상
+WicData.myMassgateInfo.myMedals.myMedal4.myInfo	수많은 대전에서 최고스코어를 달성한 지원플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal4.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n최우수 지원플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal4.myNextForSilver	동상\n\n은상 획득조건 : \n최우수 지원플레이어 자리를 10번 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal4.myNextForGold	은상\n\n금상 획득조건 : \n10전 연속으로 최우수 지원플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal4.myStar1	영예성상 : \n대전에서 최우수 지원플레이어 자리에 올라야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal4.myStar2	영예성상 : \n최우수 지원플레이어 자리를 10번차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal4.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal5.myName	스코어획득상
+WicData.myMassgateInfo.myMedals.myMedal5.myInfo	수많은 대전에서 최고스코어를 달성한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal5.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n최고스코어를 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal5.myNextForSilver	동상\n\n은상 획득조건 : \n최고스코어를 10번 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal5.myNextForGold	은상\n\n금상 획득조건 : \n10전 연속으로 최고스코어를 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal5.myStar1	영예성상 : \n대전에서 최고스코어를 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal5.myStar2	영예성상 : \n최고스코어를 10번 차지해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal5.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal6.myName	전술지원 전문가상
+WicData.myMassgateInfo.myMedals.myMedal6.myInfo	전황을 좌우하는 중대한 전술지원공격을 성공시킨 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal6.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n중대한 전술지원공격을 25번 성공시켜야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal6.myNextForSilver	동상\n\n은상 획득조건 : \n중대한 전술지원공격을 125번 성공시켜야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal6.myNextForGold	은상\n\n금상 획득조건 : \n같은 대전에서 중대한 전술지원공격을 10번 성공시켜야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal6.myStar1	영예성상 : \n중대한 전술지원공격을 25번 성공시켜야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal6.myStar2	영예성상 : \n중대한 전술지원공격을 125번 성공시켜야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal6.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal7.myName	보병전 우수상
+WicData.myMassgateInfo.myMedals.myMedal7.myInfo	보병플레이어로써 뛰어난 실력을 발휘한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal7.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n보병담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal7.myNextForSilver	동상을 수상한 상태입니다.\n\n은상 획득조건 : \n보병담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal7.myNextForGold	은상\n\n금상 획득조건 : \n보병담당으로\n단일 라운드에서 2000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal7.myStar1	영예성상 : \n보병담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal7.myStar2	영예성상 : \n보병담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal7.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal8.myName	항공전 우수상
+WicData.myMassgateInfo.myMedals.myMedal8.myInfo	항공플레이어로써 뛰어난 실력을 발휘한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal8.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n항공담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal8.myNextForSilver	동상을 수상한 상태입니다.\n\n은상 획득조건 : \n항공담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal8.myNextForGold	은상\n\n금상 획득조건 : \n항공담당으로\n단일 라운드에서 2000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal8.myStar1	영예성상 : \n항공담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal8.myStar2	영예성상 : \n항공담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal8.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal9.myName	기갑전 우수상
+WicData.myMassgateInfo.myMedals.myMedal9.myInfo	기갑플레이어로써 뛰어난 실력을 발휘한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal9.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n기갑담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal9.myNextForSilver	동상을 수상한 상태입니다.\n\n은상 획득조건 : \n기갑담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal9.myNextForGold	은상\n\n금상 획득조건 : \n기갑담당으로 \n단일 라운드에서 2000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal9.myStar1	영예성상 : \n기갑담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal9.myStar2	영예성상 : \n기갑담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal9.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal10.myName	지원전 우수상
+WicData.myMassgateInfo.myMedals.myMedal10.myInfo	지원플레이어로써 뛰어난 실력을 발휘한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal10.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n지원담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal10.myNextForSilver	동상을 수상한 상태입니다.\n\n은상 획득조건 : \n지원담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal10.myNextForGold	은상\n\n금상 획득조건 : \n지원담당으로\n단일 라운드에서 2000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal10.myStar1	영예성상 : \n지원담당으로\n1라운드에서 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal10.myStar2	영예성상 : \n지원담당으로\n1라운드에서 1200포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal10.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal11.myName	연승상
+WicData.myMassgateInfo.myMedals.myMedal11.myInfo	대전에서 연승한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal11.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n연속으로 5번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal11.myNextForSilver	동상\n\n은상 획득조건 : \n10연승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal11.myNextForGold	은상\n\n금상 획득조건 : \n연속으로 20번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal11.myStar1	영예성상 : \n5연승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal11.myStar2	영예성상 : \n10연승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal11.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal12.myName	제압전 전문가상
+WicData.myMassgateInfo.myMedals.myMedal12.myInfo	제압전에서 뛰어난 실력을 발휘한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal12.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n제압전에서 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal12.myNextForSilver	동상\n\n은상 획득조건 : \n제압전에서 100번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal12.myNextForGold	은상\n\n금상 획득조건 : \n제압전에서 연속으로 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal12.myStar1	영예성상 : \n제압전에서 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal12.myStar2	영예성상 : \n제압전에서 100번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal12.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal13.myName	제압전 우수상
+WicData.myMassgateInfo.myMedals.myMedal13.myInfo	완전제압으로 적을 완패시킨 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal13.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n제압전에서 1라운드 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal13.myNextForSilver	동상\n\n은상 획득조건 : \n제압전에서 10라운드연속으로 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal13.myNextForGold	은상\n\n금상 획득조건 : \n제압전에서 5라운드연속으로 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal13.myStar1	영예성상 : \n제압전라운드에서 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal13.myStar2	영예성상 : \n제압전에서 10라운드 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal13.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal14.myName	강습전 전문가상
+WicData.myMassgateInfo.myMedals.myMedal14.myInfo	강습전에서 뛰어난 실력을 발휘한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal14.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n강습전에서 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal14.myNextForSilver	동상\n\n은상 획득조건 : \n강습전에서 100번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal14.myNextForGold	은상\n\n금상 획득조건 : \n강습전에서 연속으로 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal14.myStar1	영예성상 : \n강습전에서 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal14.myStar2	영예성상 : \n강습전에서 100번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal14.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal15.myName	강습전 우수상
+WicData.myMassgateInfo.myMedals.myMedal15.myInfo	강습전에서 자신의 진영을 적에게 한치의 양보없이 사수한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal15.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n강습전에서 1번 완전방위를 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal15.myNextForSilver	동상\n\n은상 획득조건 : \nMassgate에 등록한 후 60일이 지나야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal15.myNextForGold	은상\n\n금상 획득조건 : \n강습전에서 5전 연속으로 완전방위를 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal15.myStar1	영예성상 : \강습전에서 완전방위를 1번 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal15.myStar2	영예성상 : \n강습전에서 10번 완전방위를 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal15.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal16.myName	공방전 전문가상
+WicData.myMassgateInfo.myMedals.myMedal16.myInfo	공방전에서 뛰어난 실력을 발휘한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal16.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n공방전에서 10번승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal16.myNextForSilver	동상\n\n은상 획득조건 : \n공방전에서 100번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal16.myNextForGold	은상\n\n금상 획득조건 : \n공방전에서 연속으로 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal16.myStar1	영예성상 : \n공방전에서 10번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal16.myStar2	영예성상 : \n공방전에서 100번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal16.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal17.myName	공방전 우수상
+WicData.myMassgateInfo.myMedals.myMedal17.myInfo	공방전에서 압승한 팀의 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal17.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n공방전에서 1라운드압승을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal17.myNextForSilver	동상\n\n은상 획득조건 : \n공방전에서 10라운드연속으로 압승을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal17.myNextForGold	은상\n\n금상 획득조건 : \n공방전에서 5라운드연속으로 압승을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal17.myStar1	영예성상 : \n공방전에서 1라운드 압승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal17.myStar2	영예상 : \n공방전에서 10라운드 압승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal17.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal18.myName	핵공격 전문가상
+WicData.myMassgateInfo.myMedals.myMedal18.myInfo	핵공격을 한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal18.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n전술핵공격을 1번 실시해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal18.myNextForSilver	동상\n\n은상 획득조건 : \n전술핵공격을 10번 실시해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal18.myNextForGold	은상\n\n금상 획득조건 : \n대전에서 전술핵공격을 1번 실시해야 합니다.\n8전연속으로 실시할 필요가 있습니다.
+WicData.myMassgateInfo.myMedals.myMedal18.myStar1	영예성상 : \n전술핵공격을 1번 실시해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal18.myStar2	영예성상 : \n전술핵공격을 10번 실시해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal18.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myName	최고수훈상
+WicData.myMassgateInfo.myMedals.myMedal19.myInfo	다른 상을 모두 획득한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal19.myNextForBronze	이 상은 아직 수상하지 못했습니다.
+WicData.myMassgateInfo.myMedals.myMedal19.myNextForSilver	어떤 이는 산에 오른다.\n또 어떤 이는 우주를 목표로 한다.\n이 상은 헌신적인 노력을 치하하며 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal19.myNextForGold	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myStar1	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myStar2	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal20.myName	클랜연승상
+WicData.myMassgateInfo.myMedals.myMedal20.myInfo	연승을 달성한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal20.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n연속으로 3번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal20.myNextForSilver	동상\n\n은상 획득조건 : \n7연승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal20.myNextForGold	은상\n\n금상 획득조건 : \n연속으로 30번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal20.myStar1	영예성상 : \n3연승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal20.myStar2	영예성상 : \n7연승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal20.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal21.myName	클랜제압전 전문가상
+WicData.myMassgateInfo.myMedals.myMedal21.myInfo	제압전에서 승리한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal21.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n제압전에서 5번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal21.myNextForSilver	동상을 소지하고 있습니다.\n\n은상 획득조건 : \n제압전에서 50번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal21.myNextForGold	은상을 소지하고 있습니다.\n\n금메달 획득조건 : \n제압전에서 7연승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal21.myStar1	영예성상 : \n제압전에서 5번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal21.myStar2	영예성상 : \n제압전에서 50번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal21.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal22.myName	클랜제압전 우수상
+WicData.myMassgateInfo.myMedals.myMedal22.myInfo	제압전에서 완전제압을 달성한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal22.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n제압전에서 1라운드 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal22.myNextForSilver	동상\n\n은상 획득조건 : \n제압전에서 7라운드 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal22.myNextForGold	은상\n\n금상 획득조건 : \n제압전에서 5라운드 연속으로 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal22.myStar1	영예성상 : \n제압전라운드에서 완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal22.myStar2	영예성상 : \n제압전에서 7라운드완전제압을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal22.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal23.myName	클랜강습전 전문가상
+WicData.myMassgateInfo.myMedals.myMedal23.myInfo	강습전에서 승리한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal23.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n강습전에서 5번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal23.myNextForSilver	동상\n\n은상 획득조건 : \n강습전에서 50번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal23.myNextForGold	은상\n\n금상 획득조건 : \n강습전에서 7전연속으로 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal23.myStar1	영예성상 : \n강습전에서 5번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal23.myStar2	영예성상 : \n강습전에서 50번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal23.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal24.myName	클랜강습전 우수상
+WicData.myMassgateInfo.myMedals.myMedal24.myInfo	강습전에서 완전방위를 달성한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal24.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n강습전에서 1번 완전방위를 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal24.myNextForSilver	동상\n\n은상 획득조건 : \n강습전에서 7번 완전방위를 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal24.myNextForGold	은상\n\n금상 획득조건 : \n강습전에서 5전 연속으로 완전방위를 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal24.myStar1	영예성상 : \강습전에서 완전방위를 1번 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal24.myStar2	영예성상 : \n강습전에서 7번 완전방위를 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal24.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal25.myName	클랜공방전 전문가상
+WicData.myMassgateInfo.myMedals.myMedal25.myInfo	공방전에서 승리한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal25.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n공방전에서 5번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal25.myNextForSilver	동상\n\n은상 획득조건 : \n공방전에서 50번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal25.myNextForGold	은상\n\n금상 획득조건 : \n공방전에서 7전연속으로 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal25.myStar1	영예성상 : \n공방전에서 5번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal25.myStar2	영예성상 : \n공방전에서 50번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal25.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal26.myName	클랜공방전 우수상
+WicData.myMassgateInfo.myMedals.myMedal26.myInfo	공방전에서 압승을 달성한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal26.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n공방전에서 1라운드압승을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal26.myNextForSilver	동상\n\n은상 획득조건 : \n공방전에서 7라운드압승을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal26.myNextForGold	은상\n\n금상 획득조건 : \n공방전에서 5라운드 연속으로 압승을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal26.myStar1	영예성상 : \n공방전에서 1라운드 압승해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal26.myStar2	영예성상 : \n공방전에서 7라운드 압승을 완수해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal26.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal27.myName	클랜하이스코어상
+WicData.myMassgateInfo.myMedals.myMedal27.myInfo	일정포인트에 도달한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal27.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n25000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal27.myNextForSilver	동상\n\n은상 획득조건 : \n300000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal27.myNextForGold	은상\n\n금상 획득조건 : \n2500000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal27.myStar1	영예성상 : \n25000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal27.myStar2	영예성상 : \n300000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal27.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal28.myName	토너먼트챔피언상
+WicData.myMassgateInfo.myMedals.myMedal28.myInfo	토너먼트에 참가한 클랜에게 수여합니다.
+WicData.myMassgateInfo.myMedals.myMedal28.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n토너먼트에 참가해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal28.myNextForSilver	동상\n\n은상 획득조건 : \n토너먼트에 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal28.myNextForGold	은상\n\n금상 획득조건 : \n토너먼트에서 50번 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal28.myStar1	영예성상 : \n토너먼트에 참가해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal28.myStar2	영예성상 : \n토너먼트에서 승리해야 합니다.
+WicData.myMassgateInfo.myMedals.myMedal28.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge1.myName	보병전문가상
+WicData.myMassgateInfo.myBadges.myBadge1.myInfo	보병담당으로 공헌한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge1.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n보병담당으로 합계 8000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge1.myNextForSilver	동상\n\n은상 획득조건 : \n보병담당으로 합계 50000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge1.myNextForGold	은상\n\n금상 획득조건 : \n보병담당으로 합계 400000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge1.myStar1	영예성상 : \n보병담당으로 8000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge1.myStar2	영예성상 : \n보병담당으로 50000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge1.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge2.myName	항공전문가상
+WicData.myMassgateInfo.myBadges.myBadge2.myInfo	항공담당으로 공헌한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge2.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n항공담당으로 합계 8000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge2.myNextForSilver	동상\n\n은상 획득조건 : \n항공담당으로 합계 50000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge2.myNextForGold	은상\n\n금상 획득조건 : \n항공담당으로 합계 400000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge2.myStar1	영예성상 : \n항공담당으로 8000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge2.myStar2	영예성상 : \n항공담당으로 50000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge2.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge3.myName	기갑전문가상
+WicData.myMassgateInfo.myBadges.myBadge3.myInfo	기갑담당으로 공헌한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge3.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n기갑담당으로 합계 8000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge3.myNextForSilver	동상\n\n은상 획득조건 : \n기갑담당으로 합계 50000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge3.myNextForGold	은상\n\n금상 획득조건 : \n기갑담당으로 합계 400000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge3.myStar1	영예성상 : \n기갑담당으로 8000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge3.myStar2	영예성상 : \n기갑담당으로 50000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge3.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge4.myName	지원전문가상
+WicData.myMassgateInfo.myBadges.myBadge4.myInfo	지원담당으로 공헌한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge4.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n지원담당으로 합계 8000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge4.myNextForSilver	동상\n\n은상 획득조건 : \n지원담당으로 합계 50000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge4.myNextForGold	은상\n\n금상 획득조건 : \n지원담당으로 합계 400000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge4.myStar1	영예성상 : \n지원담당으로 8000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge4.myStar2	영예성상 : \n지원담당으로 50000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge4.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge5.myName	스코어획득상
+WicData.myMassgateInfo.myBadges.myBadge5.myInfo	일정포인트에 도달한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge5.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n합계 10000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge5.myNextForSilver	동상\n\n은상 획득조건 : \n합계 100000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge5.myNextForGold	은상\n\n금상 획득조건 : \n합계 800000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge5.myStar1	영예성상 : \n10000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge5.myStar2	영예성상 : \n100000포인트 더 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge5.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge6.myName	전략거점공적상
+WicData.myMassgateInfo.myBadges.myBadge6.myInfo	전략거점을 공략한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge6.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n25개소의 전략거점을 공략해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge6.myNextForSilver	동상\n\n은상 획득조건 : \n250개소의 전략거점을 공략해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge6.myNextForGold	은상\n\n금상 획득조건 : \n1200개소의 전략거점을 공략해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge6.myStar1	영예성상 : \n25개소의 전략거점을 공략해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge6.myStar2	영예성상 : \n250개소의 전략거점을 공략해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge6.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge7.myName	방어진지구축상
+WicData.myMassgateInfo.myBadges.myBadge7.myInfo	전략거점에 방어진지를 구축한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge7.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n전략거점에 방어진지를 구축하고 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge7.myNextForSilver	동상\n\n은상 획득조건 : \n전략거점에 방어진지를 쌓고 3500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge7.myNextForGold	은상\n\n금상 획득조건 : \n전략거점에 방어진지를 구축하고 15000포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge7.myStar1	영예성상 : \n전략거점에 방어진지를 구축하고 500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge7.myStar2	영예성상 : \n전략거점에 방어진지를 구축하고 3500포인트를 획득해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge7.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge8.myName	Massgate 공적상
+WicData.myMassgateInfo.myBadges.myBadge8.myInfo	Massgate의 등록기간이 긴 멤버에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge8.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \nMassgate등록후, 30일이 지나야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge8.myNextForSilver	동상\n\n은상 획득조건 : \nMassgate등록후, 90일이 지나야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge8.myNextForGold	은상\n\n금상 획득조건 : \nMassgate등록후, 1년이 지나야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge8.myStar1	영예성상 : \nMassgate멤버인 상태로 30일이 지나야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge8.myStar2	영예성상 : \nMassgate멤버인 상태로 90일이 지나야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge8.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge9.myName	대전공적상
+WicData.myMassgateInfo.myBadges.myBadge9.myInfo	수많은 대전에 참가한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge9.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n10번 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge9.myNextForSilver	동상\n\n은상 획득조건 : \n200번 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge9.myNextForGold	은상\n\n금상 획득조건 : \n1500번 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge9.myStar1	영예성상 : \n10번 대전에 더 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge9.myStar2	영예성상 : \n200번 대전에 더 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge9.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge10.myName	미군공적상
+WicData.myMassgateInfo.myBadges.myBadge10.myInfo	헌신적인 미군사령관에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge10.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n미군을 지휘해\n합계 1시간 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge10.myNextForSilver	동상\n\n은상 획득조건 : \n미군 지휘\n24시간 대전에 더 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge10.myNextForGold	은상\n\n금상 획득조건 : \n미군 지휘\n전부해서 100시간 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge10.myStar1	영예성상 : \n1시간 더 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge10.myStar2	영예성상 : \n24시간 더 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge10.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge11.myName	소련군공적상
+WicData.myMassgateInfo.myBadges.myBadge11.myInfo	헌신적인 소련군사령관에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge11.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n소련군을 지휘해\n합계 1시간 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge11.myNextForSilver	동상\n\n은상 획득조건 : \n소련군 지휘\n24시간대전에 더 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge11.myNextForGold	은상\n\n금상 획득조건 : \n소련군 지휘\n전부해서 100시간 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge11.myStar1	영예성상 : \n1시간 더 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge11.myStar2	영예성상 : \n24시간 더 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge11.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge12.myName	NATO군공적상
+WicData.myMassgateInfo.myBadges.myBadge12.myInfo	헌신적인 NATO사령관에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge12.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \nNATO군을 지휘해\n합계 1시간 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge12.myNextForSilver	동상\n\n은상 획득조건 : \nNATO군 지휘\n24시간 더 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge12.myNextForGold	은상\n\n금상 획득조건 : \nNATO군 지휘\n전부해서 100시간 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge12.myStar1	영예성상 : \n1시간 더 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge12.myStar2	영예성상 : \n24시간 더 대전에 참가해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge12.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myName	예약구입공적상
+WicData.myMassgateInfo.myBadges.myBadge13.myInfo	[월드 인 컨플릭트]를 예약구입한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge13.myNextForBronze	이 상은 아직 수상하지 못했습니다.
+WicData.myMassgateInfo.myBadges.myBadge13.myNextForSilver	[감사]의 의미로 이 상을 받았습니다.
+WicData.myMassgateInfo.myBadges.myBadge13.myNextForGold	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myStar1	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myStar2	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge14.myName	친구권유공적상
+WicData.myMassgateInfo.myBadges.myBadge14.myInfo	[월드 인 컨플릭트]를 친구에게 권유한 플레이어에게 수여합니다.
+WicData.myMassgateInfo.myBadges.myBadge14.myNextForBronze	이 상은 아직 수상하지 못했습니다.\n\n동상 획득조건 : \n친구에게 월드 인 컨플릭트를 권유해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge14.myNextForSilver	동상\n\n은상 획득조건 : \n5명의 친구에게 월드 인 컨플릭트를 권유해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge14.myNextForGold	은상\n\n금상 획득조건 : \n10명의 친구에게 월드 인 컨플릭트를 권유해야 합니다.
+WicData.myMassgateInfo.myBadges.myBadge14.myStar1	<empty>
+WicData.myMassgateInfo.myBadges.myBadge14.myStar2	<empty>
+WicData.myMassgateInfo.myBadges.myBadge14.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myName	알 수 없음
+WicData.myMassgateInfo.myBadges.myBadge15.myInfo	휘장 15
+WicData.myMassgateInfo.myBadges.myBadge15.myNextForBronze	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myNextForSilver	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myNextForGold	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myStar1	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myStar2	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myStar3	<empty>
+WicData.myObjectiveGuiInfo.myTargetString	%uM
+WicData.myObjectiveGuiInfo.myCounterStringFormatting	%s (%u/%u)
+WicData.myObjectiveGuiInfo.myNewPrimaryEventStringFormatting	새로운 기본목표 : %s
+WicData.myObjectiveGuiInfo.myUpdatedPrimaryEventStringFormatting	기본목표 갱신 :  %s
+WicData.myObjectiveGuiInfo.myCompletedPrimaryEventStringFormatting	기본목표 완료 :  %s
+WicData.myObjectiveGuiInfo.myFailedPrimaryEventStringFormatting	기본목표 실패 :  %s
+WicData.myObjectiveGuiInfo.myCanceledPrimaryEventStringFormatting	취소된 기본목표 : %s
+WicData.myObjectiveGuiInfo.myNewSecondaryEventStringFormatting	새로운 추가목표 : %s
+WicData.myObjectiveGuiInfo.myUpdatedSecondaryEventStringFormatting	추가목표 갱신 : %s
+WicData.myObjectiveGuiInfo.myCompletedSecondaryEventStringFormatting	추가목표 완료 : %s
+WicData.myObjectiveGuiInfo.myFailedSecondaryEventStringFormatting	추가목표 실패 : %s
+WicData.myObjectiveGuiInfo.myCanceledSecondaryEventStringFormatting	취소된 추가목표 : %s
+WicData.myObjectiveGuiInfo.myNewAttackCPEventStringFormatting	%s(을)를 강습한다
+WicData.myObjectiveGuiInfo.myUpdatedAttackCPEventStringFormatting	%s
+WicData.myObjectiveGuiInfo.myCompletedAttackCPEventStringFormatting	%s(을)를 공략했다
+WicData.myObjectiveGuiInfo.myFailedAttackCPEventStringFormatting	%s(을)를 빼앗겼다
+WicData.myObjectiveGuiInfo.myCanceledAttackCPEventStringFormatting	%s
+WicData.myObjectiveGuiInfo.myNewDefendCPEventStringFormatting	%s(을)를 지켜라
+WicData.myObjectiveGuiInfo.myUpdatedDefendCPEventStringFormatting	%s
+WicData.myObjectiveGuiInfo.myCompletedDefendCPEventStringFormatting	%s(을)를 방어했습니다
+WicData.myObjectiveGuiInfo.myFailedDefendCPEventStringFormatting	%s(을)를 빼앗겼다
+WicData.myObjectiveGuiInfo.myCanceledDefendCPEventStringFormatting	%s
+WicData.myRequestAcceptedStringAtGrid	%s (%s) (이)가 %s의 요청을 수락했습니다.(%s : %s)
+WicData.myAlliedUnitString	연합군유닛
+WicData.myEnemyUnitString	적유닛
+WicData.myRequests.REQ_IMGOINGHERE.myName	이곳으로 이동한다
+WicData.myRequests.REQ_IMGOINGHERE.myInfoString	%s (%s) : 이곳으로 이동하겠다
+WicData.myRequests.REQ_IMGOINGHERE.myInfoStringAtGrid	%s (%s) : 이곳으로 이동하겠다(%s)
+WicData.myRequests.REQ_IMGOINGHERE.myInfoStringAtUnit	<empty>
+WicData.myRequests.REQ_ADVANCEHERE.myName	이곳으로 진격
+WicData.myRequests.REQ_ADVANCEHERE.myInfoString	%s (%s) : 이곳으로 진격을 부탁한다!
+WicData.myRequests.REQ_ADVANCEHERE.myInfoStringAtGrid	%s (%s) : 이곳으로 진격을 부탁한다!(%s)
+WicData.myRequests.REQ_ADVANCEHERE.myInfoStringAtUnit	<empty>
+WicData.myRequests.REQ_DEFENDHERE.myName	이곳을 방어한다
+WicData.myRequests.REQ_DEFENDHERE.myInfoString	%s (%s) : 이곳을 지켜라!
+WicData.myRequests.REQ_DEFENDHERE.myInfoStringAtGrid	%s (%s) : 이곳을 지켜라!(%s)
+WicData.myRequests.REQ_DEFENDHERE.myInfoStringAtUnit	<empty>
+WicData.myRequests.REQ_CEASEFIRE.myName	사격중지
+WicData.myRequests.REQ_CEASEFIRE.myInfoString	%s (%s) : 발포중지!
+WicData.myRequests.REQ_CEASEFIRE.myInfoStringAtGrid	%s (%s) : 발포중지!(%s)
+WicData.myRequests.REQ_CEASEFIRE.myInfoStringAtUnit	%s (%s) : 발포중지!(%s : %s)
+WicData.myRequests.REQ_SORRY.myName	사과
+WicData.myRequests.REQ_SORRY.myInfoString	%s (%s) : 미안!
+WicData.myRequests.REQ_SORRY.myInfoStringAtGrid	%s (%s) : 미안!
+WicData.myRequests.REQ_SORRY.myInfoStringAtUnit	%s (%s) : 미안!(%s : %s)
+WicData.myRequests.REQ_THANKYOU.myName	감사
+WicData.myRequests.REQ_THANKYOU.myInfoString	%s (%s) : 고맙다!
+WicData.myRequests.REQ_THANKYOU.myInfoStringAtGrid	%s (%s) : 고맙다!
+WicData.myRequests.REQ_THANKYOU.myInfoStringAtUnit	%s (%s) : 고맙다!(%s : %s)
+WicData.myRequests.REQ_ATTENTION.myName	주위환기
+WicData.myRequests.REQ_ATTENTION.myInfoString	%s (%s) : 이곳을 주의해라!
+WicData.myRequests.REQ_ATTENTION.myInfoStringAtGrid	%s (%s) : 이곳을 주의해라!(%s)
+WicData.myRequests.REQ_ATTENTION.myInfoStringAtUnit	%s (%s) : 이곳을 주의해라!(%s : %s)
+WicData.myRequests.REQ_NEEDARTILLERY.myName	포격
+WicData.myRequests.REQ_NEEDARTILLERY.myInfoString	%s (%s) : 포격을 부탁한다!
+WicData.myRequests.REQ_NEEDARTILLERY.myInfoStringAtGrid	%s (%s) : 포격을 부탁한다!(%s)
+WicData.myRequests.REQ_NEEDARTILLERY.myInfoStringAtUnit	%s (%s) : 포격을 부탁한다!(%s : %s)
+WicData.myRequests.REQ_NEEDANTIAIR.myName	대공공격
+WicData.myRequests.REQ_NEEDANTIAIR.myInfoString	%s (%s) : 대공방어를 부탁한다!
+WicData.myRequests.REQ_NEEDANTIAIR.myInfoStringAtGrid	%s (%s) : 대공방어를 부탁한다!(%s)
+WicData.myRequests.REQ_NEEDANTIAIR.myInfoStringAtUnit	%s (%s) : 대공방어를 부탁한다!(%s : %s)
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myName	지상지원
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myInfoString	%s (%s) : 지상강습을 부탁한다!
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myInfoStringAtGrid	%s (%s) : 지상강습을 부탁한다!(%s)
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myInfoStringAtUnit	%s (%s) : 지상강습을 부탁한다!(%s : %s)
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myName	항공지원
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myInfoString	%s (%s) : 항공지원을 부탁한다!
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myInfoStringAtGrid	%s (%s) : 항공지원을 부탁한다!(%s)
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myInfoStringAtUnit	%s (%s) : 항공지원을 부탁한다!(%s : %s)
+WicData.myRequests.REQ_NEEDREPAIRS.myName	수리
+WicData.myRequests.REQ_NEEDREPAIRS.myInfoString	%s (%s) : 수리를 부탁한다!
+WicData.myRequests.REQ_NEEDREPAIRS.myInfoStringAtGrid	%s (%s) : 수리를 부탁한다!(%s)
+WicData.myRequests.REQ_NEEDREPAIRS.myInfoStringAtUnit	%s (%s) : 수리를 부탁한다!(%s : %s)
+WicData.myRequests.REQ_TACAID.myName	전술지원
+WicData.myRequests.REQ_TACAID.myInfoString	%s (%s) : 요청 : %s
+WicData.myRequests.REQ_TACAID.myInfoStringAtGrid	%s (%s) : 요청 : %s (%s)
+WicData.myRequests.REQ_TACAID.myInfoStringAtUnit	%s (%s) : 요청 : %s (%s : %s)
+WicData.myRequests.REQ_WRITETOPOS.myName	메시지
+WicData.myRequests.REQ_WRITETOPOS.myInfoString	%s(%s) :  '%s'
+WicData.myRequests.REQ_WRITETOPOS.myInfoStringAtGrid	%s (%s)의 발언 :  '%s' (%s)
+WicData.myRequests.REQ_WRITETOPOS.myInfoStringAtUnit	%s (%s)의 발언 : %s (%s : %s)
+WicData.myAutoSaveName	자동저장
+WicData.myNewSavedGame	새로 저장한 게임
+WicData.myEndSplashScreenClosingInText	%u초 후에 종료됩니다
+WicData.mySinglePlayerNames.parker	파커
+WicData.mySinglePlayerNames.vlad	Vlad
+WicData.mySinglePlayerNames.romanov	Romanov
+WicData.myLauncherData.myNewsHeader	뉴스
+WicData.myLauncherData.myStartGame	게임시작
+WicData.myLauncherData.myPlayOnline	온라인 플레이
+WicData.myLauncherData.myRegisterCDKey	CD키 입력
+WicData.myLauncherData.myPurchaseCDKey	CD키 구입
+WicData.myLauncherData.mySupport	지원
+WicData.myLauncherData.myVisitForums	포럼 방문
+WicData.myLauncherData.myNewsOffline	\n현재 Massgate에 접속할 수 없습니다.\n\n뉴스와 업데이트에 접근할 수 없습니다.
+WicData.myLauncherData.myDownloadingNews	\nMassgate의 새로운 소식을 다운로드하고 있습니다. 잠시만 기다려 주세요...
+WicData.myLauncherData.myRegisterButton	OK
+WicData.myLauncherData.myCancelButton	취소
+WicData.myLauncherData.myOKButton	OK
+WicData.myLauncherData.mySuccessHeader	성공
+WicData.myLauncherData.mySuccessText	CD키가 정상적으로 승인되었습니다.

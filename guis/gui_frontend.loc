@@ -1,0 +1,845 @@
+﻿myGuiFile.myGuis.Backdrop.myWidgets.myVideo_BackgroundVideo.myText	<empty>
+myGuiFile.myGuis.Backdrop.myWidgets.myVideo_BackgroundVideo.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.BG.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.BG01.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.Bg_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.LINE_2.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.MAIN_SCREEN.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.TOP_BORDER_left.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.LINE_1.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myButton_Exit.myText	종료
+myGuiFile.myGuis.Menu_Background.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myPlate_wic_logo.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.TOP_BORDER_Center.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myPlate_BottomBorder.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.LINE_101.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.TOP_BORDER_right.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_BlackBackground.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.BG01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.button_border.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.button_border02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg03.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg04.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg05.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.button_border01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.BG01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.MAIN_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.TOP_BORDER_Center.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.TOP_BORDER_Center02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.myPlate_BottomBorder.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.MAIN_SCREEN.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.TOP_BORDER_Center01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Restart.myText	미션 다시 하기
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Save.myText	저장
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Load.myText	불러오기
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Load.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Objectives.myText	목표
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Objectives.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_BotOptions.myText	봇 옵션
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_BotOptions.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Options.myText	옵션
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Exit.myText	종료
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Resume.myText	게임으로 돌아가기
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Resume.myText	게임으로 돌아가기
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Options.myText	옵션
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Controls.myText	컨트롤
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Controls.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Audio.myText	음성
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Audio.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Game.myText	게임
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Game.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Exit.myText	종료
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Save.myText	저장
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Load.myText	불러오기
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Load.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Objectives.myText	목표
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Objectives.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_BotOptions.myText	봇 옵션
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_BotOptions.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Restart.myText	미션 다시 하기
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Resume.myText	게임으로 돌아가기
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Options.myText	옵션
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Exit.myText	종료
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToMenu.myText	메인메뉴로 돌아갑니다
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToMenu.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToWindows.myText	윈도우화면으로 돌아갑니다
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToWindows.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Save.myText	저장
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Load.myText	불러오기
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Load.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Objectives.myText	목표
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Objectives.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_BotOptions.myText	봇 옵션
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_BotOptions.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Restart.myText	미션 다시 하기
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_BackgroundButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_BackgroundInterlace.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_Save.myText	저장한 게임
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Save.myText	저장
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Save.myToolTip	플레이중인 게임을 저장합니다.
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Delete.myText	삭제
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Delete.myToolTip	선택한 저장게임을 삭제합니다.
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Cancel.myText	취소
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Cancel.myToolTip	취소
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myMultiColumn_SavedGames.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myMultiColumn_SavedGames.myColumns	NAME;40;MISSION;35;DATE/TIME;25;
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_line_horizontal4.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myTextInput_SaveGame.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_SaveGame.myText	저장한 게임명
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_SaveGame.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_line02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_line03.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BackgroundButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BackgroundInterlace.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Delete.myText	삭제
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Delete.myToolTip	선택한 저장한 게임 삭제
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Load.myText	불러오기
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Load.myToolTip	저장한 게임 불러오기
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myMultiColumn_SavedGames.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myMultiColumn_SavedGames.myColumns	NAME;40;MISSION;35;DATE/TIME;25;
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myTextList_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_MissionInfo.myText	미션 :  MISSIONNAME
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_ScreenshotBorder.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_Screenshot.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_SaveGameText.myText	캠페인 불러오기
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_SaveGameText.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line03.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line_horizontal4.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line_horizontal401.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Cancel.myText	취소
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Cancel.myToolTip	취소
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Multiplayer.myText	멀티플레이
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Singleplayer.myText	싱글플레이
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Options.myText	옵션
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.GameVersion.myText	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.GameVersion.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice.myText	월드 인 컨플릭트 : 클로즈드 멀티플레이어 베타테스트 : 배포금지
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice01.myText	ESRB 경고 : 
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice01.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice02.myText	이 게임은 아직 심사받지 않았습니다
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice02.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice03.myText	온라인에서 플레이할 경우 퍼포먼스가 변할 가능성이 있습니다
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice03.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Exit.myText	종료
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myPlate_WICLOGO.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Tutorial.myText	튜토리얼
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Credits.myText	크레디트
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Singleplayer.myText	싱글플레이
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Resume.myText	캠페인 시작
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_New.myText	새로운 캠페인
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_New.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Campaign.myText	캠페인
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Campaign.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Cinematics.myText	영상
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Cinematics.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Custom.myText	커스텀미션
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Custom.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Multiplayer.myText	멀티플레이
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Options.myText	옵션
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Tutorial.myText	튜토리얼
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Credits.myText	크레디트
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Singleplayer.myText	싱글플레이
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Multiplayer.myText	멀티플레이
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Internet.myText	온라인
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Internet.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_LocalNetwork.myText	로컬네트워크
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_LocalNetwork.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Replays.myText	리플레이
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Replays.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Options.myText	옵션
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Tutorial.myText	튜토리얼
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Credits.myText	크레디트
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Singleplayer.myText	싱글플레이
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Multiplayer.myText	멀티플레이
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Controls.myText	컨트롤
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Controls.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Graphics.myText	그래픽
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Graphics.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Audio.myText	음성
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Audio.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Mod.myText	MOD선택
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Mod.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Options.myText	옵션
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Game.myText	게임
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Game.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Tutorial.myText	튜토리얼
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Credits.myText	크레디트
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myPlate_LineHorizontal.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_SetMod.myText	MOD선택
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_SetMod.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.Lines_Vertical.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_NoMod.myText	MOD 불러오지 않기
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_NoMod.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myMultiColumn_ModList.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myMultiColumn_ModList.myColumns	NAME;80;ACTIVE;20;
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myText_ActiveProfile.myText	MOD
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myText_ActiveProfile.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myPlate_Border.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_buttonBGsmall.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_Box.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.SetPlayerBox.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.PlayerNameInput.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myText_PlayerName.myText	플레이어 이름을 설정
+myGuiFile.myGuis.BrowseServers.myWidgets.myText_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_MapDisplayBackground.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.MapImagePlate.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myGamesList.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myGamesList.myColumns	이름;53;맵;11;P;4;플레이어;13;PING;9;MOD;10;
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlayers.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myServerInfo.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myServerInfo.myColumns	A;50;B;50;
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Info.myText	정보
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Info.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Players.myText	플레이어
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Players.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Join.myText	참가
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Join.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_1.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_1b.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_2.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_2b.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_JoinServer.myText	서버
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_JoinServer.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_CreateServer.myText	서버 만들기
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_CreateServer.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.Lines_Vertical2.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_ConnectToIP.myText	IP로 접속
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_ConnectToIP.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.Lines_Vertical3.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_Border.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Wireless.myText	와이얼리스
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Button.myText	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Button.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_JoinServer.myText	서버
+myGuiFile.myGuis.Wireless.myWidgets.myButton_JoinServer.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_CreateServer.myText	서버 만들기
+myGuiFile.myGuis.Wireless.myWidgets.myButton_CreateServer.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Wireless.myText	와이얼리스
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocHeadline.myText	무선 애드호크 네트워크
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocHeadline.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc01.myText	무선네트워크용 장치가 설치되어 있습니다.
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc01.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc02.myText	월드 인 컨플릭트는 라우터 없이 다른 와이얼리스 컴퓨터와 간단하게 접속할 수 있도록 P2P접속용 애드호크 네트워크를 구축할 수 있습니다. 단, 이 네트워크를 사용하기 위해서는 게임을 생성및 참가하는 모든 사용자들이 미리 애드호크 네트워크옵션을 활성화해 둘 필요가 있습니다.
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc02.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc03.myText	애드호크 네트워크가 활성화되면 모든 무선 인터넷접속이 끊기게 되므로 주의해 주시기 바랍니다. 애드호크 네트워크를 정지하거나 게임을 종료하면 무선 인터넷접속환경은 자동으로 복구됩니다. 유선 인터넷접속의 경우에는 영향을 받지 않습니다.
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc03.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Wireless.myText	와이얼리스 상태 :
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc.myText	애드호크 상태:
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocStatus.myText	_상태_
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocStatus.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_WirelessStatus.myText	_상태_
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_WirelessStatus.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_PeersText.myText	발견한 피어 :
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_PeersText.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Peers.myText	0
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Peers.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_FadedBackground.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_BackgroundScreen01.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Headline.myText	IP로 접속
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Headline.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Connect.myText	접속
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Connect.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Cancel.myText	취소
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Cancel.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_line_horizontal.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_line_horizontal2.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_LineVertical01.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_LineVertical02.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_IP.myText	IP주소 : 
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_IP.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Port.myText	포트 : 
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Port.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Password.myText	패스워드(옵션) : 
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Password.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myTextInput_IP.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myTextInput_Port.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myTextInput_Password.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_BG2.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_JoinServer.myText	서버
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_JoinServer.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_CreateServer.myText	서버 만들기
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_CreateServer.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_BG3.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_Wireless.myText	와이얼리스
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myPlate_LineHorizontal.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myButton_Ok.myText	캠페인 시작
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myButton_Ok.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myTextInput_Name.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_EnterName.myText	이름 입력 : 
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_EnterName.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myDropDown_Menu.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_Difficulty.myText	난이도 : 
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_Difficulty.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myPlate_Bg.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_01.myText	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_00.myText	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_00.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_InfoBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_MissionBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_MedalsBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MyCampaign.myText	내 캠페인
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SaveGames.myText	저장한 게임
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Current.myText	플레이중인 캠페인 : 
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Current.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SetAsActive.myText	설정 적용
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SetAsActive.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_ScreenshotBorder.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_Screenshot.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInfo.myText	미션 :  MISSIONNAME
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalsEarned.myText	취득한 상
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalsEarned.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionList.myText	플레이가능한 미션
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionList.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_buttonBG01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_LineHorizontal.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Replay.myText	미션 다시 하기
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Replay.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MedalStats.myText	상장
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myTextList_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_1.myText	훈장명
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_2.myText	훈장명
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_3.myText	훈장명
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_1.myText	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_2.myText	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_3.myText	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInformation.myText	미션정보
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInformation.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myDropDown_Menu.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myDropDown_Difficulty.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Difficulty.myText	난이도 설정 : 
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Difficulty.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Mission.myText	미션
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Mission.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myTextList_ListOfMissions.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MyCampaign.myText	내 캠페인
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_SaveGames.myText	저장한 게임
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myMultiColumn_SavedGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myMultiColumn_SavedGames.myColumns	NAME;40;MISSION;35;DATE/TIME;25;
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Load.myText	불러오기
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Load.myToolTip	저장한 게임 불러오기
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Delete.myText	삭제
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Delete.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MedalStats.myText	상장
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_ScreenshotBorder.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_Screenshot.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myText_MissionInfo.myText	미션 :  MISSIONNAME
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myText_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myTextList_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_Box.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MyCampaign.myText	내 캠페인
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_SaveGames.myText	저장한 게임
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MedalStats.myText	상장
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_1.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_2.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_3.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_4.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_5.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_6.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_7.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_8.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_9.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_10.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_11.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_12.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_13.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_14.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_15.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_15.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_16.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_16.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_17.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_17.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_18.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_18.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_19.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_19.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_20.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_20.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_21.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_21.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_22.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_22.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_23.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_23.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_24.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_24.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_25.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_25.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_26.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_26.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_27.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_27.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_28.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_28.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_29.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_29.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_30.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_30.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_31.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_31.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M1.myText	미션1 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M2.myText	미션2 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M3.myText	미션3 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M4.myText	미션4 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M5.myText	미션5 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M6.myText	미션6 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M7.myText	미션7 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M8.myText	미션8 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M9.myText	미션9 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M10.myText	미션10 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M11.myText	미션11 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M12.myText	미션12 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M13.myText	미션13 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M14.myText	미션14 : 
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_Line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_Current.myText	진영:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_Current.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myDropDown_Campaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_Line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MyCampaign.myText	내 캠페인
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_SaveGames.myText	저장한 게임
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MedalStats.myText	포상
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_1.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_2.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_3.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_4.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_5.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_6.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_7.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_8.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_9.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_10.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_11.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_12.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_13.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_14.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M1.myText	USSR 미션1:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M2.myText	USSR 미션2:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M3.myText	USSR 미션3:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M4.myText	USSR 미션4:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M5.myText	USSR 미션5:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M6.myText	USSR 미션6:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_Line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_Current.myText	진영:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_Current.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myDropDown_Campaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_Line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic000.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro000.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic001.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro001.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic002.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro002.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic003.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro003.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic004.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro004.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic005.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro005.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic006.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro006.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic007.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro007.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic008.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro008.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic009.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro009.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic010.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro010.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic011.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro011.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic012.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro012.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic013.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro013.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic014.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro014.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro015.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic015.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic016.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro016.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic017.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro017.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic018.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro018.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro019.myText	영상 타이틀
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic019.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myButton_Resume.myText	캠페인 시작
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myButton_Resume.myToolTip	현재 캠페인 시작
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myPlate_Bg.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myVideo_Picture.myText	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myVideo_Picture.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_DialogBackground.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Header.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Headline.myText	WORLD IN CONFLICT: SOVIET ASSAULT 탐색
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Headline.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message.myText	World in Conflict : Soviet Assault는 설치되어 있지만 이미 오리지널 캠페인을 실행하고 있습니다. 새로 Soviet미션을 시작하려면 캠페인을 새로 시작해야 합니다. 새로 시작하는 것을 권장합니다.
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message1.myText	World in Conflict 오리지널의 캠페인은 플레이및 저장은 가능하지만 Soviet미션은 저장되지 않습니다.
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message2.myText	새로 캠페인을 시작하겠습니까?
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_StartNewCampaign.myText	네
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_StartNewCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_ContinueOldCampaign.myText	아니오
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_ContinueOldCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_lineTop.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Icon.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_LeftLine.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_RightLine.myToolTip	<empty>
+myGuiFile.myGuis.ViewReplay.myWidgets.ReplayList.myToolTip	<empty>
+myGuiFile.myGuis.ViewReplay.myWidgets.ViewReplayButton.myText	보기
+myGuiFile.myGuis.ViewReplay.myWidgets.ViewReplayButton.myToolTip	선택한 리플레이 보기
+myGuiFile.myGuis.ViewReplay.myWidgets.DeleteReplayButton.myText	삭제
+myGuiFile.myGuis.ViewReplay.myWidgets.DeleteReplayButton.myToolTip	선택한 리플레이 삭제
+myGuiFile.myGuis.ViewReplay.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.ViewReplay.myWidgets.myPlate_line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myTextLabelMissionBriefing.myText	미션개요
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myTextLabelMissionBriefing.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myCustomMissionList.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myCustomMissionList.myColumns	NAME;60;MAP;40
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_MapDisplayBackground.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.PlayMissionButton.myText	미션 플레이
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.PlayMissionButton.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.MapImagePlate.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myTextListMissionBriefing.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_Border.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myText_SaveGameText.myText	커스텀미션정보
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myText_SaveGameText.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myLoginButton.myText	로그인
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myLoginButton.myToolTip	Massgate에 접속해 온라인게임 플레이
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myCreateAccountButton.myText	새로운 계정 만들기
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myCreateAccountButton.myToolTip	새로운 Massgate계정 만들기
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.mySaveCheckBox.myText	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.mySaveCheckBox.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPasswordReminderButton.myText	패스워드 도움말
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPasswordReminderButton.myToolTip	패스워드를 잃어 버렸거나 변경을 원하면 이곳을 클릭하세요.
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPasswordInput.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myEmailInput.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_RememberInfo.myText	정보 기억하기
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_RememberInfo.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Password.myText	패스워드
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Password.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Email.myText	E메일
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Email.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_ButtonBG01.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myProfileButton.myText	프로필선택
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myProfileButton.myToolTip	계정 프로필 관리(입력한 E메일과 패스워드가 필요합니다)
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myAccessCodeButton.myText	인증코드 입력
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myAccessCodeButton.myToolTip	인증코드를 입력해 주세요.
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myTextList_Information.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Topic.myText	MASSGATE 상태
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Topic.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice01.myText	ESRB 경고 : 
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice01.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice03.myText	온라인에서 플레이할 경우 퍼포먼스가 변할 가능성이 있습니다
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice03.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_BannerBG.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_Banner.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_FadedBackground.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen03.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen01.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen02.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_ButtonBG3.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myText_ActiveProfile.myText	사용중인 프로필 : __PEERPROFILENAME__
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myText_ActiveProfile.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Add.myText	추가
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Add.myToolTip	계정에 새로운 프로필 추가
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Remove.myText	삭제
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Remove.myToolTip	계정에서 선택한 프로필을 삭제
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_SetActive.myText	프로필설정 적용
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_SetActive.myToolTip	지금부터 현재 프로필로 로그인
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Cancel.myText	닫기
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Cancel.myToolTip	계정에서 선택한 프로필을 삭제
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myMultiColumn_Profiles.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myMultiColumn_Profiles.myColumns	;10;;90;
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_line_horizontal4.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_LineHorizontal02.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_FadedBackground.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_BackgroundScreen01.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_AddProfile.myText	프로필 추가
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_AddProfile.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_ProfileName.myText	프로필명 입력 : 
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_ProfileName.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myTextInput_ProfileName.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_OK.myText	OK
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_OK.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_Cancel.myText	취소
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_Cancel.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_line_horizontal.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_line_horizontal2.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_LineVertical01.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_LineVertical02.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_BGPic.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_ButtonBg.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_PreOrder.myText	이곳을 클릭하면 구입할 수 있습니다
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_PreOrder.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myLabel_ClosingIn.myText	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myLabel_ClosingIn.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_ButtonBg2.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_Close.myText	닫기
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_Close.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.Plate1.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.Plate2.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myPlate_Test.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo00.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo00.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo01.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo01.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo02.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo02.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo03.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo03.myToolTip	<empty>
+myGuiFile.myGuis.PythonDebug.myWidgets.DebugHistory.myToolTip	<empty>

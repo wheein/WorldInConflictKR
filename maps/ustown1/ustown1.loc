@@ -1,0 +1,45 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	시가지 남부
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	시가지 남부를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	시가지 남부를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 시가지 남부를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	다리
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	다리를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	다리를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 다리를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	시가지 광장
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	시가지 광장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	시가지 광장을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 시가지 광장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	댐
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	댐을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	댐을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 댐을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	제재소
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	제재소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	제재소를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 제재소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	주유소
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	주유소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	주유소를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	적이 주유소를 점령했다
+myWicedMap.myMissionStats.myName	do_Hometown
+myWicedMap.myMissionStats.mySPName	%02d－다시 서해안으로
+myWicedMap.myMissionStats.myDescription	작은시골의 시가지인 클리어워터크리크를 소련군이 점령했다. 이 시가지를 해방하고자 하는 미군과 소련점령군 사이에서는 지금 목숨을 건 사투가 시작되려고 한다.
+myWicedMap.myMissionStats.mySPDescription	중국이 소련의 동맹국으로 참전을 결의하고 시애틀을 향해 대규모적인 침공함대를 파견했다. 중국군이 도래하기 전에 소련의 방어선을 돌파하고 시애틀을 탈환해야 한다. 타임리미트까지 탈환하지 못하면 대통령은 시애틀에 전략핵폭탄을 투하하도록 명령할 것이다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HOMETOWN
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HOMETOWN
+myWicedMap.myLocStrings.SawmillSecondaryTimer	제재소를 점령해라
+myWicedMap.myLocStrings.NorthTownTimer	북쪽 시가지를 확보해라

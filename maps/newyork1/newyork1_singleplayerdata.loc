@@ -1,0 +1,253 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	우리가 입수한 작전계획에 적혀있던대로 소련군은 몇일후에 리틀크리크와 노퍽에 있는 해군조선소를 공격했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	하지만 적은 당초 계획보다 적은 수의 잠수함으로 공격할 수밖에 없었다. 게다가 미리 공격계획을 알고 있던 우리군이 경계를 강화했기 때문에 피해자체는 경미한 수준이었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	물론 그때는 누구 하나 1주일후에 시애틀이 침략당하리라곤 생각하지 못했다. 그도 그럴것이 우리는 이미 전쟁에 승리한 기분에 들떠있었다. 빨리 집에 돌아가 전쟁의 피로를 풀고 싶은 생각뿐이였다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	 하지만 우리는 전쟁을 계속하게 되었다. 몇주일씩 거의 잠도 못자면서. 동료들의 대부분이 정신적으로나 육체적으로 한계에 달해 있었다. 배넌도 요새 반격이라는 말을 입에 잘 담지않고 있다. 소문에 의하면 소련의 민간인 몇명이 살해당한 사건과 그는 관계가 있어 보인다. 대령은 이미 배넌의 전출수속을 밟아 놓았다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	하지만 뉴욕에 다다를 때까지 확실한 것은 아무것도 없었다. 뉴욕에서는 이미 특수부대인 스페츠나츠와의 격렬한 전투에서 몇명의 레인져들이 목숨을 잃었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthEllis.myDescription	엘리스섬남부의 공략을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthEllis.myLongDescription	소련군은 인질로 삼은 VIP를 엘리스섬 지하에 가두고 있다. VIP를 구출하고 섬을 제압해 작전거점으로 만들 필요가 있다. 섬을 완전하게 확보할 때까지 증원은 요청할 수 없다.\n\n목표를 달성하려면 반스대위가 엘리스섬 남부를 점령하고 방어진지를 구축할 수 있도록 지원해야 한다.\n\n남부섬을 제압하기 전에 부대가 전멸하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthEllis.myVisualisationText	엘리스섬남부의 공략을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthEllis.myDescription	엘리스섬북부의 공략을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthEllis.myLongDescription	증원을 얻기 위해서라도 엘리스섬 북부를 확보해야 한다. 레인져부대가 북부를 제압할 때까지 지원을 계속해라.\n\n목표를 달성하려면 반스대위의 엘리스섬 북부점령을 지원해야 한다.\n\n북부섬을 제압하기전에 자신의 부대가 전멸하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthEllis.myVisualisationText	엘리스섬북부의 공략을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.GovBeach.myDescription	교두보확보를 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.GovBeach.myLongDescription	머지않아 가버너섬 점령을 시작한다. 섬 남단에는 적의 대공포가 없으니 이곳에 가버너섬 탈환의 발판이 되는 교두보를 구축할 예정이다. 섬에 상륙하는 반스대위의 레인져부대를 항공지원해라.\n\n목표를 달성하려면 반스대위를 지원해서 가버너섬에 교두보를 구축해야한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.GovBeach.myVisualisationText	교두보확보를 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.M270.myDescription	하푼발사대를 파괴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.M270.myLongDescription	적에게 빼앗긴 하푼발사대를 모두 찾아내고 파괴해라. 더 이상 주변도시가 공격당해선 않된다.\n\n목표를 달성하려면 하푼발사대를 찾아내서 파괴해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.M270.myVisualisationText	하푼발사대를 파괴하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Liberty.myDescription	리버티섬의 적을 섬멸하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Liberty.myLongDescription	리버티섬에는 소련군 부대가 전개하고 있다. 미국에게 유럽에서 완전히 철수하길 요구하고 있으며, 요구가 받아들여지지 않았을 때는 뉴욕에 독가스공격을 하겠다고 선포하고 있다. 소여대령은 섬을 공폭하도록 명했지만, 우리나라의 중요한 상징인 자유의 여신상이 사라지는 사태는 피해야 한다.\n\n목표를 달성하려면 적을 전멸시켜야 한다.\n\n제한시간내에 적을 전멸시키지 못하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Liberty.myVisualisationText	리버티섬의 적을 섬멸하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortJay.myDescription	포트제이점령을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortJay.myLongDescription	포트제이는 지금도 소련군의 거점역할을 하고 있다. 승리를 확고히 다지기 위해 점령해 둘 필요가 있다.\n\n이 목표를 달성하려면 반스대위가 포트제이를 공략하고 방어진지를 구축하는 것을 지원해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortJay.myVisualisationText	포트제이점령을 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldFortJay.myDescription	포트제이방어를 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldFortJay.myLongDescription	포트제이를 탈환한 것도 잠시, 소련군의 반격이 시작되었다. 밀고 들어오는 적을 격퇴하고 가버너섬의 나머지를 확보해라.\n\n목표를 달성하려면 반스대위를 지원해 포트제이를 사수해야 한다.\n\n만일 소련군이 포트제이를 점령하고 방어진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldFortJay.myVisualisationText	포트제이방어를 지원하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myDescription	로켓런쳐를 찾아내서 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myLongDescription	소련군은 빼앗은 로켓런쳐를 사용해 미군을 공격하고 있다. 피해가 크지 않은 현시점에서 런쳐를 찾아내서 격파해라.\n\n목표를 달성하려면 가버너섬에 있는 로켓런쳐의 위치를 파악하고 격파해야 한다.\n\n조기에 로켓런쳐를 격파하지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myVisualisationText	로켓런쳐를 찾아내서 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KeepUnitsAlive.myDescription	부대를 잃지마라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KeepUnitsAlive.myLongDescription	헬리콥터는 숫자가 한정되어 있기 때문에 잃지 않도록 주의해야 한다. 지휘관의 능력을 최대한으로 발휘해서 부하들의 목숨을 지키고 헬리콥터부대를 유지한다.\n\n목표를 달성하려면 얼마 없는 헬리콥터를 잃어서는 안된다.\n\n헬리콥터를 인정범위이상 잃게 되면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KeepUnitsAlive.myVisualisationText	헬리콥터를 10대 이상 잃어서는 않된다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ARVMarker.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ARVMarker.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ARVMarker.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.accessToReinforecements.myString	증원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.accessToNewTA.myString	새로운 전술지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.AccesToSupport.myString	화기지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_01.myText	파커! 자네가 상대할 것은 적어도 2개중대 이상의 스페츠나츠네. 녀석들은 엘리스섬, 리버티섬, 가버너섬을 점령하고 우리군의 장비를 대량으로 탈취하고 있네. 즉, 미군의 차량으로 보이더라도 타고 있는건 적일지도 모른다는 것일세. 몇몇 중요인물들과 함께 차량에 타고 있던 사람들이 엘리스섬에 포로로 잡혀 있네. 그들을 구출하는 것이 자네의 중요한 임무중 하나네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_01.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_02.myText	여기는 반스대위. 와줘서 고맙다, 중위! 첫강습에서 어쩔 수없이 놈들에게 지점을 내줬지만 이번엔 그렇게 호락호락하지 않을 것이다. 자네의 항공지원과 나의 레인져부대가 협력하면 러시아놈들에게 전쟁이 무엇인지 가르쳐줄 수 있겠지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_02.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_03.myText	알겠나, 파커? 반스대위가 지상전투를 담당할 것이네. 자네는 그를 공중에서 지원해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_03.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_04.myText	자, 쇼의 시작이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_04.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_05.myText	파커, 잊지말게! 엘리스섬을 완전히 확보할 때까지는 증원을 부를 수 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_05.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_06.myText	여기는 반스. 적을 확인. 공격을 개시하겠다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_06.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_07.myText	반스로부터 파커에게. 일대를 제압했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_07.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_08.myText	좋아! 포인트를 확보하고 포로들을 해방했다. 곧장 그들을 헬기에 태워 반출한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_08.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_09.myText	반스대위! 응답하게! 파커, 그를 지원하는 것은 자네의 역할이네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_09.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_10.myText	파커! 적은 우리군에게서 탈취한 런쳐를 사용하고 있네. 피해가 커지기 전에 위치를 밝혀내고 파괴하게나! 단, 대공포에는 조심해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_10.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_11.myText	좋아! 이제 본래의 목표로 돌아가자구.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_11.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_12.myText	파커! 런쳐를 정리하는데 공폭요청을 할 수 밖에 없었네. 자네때문에 부가적인 피해가 막대하군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_12.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_13.myText	잘 했네, 대위. 섬전체을 제압하게나. 그래야 증원을 보낼 수 있다네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_13.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_14.myText	라져, 대령. 파커중위, 들리나? 적들의 기가꺾인 이 틈에 단숨에 공격하도록 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_14.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_15.myText	북단을 확보했습니다. 지금은 태세를 정비하고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_15.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_16.myText	반스입니다. 엘리스섬에 있는 적들을 일소했습니다. 증원을 파견해 주십시오.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_16.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_17.myText	라져. 자네도 파커도 잘 했네. 배넌! 엘리스섬은 자네에게 맡기지. 탄약및 연료보급소를 설치하고 운영하게. 파커가 전선에서 보급을 받을 수 있도록 말일세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_17.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_18.myText	알겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_18.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_19.myText	파커, 뭐하고 있나? 모두의 노력을 물거품으로 만들 생각인가!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_19.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_20.myText	파커중위! 가버너섬에 교두보를 구축해야 한다. 내 부하들이 먼저 상륙해서 방어선을 펼치겠다. 뒤를 이어서 중앙부로 들어가 러시아놈들을 쫓아내라. 우리들에게서 떨어지지 않도록 헬기에게 전달해 주고. 이렇게만 하면 만사 OK지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_20.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_21.myText	구출한 포로의 말로는 남단에는 대공진지가 없다고 한다. 우리군의 병사들이 적에게 탈취되기 전에 먼저 파괴한 것 같다. 기특하구만.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_21.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_22.myText	여기는 이글식스. 우물쭈물하고 있으면 소련군이 하푼을 발사할 것이네. 부근에 있는 해군공창이 큰 타격을 받게 될지도 몰라.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_22.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_23.myText	라져. 하지만 무턱대고 돌격하면 이전처럼 희생의 제물이 될게 뻔합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_23.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_24.myText	그렇게 되지 않도록 신중하게 부탁하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_24.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_25.myText	반스입니다. 레인져부대가 가버너섬에 상륙했습니다. 교두보를 확보하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_25.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_26.myText	파커! 엘리스섬에서 수리와 탄약을 보급하는 것을 명심하게. 배넌이 보급소를 설치운영하고 있을 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_26.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_27.myText	일대를 제압했다. 진지구축이 완료될 때까지 소련군이 접근하지 못하게 한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_27.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_28.myText	반스입니다. 교두보를 확보했습니다. 증원을 보내 주십시오.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_28.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_29.myText	라져, 대위. 곧바로 증원을 보내겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_29.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_30.myText	좋아, 하푼발사대를 정리해야 한다. 부대를 북쪽으로 보낼테니 잘 따라 와라. 되도록 많은 발사대를 파괴해야 한다. 대공진지는 조심하도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_30.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_31.myText	발사대를 하나 정리했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_31.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_32.myText	잘하고 있다, 파커중위! 발사대를 또 하나 파괴했군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_32.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_33.myText	파커, 새로운 임무네! 소련병이 리버티섬에 틀어박혀 맨하탄에 독가스를 뿌릴 준비를 하고 있는 것 같아. 여차하면 섬에 대규모공폭을 하도록 명령은 해뒀지만, 어떻게 해서든 자유의 여신상만은 구하고 싶네. 늦기 전에 자네가 스페츠나츠놈들을 정리해 주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_33.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_34.myText	소련측은 우리나라가 전부 유럽에서 철수하기를 요구하고 있지만 그건 꽤나 무리한 부탁이지. 그리고 여신상과 시민의 목숨중 무엇이 중요하냐고 묻는다면 당연히 그것은 시민의 목숨이고. 하지만 되도록 그런 괴로운 선택은 하고싶지 않아. 모든것은 자네의 어깨에 달려있네. 부탁하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_34.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_35.myText	폭격기가 도착할 때까지 앞으로 3분이네! 파커, 자네라면 할 수 있어!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_35.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_36.myText	파커, 우물쭈물하지말게! 여신상이 사람들에게 있어 얼마나 소중한 존재인지 알고 있을테지?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_36.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_37.myText	이미 늦었다! 폭격기가 온다! 후퇴해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_37.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_38.myText	굉장한 성과야! 동상에 자네의 이름을 새겨야만 하겠군. 자, 빨리 끝내버리자구.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_38.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_39.myText	포트제이에 접근중이다. 항공지원을 부탁한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_39.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_40.myText	들었겠지, 파커? 확실하게 부탁하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_40.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_41.myText	전황이 유리하다! 이 기세로 밀어붙힌다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_41.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_42.myText	이 싸움에서 이기면 녀석들은 두번 다시 뉴욕을 공격하지 않겠지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_42.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_43.myText	적이 얼마 남지 않았다! 계속 공격해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_43.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_44.myText	좋아! 여신상에게 제물로 바치자!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_44.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_45.myText	포트를 제압했다! 어서 수비를 강화해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_45.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_46.myText	포트제이를 확보했다. 모두, 수고했네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_46.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_47.myText	젠장, 또 적들이 온다! 해치워라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_47.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_48.myText	적이 공세로 나온건가? 그러면 파커, 할 일은 하나뿐이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_48.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_49.myText	격렬하게 공격받고 있다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_49.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_50.myText	파커, 자네의 엄호가 없으면 그리 길게 버티지 못한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_50.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_51.myText	젠장, 소련새끼들, 도대체 몇명이야!? 섬을 점령하기 직전에 배를 이용해 증원을 늘린게 틀림없군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_51.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_52.myText	앞으로 조금만 더 버티면 적은 힘을 다할 것이다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_52.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_53.myText	저게 마지막이다! 이로써 모든 섬을 확보했다! 중위, 지원해 줘서 고맙다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_53.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_54.myText	잘 했네, 파커! 소탕작전이 끝나면 시애틀로 돌아가 편히 쉬어도 좋네. 1주일후에 포트브래그에서 만나지. 그리고 배넌!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_54.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_55.myText	네, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_55.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_56.myText	자네도 시애틀로 가게. 제5보급대대로 전속이네. 이제 두번다시 자네와는 만나지 않겠지. 운이 좋다면말야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_56.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_57.myText	여기는 반스! 적에게 압도당하고 있다! 제발...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_57.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_58.myText	젠장, 포트를 잃었다! B52를 부르는 수밖에 없겠군. 파커중위, 자네에겐 이제 맡길 역할이 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_58.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_59.myText	파커! 우리가 대공진지를 조지는 동안 뒤를 지켜라.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_59.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_60.myText	여기는 이글 식스. 포로전원의 신원이 확인되어 본토로 이송했네. 모두 수고했네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_60.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_61.myText	여기는 이글식스. 우물쭈물하고 있는 사이에 가버너섬 남단의 수비가 무너졌다. 공격을 계속 해봤자 이쪽 피해만 더 커질 뿐이다. 미션을 중지한다. 뭔가 다른 수를 생각해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_61.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_62.myText	좋아, 중위! 발사대가 없다면 이반은 손발이 묶인거나 다름없어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_62.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_63.myText	좋아! 하푼발사대를 또 하나 처리했군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_63.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_64.myText	뭐하고 있나, 중위? 자네의 목표는 리버티섬이야!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_64.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_65.myText	리버티섬으로 가게! 여기는 우리만으로도 충분해.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_65.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_66.myText	여기는 배넌! 리버티섬에서 복수의 수륙양용차량이 접근해 오고 있습니다. 우리군의 차량같습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_66.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_67.myText	리버티섬에 동료들은 없을텐데. 정말로 우리군의 차량인가?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_67.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_68.myText	지금 확인해 보겠습니다... 에에, 틀림없습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_68.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_69.myText	반스대위! 리버티섬에 동료부대는 남아 있나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_69.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_70.myText	없을겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_70.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_71.myText	공격합니까? 벌써 상당히 접근하고 있습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_71.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_72.myText	적이 우리군의 차량을 사용하고 있을 가능성이 있지만 확증이 없으면 않되지. 상대가 먼저 공격할 때까지 대기하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_72.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_73.myText	라져. 벌써 코앞까지 왔습니다. 이런, 공격해 옵니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_73.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_74.myText	좋아, 공격하게. 리버티섬의 상황을 재확인할 필요가 있어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_74.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_75.myText	섬을 탈환하는 레인져부대와의 협동작전이네. 레인져부대를 지휘하는 것은 반스대위야. 대위와는 그레나다에서 함께 싸운 동료네. 멋진 남자지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_75.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_76.myText	우선 엘리스섬에 거점을 구축하고 포로들을 구출한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_76.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_77.myText	좋아! 발사대를 또 하나 정리했군. 스페츠나츠새끼들, 잔뜩 쫄았나 본데.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_77.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_78.myText	너무 많잖아, 시발! 차량이 도대체 얼마나 있는거야? 고작 이걸로 전소련군을 상대로 싸울 생각이었나!?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_78.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_79.myText	아무리 많아도 이겨버리겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_79.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_80.myText	인원은 적은데 물자는 풍부하다 이겁니까. 그다지 마음에 들진 않는군요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_80.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_81.myText	불평해도 어쩔 수 없네. 우리는 주어진 상황하에서 최선을 다하는 것뿐이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_81.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_82.myText	격렬한 공격을 받고 있다! 파커중위, 엄호를 부탁한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_82.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_83.myText	파커! 항공지원은 어떻게 했나!? 내 부하들이 죽어간다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_83.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_84.myText	이리로 헬기를 보내서 스페츠나츠새끼들에게 로켓을 퍼부어 주게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_84.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_85.myText	더 이상 부하를 잃으면 임무속행이 불가능하네! 파커중위, 도대체 뭐하고 있나!?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_85.myPortraitText	반스
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_86.myText	파커! 헬기는 한정되어 있네. 좀 더 소중하게 다루게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_86.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_87.myText	파커! 전력을 무의미하게 하지말게! 생각없이 전선에 투입하면 승산이 없어!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_87.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_88.myText	파커! 전력을 생각없이 투입하지 말게! 우리군의 보급은 충분하지 않아. 좀 더 신중하게 생각해 주길 부탁하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_88.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_89.myText	파커! 수리가 필요하면 엘리스섬으로 가게. 배넌이 보급소를 설치운영하고 있을 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_89.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_90.myText	엘리스섬에서 헬기를 수리하는 것을 잊지말게. 배넌도 한가해서 곤란할 지경일테니.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_90.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_91.myText	배넌! 수리차량를 가버너섬으로 공수해 주도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_91.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_92.myText	라져, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_92.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_93.myText	파커! 가버너섬에 보급소가 완공되었네. 잘 이용해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_93.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_94.myText	파커, 가버너섬에서 수리할 수 있다는 것을 잊지말게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_94.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_95.myText	파커! 적 헬기 몇대가 리버티섬으로 향하고 있는 듯 하네. 격파하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_95.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	자네의 항공지원과 지상 레인져부대의 활약으로 엘리스섬, 리버티섬, 가버너섬 탈환에 성공했다. 포로들은 무사히 구출되었고 자유의 여신상에 화학병기를 뿌리려고 한 스페츠나츠의 시도도 저지되었다. 훌륭한 전과다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	뉴욕은 지금 곤란한 상황을 벗어나지 못하고 있다. 자네에겐 스페츠나츠 저지에 실패한 이유로 겁쟁이라는 맹비난이 쏟아지고 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_01.myTitle	Defensive Special Abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_01.myText	Helicopters can drop flares to evade missiles. Press to deploy flares.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_02.myTitle	Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_02.myText	To repair your units, move them close to Bannon's repair tanks.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myEnemyCapturedText	<empty>

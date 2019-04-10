@@ -1,0 +1,164 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	전속력으로 시애틀을 향해 돌진하던 우리에게 사단사령부의 정지명령이 내려왔을 때에는 이미 스페이스니들이 보이는 곳까지 와 있었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	사령부는 전력을 강화하기 위해 증원이 따라 붙을 때까지 기다릴 생각이었다. 하지만 대령은 사령부의 뜻을 반대했다. 지금은 매우 위급한 사태에 직면해 있기 때문에 일초라도 빨리 시애틀로 들어가지 않으면 초토화될 것이 뻔하다는 주장이었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	사령부는 그런 대령의 의견을 무시하고 섬을 탈환하기 위해 우리를 퓨젯만으로 보냈다. 그곳에는 이미 소련군의 대함미사일 방어망이 구축되어 있었다. 확실히 여길 확보할 수 있다면 중국함대를 격파할 수 있을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	대령은 사단사령부에서 조언을 부탁해 왔기때문에 사령부로 향했다. 때문에 이번 임무는 소령으로 승진한 웹이 지휘를 잡게 되었다. 누구나가 한시라도 빨리 소련군본대와 싸워서 이기고 모든 것이 끝나길 원하고 있었다..
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	하지만 우선은 섬을 탈환해야 한다. 대령의 신념대로 하자. “신속하고 철저하게.”
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeOutAA.myDescription	대공진지를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeOutAA.myLongDescription	소련군이 남쪽해안에 대공포진지를 구축하고 수비를 강화하고 있다. 증원부대가 강하할 수 있게 이 대공진지를 격파해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 대공진지를 격파해야 한다.\n\n거느리고 있는 유닛을 모두 잃으면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeOutAA.myVisualisationText	대공진지를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGuns.myDescription	대함미사일 발사대를 탈취하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGuns.myLongDescription	소련군이 언덕 위에 대함미사일 발사대를 배치하고 있다. 엄중한 경비를 뚫고 이 발사대를 무사히 손에 넣어라. 목표를 확보하면 수비를 강화한다.\n\n목표를 달성하려면 2개의 발사대 쌍방에 방어진지를 구축해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGuns.myVisualisationText	대함미사일 발사대를 탈취하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGunsTime.myDescription	대함미사일 발사대를 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGunsTime.myLongDescription	소련군이 우리의 의도를 눈치채고 대함미사일 발사대를 파괴하려 한다. 반드시 적보다 먼저 발사대를 확보해야 한다.\n\n목표를 달성하려면 2개의 발사대 쌍방에 방어진지를 구축하고 발사대를 소련군에게서 지켜내야 한다.\n\n제한시간내에 쌍방의 발사대주변에 방어진지를 구축하지 못하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGunsTime.myVisualisationText	대함미사일발사대를 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldGuns.myDescription	대함미사일발사대를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldGuns.myLongDescription	소련군이 대함미사일 발사대의 탈환을 시작으로 반격을 개시할 작정이다. 섬전역을 확보할 때까지 발사대를 사수해라.\n\n목표를 달성하려면 섬전역을 확보할 때까지 대함미사일 발사대를 지켜내야 한다.\n\n소련군이 발사대를 하나라도 탈취하고 그곳에 방어진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldGuns.myVisualisationText	대함미사일발사대를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBeach.myDescription	소련군 중앙기지를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBeach.myLongDescription	소련군의 중앙전선기지는 마리나에 위치하고 있다. 섬을 확보하기 위해서는 이 기지를 공략하고 격파할 필요가 있다.\n\n목표를 달성하려면 마리나에 방어진지를 구축해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBeach.myVisualisationText	소련군 중앙기지를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeOutAATime.myDescription	신속하게 대공진지를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeOutAATime.myLongDescription	대공포공략에 맞춰 신속하게 공격하면 기습을 할 수 있을 것이다.\n\n목표를 달성하려면 대공포진지를 파괴해야 한다.\n\n제한시간내에 대공포진지를 파괴하지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeOutAATime.myVisualisationText	신속하게 대공진지를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSpetznaz.myDescription	스페츠나츠를 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSpetznaz.myLongDescription	소련군의 특수부대인 스페츠나츠가 샌드피쉬섬의 숲에 숨어 있다. 이대로라면 자네의 작전을 계속 방해할 것이다. 스페츠나츠를 찾아 무력화해라.\n\n목표를 달성하려면 스페츠나츠를 찾아 내서 격멸해야 한다.\n\n미션종료까지 스페츠나츠를 쓰러트리지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSpetznaz.myVisualisationText	스페츠나츠를 제거하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BonusAA.myDescription	북쪽에 있는 대공차량을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BonusAA.myLongDescription	섬 북측에서 소련군의 대공차량이 다수 확인되었다. 가능하면 제거해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 전략거점주변에 있는 대공차량을 격파해야 한다.\n\n미션완료시간까지 대공차량이 남아 있으면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BonusAA.myVisualisationText	북쪽에 있는 대공차량을 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneChanged.myString	강하지점이 변경됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.newUnits.myString	새로운 유닛이 주어졌다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	화기지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcments.myString	증원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReward.myString	상을 획득했다
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenChepCopter.myString	정찰 헬리콥터를 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	최대지원포인트가 상승했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.addTAPoints.myString	증원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcmentsAndTA.myString	증원과 화기지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_01.myText	파커. 우리는 이 섬에 있는 소련의 대함미사일런쳐를 탈취하라는 명을 받았네. 현명하신 최고사령부는 시애틀로 공격하러 가는 것보다 이 작전을 더 우선시하고 있어. 사령부는 중국군이 퓨젯만에 들어오면 미사일을 발사할 생각인 것 같아.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_01.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_02.myText	기회는 한번뿐이네. 수륙양용강습차량을 잃는다면 미션을 중지해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_02.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_03.myText	잘 했네, 대위. 이로써 공군의 지원을 받을 수 있게 됐어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_03.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_04.myText	조심하게, 파커! 해안을 제압할 때까지는 보유병력만으로 극복하는 수밖에 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_04.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_05.myText	이런. 이걸론 무리군. 미션을 중지하겠네. 대령이 언짢아 하겠군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_05.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_06.myText	파커! 강하지점을 신속하게 제압해야 하네. 그래야 기습이 가능하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_06.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_07.myText	철저하게 해 주게, 파커! 고맙게도 여전히 재빠르구만. 저격팀의 지휘를 맡기겠네. 숲에 배치해 적 보병을 제거하게. 그들은 경험이 풍부하니까 믿어도 좋을거야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_07.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_08.myText	좀 더 빨리 움직일 수 없었나, 파커. 주도권을 잃을지도 모르네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_08.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_09.myText	좋아, 파커. 섬에는 2대의 대함미사일런쳐가 있네. 양쪽 모두 손상없이 입수해 주게. 확보한 다음엔 확실하게 수비하고.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_09.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_10.myText	젠장! 적들이 런쳐를 파괴하려 하는군. 그 전에 확보해야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_10.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_11.myText	좋아, 파커. 수비를 강화해야 하네. 이 일대를 지킬 수 있을테니까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_11.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_12.myText	일대를 제압했네. 2대째로 착수하게. 반격에 대비해 일부부대는 배후를 경계하도록 하는 편이 좋을거야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_12.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_13.myText	한숨 돌렸네, 대위! 될 수 있는 한 빨리 수비를 강화하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_13.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_14.myText	잘 했네, 파커. 모든 섬을 제압할 때까지 런쳐를 지키게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_14.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_15.myText	런쳐를 잃었네, 파커! 이제 미션은 달성할 수 없네. 융단폭격을 하는 편이 나을지도 모르겠어. 더 이상 병사들을 무의미하게 죽게 할 순 없으니까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_15.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_16.myText	런쳐를 빼앗겼네, 대위! 파괴당하기 전에 탈환하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_16.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_17.myText	좋네, 파커. 재확보에 성공했군. 자, 임무에 착수하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_17.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18.myText	파커! 숲속에 스페츠나츠가 숨어 있는 것 같네. 될 수 있으면 처리해 주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18b.myText	최신정보가 들어왔네. 스페츠나츠는 그리드스퀘어 챨리1, 챨리3, 브라보4에서 목격되고 있다는군. 정찰헬기로 위치를 파악하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18b.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_19.myText	스페츠나츠가 포병지원을 요청했네! 빨리 처리해야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_19.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_20.myText	덕분에 살았네, 파커. 소련의 정예부대를 상대로 잘 해줬네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_20.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_21.myText	이제 곧 끝나네, 파커. 남아 있는 건 적의 본부뿐이야. 장소는 북측 마리나. 그곳을 정리하지 않으면 섬을 제압할 수 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_21.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_22.myText	좋은 기세네, 대위. 이 임무만 제대로 처리한다면 시애틀로 돌아가서 싸울 수 있을거야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_22.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_23.myText	좋아, 파커! 섬과 미사일런쳐를 탈환했네. 중국군도 주저하게 될거야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_23.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_24.myText	좋아, 마리나는 이제 제압할 수 있겠군. 이제 런쳐를 확보하면 본토로 돌아 갈 수 있어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_24.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_25.myText	파커! 대령에게서 연락이 왔네. 머지않아 시애틀로 최종공격을 실시할 것 같네. 우리도 참가하라는 명령이 떨어졌네. 전함에서 합류하도록 하지. 헬기로 본토로 돌아가자구.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_25.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_26.myText	파커! 북측에 소련군의 대공차량이 있는 것 같네. 될 수 있으면 정리해 주게. 공군녀석들도 기뻐할거야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_26.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_27.myText	잘 했네, 파커! 공군이 증원을 약속했네. 잘 사용하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_27.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_28.myText	방금 공군과 상의를 마쳤네. 전면적으로 지원해 줄 것 같아. 필요에 따라 요청하면 되네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_28.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_29.myText	대령이 부재중인 동안엔 내가 지휘를 맡을 것이네. 공격은 2단계로 나누어 실시할 것이네. 우선은 대공병기가 설치되어 있는 해안을 제압하기로 하지. 그래야 주력부대 공수에 착수할 수 있으니까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_29.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_30.myText	좋아 좋아, 승진을 축하하네, 파커대위. 슬슬 승진할 때라 생각했네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_30.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_31.myText	런쳐를 빼앗겼네! 파커, 되찾아야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_31.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_32.myText	파커! 런쳐를 1대 빼앗겼네. 되찾아야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_32.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_33.myText	적에게 대함미사일런쳐 1대를 빼앗겼네. 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_33.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_34.myText	런쳐를 확보했군. 잘 했네, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_34.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_35.myText	잘 했네. 이젠 빼앗기지 말게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_35.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_36.myText	이걸 기다렸네. 좋아, 다음 목표에 착수하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_36.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_37.myText	스페츠나츠를 처리하게, 대위. 재난의 싹은 미리 잘려 버려야지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_37.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_38.myText	지금 전함에서 연락이 왔네. 다른 섬을 성공적으로 제압한 덕분에 사상자가 예상보다 적은 것 같네. 우리도 잘해서 트집잡히지 말자구, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_38.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_39.myText	최신정보네. 크랩클로섬을 제압, 다른 섬도 머지않아 이쪽 손에 들어온다는군. 전황이 유리지고 있어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_39.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_40.myText	이것만 끝나면 시애틀로 돌아가고 싶은데 말야. 최신정보에 의하면 중국군이 일본의 호위함대를 철수시킨 모양이야. 이제 그들을 멈출 수가 없겠어. 늦기 전에 시애틀을 탈환해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_40.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_41.myText	본부는 뭘 의논하고 있는걸까. 대령은 백전노장이지만 요즘엔 너무 생각이 많은 것 같아. 지금 상황을 보고 있자면 이상할 건 없지만...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_41.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_42.myText	대령은 헤아릴 수 없는 전투를 헤쳐 나왔고 70년대 후반의 델타포스창설에도 연관된 모양이야. 대령같은 분이 지휘관이여서 다행이야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_42.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_43.myText	헬기에 조심하게, 파커! 그렇지 않아도 우리 항공전력은 부족해.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_43.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	파커, 놈들에게 밀리고 있네. 밀어 내게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	파커, 놈들에게 밀리고 있네. 밀어 내게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	파커, 방금 잃은 거점을 되찾아 오게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	샌드피쉬섬의 미사일포대를 확보했다. 이로써 중국함대가 퓨젯만에 들어와도 발을 묶을 수 있을 것이다. 이렇게 얻은 시간을 활용하면 늦기전에 시애틀로 최종공격을 실시할 수 있을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	샌드피쉬섬에서의 실수로 인해 자네는 해임됐다. 이제 중국함대가 시애틀로 돌진하는 것을 막을 수단이 없다. 대통령은 핵공격을 명령하지 않으면 않될 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_01.myTitle	Troop Transport
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_01.myText	To unload units from the amiphibious vehicles, aim at them and press .
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_02.myTitle	Forest Bonus
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_02.myText	Infantry units may seek cover in wooded areas.  on unit icons denotes Forest Bonus is in effect.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myWeCapturedText	남쪽의 대포를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myWeLostText	남쪽의 대포를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myEnemyCapturedText	적이 남쪽의 대포를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myWeCapturedText	북쪽의 대포를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myWeLostText	북쪽의 대포를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myEnemyCapturedText	적이 북쪽의 대포를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myWeCapturedText	AA1을 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myWeLostText	AA1을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myEnemyCapturedText	적이 AA1을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myWeCapturedText	AA3를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myWeLostText	AA3를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myEnemyCapturedText	적이 AA3를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myWeCapturedText	AA2를 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myWeLostText	AA2를 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myEnemyCapturedText	적이 AA2를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeCapturedText	해안을 공략했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeLostText	해안을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myEnemyCapturedText	적이 해안을 점령했다

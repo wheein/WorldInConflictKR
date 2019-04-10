@@ -1,0 +1,2242 @@
+﻿myGuiFile.myGuis.MatchMode_Ready.myWidgets.myButton_Ready.myText	준비완료
+myGuiFile.myGuis.MatchMode_Ready.myWidgets.myButton_Ready.myToolTip	참전준비완료 신호
+myGuiFile.myGuis.MatchMode_Timer.myWidgets.myText_StatusText.myText	<empty>
+myGuiFile.myGuis.MatchMode_Timer.myWidgets.myText_StatusText.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_Timer.myWidgets.myText_Counter.myText	<empty>
+myGuiFile.myGuis.MatchMode_Timer.myWidgets.myText_Counter.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_Timer.myWidgets.myButton_PlayNow.myText	서버 검색
+myGuiFile.myGuis.MatchMode_Timer.myWidgets.myButton_PlayNow.myToolTip	활성된 서버 검색
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_StatusText.myText	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_StatusText.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_StatusTextSmall.myText	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_StatusTextSmall.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_Counter.myText	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_Counter.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_CounterSmall.myText	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound2.myWidgets.myText_CounterSmall.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_BG04.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_BG03.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy0.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy1.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy2.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy3.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy4.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy5.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy6.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy7.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy8.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy9.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Buy9.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab0.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab1.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab2.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab3.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab4.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab5.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab6.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab7.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab8.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab9.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Tab9.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Tab9.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_BG01.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_BG02.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Buy9.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices0.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices1.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices2.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices3.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices4.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices5.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices6.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices7.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices8.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices9.myText	1500
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myText_AllUnitsPrices9.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered0.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered1.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered2.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered3.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered4.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered5.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered6.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered7.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered8.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Ordered8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Ordered8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount0.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount0.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount1.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount1.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount2.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount2.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount3.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount3.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount4.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount4.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount5.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount5.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount6.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount6.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount7.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount7.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount8.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_OrderedUnitCount8.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_SetDropzone.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_SetDropzone.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_DeployCircle.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Deploy.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Deploy.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_ChangeRole.myText	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_ChangeRole.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Faction.myText	진영
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myButton_Faction.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_ChangeRole.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myPlate_Faction.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft000.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft000.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft001.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft001.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft002.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft002.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft003.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft003.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft004.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft004.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft005.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft005.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft006.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft006.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft007.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft007.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft008.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft008.myToolTip	<empty>
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft009.myText	0
+myGuiFile.myGuis.Reinforcements_Menu.myWidgets.myTextLabel_LimitedUnitAmountLeft009.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_RoundTime.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Border.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow0.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag0.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay0.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time0.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time0.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow1.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag1.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay1.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time1.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time1.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow2.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag2.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay2.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time2.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time2.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow3.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag3.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay3.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time3.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time3.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow4.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag4.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay4.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time4.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time4.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow5.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag5.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay5.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time5.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time5.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow6.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag6.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay6.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time6.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time6.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow7.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag7.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay7.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time7.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time7.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow8.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag8.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay8.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time8.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time8.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Arrow9.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Flag9.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myPlate_Overlay9.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time9.myText	-1:24
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_Time9.myToolTip	<empty>
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_RoundTime.myText	12:30
+myGuiFile.myGuis.AssaultBar.myWidgets.myText_RoundTime.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.clockPlate.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.myDominationBar.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.MapTime.myText	12:30
+myGuiFile.myGuis.DominationBar.myWidgets.MapTime.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.myPlate_FlagCenter.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.myPlate_FlagDivider.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.FLAG_ram.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.myPlate_FlagLeftBG.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.myPlate_FlagRightBG.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight0.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight1.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight2.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight3.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight4.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight5.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight6.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight7.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight8.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight9.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight10.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight11.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight12.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight13.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight14.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight15.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight16.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight17.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight18.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationRight19.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft19.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft18.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft17.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft16.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft15.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft14.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft13.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft12.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft11.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft10.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft9.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft8.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft7.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft6.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft5.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft4.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft3.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft2.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft1.myToolTip	<empty>
+myGuiFile.myGuis.DominationBar.myWidgets.DominationLeft0.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_UnitAbility.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_PrevAbility.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_PrevAbility.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_NextAbility.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_NextAbility.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_OffensiveAbility.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_OffensiveAbility.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_DefensiveAbility.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_DefensiveAbility.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_OffensiveAbility.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_DefensiveAbility.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order1.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order1.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order2.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order2.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order3.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order3.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order4.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order4.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order5.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order5.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order6.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order6.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order7.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order7.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order8.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order8.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order9.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order9.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order10.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order10.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order11.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_Order11.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order1.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order2.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order3.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order4.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order5.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order6.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order7.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order8.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order9.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order10.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_Order11.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_OffensiveAbilityState.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_DefensiveAbilityState.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myProgressBar_OffensiveRechargableReload.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myProgressBar_DefensiveRechargableReload.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_ResuplyInfantrySquad.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myButton_ResuplyInfantrySquad.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_DefensiveSpecialAbilityCount.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myPlate_OffensiveSpecialAbilityCount.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myText_DefensiveSpecialAbilityCount.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myText_DefensiveSpecialAbilityCount.myToolTip	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myText_OffensiveSpecialAbilityCount.myText	<empty>
+myGuiFile.myGuis.OrderPalette.myWidgets.myText_OffensiveSpecialAbilityCount.myToolTip	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.Plate.myToolTip	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.Text.myText	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.Text.myToolTip	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.Plate02.myToolTip	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.Plate01.myToolTip	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.myVideo_Portrait.myText	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.myVideo_Portrait.myToolTip	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.myText_PortraitText.myText	<empty>
+myGuiFile.myGuis.MessageBox.myWidgets.myText_PortraitText.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_IncomingVOIP2.myText	PlayerName(으)로부터 착신중(비공개)
+myGuiFile.myGuis.GameEvents.myWidgets.myText_IncomingVOIP2.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myPlate_IncomingVOIP2.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_IncomingVOIP1.myText	PlayerName(으)로부터 착신중(비공개)
+myGuiFile.myGuis.GameEvents.myWidgets.myText_IncomingVOIP1.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myPlate_IncomingVOIP1.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_IncomingVOIP0.myText	PlayerName(으)로부터 착신중(비공개)
+myGuiFile.myGuis.GameEvents.myWidgets.myText_IncomingVOIP0.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myPlate_IncomingVOIP0.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_OutgoingVOIP.myText	PlayerName/Team(으)로 송신중
+myGuiFile.myGuis.GameEvents.myWidgets.myText_OutgoingVOIP.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myPlate_OutgoingVOIP.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_POL2.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_POL2.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_POL2.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_POL2.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_POL1.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_POL1.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_POL1.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_POL1.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_POL0.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_POL0.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_POL0.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_POL0.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myPlate_ScriptEventLabelStartPos.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myPlate_ScriptEventButtonStartPos.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent3.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent3.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent3.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent3.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent2.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent2.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent2.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent2.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent1.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent1.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent1.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent1.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent0.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myButton_ScriptEvent0.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent0.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_ScriptEvent0.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageVote.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageVote.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageOutputSystem.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageOutputSystem.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageOutputGame.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageOutputGame.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageOutputChat.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_MessageOutputChat.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myExtendedGameText.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myExtendedGameText.myToolTip	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_Teambalance.myText	<empty>
+myGuiFile.myGuis.GameEvents.myWidgets.myText_Teambalance.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myBackgroundPlate.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myBackgroundPlate01.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myPlate_BGInterlace.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadMoveOrders.myText	목적지
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadMoveOrders.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadUnitIcons.myText	유닛아이콘
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadUnitIcons.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadDropLocations.myText	강하위치
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadDropLocations.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadTacticalAid.myText	전술지원
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadTacticalAid.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadCommandPoints.myText	전략거점
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadCommandPoints.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadRequest.myText	요청
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadRequest.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadMapGrid.myText	맵그리드
+myGuiFile.myGuis.MegaMap.myWidgets.myTextHeadMapGrid.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkMoveArrows.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkMoveArrows.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextMoveArrows.myText	이동화살표 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextMoveArrows.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextEnemies.myText	적군 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextEnemies.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkEnemies.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkEnemies.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextAllies.myText	동맹군 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextAllies.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkAllies.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkAllies.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextOrderDetails.myText	플레이어이름 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextOrderDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkOrderDetails.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkOrderDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextMyDrop.myText	자신의 강하위치 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextMyDrop.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkMyDrop.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkMyDrop.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextTeamDrop.myText	팀의 강하위치 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextTeamDrop.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkTeamDrop.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkTeamDrop.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextLocationDetails.myText	플레이어이름 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextLocationDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkLocationDetails.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkLocationDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkPlacedTAs.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkPlacedTAs.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextPlacedTAs.myText	배치한 전술지원 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextPlacedTAs.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkTADetails.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkTADetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextTADetails.myText	자세히 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextTADetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextCommandPoints.myText	전략거점 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextCommandPoints.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkCommandPoints.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkCommandPoints.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextCommandPointsDetails.myText	이름 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextCommandPointsDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkCommandPointsDetails.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkCommandPointsDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myPlate_ButtonBg.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextMapGrid.myText	맵그리드 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextMapGrid.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkMapGrid.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkMapGrid.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myButtonReset.myText	디폴트
+myGuiFile.myGuis.MegaMap.myWidgets.myButtonReset.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myComboBoxGridResolution.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextGridRes.myText	그리드 해상도 : 
+myGuiFile.myGuis.MegaMap.myWidgets.myTextGridRes.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkRequestDetails.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkRequestDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextRequestDetails.myText	이름 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextRequestDetails.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkRequest.myText	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myChkRequest.myToolTip	<empty>
+myGuiFile.myGuis.MegaMap.myWidgets.myTextRequest.myText	요청 표시
+myGuiFile.myGuis.MegaMap.myWidgets.myTextRequest.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_Blocker01.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_Blocker.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_BlueButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myMiniMap.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_MegaMap.myText	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_MegaMap.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_Disband.myText	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_Disband.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_SwapGroup.myText	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_SwapGroup.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_ToggleFormation.myText	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_ToggleFormation.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_GoToDropZone.myText	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_GoToDropZone.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_SwapGroup.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_ToggleFormation.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_GoToDropZone.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_BlueButton.myText	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_BlueButton.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myPlate_BlueButton.myToolTip	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_Play.myText	<empty>
+myGuiFile.myGuis.MiniMap.myWidgets.myButton_Play.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_PenaltyBG.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myEEPic.myText	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myEEPic.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad10.myText	0
+myGuiFile.myGuis.Combat.myWidgets.Squad10.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad09.myText	9
+myGuiFile.myGuis.Combat.myWidgets.Squad09.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad08.myText	8
+myGuiFile.myGuis.Combat.myWidgets.Squad08.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad07.myText	7
+myGuiFile.myGuis.Combat.myWidgets.Squad07.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad06.myText	6
+myGuiFile.myGuis.Combat.myWidgets.Squad06.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad05.myText	5
+myGuiFile.myGuis.Combat.myWidgets.Squad05.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad04.myText	4
+myGuiFile.myGuis.Combat.myWidgets.Squad04.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad02.myText	2
+myGuiFile.myGuis.Combat.myWidgets.Squad02.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad03.myText	3
+myGuiFile.myGuis.Combat.myWidgets.Squad03.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.Squad01.myText	1
+myGuiFile.myGuis.Combat.myWidgets.Squad01.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_ObjectiveArrowArea.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_BGTop.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.clockPlate.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myText_CurrentAP.myText	0000
+myGuiFile.myGuis.Combat.myWidgets.myText_CurrentAP.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_TopArrow.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myText_MaxAP.myText	0000
+myGuiFile.myGuis.Combat.myWidgets.myText_MaxAP.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_Reinforcements.myText	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_Reinforcements.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myText_DropShipTime.myText	08
+myGuiFile.myGuis.Combat.myWidgets.myText_DropShipTime.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_DropShip.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_TAButton.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_BGTop01.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_TacticalAids.myText	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_TacticalAids.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.MapTime.myText	12:30
+myGuiFile.myGuis.Combat.myWidgets.MapTime.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationBar.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_FlagCenter.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_FlagDivider.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.FLAG_ram.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_FlagLeftBG.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_FlagRightBG.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myText_TacticalAids.myText	13
+myGuiFile.myGuis.Combat.myWidgets.myText_TacticalAids.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft0.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft1.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft2.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft3.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft4.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft5.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft6.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft7.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft8.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft9.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft10.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft11.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft12.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft13.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft14.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft15.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft16.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft17.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft18.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationLeft19.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight19.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight18.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight17.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight16.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight15.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight14.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight13.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight12.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight11.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight10.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight9.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight8.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight7.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight6.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight5.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight4.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight3.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight2.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight1.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.DominationRight0.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_MegaMapFilterBG.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_MegaMapFilterBorder.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_MegaMapFilterEnable.myText	메가맵 전환
+myGuiFile.myGuis.Combat.myWidgets.myButton_MegaMapFilterEnable.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_MegaMapButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_MegaMap.myText	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_MegaMap.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myPlate_UnitBarArea.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myProgress_TacticalAidProgress.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myProgress_DropShipProgress.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myButton_SpectatorChangeTeam.myText	관전종료
+myGuiFile.myGuis.Combat.myWidgets.myButton_SpectatorChangeTeam.myToolTip	<empty>
+myGuiFile.myGuis.Combat.myWidgets.myTextLabel_Penalty.myText	－2000
+myGuiFile.myGuis.Combat.myWidgets.myTextLabel_Penalty.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate_BlackBackground.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate01.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myText_Congratulation.myText	미션 상황
+myGuiFile.myGuis.MissionEnd.myWidgets.myText_Congratulation.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate_Picture.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate_BorderLines08.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate_BorderLines09.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate_BorderLines10.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd.myWidgets.myPlate_BorderLines11.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_BlackBackground.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background08.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Banner.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background05.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background11.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background01.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_AwardBG.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate02.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background10.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background02.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background03.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background06.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate01.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background09.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Dirt.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Dirt01.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Dirt02.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_Stats.myText	미션 성적
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_Stats.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_ObjectivesCompleted.myText	보고
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_ObjectivesCompleted.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Restart.myText	다시 하기
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background13.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background12.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Continue.myText	계속
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Continue.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_Difficulty.myText	난이도 설정 : 
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_Difficulty.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myMultiColumnTextList_Primary.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myMultiColumnTextList_Primary.myColumns	상황아이콘;12;목표;88;
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myMultiColumnTextList_Secondary.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myMultiColumnTextList_Secondary.myColumns	상황아이콘;12;목표;88;
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalsEarned.myText	취득한 훈장
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalsEarned.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_ObjectivesPrimary.myText	기본목표
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_ObjectivesPrimary.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_ObjectivesSecondary.myText	추가목표
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_ObjectivesSecondary.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Exit.myText	메인메뉴로 돌아갑니다
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Medal_1.myText	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Medal_1.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Medal_2.myText	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Medal_2.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Medal_3.myText	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Medal_3.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Stats.myText	보기
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myButton_Stats.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalName_1.myText	훈장명
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalName_1.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalName_2.myText	훈장명
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalName_2.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalName_3.myText	훈장명
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_MedalName_3.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myTextList_MissionReport.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_Congratulation.myText	미션 상황
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myText_Congratulation.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myDropDown_Menu.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Objectives.myWidgets.myPlate_Background07.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.BG.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.myPlate_ButtonBg.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.myButton_Close.myText	닫기
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.myButton_Close.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.myText_MedalInfo.myText	각종데이터
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.myText_MedalInfo.myToolTip	<empty>
+myGuiFile.myGuis.MissionEnd_Stats.myWidgets.myTextList_Stats.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.BG.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.myPlate_Background01.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.myButton_Close.myText	X
+myGuiFile.myGuis.Medal_Popup.myWidgets.myButton_Close.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.myPlate_Medal.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.myText_MedalName.myText	훈장명
+myGuiFile.myGuis.Medal_Popup.myWidgets.myText_MedalName.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.myPlate_Line_Vertical.myToolTip	<empty>
+myGuiFile.myGuis.Medal_Popup.myWidgets.myText_MedalInfo.myText	훈장정보
+myGuiFile.myGuis.Medal_Popup.myWidgets.myText_MedalInfo.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_MoveForward.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_MoveBackward.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_MoveLeft.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_MoveRight.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_PanRight.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_PanLeft.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_PanDown.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_PanUp.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myPlate_Message.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myText_Message.myText	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myText_Message.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Restart.myText	레슨 다시 하기
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Next.myText	다음 레슨
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Next.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Skip.myText	대화 넘기기
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Skip.myToolTip	<empty>
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Finish.myText	튜토리얼 종료
+myGuiFile.myGuis.TutorialHelper.myWidgets.myButton_Finish.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.FullscreenBlack.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.Background2.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.Background.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.Info.myText	정보
+myGuiFile.myGuis.Loading.myWidgets.Info.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.DebugText.myText	<empty>
+myGuiFile.myGuis.Loading.myWidgets.DebugText.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.TextSinglePlayer.myText	<empty>
+myGuiFile.myGuis.Loading.myWidgets.TextSinglePlayer.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.Text.myText	<empty>
+myGuiFile.myGuis.Loading.myWidgets.Text.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.GaugeBG.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.Gauge.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.OkButton.myText	게임을 시작하려면 아무키나 누르세요
+myGuiFile.myGuis.Loading.myWidgets.OkButton.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.chatBg.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.ChatHistory.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.ChatBox.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.chatBg03.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.SendChatBtn.myText	송신
+myGuiFile.myGuis.Loading.myWidgets.SendChatBtn.myToolTip	<empty>
+myGuiFile.myGuis.Loading.myWidgets.myButton_PushToTalk.myText	<empty>
+myGuiFile.myGuis.Loading.myWidgets.myButton_PushToTalk.myToolTip	누른채로 있으면 보이스 메시지를 보낼 수 있습니다.
+myGuiFile.myGuis.Loading.myWidgets.myPlate_TextBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myPlate_Clock1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myPlate_Clock0.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myPlate_BG0.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myPlate_BG1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerHeader0.myText	통상 타이머헤더
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerHeader0.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerCounter0.myText	00:00
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerCounter0.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerHeader1.myText	통상 타이머헤더
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerHeader1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerCounter1.myText	00:00
+myGuiFile.myGuis.Singleplayer_Timer.myWidgets.myText_TimerCounter1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_ContextualText.myWidgets.myText_Content01.myText	수색한 아파트 : 100 / 160
+myGuiFile.myGuis.Singleplayer_ContextualText.myWidgets.myText_Content01.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound1.myWidgets.Heading.myText	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound1.myWidgets.Heading.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound1.myWidgets.info.myText	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound1.myWidgets.info.myToolTip	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound1.myWidgets.title.myText	<empty>
+myGuiFile.myGuis.MatchMode_AssaultRound1.myWidgets.title.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.BG.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.myPlate_BGInterlace.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_07.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_07.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_06.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_06.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_05.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_05.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_04.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_04.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_03.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_03.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_02.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_02.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_01.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CPSTATUS_01.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_07.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_07.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_06.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_06.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_05.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_05.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_04.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_04.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_03.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_03.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_02.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_02.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_01.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CPSTATUS_01.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_07.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_07.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_06.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_06.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_05.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_05.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_04.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_04.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_03.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_03.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_02.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_02.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_01.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_TWO_CAPTURETIME_01.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_07.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_07.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_06.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_06.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_05.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_05.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_04.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_04.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_03.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_03.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_02.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_02.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_01.myText	MIN:SEC
+myGuiFile.myGuis.Summary.myWidgets.ROUND_ONE_CAPTURETIME_01.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.Heading02.myText	2회전
+myGuiFile.myGuis.Summary.myWidgets.Heading02.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.PHASE_TWO_TEAM.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.PHASE_TWO_TEAM.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.PHASE_ONE_TEAM.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.PHASE_ONE_TEAM.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.Heading.myText	1회전
+myGuiFile.myGuis.Summary.myWidgets.Heading.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.Heading2.myText	개요
+myGuiFile.myGuis.Summary.myWidgets.Heading2.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.CPNAME01.myText	CPNAME
+myGuiFile.myGuis.Summary.myWidgets.CPNAME01.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.CPNAME02.myText	CPNAME
+myGuiFile.myGuis.Summary.myWidgets.CPNAME02.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.CPNAME03.myText	CPNAME
+myGuiFile.myGuis.Summary.myWidgets.CPNAME03.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.CPNAME04.myText	CPNAME
+myGuiFile.myGuis.Summary.myWidgets.CPNAME04.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.CPNAME05.myText	CPNAME
+myGuiFile.myGuis.Summary.myWidgets.CPNAME05.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.CPNAME06.myText	CPNAME
+myGuiFile.myGuis.Summary.myWidgets.CPNAME06.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.CPNAME07.myText	CPNAME
+myGuiFile.myGuis.Summary.myWidgets.CPNAME07.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.RoundTime02.myText	대전시간 :  MINUTES:SECONDS
+myGuiFile.myGuis.Summary.myWidgets.RoundTime02.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.RoundTime01.myText	대전시간 :  MINUTES:SECONDS
+myGuiFile.myGuis.Summary.myWidgets.RoundTime01.myToolTip	<empty>
+myGuiFile.myGuis.Summary.myWidgets.StatusString.myText	<empty>
+myGuiFile.myGuis.Summary.myWidgets.StatusString.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.mymyPlate_DarkScreen.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.mymyPlate_DarkScreen01.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_BG_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_BG_Interlace04.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_BG_Interlace01.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_BG_Interlace02.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_BG_Interlace03.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.DiagramPlate.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.saveButton.myText	저장
+myGuiFile.myGuis.BenchmarkResults.myWidgets.saveButton.myToolTip	벤치마크데이터를 저장
+myGuiFile.myGuis.BenchmarkResults.myWidgets.exitButton.myText	종료
+myGuiFile.myGuis.BenchmarkResults.myWidgets.exitButton.myToolTip	게임 종료
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_Line02.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_Line03.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_Line04.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_Header.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myTextLabel_Header.myText	벤치마크 결과
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myTextLabel_Header.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_Line01.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Average.myText	평균 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Average.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Minimum.myText	최저 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Minimum.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Maximum.myText	최대 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Maximum.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateUp.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSide.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_FPS.myText	FPS
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_FPS.myToolTip	최대채팅수치 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Draw.myText	1프레임당 Draw Call
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Draw.myToolTip	최대채팅수치 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Particle.myText	1프레임당 파티클수치
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Particle.myToolTip	최대채팅수치 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Physic.myText	1프레임당 물리오브젝트수
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_Physic.myToolTip	최대채팅수치 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateUp01.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckFPS.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckFPS.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckDRAWCALLS.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckDRAWCALLS.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPARTICLES.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPARTICLES.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPHYSICS.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPHYSICS.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myChekFPSGhost.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myChekFPSGhost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckDRAWCALLSGhost.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckDRAWCALLSGhost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPARTICLESGhost.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPARTICLESGhost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPHYSICSGhost.myText	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myCheckPHYSICSGhost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_FPSGhost.myText	FPS
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_FPSGhost.myToolTip	최대채팅수치 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_AverageGhost.myText	평균 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_AverageGhost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_MinimumGhost.myText	최저 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_MinimumGhost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_MaximumGhost.myText	최대 : %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_MaximumGhost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_DrawcallsGhost.myText	1프레임당 Draw Call
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_DrawcallsGhost.myToolTip	최대채팅수치: %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlate_Header01.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_ParticleGhost.myText	1프레임당 파티클수치
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_ParticleGhost.myToolTip	최대채팅수치: %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_PhysicGhost.myText	1프레임당 물리오브젝트수
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myText_PhysicGhost.myToolTip	최대채팅수치: %d
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myTextLabel_Current.myText	현재 결과
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myTextLabel_Current.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myTextLabel_Ghost.myText	가상실행시 결과
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myTextLabel_Ghost.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateUp02.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSide08.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider01.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider02.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider03.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider04.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider05.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider06.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider07.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider08.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider09.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.myPlateSideDivider10.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my100Label.myText	100
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my100Label.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my80Label.myText	80
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my80Label.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my60Label.myText	60
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my60Label.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my40Label.myText	40
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my40Label.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my20Label.myText	20
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my20Label.myToolTip	<empty>
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my0Label.myText	0
+myGuiFile.myGuis.BenchmarkResults.myWidgets.my0Label.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_WriteToPos.myText	선택위치에 텍스트 메시지 띄우기
+myGuiFile.myGuis.Request.myWidgets.myButton_WriteToPos.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_Attention.myText	주의
+myGuiFile.myGuis.Request.myWidgets.myButton_Attention.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_Artillery.myText	대포부대 필요
+myGuiFile.myGuis.Request.myWidgets.myButton_Artillery.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_AntiAir.myText	대공방어 필요
+myGuiFile.myGuis.Request.myWidgets.myButton_AntiAir.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_GroundSupport.myText	지상강습 필요
+myGuiFile.myGuis.Request.myWidgets.myButton_GroundSupport.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_Repairs.myText	수리 필요
+myGuiFile.myGuis.Request.myWidgets.myButton_Repairs.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_Sorry.myText	미안해요
+myGuiFile.myGuis.Request.myWidgets.myButton_Sorry.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_ThankYou.myText	고마워요
+myGuiFile.myGuis.Request.myWidgets.myButton_ThankYou.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_AdvanceHere.myText	이곳으로 전진
+myGuiFile.myGuis.Request.myWidgets.myButton_AdvanceHere.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_DefendHere.myText	이곳을 방어한다
+myGuiFile.myGuis.Request.myWidgets.myButton_DefendHere.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_ImGoingHere.myText	이곳으로 이동한다
+myGuiFile.myGuis.Request.myWidgets.myButton_ImGoingHere.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_CeaseFire.myText	사격중지
+myGuiFile.myGuis.Request.myWidgets.myButton_CeaseFire.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myButton_AirSupport.myText	항공지원 필요
+myGuiFile.myGuis.Request.myWidgets.myButton_AirSupport.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myMultiColumnTextList_TAs.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myMultiColumnTextList_TAs.myColumns	A;20;B;80;
+myGuiFile.myGuis.Request.myWidgets.myButton_TAs.myText	전술지원 요청
+myGuiFile.myGuis.Request.myWidgets.myButton_TAs.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon01.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon02.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon03.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon04.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon05.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon06.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon07.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon08.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon09.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon10.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon11.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon12.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon13.myToolTip	<empty>
+myGuiFile.myGuis.Request.myWidgets.myPlate_Icon14.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myBackgroundDarkTrans.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myBackgroundPlate.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myBackgroundPlate_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myPlate_Header.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myTextDisconnected.myText	접속이 끊겼습니다
+myGuiFile.myGuis.Disconnected.myWidgets.myTextDisconnected.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myTextReason.myText	오류 내용 인쇄
+myGuiFile.myGuis.Disconnected.myWidgets.myTextReason.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myButtonOK.myText	OK
+myGuiFile.myGuis.Disconnected.myWidgets.myButtonOK.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myButtonSaveReplay.myText	리플레이 저장
+myGuiFile.myGuis.Disconnected.myWidgets.myButtonSaveReplay.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myPlate_Line01.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myPlate_Line02.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myPlate_Line03.myToolTip	<empty>
+myGuiFile.myGuis.Disconnected.myWidgets.myPlate_Line04.myToolTip	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_Stop.myText	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_Stop.myToolTip	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_Play.myText	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_Play.myToolTip	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_FF.myText	x2
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_FF.myToolTip	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_FFF.myText	x6
+myGuiFile.myGuis.ReplayControl.myWidgets.myButton_FFF.myToolTip	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myPlate_TimerBG.myToolTip	<empty>
+myGuiFile.myGuis.ReplayControl.myWidgets.myTextLabel_Time.myText	00 : 00／00 : 00
+myGuiFile.myGuis.ReplayControl.myWidgets.myTextLabel_Time.myToolTip	<empty>
+myGuiFile.myGuis.HelpBox.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.HelpBox.myWidgets.myPlate_Icon.myToolTip	<empty>
+myGuiFile.myGuis.HelpBox.myWidgets.myText_Message.myText	<empty>
+myGuiFile.myGuis.HelpBox.myWidgets.myText_Message.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Headline.myText	(타이틀)
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Headline.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Shortcut.myText	(바로가기)
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Shortcut.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Description.myText	(설명)
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Description.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Instruction.myText	(지시)
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Instruction.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myPlate_Fact1.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Fact1.myText	(사실1)
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Fact1.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myPlate_Fact2.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Fact2.myText	(사실2)
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Fact2.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myPlate_Fact3.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Fact3.myText	(사실3)
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_Fact3.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_UnitState.myText	유닛 상태
+myGuiFile.myGuis.InformationBox.myWidgets.myTextLabel_UnitState.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myPlate_UnitImage.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myDummy_Background.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myDummy_Headline.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myDummy_Description.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myDummy_Fact1.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myDummy_Fact2.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myDummy_UnitState.myToolTip	<empty>
+myGuiFile.myGuis.InformationBox.myWidgets.myDummy_UnitImage.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_PreviousObjective.myText	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_PreviousObjective.myToolTip	이전 목표 확인
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_NextObjective.myText	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_NextObjective.myToolTip	다음 목표 확인
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_RenderingArea.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_BgDown.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_BGFill.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_BGFill01.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_BGFill02.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_BGFill03.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_RenderingAreaBorder.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_RenderingAreaBorder01.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Background04.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Background01.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Background03.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Dirt.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myText_ObjectiveInfo.myText	목표 자세히 보기
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myText_ObjectiveInfo.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Dirt01.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Dirt02.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myText_PrimaryObjectives.myText	기본목표
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myText_PrimaryObjectives.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myText_SecondaryObjectives.myText	추가목표
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myText_SecondaryObjectives.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_Background02.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_ViewMegaMap.myText	A
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_ViewMegaMap.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myMultiColumn_PrimaryObjectives.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myMultiColumn_PrimaryObjectives.myColumns	상황아이콘;6;목표;94;
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myMultiColumn_SecondaryObjectives.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myMultiColumn_SecondaryObjectives.myColumns	상황아이콘;6;목표;94;
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myTextList_ObjectiveDetails.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_Close.myText	닫기
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myButton_Close.myToolTip	<empty>
+myGuiFile.myGuis.ObjectiveBrowser.myWidgets.myPlate_HeaderBackground06.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myPlate02.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myPlate.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel.myText	CONTENT BUG REPORTS
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myPlate01.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel01.myText	Comment:
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel01.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextList_Comment.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel_ReportNr.myText	Report nr: 0/0
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel_ReportNr.myToolTip	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myCheckBox_Fixed.myText	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myCheckBox_Fixed.myToolTip	Marks content bug as fixed
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel02.myText	Fixed
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel02.myToolTip	Marks content bug as fixed
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_ConfirmFixed.myText	Confirm Fixed
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_ConfirmFixed.myToolTip	Confirms content bug as fixed (deletes bug report)
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myCheckBox_ShowFixed.myText	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myCheckBox_ShowFixed.myToolTip	Toggles displaying of fixed content bugs
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel03.myText	Show Fixed
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel03.myToolTip	Toggles displaying of fixed content bugs
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myCheckBox_ShowPending.myText	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myCheckBox_ShowPending.myToolTip	Toggles displaying of non-fixed content bugs
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel04.myText	Show Pending
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myTextLabel04.myToolTip	Toggles displaying of fixed content bugs
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoFirst.myText	<< First
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoFirst.myToolTip	Shows first content bug
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoPrev.myText	< Prev
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoPrev.myToolTip	Shows previous content bug
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoNext.myText	Next >
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoNext.myToolTip	Shows next content bug
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoLast.myText	Last >>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_GotoLast.myToolTip	Shows last content bug
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_Close.myText	Close
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_Close.myToolTip	Closes this dialog
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_New.myText	New Report
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_New.myToolTip	Creates a new content bug report
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_Upload.myText	Submit
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_Upload.myToolTip	Uploads the current content bug report set to server\nAny existing bug reports on server are backed up
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_Download.myText	Get
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_Download.myToolTip	Downloads the most recent content bug report set from server\nThis operation overwrites local changes!
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_OperationFailed.myText	<empty>
+myGuiFile.myGuis.CamPosDebugInfo.myWidgets.myButton_OperationFailed.myToolTip	The operation signalled failure
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_AntiTeamStackingBG_Right.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_AntiTeamStackingBG_Left.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BG_Fade02.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BG_Fade05.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BG_Fade03.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BG_Fade04.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myDominationBar_Team1.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myDominationBar_Team2.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FactionBGleft.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FactionBGleft01.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FactionBGright01.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FactionBGright.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FactionINFOBGleft.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FactionINFOBGright.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BGFill.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BGFill01.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BGFill02.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BG_Fade01.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BG_Fade.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_Team1.myText	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_Team1.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_Team2.myText	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_Team2.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team1.myText	TEAM1 NAME－4인 플레이중
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team1.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team2.myText	TEAM2 NAME－4인 플레이중
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team2.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Header.myText	관전
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Header.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_GameModeInfo.myText	전략거점을 공략해 주세요. 전략거점을 공략해 주세요. 전략거점을 공략해 주세요. 전략거점을 공략해 주세요. 전략거점을 공략해 주세요. 전략거점을 공략해 주세요. 전략거점을 공략해 주세요. 전략거점을 공략해 주세요.
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_GameModeInfo.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FlagBG_Right.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_FlagBG_Left.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ButtonBG_01.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ButtonBG_02.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ButtonBG_03.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ButtonBG_04.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border01.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border02.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border03.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border04.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border05.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Header01.myText	팀선택
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Header01.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border06.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border07.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border08.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border09.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border10.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border11.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border12.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_AutoTeam.myText	자동선택
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_AutoTeam.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border13.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_GameMode.myText	제압
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_GameMode.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border14.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border15.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border16.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border17.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Border18.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_SpectateTeam1.myText	미군
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_SpectateTeam1.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_SpectateTeam2.myText	소련군
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_SpectateTeam2.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_SpectateAll.myText	전원
+myGuiFile.myGuis.SelectTeam.myWidgets.myButton_SpectateAll.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myText_Click1.myText	클릭으로 선택
+myGuiFile.myGuis.SelectTeam.myWidgets.myText_Click1.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myText_Click2.myText	클릭으로 선택
+myGuiFile.myGuis.SelectTeam.myWidgets.myText_Click2.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationLeft.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationRight.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationBG.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationCornerBL.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationCornerUL.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationCornerUR.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationCornerBR.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationBorderLeft.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_ServerInformationBorderRight.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_ServerInformation.myText	서버정보
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_ServerInformation.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_BannerBG.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_Banner.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_TextBG.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextList_ServerInformationText.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_AntiTeamStackingIcon_Right.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myPlate_AntiTeamStackingIcon_Left.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_AntiTeamStackingInfo_Right.myText	이 진영에 참가하면 팀간 밸런스가 무너지므로 증원포인트에 페널티가 발생합니다. 팀간 밸런스가 좋아지면 이 페널티는 가벼워집니다.
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_AntiTeamStackingInfo_Right.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_AntiTeamStackingInfo_Left.myText	이 진영에 참가하면 팀간 밸런스가 무너지므로 증원포인트에 페널티가 발생합니다. 팀간 밸런스가 좋아지면 이 페널티는 가벼워집니다.
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_AntiTeamStackingInfo_Left.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team1Penalty.myText	페널티 : __NUM__
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team1Penalty.myToolTip	<empty>
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team2Penalty.myText	페널티 : __NUM__
+myGuiFile.myGuis.SelectTeam.myWidgets.myTextLabel_Team2Penalty.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_SelectTeamBorder.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_SelectTeam.myText	팀변경
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_SelectTeam.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG000.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG000.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role000.myText	ROLE1 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role000.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role000.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role000.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG001.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG001.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role001.myText	ROLE2 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role001.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role001.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role001.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG002.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG002.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role002.myText	ROLE3 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role002.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role002.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role002.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG003.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG003.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role003.myText	ROLE4 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role003.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role003.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role003.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG004.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG004.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role004.myText	ROLE5 NAME - 4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role004.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role004.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role004.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole004.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole004.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG005.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG005.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role005.myText	ROLE6 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role005.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role005.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role005.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole005.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole005.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG006.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG006.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role006.myText	ROLE7 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role006.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role006.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role006.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole006.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole006.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG007.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG007.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role007.myText	ROLE8 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role007.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role007.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role007.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole007.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole007.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG008.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG008.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role008.myText	ROLE9 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role008.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role008.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role008.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole008.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole008.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG009.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_RoleBG009.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role009.myText	ROLE10 NAME－4인 플레이중
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_Role009.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role009.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myButton_Role009.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole009.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole009.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole000.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole000.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole001.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole001.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole002.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole002.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole003.myText	담당병과 설명입니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_DescriptionRole003.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole000.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole000.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole001.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole001.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole002.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole002.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole003.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole003.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole004.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole004.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole005.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole005.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole006.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole006.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole007.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole007.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole008.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole008.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole009.myText	추천
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_RecommendedRole009.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_SelectTeam.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationLeft.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationRight.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationBG.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationCornerBL.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationCornerUL.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationCornerUR.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationCornerBR.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationBorderLeft.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_ServerInformationBorderRight.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myTextLabel_ServerInformation.myText	서버정보
+myGuiFile.myGuis.SelectRole.myWidgets.myTextLabel_ServerInformation.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_BannerBG.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_Banner.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myPlate_TextBG.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myTextList_ServerInformationText.myToolTip	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myCheckBox_ESLFreeRole.myText	<empty>
+myGuiFile.myGuis.SelectRole.myWidgets.myCheckBox_ESLFreeRole.myToolTip	게임중 언제라도 해당 담당병과를 바꿀 수 있습니다.
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_ESLFreeRole.myText	로밍롤
+myGuiFile.myGuis.SelectRole.myWidgets.myLabel_ESLFreeRole.myToolTip	게임중 언제라도 해당 담당병과를 바꿀 수 있습니다.
+myGuiFile.myGuis.GameChat.myWidgets.myPlate_RequestWriteToPosBg.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myText_RequestWriteToPosLabel.myText	배치 텍스트 입력
+myGuiFile.myGuis.GameChat.myWidgets.myText_RequestWriteToPosLabel.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myInput_RequestWriteToPos.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.chatBg.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.ChatBox.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.ChatHistory.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myTeamCheck.myText	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myTeamCheck.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.team.myText	팀 채팅
+myGuiFile.myGuis.GameChat.myWidgets.team.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myAllCheck.myText	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myAllCheck.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.all.myText	전체 채팅
+myGuiFile.myGuis.GameChat.myWidgets.all.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.chatBg03.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.SendChatBtn.myText	송신
+myGuiFile.myGuis.GameChat.myWidgets.SendChatBtn.myToolTip	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myButton_PushToTalk.myText	<empty>
+myGuiFile.myGuis.GameChat.myWidgets.myButton_PushToTalk.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_Category0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_Category0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_Category1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_Category1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_Category2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_Category2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG3.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG4.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG5.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG6.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG7.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG8.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_ButtonBG9.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9_0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9_1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9_2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA3.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA4.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA5.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA6.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA7.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA8.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9.myText	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myButton_TA9.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA3.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA4.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA5.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA6.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA7.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA8.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myProgress_TA9.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA0_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA0_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA0_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA0_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA0_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA0_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA1_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA1_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA1_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA1_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA1_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA1_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA2_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA2_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA2_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA2_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA2_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA2_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA3_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA3_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA3_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA3_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA3_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA3_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA4_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA4_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA4_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA4_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA4_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA4_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA5_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA5_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA5_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA5_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA5_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA5_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA6_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA6_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA6_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA6_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA6_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA6_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA7_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA7_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA7_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA7_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA7_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA7_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA8_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA8_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA8_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA8_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA8_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA8_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA9_0.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA9_0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA9_1.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA9_1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA9_2.myText	10
+myGuiFile.myGuis.TacticalAids.myWidgets.myText_TA9_2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA2.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA3.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA4.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA5.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA6.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA7.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA8.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_TA9.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_Category0.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_Category1.myToolTip	<empty>
+myGuiFile.myGuis.TacticalAids.myWidgets.myPlate_Category2.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader1.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader2.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader3.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader4.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader5.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader6.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader7.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader8.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader9.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader10.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader11.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader12.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader13.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader14.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader15.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader16.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader17.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader18.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader19.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader20.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader21.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader22.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader23.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader24.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader25.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader26.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader27.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader28.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_GrayHeader29.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position08.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position07.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position06.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position05.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position04.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position03.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position02.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position01.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerScore_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position08.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position07.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position06.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position05.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position04.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position03.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position02.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position01.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberScore_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRole08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyPlayerRank08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position08.myText	8.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position07.myText	7.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position06.myText	6.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position05.myText	5.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position04.myText	4.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position03.myText	3.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position02.myText	2.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position01.myText	1.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeam_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position08.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position07.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position06.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position05.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position04.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position03.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position02.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position01.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyPlayerName_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position08.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position07.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position06.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position05.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position04.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position03.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position02.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position01.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TeamMemberName_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position08.myText	8.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position07.myText	7.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position06.myText	6.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position05.myText	5.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position04.myText	4.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position03.myText	3.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position02.myText	2.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position01.myText	1.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeam_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRank01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole07.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole06.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Background35.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole05.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Background36.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TeamMemberRole01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_FlagBg.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Dirt.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Dirt01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_FlagBg01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_PlayerTeamFlag.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_EnemyTeamFlag.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeamOutcome.myText	PLAYERTEAM－결과
+myGuiFile.myGuis.GameEnd.myWidgets.myText_PlayerTeamOutcome.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeamOutcome.myText	ENEMYTEAM－결과
+myGuiFile.myGuis.GameEnd.myWidgets.myText_EnemyTeamOutcome.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers_01.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers_01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers_02.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers_02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers_03.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers_03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopPlayerRank_03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopPlayerRank_02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopPlayerRank_01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayerScore_01.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayerScore_01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayerScore_02.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayerScore_02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayerScore_03.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayerScore_03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayer_Position01.myText	1.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayer_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayer_Position02.myText	2.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayer_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Background38.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Dirt03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayer_Position03.myText	3.
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayer_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRoles.myText	최강의 담당병과
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRoles.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRole_01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRole_02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRole_03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRole_04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_01.myText	보병
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_02.myText	기갑
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_03.myText	지원
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_04.myText	항공
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRole_04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRoleRank01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRoleRank02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRoleRank03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TopRoleRank04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position01.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position02.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position03.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position04.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerName_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position01.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position02.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Background39.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position03.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position03.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Dirt04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position04.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopRolePlayerScore_Position04.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_BestTeamplay.myText	최고 스코어
+myGuiFile.myGuis.GameEnd.myWidgets.myText_BestTeamplay.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_CommandPoints.myText	전략거점
+myGuiFile.myGuis.GameEnd.myWidgets.myText_CommandPoints.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Fortifications.myText	방어진지 구축
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Fortifications.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Transportation.myText	수송
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Transportation.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Repair.myText	수리
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Repair.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Bridgelaying.myText	가교
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Bridgelaying.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_CommandPoints_PlayerName.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_CommandPoints_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Fortifications_PlayerName.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Fortifications_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Transportation_PlayerName.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Transportation_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Repair_PlayerName.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Repair_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Bridgelaying_PlayerName.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Bridgelaying_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_CommandPoints_PlayerRank.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Fortifications_PlayerRank.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Transportation_PlayerRank.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Repair_PlayerRank.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Bridgelaying_PlayerRank.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_CommandPoints_PlayerScore.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_CommandPoints_PlayerScore.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Fortifications_PlayerScore.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Fortifications_PlayerScore.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Transportation_PlayerScore.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Transportation_PlayerScore.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Repair_PlayerScore.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Repair_PlayerScore.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Bridgelaying_PlayerScore.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Bridgelaying_PlayerScore.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Background37.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_UnitDamage.myText	적의 데미지
+myGuiFile.myGuis.GameEnd.myWidgets.myText_UnitDamage.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TacticalAid.myText	전술지원
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TacticalAid.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_UnitDamage_PlayerRank.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_TacticalAid_PlayerRank.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_UnitDamage_PlayerName.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_UnitDamage_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TacticalAid_PlayerName.myText	플레이어 이름
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TacticalAid_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_UnitDamage_PlayerScore.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_UnitDamage_PlayerScore.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_Dirt02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TacticalAid_PlayerScore.myText	2000
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TacticalAid_PlayerScore.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers.myText	탑3 플레이어
+myGuiFile.myGuis.GameEnd.myWidgets.myText_TopPlayers.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_ButtonBG01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.SaveReplayButton.myText	리플레이 저장
+myGuiFile.myGuis.GameEnd.myWidgets.SaveReplayButton.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.GameEndButton.myText	계속
+myGuiFile.myGuis.GameEnd.myWidgets.GameEndButton.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_ButtonBG02.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.CameraFreedomButton.myText	스코어시트 비표시
+myGuiFile.myGuis.GameEnd.myWidgets.CameraFreedomButton.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_BorderLines08.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myDominationBar.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_WinningTeam.myText	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_WinningTeam.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Team1.myText	50%
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Team1.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Team2.myText	50%
+myGuiFile.myGuis.GameEnd.myWidgets.myText_Team2.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myPlate_CommandPoints_PlayerRank01.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_ServerName.myText	서버 이름 : _ServerName_
+myGuiFile.myGuis.GameEnd.myWidgets.myText_ServerName.myToolTip	<empty>
+myGuiFile.myGuis.GameEnd.myWidgets.myText_ServerInfo.myText	_ServerInfo_
+myGuiFile.myGuis.GameEnd.myWidgets.myText_ServerInfo.myToolTip	<empty>
+myGuiFile.myGuis.GameEndCameraFreedom.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.GameEndCameraFreedom.myWidgets.myButton_Exit.myText	스코어시트 표시
+myGuiFile.myGuis.GameEndCameraFreedom.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myPlate_FadedBackground.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myPlate_Dialog.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myPlate_ReplayName.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myPlate_HeaderDirtBg.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myPlate_HeaderBg.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myText_Header.myText	리플레이 이름을 지정해 주세요
+myGuiFile.myGuis.SaveReplay.myWidgets.myText_Header.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myTextInput_ReplayName.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myPlate_SaveReplay.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myButton_SaveReplay.myText	리플레이 저장
+myGuiFile.myGuis.SaveReplay.myWidgets.myButton_SaveReplay.myToolTip	새로운 이름으로 리플레이를 저장합니다
+myGuiFile.myGuis.SaveReplay.myWidgets.myPlate_Cancel.myToolTip	<empty>
+myGuiFile.myGuis.SaveReplay.myWidgets.myButton_Cancel.myText	취소
+myGuiFile.myGuis.SaveReplay.myWidgets.myButton_Cancel.myToolTip	리플레이 저장않함
+myGuiFile.myGuis.ScoreSheet.myWidgets.myBackgroundDarkTrans.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background35.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background26.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background19.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background20.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background21.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background22.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background23.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background24.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background25.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background27.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background28.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background29.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background30.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background31.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background32.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background33.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background34.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_FlagBg.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_FlagBg01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_PlayerTeamFlag.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyTeamFlag.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRole08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_TeamMemberRank08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position01.myText	1.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position02.myText	2.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position03.myText	3.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position04.myText	4.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position05.myText	5.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position06.myText	6.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position07.myText	7.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position08.myText	8.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeam_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position01.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position02.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position03.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position04.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position05.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position06.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position07.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position08.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberName_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position01.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position02.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position03.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position04.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position05.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position06.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position07.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position08.myText	플레이어 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerName_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position01.myText	1.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position02.myText	2.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position03.myText	3.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position04.myText	4.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position05.myText	5.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position06.myText	6.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position07.myText	7.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position08.myText	8.
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeam_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRank01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_EnemyPlayerRole01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position01.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position02.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position03.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position04.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position05.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position06.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position07.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position08.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_TeamMemberScore_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position01.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position02.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position03.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position04.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position05.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position06.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position07.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position08.myText	2000
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyPlayerScore_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position01.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position01.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position02.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position02.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position03.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position03.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position04.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position04.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background09.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background10.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background11.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background12.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background13.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background14.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background15.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background16.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background17.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_Background18.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position05.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position05.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position06.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position06.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position07.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position07.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position08.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteTeamMember_Position08.myToolTip	플레이어의 음성 끄기
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position01.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position01.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position02.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position02.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position03.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position03.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position04.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position04.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position05.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position05.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position06.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position06.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position07.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position07.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position08.myText	S
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_TalkToSpecificly_Position08.myToolTip	특정 플레이어와 단독으로 보이스채팅
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position01.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position01.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position02.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position02.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position03.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position03.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position04.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position04.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position05.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position05.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position06.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position06.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position07.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position07.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position08.myText	1
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberOneTA_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position08.myText	5
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_GiveTeamMemberFiveTA_Position08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_CurrentMap.myText	맵 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_CurrentMap.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_CurrentMap_Label.myText	현재 맵 : 
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_CurrentMap_Label.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_ButtonBG01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_VoteKick.myText	배제
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_VoteKick.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_VoteMap.myText	맵
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_VoteMap.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_Vote.myText	투표 : 
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_Vote.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeamHeader.myText	플레이어 팀
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_PlayerTeamHeader.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeamHeader.myText	ENEMYTEAM
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_EnemyTeamHeader.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_ServerName_Label.myText	서버 이름 : 
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_ServerName_Label.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_ServerName.myText	서버 이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_ServerName.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_AddToFavorites.myText	즐겨찾기에 추가
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_AddToFavorites.myToolTip	이 서버를 즐겨찾기서버에 추가
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextLabel_HeaderInfo0.myText	전원 음소거
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextLabel_HeaderInfo0.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myMultiColumn_Spectators.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myMultiColumn_Spectators.myColumns	랭크;10;이름;90;
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteAll.myText	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myCheck_MuteAll.myToolTip	모든 플레이어 음소거
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_Spectators.myText	관전자
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_Spectators.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextLabel_HeaderInfo1.myText	전술지원 제공
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextLabel_HeaderInfo1.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextLabel_HeaderInfo001.myText	음소거/단독
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextLabel_HeaderInfo001.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_LANChangeName.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_LANChangeName.myText	플레이어 LAN이름
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_LANChangeName.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_LANChangeNameOK.myText	OK
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_LANChangeNameOK.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_LANChangeNameCancel.myText	취소
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_LANChangeNameCancel.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextInput_LANChangeName.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myPlate_VoteBackground.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myTextList_VoteSelection.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_InitiateVotation.myText	OK
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_InitiateVotation.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_CancelVotation.myText	취소
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_CancelVotation.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready01.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready01.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready02.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready02.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready03.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready03.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready07.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready07.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready06.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready06.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready05.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready05.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready04.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready04.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready08.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready08.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready09.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready09.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready10.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready10.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready11.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready11.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready12.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready12.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready13.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready13.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready14.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready14.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready15.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready15.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready16.myText	준비완료
+myGuiFile.myGuis.ScoreSheet.myWidgets.myButton_Ready16.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_Ranked.myText	계급 : 
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_Ranked.myToolTip	<empty>
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_RankedYesNo.myText	_YesNo_
+myGuiFile.myGuis.ScoreSheet.myWidgets.myText_RankedYesNo.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_ColorPickerBG.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myBackgroundPlate_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Header.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border00.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border01.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border02.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border03.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border04.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border05.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border06.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Border07.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker000.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker000.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker001.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker001.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker002.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker002.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker003.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker003.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker004.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker004.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker005.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker005.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker006.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker006.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker007.myText	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myCheck_ColorPicker007.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myTextLabel_ColorPickerHeader.myText	PLAYERNAME 지정색 선택
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myTextLabel_ColorPickerHeader.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myButton_ColorPickerOK.myText	OK
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myButton_ColorPickerOK.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myButton_ColorPickerCancel.myText	취소
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myButton_ColorPickerCancel.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Line01.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Line02.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Line03.myToolTip	<empty>
+myGuiFile.myGuis.CustomColorPicker.myWidgets.myPlate_Line04.myToolTip	<empty>
+myGuiFile.myGuis.FirstTimeTips.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.FirstTimeTips.myWidgets.myText_TipText.myText	<empty>
+myGuiFile.myGuis.FirstTimeTips.myWidgets.myText_TipText.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_BGHider.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_Background01.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_Dirt.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myText_Heading.myText	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myText_Heading.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_Background03.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myTextList_Text.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myPlate_Picture.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myButton_Close.myText	닫기
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myButton_Close.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myCheck_DisableToolTips.myText	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myCheck_DisableToolTips.myToolTip	<empty>
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myText_DisableToolTips.myText	힌트 표시않함
+myGuiFile.myGuis.FullscreenTipText.myWidgets.myText_DisableToolTips.myToolTip	<empty>

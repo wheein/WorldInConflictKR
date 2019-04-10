@@ -1,0 +1,38 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	교외
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	교외를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	교외의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 교외를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	발전소
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	발전소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	발전소의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 발전소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	추락현장
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	추락현장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	추락현장의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 추락현장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	역
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	역을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	역의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 역을 점령했다
+myWicedMap.myMissionStats.myName	do_Powerplant
+myWicedMap.myMissionStats.mySPName	%02d－철의 장막 저편
+myWicedMap.myMissionStats.myDescription	NATO군 임무부대는 소련령내로 전격적인 작전을 개시한다. 눈에 파뭍힌 발전소가 여러 전략목표중 하나다.
+myWicedMap.myMissionStats.mySPDescription	시험제작단계의 스텔스가 무르만스크근처 콜라반도에 추락했다. 이 기체에는 기밀정보가 적재되어 있으니 잔해를 적에게 넘겨 줘서는 않된다. 소련령내로 잠입해서 기밀정보를 회수한 다음 파일럿을 구출하고 기체의 잔해들을 파괴하는 것. 이것이 자네에게 주어진 임무다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	발전소
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	발전소
+myWicedMap.myLocStrings.PowerTimer	발전소를 파괴한다 : 
+myWicedMap.myLocStrings.HoldCrashTimer	추락현장을 확보하고 보존및 유지한다 : 
+myWicedMap.myLocStrings.Ru_ETA_Zero	소련군주력부대의 도착까지 : 

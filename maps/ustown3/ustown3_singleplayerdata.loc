@@ -1,0 +1,296 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	포트텔러와 매우 가까운 케스케이드폴이라 불리는 작은 시가지에서 윌킨스대령과 만났다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	주민들이 피난하고 나서 별로 지나지 않았을 때였다. 우리가 이 지역을 지키고 윌킨스대령은 남쪽으로 통하는 좁은 고갯길의 수비를 강화하기로 했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	소여대령은 소련군을 시가지의 중심부로 유인해 낼 계획을 세웠다. 그렇다면 우리는 방어에 전념할 수 있다. 하지만 쳐들어 오는 적은 많아도 우리에게 남은 병사는 결코 많지 않았다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	지금까지와는 다르게 후퇴는 할 수 없는 상황이다. 후퇴하면 포트텔러는 함락되고 세계는 종말을 맞이하게 될 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	우리는 모두 그것이 의미하는 것을 잘 알고 있고 철저한 항전의 각오를 단단히 하고 있다. 배넌조차도 가야할 길을 찾은듯 보였다. 평소보다 말수가 적은 그를 보고 무슨 생각을 하고 있는지 궁금해 했던 기억이 남아있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTakeEastBridge.myDescription	동쪽 다리를 확보하고 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTakeEastBridge.myLongDescription	소련군이 포트텔러에 도착한 다음 우리나라의 탄도미사일방어가 거짓이란걸 알게 되면 전면적인 핵전쟁이 발발할지도 모른다. 유일한 기회는 적의 진군을 여기서 저지하는 것이다. 다리를 확보하고 포격을 집중할 수 있는 시가지의 중심부로 소련군을 유인한다.\n\n다리 주변에 방어진지를 구축하고 명령이 있을 때까지 사수한다.\n\n다리 주변에 소련군이 진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTakeEastBridge.myVisualisationText	동쪽 다리를 확보하고 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objAssistBannon.myDescription	서쪽 다리를 확보하고 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objAssistBannon.myLongDescription	배넌대위는 서쪽 다리 방어에 힘쓰고 있다. 즉시 그곳으로 가서 대위를 지원하고 일대를 제압해라. 소련군이 시가지의 중심부로 향할 때까지 적의 공격을 견뎌내야 한다.\n\n목표를 달성하려면 다리 주변에 방어진지를 구축하고 명령이 있을 때까지 그곳을 사수해야 한다.\n\n다리 주변에 소련군이 방어진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objAssistBannon.myVisualisationText	서쪽 다리를 확보하고 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objRetreatNorth.myDescription	북쪽 다리를 확보하고 철저히 막아라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objRetreatNorth.myLongDescription	소련군은 시가지의 중심부에 공격을 집중시키고 있다. 배넌대위와 웹대위가 맹공을 버티고 있는 동안 자네는 하나 남은 다리를 확실하게 지켜야 한다. 적의 전위부대와 정찰부대에 주의해라. 적은 수륙양용차량으로 도하중이며 헬기로는 보병부대를 방어선의 배후로 연신 투입하고 있다.\n\n목표를 달성하려면 다리 주변에 방어진지를 구축할 것.\n\n다리 주변에 소련군이 방어진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objRetreatNorth.myVisualisationText	북쪽 다리를 확보하고 철저히 막아라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objHoldBridge.myDescription	북쪽 다리 방어
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objHoldBridge.myLongDescription	다리는 확보했지만 이번에는 소련군의 맹공을 견디며 지켜내야 한다. 다리를 잃으면 자네는 포위된 동료들과 분단되고 모든 것을 잃게 될 것이다.\n\n목표를 달성하려면 명령이 있을 때까지 다리를 사수해야 한다.\n\n다리 주변에 소련군이 방어진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objHoldBridge.myVisualisationText	북쪽 다리 방어
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTownCenter.myDescription	시가지의 중심부를 탈환하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTownCenter.myLongDescription	B52의 공격으로 소련군의 진군을 저지했다. 반격의 때가 왔다. 웹과 배넌을 도와 남은 적을 몰아내고 적이 재편성을 끝내기전에 시가지의 중심부를 탈환한다.\n\n목표를 달성하려면 시가지의 중심부를 제압해 방어진지를 구축하고 명령이 있을 때까지 사수해야 한다.\n\n이 일대에 소련군이 방어진지를 구축하면 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTownCenter.myVisualisationText	시가지의 중심부를 탈환하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objEscape.myDescription	고등학교에 집결해 부대를 재편성한다
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objEscape.myLongDescription	핵공격을 요청하기전에 고등학교에 집결해 부대를 재편성한다.\n\n목표를 달성하려면 고등학교 근처에서 우군과 합류해 재편성을 해야한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objEscape.myVisualisationText	고등학교에 집결해 부대를 재편성한다
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objNuke.myDescription	핵공격을 요청한다
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objNuke.myLongDescription	배넌의 공격좌표를 향해 미사일을 발사하도록 요청한다. 착탄지점을 지정해라.\n\n목표를 달성하려면 전술지원메뉴를 이용해 목표마커로 표시된 포인트에 핵공격을 떨어트려야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objNuke.myVisualisationText	핵공격을 요청한다
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.objWaterBradleyEscape.myDescription	소련군 정찰부대를 제거한다
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.objWaterBradleyEscape.myLongDescription	적의 정찰부대가 우리군의 방어선을 돌파하려 한다. 그들이 이 일대를 이탈하기 전에 격파해라. 방어선이 돌파당하면 포트텔러 주변의 방어상황이 적에게 유리하게 흘러갈 것이다.\n\n목표를 달성하려면 지시그룹에 포함되어 있는 적 유닛을 격파할 것.\n\n소여대령이 화력지원 준비를 하지 못하는 시점에서 미션은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.objWaterBradleyEscape.myVisualisationText	소련군 정찰부대를 제거한다
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.MaxAPRaised.myString	지원포인트의 최대치가 상승했다!
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.RussiansTakeEastBridge.myString	소련군이 동쪽 다리를 탈취하려 한다
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.RussiansTakeWestBridge.myString	소련군이 서쪽 다리를 탈취하려 한다
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.CanCallNuke.myString	전술핵미사일 발사요청이 가능하게 되었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.DropZoneChanged.myString	배치가능한 에어리어가 변경되었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.TARefilled.myString	최대전술지원포인트까지 회복됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myHeader	전투학교－체력표시
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myText	체력표시버튼(디폴트 : ALT키)을 누르고 있는 동안에는 모든 우군유닛의 체력이 표시된다. 이것을 사용하면 신속하고 효율적으로 유닛의 체력을 파악할 수 있을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MegaMap.myHeader	전투학교－전략맵
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MegaMap.myText	[메가맵]버튼(디폴트 : M키)을 누르면 메가맵이 표시된다. 전장전체를 한눈에 파악할 수 있으므로 전술적인 판단을 내릴 때 도움이 된다. 전장카메라로 돌아가고 싶을 때는 다시 한번 [맵전환]버튼을 누르면 된다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_010.myText	알겠나, 제군들. 치열한 싸움이 될 것이다. 소련군이 시가지의 중심부에 집결할 때까지 다리를 지킨다. 그 후에 다리를 파괴하고 후퇴한다. 웹, 동쪽 다리를 부탁하네. 배넌은 서쪽이네. 파커, 자네는 웹을 지원하도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_010.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_020.myText	라져, 이글 식스.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_020.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_030.myText	라져.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_030.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_040.myText	파커, 적을 끌어냈네. 자네는 다리에 집중해 주게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_040.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_050.myText	사령부! 엄청난 대군이 집결하고 있다. 화력지원을 부탁한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_050.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_060.myText	이글 식스! 여기는 웹. 적의 차량행열이 오고 있습니다. 다리옆 가로수 부근에 전개할 모양입니다. 지원을 부탁해도 되겠습니까?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_060.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_070.myText	라져, 웹. 곧 지원하겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_070.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_080.myText	동쪽 다리에 도착. 단단히 방어하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_080.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_090.myText	이글 식스! 다리를 확보했습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_090.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_100.myText	잘 했네. 따로 명령이 있을 때까지 지키고 있게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_100.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_110.myText	파커! 다리를 탈환하게. 측면이 무너질지 모르네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_110.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_120.myText	파커! 소련군이 서쪽 다리에서 맹공을 퍼붓고 있네. 즉각 그쪽으로 향하게! 일부병사는 남겨두고 가게. 당분간 양쪽 다리를 지켜야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_120.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_130.myText	당할 것같습니다! 다리를 잃었습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_130.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_140.myText	젠장, 파커! 자네때문에 포트텔러가 함락되는군. 패전 확정인가!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_140.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_150.myText	여기는 괜찮습니다, 대령! 파커는 거기에 잔류시키십시오.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_150.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_160.myText	않되네, 배넌. 파커는 자네를 지원하도록 하겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_160.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_170.myText	적들의 발을 묶는 동안 철저하게 방어하게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_170.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_180.myText	이글 식스. 서쪽 다리를 확보했습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_180.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_190.myText	좋아. 철저하게 막게. 놈들이 미끼를 문 것 같아.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_190.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_200.myText	이글 식스! 녹색의 집 옆에서 적을 발견. 화력지원을 부탁합니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_200.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_210.myText	라져, 배넌. 화력지원을 실시하겠네. 떨어져 있게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_210.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_220.myText	여기는 이글 식스! 이반이 중심부에 재집결하고 있다! 다리를 폭파하고 후퇴해라. 북쪽 다리로 집결한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_220.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_230.myText	여기는 배넌. 후퇴하겠습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_230.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_240.myText	웹입니다. 집결지점으로 향하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_240.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_250.myText	이글 식스! 서쪽 다리를 잃었습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_250.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_260.myText	젠장! 이렇게 이른 시간에 무너지다니! 방어선을 재구축하기가 버겁군! 파커, 자네때문에 포트텔러가 함락하겠네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_260.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_270.myText	여기는 이글 식스! 지금부터 다리를 폭파한다! 전부대는 확실하게 다리를 건너도록 한다. 그렇지 않으면 뒤쳐진다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_270.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_280.myText	파커! 자네가 북쪽 다리를 확보할 때까지 웹과 배넌이 시가지에서 소련군을 억제하게! 이 다리를 잃으면 도하는 물건너 가네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_280.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_290.myText	적 헬기에 주의해라, 파커. 빨리 해치우지 않으면 귀찮아질거야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_290.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_300.myText	그렇군, 배넌. 파커, 대공지원의 우선권을 부여하겠네. 필요하면 요청하도록 하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_300.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_310.myText	좋아, 파커. 철저하게 지키면서 기관포를 준비하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_310.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_320.myText	다리를 확보했나! 잘 했네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_320.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_330.myText	이글 식스, 여기는 웹! 적이 공격을 재개했습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_330.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_340.myText	라져, 웹. 배넌과 함께 그곳에 남아 있게. 파커가 다리를 지킬 것이네! 이 공격만 어떻게 버틴다면 승리는 눈앞에 있을 것이네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_340.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_350.myText	파커! 응답하게! 북쪽 다리를 잃었네! 총원집결! 집결지점은...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_350.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_360.myText	북쪽 다리가 위험하네! 즉시 반격하게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_360.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_370.myText	이글 식스! 여기는 웹! 적 본대의 맹공을 받고 있습니다. 길게는 버티지 못하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_370.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_380.myText	배넌입니다! 웹이 말한대로 적이 너무 많습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_380.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_390.myText	둘 다 다리까지 후퇴하게! 파커가 있는 곳에서 재집결하겠네! 이반에게 자그마한 선물을 선사하세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_390.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_400.myText	여기는 식스팩! “선물”을 투하하겠다. 엄호를 부탁한다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_400.myPortraitText	B52 파일럿
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_410.myText	좋아! 먹어라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_410.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_420.myText	엎드려!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_420.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_430.myText	북쪽 다리를 잃은데다 웹과 배넌도 고립되버렸네! 자네때문이네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_430.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_440.myText	이번엔 이쪽차례군! 총원, 남쪽에서 반격한다. 적이 태세를 정비하기 전에 시가지의 중심부를 탈환한다! 시간이 없다, 서둘러라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_440.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_450.myText	전선을 재구축했네. 철저하게 방어하게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_450.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_460.myText	여기는 이글 식스. 좋지 않은 소식이다. 척후병에 의하면 적은 적어도 3개대대의 군사세력을 현 지구에 투입할 예정이라고 한다. 도저히 맞대응할 수 있는 숫자가 아니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_460.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_470.myText	물러날 수는 없습니다! 모두 잃게 되버립니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_470.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_480.myText	그말이 맞네, 대위. 나는 전술핵공격 투하를 요청할 수있는 권한을 갖고 있지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_480.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_490.myText	핵공격말입니까, 대령?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_490.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_500.myText	그렇네, 웹. 이거라면 녀석들을 한방에 날려버릴 수 있지. 이제 별다른 수가 없네. 우선 고등학교에서 재집결한 다음 핵공격을 요청한 후 폭심지에서 이탈하겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_500.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_510.myText	너무 늦었다! 적이 따라 붙고 있다! 젠장, 실패인가!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_510.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_520.myText	대령, 전군이 한꺼번에 후퇴하게 되면 놈들이 눈치챌지 모릅니다. 누군가가 미끼로 남아 있을 필요가 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_520.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_530.myText	그 말도 맞네만, 폭심지에 남는다는 건 자살행위야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_530.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_540.myText	제 부하들과 이미 합의했습니다. 저희가 남겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_540.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_550.myText	제정신인가, 배넌? 그런 명령은 한 적이 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_550.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_560.myText	명령이 아니어도 저희들이 남겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_560.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_570.myText	알겠네, 대위. 파커, 웹. 곧장 고등학교로 향하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_570.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_580.myText	좋아. 배넌! 좌표를 알려주게나. 파커가 미사일사령부에 전달할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_580.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_590.myText	파커, 지금 좌표를 보내겠다. 실수하지마!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_590.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_600.myText	파커, 이 병신새끼야! 빨리 공격을 요청해! 더 이상은 못버틴다고!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_600.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_601.myText	민간인의 피난로는 확보했네. 지금 다리로 향하는 중이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_601.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_602.myText	민간인의 피난로를 확보하질 못했군. 긴급피난용 헬기가 이쪽으로 오고 있네. 자네한테는 실망이 크네, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_602.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_610.myText	파커! 소련군이 이곳으로 올 때까지 앞으로 몇분밖에 남지 않았네. 빨리 다리 주위에 방어진지를 쌓게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_610.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_620.myText	시간이 없네, 파커! 아직도 끝내지 못했나!?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_620.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_630.myText	여기는 웹. 적 전차대와 조우!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_630.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_640.myText	라져, 웹! 적이 재집결할 때까지 버텨보게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_640.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_650.myText	파커! 녀석들이 다리를 점거했네! 늦기 전에 격퇴하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_650.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_660.myText	소련군이 함정에 빠졌다! 이대로 시가지 중심부로 끌어들인다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_660.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_670.myText	파커! 늦지 말게! 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_670.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_680.myText	우물쭈물하지 말게, 중위!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_680.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_690.myText	파커! 이대로는 당하고 마네! 늦기 전에 정리하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_690.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_700.myText	사령부로부터 연락이 왔네. 미사일은 발사됐다. 신의 가호가 있기를.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_700.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_710.myText	파커! 적의 수륙양용차량분대가 동쪽에서 도하하려고 하네! 격파하게! 방어선이 뚫리면 포트텔러 주변의 방어정보가 적에게 흘러들어갈게야!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_710.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_720.myText	파커! 정찰부대가 도망가네! 어서 정리하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_720.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_730.myText	중위! 이대로라면 정찰부대를 놓칠 것이네. 자네가 아무것도 하지 않는다면 모자란 화력지원을 할애해서 놈들을 처리해야 될걸세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_730.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_740.myText	이거라면 놈들도 정보는 대부분 가져가지 못할 것이네. 자네의 화력지원을 늘려주겠네. 잘 했네, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_740.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_750.myText	화력지원의 전력 일부를 할애해서 적의 정찰부대를 제거하겠다. 원래 이것은 자네의 임무이지 않았나, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_750.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_790.myText	웹! 배넌! 상황을 보고하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_790.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_800.myText	동쪽 다리를 지키고는 있지만, 적의 공격이 갈수록 격렬해지고 있습니다! 이대로라면 머지않아 후퇴를 해야 할지도 모릅니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_800.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_810.myText	알았네, 대위. 하지만 놈들이 병사 대부분을 중심부로 보낼 때까지 후퇴는 있을 수 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_810.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_820.myText	배넌입니다! 서쪽 다리를 지키고 있습니다. 적이 맹렬한 기세로 공격해 오고 있지만, 아직까진 괜찮습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_820.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_830.myText	알았네, 대위. 적의 공격이 느슨해지고 재집결할 때까지 힘내주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_830.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_840.myText	라져.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_840.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_850.myText	이글 식스! 적의 몇몇 분대가 후퇴하고 재집결을 시작했습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_850.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_860.myText	라져, 배넌. 미끼를 물었군. 조금만 더 버티면 중심부에 집중공격을 할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_860.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_890.myText	어떻게든 버틸 수 있을 것같습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_890.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_900.myText	버텨야 하네, 배넌.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_900.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_910.myText	이글 식스! 서쪽 상황은 어떤가?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_910.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_920.myText	윌킨스의 말에 따르면 고갯길에서 적이 공격 해 왔지만 지금은 어느정도 저지한 모양이네. 적은 병력을 케스케이드폴에 집중시키고 있는게 틀림없어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_920.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_930.myText	그쪽은 형편이 나아 보이는군요, 대령. 적의 수를 좀 더 줄여 보겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_930.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_940.myText	그리 해 주게, 대위. 하지만 과신은 금물이네. 적의 주력부대는 아직 도착하지 않았으니까.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_940.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_950.myText	이글 식스. 여기는 웹. 적의 주력부대가 접근해 오고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_950.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_960.myText	배넌입니다. 녀석들 점점 더 공격에 박차를 가하고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_960.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_970.myText	라져. 주력부대가 공격을 시작하면 알려주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_970.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_980.myText	라져, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_980.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_990.myText	좋아! 때려 눕혔어! 가뿐하잖아!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_990.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1000.myText	긴장을 늦추면 않되네, 대위. 아직 모든 부대가 도착한게 아니니까 말이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1000.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1010.myText	설마요! 더 이상은 무리입니다, 대령! 망가진 차량의 숫자도 기억이 나질 않을 정돈데요!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1010.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1020.myText	대령이 말씀하신대로야. 또 언제 군세력이 몰려 올지 모르지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1020.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1030.myText	필요하다면 오는 족족 때려 눕히면 되는데.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1030.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1040.myText	그렇게 안달하지 말게. 어쨌든 전부 다 정리해 줄 생각이네. 반드시 말야...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1040.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1050.myText	오는구만. 아직 화력지원은 요청하지 말게. 내 명령을 기다려야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1050.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1060.myText	이번에도 난 방관할 수 밖에 없다고 생각했는데. 니카라과에서 무릎을 다친 후 포트베닝에 있는 보병학교에서 교관을 맡았던게 이렇게 큰 도움이 되다니 참으로 다행이야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1060.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myText	파커, 이 얼간이자식아! 적이 거점을 먹어버렸잖아! 되찾아라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myText	파커, 소련군이 거점을 점령했다! 탈환해야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myText	파커, 머리를 좀 굴려라! 그 거점을 탈환하라니까!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	파커, 놈들에게 밀리고 있네. 밀어내야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	파커, 놈들에게 밀리고 있네. 밀어내야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	파커, 방금 잃은 거점을 되찾아 오게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	중위, 이반이 포인트를 탈취했네. 당장 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	파커! 이반을 밀어 내게! 포인트를 되찾게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	정신차리게! 파커, 적이 포인트를 가져갔네! 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	소련의 공격은 그쳤고 케스케이드폴 근방의 적 부대는 괴멸했다. 시가지를 방어하는데 성공함으로써 포트텔러의 비밀은 폭로되지 않았다. 소련 정치국이 핵폭발에 어떤 반응을 보일지는 아직 알수 없지만, 폭발은 미국 국내에서 일어났기때문에 당장 과격한 행동으로 나타날 일은 없을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	케스케이드폴에서 소련군의 발을 묶지 못했다. 이제 적은 포트텔러로 향하고 있다. 기지 안으로 들어가지 못하게 기도하는 수밖에 없지만, 아마도 저지하긴 힘들 것이다. 그렇게 되면 모든것이 끝난다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.msgTimeUntilNukeFail	핵병기투하까지 : 
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.msgInitialRussianAttack	소련군의 공격개시까지
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.Time	소련군의 공격개시까지
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_01.myTitle	Camera Control
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_01.myText	To quickly move the camera to a specific location, aim at the location, hold [[LT]] and press [[RT]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_02.myTitle	Unit Pane
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_02.myText	All units' status are shown in the Unit Pane. Press [[RT]] to toggle it.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_03.myTitle	Troop Transport
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_03.myText	To load an infantry unit into a transport vehicle, select it and press [[Y]] on the vehicle.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_04.myTitle	Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_04.myText	To repair damaged fortifications keep one or more units inside the Perimeter Circle.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_2.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_2.myText	To access the Tactical Aid menu using voice commands, hold [[LB]] and name the Tactical Aid you require then release the button.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myEnemyCapturedText	적이 (을)를 점령했다

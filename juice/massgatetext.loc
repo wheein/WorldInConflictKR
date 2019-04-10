@@ -1,0 +1,555 @@
+﻿myMassgateText.myChatRooms.Name	이름
+myMassgateText.myChatRooms.Users	사용자
+myMassgateText.myChatRooms.PlayerJoin	__PLAYERNAME____RANKNAME__(이)가 채팅방에 들어왔습니다
+myMassgateText.myChatRooms.PlayerLeave	__PLAYERNAME____RANKNAME__(이)가 채팅방에서 나갔습니다
+myMassgateText.myChatRooms.PlayerLeaveForServer	__PLAYERNAME____RANKNAME__(이)가 채팅방에서 나가고 SERVERNAME서버에 접속했습니다
+myMassgateText.myChatRooms.ChatJoinFail_RoomFull	인원이 다 차서 들어갈 수 없습니다.
+myMassgateText.myChatRooms.ChatJoinFail_WrongPass	패스워드가 맞지 않아 들어갈 수 없습니다.
+myMassgateText.myChatRooms.ChatJoinFail_Other	접속하는 도중에 오류가 발생했습니다.
+myMassgateText.myChatRooms.ReceivedInstantMessage	__PLAYERNAME__에게서 인스턴트메시지를 받았습니다.
+myMassgateText.myChatRooms.DefaultRoomName	일반채팅(영어&한글)
+myMassgateText.myChatRooms.NotConnected	...
+myMassgateText.myChatRooms.ClanChatRoom	클랜채팅
+myMassgateText.myChatRooms.GangChatRoom	그룹채팅
+myMassgateText.myChatRooms.ClanWarRoom	클랜전
+myMassgateText.myChatRooms.FPMLobbyRoom	FPM로비
+myMassgateText.myChatRooms.SpamMessage	당신은 스팸행위로 인해 채팅이 금지되었습니다. 해지까지는 __SECONDS__초간 기다려 주세요.
+myMassgateText.myConnect.Connecting	접속중...
+myMassgateText.myConnect.CouldNotConnect	Massgate에 접속하지 못했습니다.
+myMassgateText.myConnect.Authenticating	클라이언트 인증중...
+myMassgateText.myConnect.AuthenticationFailed	인증에 실패했습니다. OK를 누르면 메인메뉴로 돌아갑니다.
+myMassgateText.myConnect.CheckingForUpdates	업데이트 확인중...
+myMassgateText.myConnect.UpdateFound	업데이트를 찾을 수 없습니다. OK를 누르면 다운로드됩니다.
+myMassgateText.myConnect.DownloadFailed	업데이트 다운로드에 실패했습니다.
+myMassgateText.myConnect.DownloadComplete	다운로드가 완료됐습니다. OK를 누르면 업데이트가 설치됩니다.
+myMassgateText.myConnect.UpdateConnectFailed	업데이트서버에 접속하지 못했습니다.
+myMassgateText.myConnect.ClosingGame	게임종료중...
+myMassgateText.myConnect.LoggingIn	로그인중
+myMassgateText.myConnect.CreatingAccount	계정 생성중
+myMassgateText.myConnect.RetrievingProfiles	사용가능한 프로필을 불러 오는중
+myMassgateText.myConnect.CreatingProfile	프로필 생성중
+myMassgateText.myConnect.ModifyingProfile	프로필명 변경중
+myMassgateText.myConnect.DeletingProfile	프로필 삭제중
+myMassgateText.myConnect.ManageHeadline	<empty>
+myMassgateText.myConnect.ConfirmDeleteProfile	정말로 __PROFILENAME__(을)를 삭제하겠습니까?
+myMassgateText.myConnect.AlertStrangeProfileName	이름속에 클랜태그가 포함되어 있습니다. 클랜태그는 Massgate에서 클랜에 가입하면 자동으로 추가됩니다. 이름에서 클랜태그를 삭제해 주세요.
+myMassgateText.myConnect.CreatingClan	클랜 생성중
+myMassgateText.myConnect.ManagingClan	클랜 관리중
+myMassgateText.myConnect.LeavingClan	클랜 탈퇴중
+myMassgateText.myConnect.PasswordReminderHeadline	패스워드를 잃어 버렸습니까?
+myMassgateText.myConnect.PasswordReminder	월드 인 컨플릭트를 종료하고 패스워드를 찾을 수 있는 웹페이지를 표시합니다. 계속하겠습니까?
+myMassgateText.myConnect.myPasswordReminderWebpage	www.massgate.net/recover_password/?__INSERTEMAIL__
+myMassgateText.myConnect.primaryDiaUrl	www.massgate.net/texts/gettext.php?type=welcome&lang=EN
+myMassgateText.myConnect.secondaryDiaUrl	www.massive.se/massgate/dia.txt
+myMassgateText.myConnect.newsDiaUrl	www.massgate.net/texts/gettext.php?type=news&lang=EN
+myMassgateText.myConnect.gettingDia	Massgate의 메시지를 불러 오는중
+myMassgateText.myConnect.failedToGetDia	Massgate의 메시지를 불러 오지 못했습니다. 인터넷접속을 확인해 주세요.
+myMassgateText.myConnect.failedToGetNews	최신뉴스를 가져오지 못했습니다.
+myMassgateText.myConnect.gettingNews	최신뉴스를 불러오기...
+myMassgateText.myConnect.myTosUrl	www.massgate.net/texts/gettext.php?type=tos&lang=EN
+myMassgateText.myConnect.myPrivacyUrl	www.massgate.net/texts/gettext.php?type=privacy&lang=EN
+myMassgateText.myConnect.myEulaUrl	www.massgate.net/texts/gettext.php?type=eula&lang=EN
+myMassgateText.myConnect.myTournamentRulesUrl	www.massgate.net/texts/gettext.php?type=tournamentrules&lang=EN
+myMassgateText.myConnect.myTosUnavailableError	Massgate에서 계정을 생성할 수가 없습니다.
+myMassgateText.myConnect.GettingTos	준비중...
+myMassgateText.myConnect.myTimeLimitedKeyExpired	보유하고 있는 CD키는 __REPLACE__일뒤에 기간이 만료됩니다.
+myMassgateText.myConnect.PleaseWait	기다려 주세요...
+myMassgateText.myConnect.HangOnLockHeader	서버대기열에 들어가겠습니까?
+myMassgateText.myConnect.HangOnLockMessage	이 서버에는 빈자리가 없습니다.\n\n서버대기열에서 대기하면 알아서 비어 있는 슬롯으로 들어갑니다. 슬롯이 빌 때까지 기다리겠습니까?
+myMassgateText.myConnect.HangOnTheLockLeaveHeader	서버대기열에서 나가겠습니까?
+myMassgateText.myConnect.HangOnTheLockLeaveMessage	서버대기열에서 나가도 좋습니까?
+myMassgateText.myConnect.RecruitedQuestion	친구가 이 게임을 추천했습니까?
+myMassgateText.myConnect.YouAreRecruiter	친구들에게 추천해 주셔서 감사합니다!
+myMassgateText.myConnect.RecruitHeader	초대센터
+myMassgateText.myConnect.RecruitNoSuch	이 E메일주소를 가진 계정을 찾을 수 없습니다. 다시 한번 주소를 확인하세요.
+myMassgateText.myConnect.ValidRecruiter	감사합니다!
+myMassgateText.myConnect.buttonURLURL	http://www.massgate.net/massgatebutton/button_url_LANG_REPLACE.txt
+myMassgateText.myConnect.buttonImageURL	http://www.massgate.net/massgatebutton/button_image_LANG_REPLACE.tga
+myMassgateText.myCreateAccount.IllegalNicknameFailure	계정 생성에 실패했습니다. 사용할 수 없는 닉네임입니다.
+myMassgateText.myCreateAccount.IllegalPasswordFailure	계정 생성에 실패했습니다. 사용할 수 없는 패스워드입니다.
+myMassgateText.myCreateAccount.NicknameOccupiedFailure	선택한 닉네임은 이미 사용중입니다.
+myMassgateText.myCreateAccount.CreateAccountFailed	선택한 닉네임을 포함한 계정 생성에 실패했습니다.
+myMassgateText.myCreateAccount.PasswordsNotMatching	패스워드가 일치하지 않습니다!
+myMassgateText.myFilters.NoFilter	필터없음
+myMassgateText.myFilters.NoPassword	패스워드없음
+myMassgateText.myFilters.NeedPassword	패스워드 필요
+myMassgateText.myFilters.NotFull	만원이 아님
+myMassgateText.myFilters.NotEmpty	비어있지 않음
+myMassgateText.myFilters.NotFullNotEmpty	적지도 많지도 않음
+myMassgateText.myFilters.Dedicated	전용
+myMassgateText.myFilters.NonDedicated	비전용
+myMassgateText.myFilters.Ranked	랭크별
+myMassgateText.myFilters.Unranked	비랭크별
+myMassgateText.myFilters.FriendsOnServer	친구있음
+myMassgateText.myFilters.ContactOnServer	지인있음
+myMassgateText.myFilters.NoFriendsOnServer	친구없음
+myMassgateText.myFilters.VoipOnServer	음성채팅기능 활성화
+myMassgateText.myFilters.VoipNotOnServer	음성채팅기능 정지
+myMassgateText.myFilters.modOnServer	MOD없음
+myMassgateText.myFilters.modNotOnServer	MOD전용
+myMassgateText.myFilters.rankBalanced	랭크조정있음
+myMassgateText.myFilters.notRankBalanced	랭크조정없음
+myMassgateText.myFilters.domination	제압전 전용
+myMassgateText.myFilters.assault	강습전 전용
+myMassgateText.myFilters.tow	공방전 전용
+myMassgateText.myGames.Name	이름
+myMassgateText.myGames.Map	맵
+myMassgateText.myGames.Players	플레이어
+myMassgateText.myGames.Ping	PING수치
+myMassgateText.myGames.Type	타입
+myMassgateText.myGames.Mode	모드
+myMassgateText.myGames.Dedicated	전용/로컬
+myMassgateText.myGames.Ranked	랭크별/비랭크별
+myMassgateText.myGames.Open	공개/비공개
+myMassgateText.myGames.Password	패스워드
+myMassgateText.myGames.Cooperative	협력
+myMassgateText.myGames.ServerDetailsLabel	자세한 서버정보
+myMassgateText.myGames.ServerDetailsValue	설정
+myMassgateText.myGames.PlayerDetails_Playername	플레이어명
+myMassgateText.myGames.PlayerDetails_Playerscore	점수
+myMassgateText.myGames.ServerDetails_Servername	서버명
+myMassgateText.myGames.ServerDetails_Gametime	게임시간
+myMassgateText.myGames.ServerDetails_IP	IP
+myMassgateText.myGames.ServerDetails_MaxPlayers	최대 플레이어수
+myMassgateText.myGames.ServerDetails_Ping	PING수치
+myMassgateText.myGames.ServerDetails_Numplayers	플레이어수
+myMassgateText.myGames.ServerDetails_Numspectators	관전자수
+myMassgateText.myGames.ServerDetails_GameVersion	게임 버전
+myMassgateText.myGames.ServerDetails_IsDedicated	전용
+myMassgateText.myGames.ServerDetails_IsCooperative	협력
+myMassgateText.myGames.ServerDetails_IsRanked	랭크별
+myMassgateText.myGames.ServerDetails_RequiresPassword	패스워드보호
+myMassgateText.myGames.ServerDetails_map	맵
+myMassgateText.myGames.ServerDetails_ReliablePort	신용할 수 있는 포트
+myMassgateText.myGames.ServerDetails_UnreliablePort	신용할 수 없는 포트
+myMassgateText.myGames.ServerDetails_MassgateCommPort	Massgate 포트
+myMassgateText.myGames.ServerDetails_RankBalanced	랭크조정있음
+myMassgateText.myGames.Yes	네
+myMassgateText.myGames.No	아니오
+myMassgateText.myGames.Unknown	알 수 없음
+myMassgateText.myGames.TimeDisplayFormat	__MINUTES__'__SECONDS__''
+myMassgateText.myGames.ServerDetails_ModName	실행중인 MOD
+myMassgateText.myGames.JoinSame_Searching	서버 검색중...
+myMassgateText.myGames.JoinSame_Found	같은 서버로 접속했는지 확인
+myMassgateText.myGames.JoinSame_Error	서버에 접속할 수 없습니다
+myMassgateText.myGames.JoinLast_Found	최근에 플레이한 대전
+myMassgateText.myGames.MapRotation	서버상의 맵 : 
+myMassgateText.myGames.CantPlayLobby	대전로비에 있는 동안에는 서버에 접속할 수 없습니다
+myMassgateText.myLadder.Rank	계급
+myMassgateText.myLadder.Level	레벨
+myMassgateText.myLadder.XP	경험치
+myMassgateText.myLadder.PlayerName	플레이어명
+myMassgateText.myLadder.Wins	승리
+myMassgateText.myLadder.Defeats	패배
+myMassgateText.myLadder.Ties	무승부
+myMassgateText.myLadder.Kills	격파수
+myMassgateText.myLadder.Losses	손실수
+myMassgateText.myLadder.KillRatio	격파율
+myMassgateText.myLadder.ProfileNotInLadder	__PLAYERNAME__(은)는 플레이한 횟수가 부족하기 때문에 아직 랭킹챠트에 이름이 없습니다.
+myMassgateText.myLadder.PlayerNotInLadder	플레이횟수가 부족하기 때문에 아직 랭킹챠트에 이름이 없습니다. 순위를 올리려면 랭크별서버에서 플레이해야 합니다.
+myMassgateText.myLadder.NotEnoughPos	랭킹챠트에는__NUMPOS__명의 플레이어밖에 없어서 __REQUESTEDPOS__위로는 이동할 수 없습니다.
+myMassgateText.myLadder.NoSearch	희망순위나 플레이어명(일부단어)을 입력해 주세요.
+myMassgateText.myLadder.NotFound	검색조건에 맞는 플레이어를 찾을 수 없습니다.
+myMassgateText.myLadder.ClanNotInLadder	그 클랜은 플레이횟수가 부족하기 때문에 아직 랭킹챠트에 이름이 없습니다.
+myMassgateText.myLadder.YourClanNotInLadder	당신의 클랜은 클랜전의 횟수가 부족하기 때문에 아직 랭킹챠트에 이름이 없습니다.
+myMassgateText.myPlayerInfo.Loading	불러오기...
+myMassgateText.myPlayerInfo.AbuseReported	비매너행위 신고를 Massive커뮤니티팀에 신고했습니다. 차후에 조사가 이루어집니다.
+myMassgateText.myGameInfo.Name	이름
+myMassgateText.myGameInfo.Team	팀
+myMassgateText.myGameInfo.Score	점수
+myMassgateText.myGameInfo.NotStarted	개시전
+myMassgateText.myGameInfo.NotResponding	응답없음
+myMassgateText.myStatus.Offline	사관
+myMassgateText.myStatus.Online	온라인
+myMassgateText.myStatus.Playing	플레이중
+myMassgateText.myStatus.Away	자리비움
+myMassgateText.myMassgateStatusMessages.AuthFailed_AccountBanned	Massgate관리자가 이 계정을 차단시켰습니다.
+myMassgateText.myMassgateStatusMessages.AuthFailed_BadCredentials	패스워드가 틀립니다. 대문자와 소문자를 구별하므로 다시 확인해 주세요.
+myMassgateText.myMassgateStatusMessages.AuthFailed_General	일반적인 인증장애가 발생했습니다.
+myMassgateText.myMassgateStatusMessages.AuthFailed_IllegalCDKey	CD키에 문제가 있습니다. 커스터머서포트에게 연락해 보세요.
+myMassgateText.myMassgateStatusMessages.AuthFailed_CdKeyInUse	이 CD키는 이미 다른 플레이어가 사용하고 있거나 아직 사용기간이 끝나지 않았습니다. 몇분정도 후에 다시 한번 입력해 보세요. 문제가 해결되지 않는다면 유저서포트로 연락바랍니다.
+myMassgateText.myMassgateStatusMessages.AuthFailed_ProfileInUse	이미 다른 컴퓨터에서 당신의 프로필로 로그인하고 있습니다.
+myMassgateText.myMassgateStatusMessages.AuthFailed_AccountInUse	이미 다른 컴퓨터에서당신의 계정으로 로그인하고 있습니다.
+myMassgateText.myMassgateStatusMessages.AuthFailed_NoSuchAccount	이 계정은 존재하지 않습니다. Massgate에 접속하려면 계정을 생성해야 합니다.
+myMassgateText.myMassgateStatusMessages.AuthFailed_CdKeyExpired	보유하고 있는 CD키는 만료되었습니다. 게임을 구입하려면 www.worldinconflict.com을 참고하세요.
+myMassgateText.myMassgateStatusMessages.ServerError	Massgate서버를 재설정중입니다. 나중에 다시 시도해 주세요.
+myMassgateText.myMassgateStatusMessages.CreateSuccess	계정을 생성했습니다.
+myMassgateText.myMassgateStatusMessages.CreateFailed_General	계정생성하는 도중 일반적인 오류가 발생했습니다
+myMassgateText.myMassgateStatusMessages.CreateFailed_EmailExists	이미 계정에 이 E메일이 등록되어 있습니다. 다른 프로필을 추가로 만들 수 있습니다(일단 Massgate에 로그인해 주세요).
+myMassgateText.myMassgateStatusMessages.CreateFailed_UsernameExists	이미 다른 사용자가 이 프로필명을 등록했습니다. 다른 이름을 선택해 주세요.
+myMassgateText.myMassgateStatusMessages.CreateFailed_CdKeyExhausted	계정을 생성할 수 없습니다. 사용중인 CD키로는 더 이상 계정을 만들 수가 없습니다.
+myMassgateText.myMassgateStatusMessages.InvalidServer	Massgate로 접속할 수 없습니다. 인터넷접속과 방화벽설정을 확인해 주세요.
+myMassgateText.myMassgateStatusMessages.IncorrectProtocolVersion	프로토콜의 버전이 올바르지 않습니다
+myMassgateText.myMassgateStatusMessages.ProbableFirewall	방화벽이 월드 인 컨플릭트를 차단했을 가능성이 있습니다. 사용하고 있는 방화벽의 상태확인과 UDP와 TCP를 활성화 해 주세요.
+myMassgateText.myMassgateStatusMessages.DeleteFailed_Clanned	현재 프로필은 클랜에 가입되어 있습니다. 프로필을 삭제하기 전에 클랜을 탈퇴해 주세요.
+myMassgateText.myMassgateStatusMessages.AbuseKicked	비매너행동으로 인해 서버에서 거부당했습니다. 규칙을 반복해서 위반하면 당신의 CD키는 일시적/영구적으로 온라인플레이를 할 수 없습니다. 다시 한번 로그인할 수는 있습니다. 이 판정에 의문및 건의사항이 있다면 www.massgate.net에 접속 해 주세요.
+myMassgateText.myMassgateStatusMessages.MassgateMaintenance	Massgate가 정검중입니다. 접속에 문제가 일어 날 가능성이 있습니다.
+myMassgateText.GenericStrings.NotAvailable	사용불가
+myMassgateText.GenericStrings.invalidCdKey	입력한 CD키가 올바르지 않습니다. 제대로 입력했는지 다시 확인 해 주세요.
+myMassgateText.GenericStrings.yes	예
+myMassgateText.GenericStrings.no	아니오
+myMassgateText.GenericStrings.true	맞음
+myMassgateText.GenericStrings.false	틀림
+myMassgateText.GenericStrings.on	켜기
+myMassgateText.GenericStrings.off	끄기
+myMassgateText.GenericStrings.unknownMap	알 수 없는 오류입니다.
+myMassgateText.GenericStrings.timeLimitedKeyWarning	입력한 CD키에는 유효기간이 있으며 머지않아 효력을 잃게됩니다. 계속하겠습니까? 현재의 키를 사용하려면 [네], 다른 키를 입력하려면 [아니오]를 눌러 주세요.
+myMassgateText.GenericStrings.cdKeyAttention	주의
+myMassgateText.GenericStrings.systemMessage	시스템메시지
+myMassgateText.GenericStrings.preorderHeadline	예약구매
+myMassgateText.GenericStrings.preorderBody	이 보너스맵은 월드 인 컨플릭트를 예약구매한 플레이어전용입니다(이미 예약구매를 완료했다면 로그인페이지로 가서 [억세스코드입력]을 클릭해 주세요). 월드 인 컨플릭트를 예약구매하겠습니까?
+myMassgateText.GenericStrings.gotoWebsite	웹사이트로 이동
+myMassgateText.GenericStrings.ok	OK
+myMassgateText.GenericStrings.Resume	재개
+myMassgateText.GenericStrings.Cancel	취소
+myMassgateText.GenericStrings.Later	나중에
+myMassgateText.GenericStrings.NotNow	그만둔다
+myMassgateText.myFriendsStrings.Friends	친구
+myMassgateText.myFriendsStrings.Acquaintances	지인
+myMassgateText.myFriendsStrings.Online	온라인
+myMassgateText.myFriendsStrings.Offline	사관
+myMassgateText.myFriendsStrings.Playing	플레이중
+myMassgateText.myFriendsStrings.ClanMembers	클랜동료
+myMassgateText.myFriendsStrings.FriendsHeader	지인
+myMassgateText.myFriendsStrings.NotAFriend	그 외
+myMassgateText.myFriendsStrings.Ignored	무시
+myMassgateText.myProfilePage.neverPlayedWith	과거 1개월간 __PROFILENAME__(와)과 한번도 플레이한 적이 없습니다
+myMassgateText.myProfilePage.playedMultipleTimes	과거 1개월간 __PROFILENAME__(와)과 플레이한 횟수는 __NUMTIMES__번입니다
+myMassgateText.myProfilePage.playedOnce	과거1개월간 __PROFILENAME__(와)과 플레이한 횟수는 1번입니다
+myMassgateText.myProfilePage.NotFound	일치하는 플레이어를 찾을 수 없습니다. 이름이 애매한 경우에는 검색하고 싶은 이름의 일부를 입력해 주세요.
+myMassgateText.myProfilePage.MessageTooLong	메시지가 너무 깁니다.
+myMassgateText.myProfilePage.GoToProfilePageQuestion	프로필페이지로 들어가겠습니까?
+myMassgateText.myProfilePageStats.lastMatchPlayed	가장 최근 플레이한 대전
+myMassgateText.myProfilePageStats.numberOfMatches	대전횟수
+myMassgateText.myProfilePageStats.numberOfMatchesWon	승리횟수
+myMassgateText.myProfilePageStats.numberOfMatchesLost	패배횟수
+myMassgateText.myProfilePageStats.bestWinningStreak	최장연승횟수
+myMassgateText.myProfilePageStats.currentWinningStreak	현재의 연승횟수
+myMassgateText.myProfilePageStats.currentLadderPosition	현재 순위
+myMassgateText.myProfilePageStats.bestLadderPosition	지금까지의 최고순위
+myMassgateText.myProfilePageStats.avgMatchLength	평균대전시간
+myMassgateText.myProfilePageStats.numberOfDominationMatchesWon	승리한 제압전
+myMassgateText.myProfilePageStats.numberOfDominationMatchesLost	패배한 제압전
+myMassgateText.myProfilePageStats.numberOfMatchesWonByTotalDomination	완전제압으로 승리한 대전
+myMassgateText.myProfilePageStats.numberOfAssaultMatchesWon	패배한 강습전
+myMassgateText.myProfilePageStats.numberOfAssaultMatchesLost	패배한 강습전
+myMassgateText.myProfilePageStats.numberOfPerfectDefandsInAssaultMatch	강습전에서의 완전방어
+myMassgateText.myProfilePageStats.numberOfTowMatchesWon	승리한 공방전
+myMassgateText.myProfilePageStats.numberOfTowMatchesLost	패배한 공방전
+myMassgateText.myProfilePageStats.numberOfPerfectPushesInTowMatch	공방전에서의 압승
+myMassgateText.myProfilePageStats.avgNumberOfReinforcementPointsSpent	증원포인트 평균소비수
+myMassgateText.myProfilePageStats.avgNumberOfTAPointsSpent	전술지원포인트 평균소비수
+myMassgateText.myProfilePageStats.avgNumberOfUnitsKilled	유닛 평균격파수
+myMassgateText.myProfilePageStats.avgNumberOfUnitsLost	유닛 평균손실수
+myMassgateText.myProfilePageStats.totalScore	토탈점수
+myMassgateText.myProfilePageStats.avgScore	평균점수
+myMassgateText.myProfilePageStats.highestScoreInAMatch	대전내의 최고점수
+myMassgateText.myProfilePageStats.scoreByDamagingenemies	적유닛에게 준 데미지에 따른 점수
+myMassgateText.myProfilePageStats.scoreByRepairing	수리에 따른 점수
+myMassgateText.myProfilePageStats.scoreByTransporting	수송에 따른 점수
+myMassgateText.myProfilePageStats.scoreByUsingTacticalAids	전술지원에 따른 점수
+myMassgateText.myProfilePageStats.scoreByCapturingCommandPoints	전략거점공략에 따른 점수
+myMassgateText.myProfilePageStats.scoreByFortifying	방어진지구축에 따른 점수
+myMassgateText.myProfilePageStats.scoreAsInfantry	보병담당시의 점수
+myMassgateText.myProfilePageStats.scoreAsAir	항공담당시의 점수
+myMassgateText.myProfilePageStats.scoreAsArmor	기갑담당시의 점수
+myMassgateText.myProfilePageStats.scoreAsSupport	지원담당시의 점수
+myMassgateText.myProfilePageStats.highScoreAsInfantry	보병담당시의 최고점수
+myMassgateText.myProfilePageStats.highScoreAsAir	항공담당시의 최고점수
+myMassgateText.myProfilePageStats.highScoreAsArmor	기갑담당시의 최고점수
+myMassgateText.myProfilePageStats.highScoreAsSupport	지원담당시의 최고점수
+myMassgateText.myProfilePageStats.numberOfUnitsKilled	유닛격파수
+myMassgateText.myProfilePageStats.numberOfUnitsLost	유닛손실수
+myMassgateText.myProfilePageStats.numberOfNukesDeployed	배치한 전술핵병기의 숫자
+myMassgateText.myProfilePageStats.numberOfTacticalAidCriticalHits	전술지원의 크리티컬히트수
+myMassgateText.myProfilePageStats.timePlayedAsUSA	미군으로 플레이한 시간
+myMassgateText.myProfilePageStats.timePlayedAsUSSR	소련군으로 플레이한 시간
+myMassgateText.myProfilePageStats.timePlayedAsNATO	NATO군으로 플레이한 시간
+myMassgateText.myProfilePageStats.timePlayedAsInfantry	보병병과로 플레이한 시간
+myMassgateText.myProfilePageStats.timePlayedAsAir	항공병과로 플레이한 시간
+myMassgateText.myProfilePageStats.timePlayedAsArmor	기갑병과로 플레이한 시간
+myMassgateText.myProfilePageStats.timePlayedAsSupport	지원병과로 플레이한 시간
+myMassgateText.myProfilePageStats.avgSpecialAbilitiesPerMatch	특수능력의 평균수
+myMassgateText.myInstantMessaging.InstantMessageHeading	__PEERPROFILENAME____RANKNAME__ 과의 인스턴트메시지대화
+myMassgateText.myInstantMessaging.MessageCapReached	송신메시지수가 상한에 도달했습니다. 몇분 후 다시 시도 해 주세요.
+myMassgateText.myClanStrings.ClanMembers	클랜멤버
+myMassgateText.myClanStrings.ClanLeader	클랜리더
+myMassgateText.myClanStrings.Officers	사관
+myMassgateText.myClanStrings.Grunts	통상멤버
+myMassgateText.myClanStrings.Recruits	초대
+myMassgateText.myClanStrings.ConfirmLeaveQuestion	정말로 클랜을 탈퇴하겠습니까?
+myMassgateText.myClanStrings.ConfirmInviteQuestion	이 플레이어를 클랜으로 초대하겠습니까?
+myMassgateText.myClanStrings.FAIL_INVALID_NAME	클랜명을 생성할 수 없습니다. 다른 이름을 사용 해 주세요.
+myMassgateText.myClanStrings.FAIL_TAG_TAKEN	이미 다른 클랜에서 이 태그를 사용하고 있습니다. 다른 태그를 선택해 주세요.
+myMassgateText.myClanStrings.FAIL_OTHER	클랜을 만들 수 없습니다. 클랜명과 클랜태그가 무효처리될 가능성이 있습니다.
+myMassgateText.myClanStrings.FAIL_ALREADY_IN_CLAN	이 플레이어는 이미 다른 클랜소속이기 때문에 초대할 수 없습니다.
+myMassgateText.myClanStrings.FAIL_DUPLICATE	이 플레이어는 이미 다른 클랜의 초대를 받았습니다.
+myMassgateText.myClanStrings.FAIL_INVALID_PRIVILIGES	자신의 클랜에 다른 플레이어를 초대할 권한이 없습니다.
+myMassgateText.myClanStrings.FAIL_MASSGATE	클랜을 수정할 수 없습니다. Massgate에서 내부오류가 발생했습니다.
+myMassgateText.myClanStrings.AskYouHaveBeenInvited	__PLAYERNAME__ (이)가 당신을 자신의 클랜인 __CLANNAME__(으)로 초대하고 있습니다. 초대에 응하겠습니까?
+myMassgateText.myClanStrings.ManageClan	클랜데이터 갱신중
+myMassgateText.myClanStrings.PromoteToLeader	클랜리더로 임명
+myMassgateText.myClanStrings.KickPlayer	클랜에서 추방
+myMassgateText.myClanStrings.ConfirmPromoteNewLeaderQuestion	__PLAYERNAME__(을)를 리더로 임명하겠습니까?
+myMassgateText.myClanStrings.MODIFY_FAIL_INVALID_PRIVILIGES	클랜리더 이외에 클랜을 수정할 수 없습니다
+myMassgateText.myClanStrings.MODIFY_FAIL_TOO_FEW_MEMBERS	멤버가 부족해 작업에 실패했습니다. 클랜을 탈퇴하고 싶다면 자신을 클랜에서 추방하는 것이 아니라 클랜페이지의 [클랜탈퇴]를 선택해 주세요.
+myMassgateText.myClanStrings.MODIFY_FAIL_OTHER	클랜을 수정할 수 없습니다.
+myMassgateText.myClanStrings.MODIFY_FAIL_MASSGATE	클랜수정중에 Massgate의 오류가 발생했습니다. 나중에 다시 시도 해 주세요.
+myMassgateText.myClanStrings.INVITE_FAIL_PLAYER_IGNORE_MESSAGES	이 플레이어는 초대할 수 없습니다. 당신의 메시지와 초대에 응답하지 않습니다.
+myMassgateText.myClanStrings.SetRecruitment	이주의 플레이어를 설정
+myMassgateText.myClanStrings.confirmLaunchWebsite	웹사이트로 이동하겠습니까?
+myMassgateText.myClanStrings.Demote	강등
+myMassgateText.myClanStrings.Promote	승격
+myMassgateText.myClanStrings.NotFound	이름과 클랜태그가 일치하는 클랜을 찾을 수 없습니다.
+myMassgateText.myClanStrings.GuestBookMsgTooLong	메시지가 너무 깁니다
+myMassgateText.myClanStrings.MatchChallenge8x8	8대8
+myMassgateText.myClanStrings.MatchChallenge5x5	5대5
+myMassgateText.myClanStrings.MatchChallenge4x4	4대4
+myMassgateText.myClanStrings.MatchChallenge2x2	2대2
+myMassgateText.myClanStrings.MatchChallengeNoSuitable	상대클랜의 온라인상 클랜멤버가 없기 때문에 대전신청을 수락할 수 없습니다.
+myMassgateText.myClanStrings.MatchChallengeServerTimeout	대전신청에 시간이 너무 지체되어 서버에서 다른 플레이어로 교체했습니다.
+myMassgateText.myClanStrings.MatchChallengeOpCancel	상대가 대전신청을 취소했습니다
+myMassgateText.myClanStrings.MatchChallengeRecv	__CLANNAME__(이)가 당신의 클랜에게 대전신청을 했습니다!
+myMassgateText.myClanStrings.MatchChallengeRecvNotifBut	대전신청에 응답한다
+myMassgateText.myClanStrings.BUSY	상대는 다른 용무중입니다
+myMassgateText.myClanStrings.CHALLENGE_DECLINED	대전신청이 거절되었습니다
+myMassgateText.myClanStrings.MISSING_MAP	상대은 맵을 갖고 있지 않습니다
+myMassgateText.myClanStrings.NOT_INITIATED	알 수 없는 오류입니다.
+myMassgateText.myClanStrings.CHALLENGE_CANCELED	상대클랜이 대전신청을 취소했습니다
+myMassgateText.myClanStrings.ChallengePreparing	대전신청 준비중
+myMassgateText.myClanStrings.NoChallengeServer	현재 이용할 수 있는 클랜전 서버가 없습니다. 나중에 다시 시도 해 주세요.
+myMassgateText.myClanStrings.InviteSent	초대메시지를 보냈습니다!
+myMassgateText.myClanStrings.preOrderOnlyMap	예약구매자 전용맵
+myMassgateText.myClanStrings.ChallengeClan	클랜전신청
+myMassgateText.myClanStrings.noOfficerOnline	온라인상에 당신의 도전을 받아 줄 사관이 없습니다.
+myMassgateText.myClanStrings.UseProRulesDontCare	신경쓰지 않는다
+myMassgateText.myClanStrings.UseProRulesYes	네
+myMassgateText.myClanStrings.UseProRulesNo	아니오
+myMassgateText.myClanStrings.CWNumPlayers	플레이어수 : __REPLACE__
+myMassgateText.myClanStrings.CWProRules	프로규칙 : __REPLACE__
+myMassgateText.myClanStrings.CWLadderPos	레더순위 : __FROM__ 부터 __TO__
+myMassgateText.myClanStrings.CWMaps	맵 : 
+myMassgateText.myClanStrings.CWAddClan	클랜 추가
+myMassgateText.myClanStrings.CWUpdateClan	클랜 업데이트
+myMassgateText.myClanStrings.DontCare	전부
+myMassgateText.myClanStrings.CWRemoveClanConfirmText	가입을 취소했습니다. 정말로 괜찮습니까?
+myMassgateText.myClanStrings.AntiSmurfYouCantPlay	현재 프로필로 클랜전을 치를 수 없습니다. 과거 __REPLACE__일동안 다른 클랜에서 플레이하고 있습니다.
+myMassgateText.myClanStrings.AntiSmurfOpCantPlay	현재 플레이어와 대전할 수 없습니다. 과거 __REPLACE__일동안 다른 클랜에서 플레이하고 있습니다.
+myMassgateText.myClanStrings.AntiSmurfPlayerCantPlay	현재 플레이어는 클랜전에 참가할 수 없습니다.과거 __REPLACE__일동안 다른 클랜에서 플레이하고 있습니다.
+myMassgateText.myClanStrings.GoToClanPageQuestion	클랜페이지에 들어가겠습니까?
+myMassgateText.myGangStrings.AskYouHaveBeenInvited	__PLAYERNAME__이(가) 그룹으로 초대했습니다. 그룹에 들어가면 함께 서버로 접속하기 수월해 집니다. 초대에 응하겠습니까?
+myMassgateText.myGangStrings.InfoPlayerDeclined	__PLAYERNAME__(이)가 당신의 그룹참가를 거절했습니다.
+myMassgateText.myGangStrings.InfoPlayerJoined	__PLAYERNAME__(이)가 당신의 그룹에 들어왔습니다.
+myMassgateText.myGangStrings.InfoPlayerLeft	__PLAYERNAME__(이)가 당신의 그룹에서 나갔습니다.
+myMassgateText.myGangStrings.InfoGangFull	멤버가 가득 찼기때문에 그룹에 들어 갈 수가 없습니다.
+myMassgateText.myGangStrings.AskLeaveWithGang	그룹멤버인 __PLAYERNAME__(이)가 서버에서 빠져 나와 당신과 동행을 희망하고 있습니다. 응하겠습니까?\n[네]를 누르면 서버에서 빠져 나옵니다\n[아니오]를 누르면 그룹에서 나옵니다.
+myMassgateText.myGangStrings.AskLeaveServer	그룹의 다른 멤버에게 서버에서 나오도록 요청하겠습니까?\n요청할 경우는[네]를 눌러 주세요\n그룹에서 나갈 경우는 [아니오]를 눌러 주세요.
+myMassgateText.myGangStrings.InfoCannotCreateServer	그룹에 들어가 있는 동안은 서버를 만들 수 없습니다.
+myMassgateText.myGangStrings.InfoGangDivided	그룹멤버의 일부가 아직 이전 서버에 남아 있습니다. 그들이 서버나 그룹을 나올 때까지 기다려 주세요.
+myMassgateText.myGangStrings.GettingGangServer	그룹멤버인 __PLAYERNAME__(이)가 서버를 찾았습니다.
+myMassgateText.myGangStrings.DoGangJoin	 __SECONDS__초안에 그룹멤버인 __PLAYERNAME__와 합류 해 주세요.
+myMassgateText.myGangStrings.NotificationDetails	응답...
+myMassgateText.myGangStrings.GroupChatroom	그룹 채팅방
+myMassgateText.myGangStrings.cannotJoinPreOrder	예약구매 전용맵을 갖고 있지 않아 그룹에서 빠져 나왔습니다
+myMassgateText.myGangStrings.NotSupportedForGroups	서버대기열기능은 이 그룹에 대응하지 않습니다
+myMassgateText.myPatchText.QueryDownloadPatch	온라인플레이는 월드 인 컨플릭트를 업데이트해야 할 필요가 있습니다. 지금 바로 다운로드하겠습니까?
+myMassgateText.myPatchText.downloadStatus	남은 시간 :  __HOUR__h __MIN__m __SEC__s. (__KBSEC__ Kb/s)
+myMassgateText.myPatchText.downloadFailed	다운로드실패
+myMassgateText.myPatchText.downloadComplete	다운로드완료
+myMassgateText.myPatchText.downloadStarting	다운로드 초기화중
+myMassgateText.myContextMenuStrings.SendIm	인스턴트메시지 보내기
+myMassgateText.myContextMenuStrings.InviteToGang	그룹으로 초대
+myMassgateText.myContextMenuStrings.GotoProfile	프로필 보기
+myMassgateText.myContextMenuStrings.GotoClan	클랜 보기
+myMassgateText.myContextMenuStrings.InviteToClan	자신의 클랜으로 초대
+myMassgateText.myContextMenuStrings.AddFriend	친구 추가
+myMassgateText.myContextMenuStrings.RemoveFriend	친구 삭제
+myMassgateText.myContextMenuStrings.JoinSameServer	같은 서버로 접속
+myMassgateText.myContextMenuStrings.InviteToServer	서버로 초대
+myMassgateText.myContextMenuStrings.ChallengeClanMatch	클랜전을 신청
+myMassgateText.myContextMenuStrings.InviteToClanMatch	클랜전에 초대
+myMassgateText.myContextMenuStrings.Report	비매너 <공백>
+myMassgateText.myContextMenuStrings.ReportAbuse	비매너 신고
+myMassgateText.myContextMenuStrings.Ignore	무시
+myMassgateText.myContextMenuStrings.UnIgnore	무시않함
+myMassgateText.myContextMenuStrings.RemoveAllByProfile	이 플레이어에 따른 모든 포스트를 삭제
+myMassgateText.myClanStats.lastMatchPlayed	최근에 플레이한 대전
+myMassgateText.myClanStats.matchesPlayed	지금까지의 대전횟수
+myMassgateText.myClanStats.matchesWon	승전횟수
+myMassgateText.myClanStats.matchesLost	패배횟수
+myMassgateText.myClanStats.currentLadderPosition	현재 순위
+myMassgateText.myClanStats.bestWinningStreak	최장연승횟수
+myMassgateText.myClanStats.currentWinningStreak	현재의 연승횟수
+myMassgateText.myClanStats.bestLadderPosition	지금까지의 최고순위
+myMassgateText.myClanStats.tournamentsPlayed	플레이한 토너먼트
+myMassgateText.myClanStats.tournamentsWon	승리토너먼트
+myMassgateText.myClanStats.avgMatchLength	평균대전시간
+myMassgateText.myClanStats.dominationMatchesWon	승리한 제압전
+myMassgateText.myClanStats.dominationMatchesLost	패배한 제압전
+myMassgateText.myClanStats.dominationMatchesWonByTotalDomination	완전제압으로 승리한 대전
+myMassgateText.myClanStats.assaultMatchesWon	패배한 강습전
+myMassgateText.myClanStats.assaultMatchesLost	패배한 강습전
+myMassgateText.myClanStats.assaultMatchesPerfectsDefends	강습전에서의 완전방어
+myMassgateText.myClanStats.towMatchesWon	승리한 공방전
+myMassgateText.myClanStats.towMatchesLost	패배한 공방전
+myMassgateText.myClanStats.towMatchesPerfectPushes	공방전에서의 압승
+myMassgateText.myClanStats.totalScore	토탈점수
+myMassgateText.myClanStats.avgScore	평균점수
+myMassgateText.myClanStats.highestScoreInAMatch	대전내의 최고점수
+myMassgateText.myClanStats.scoreByDamagingEnemies	적유닛에게 준 데미지에 따른 점수
+myMassgateText.myClanStats.scoreByRepairing	수리에 따른 점수
+myMassgateText.myClanStats.scoreByTransporting	수송에 따른 점수
+myMassgateText.myClanStats.scoreByTacticalAid	전술지원에 따른 점수
+myMassgateText.myClanStats.scoreByFortifying	방어진지구축에 따른 점수
+myMassgateText.myClanStats.scoreByInfantry	보병담당시의 점수
+myMassgateText.myClanStats.scoreByAir	항공담당시의 점수
+myMassgateText.myClanStats.scoreByArmor	기갑담당시의 점수
+myMassgateText.myClanStats.scoreBySupport	지원담당시의 점수
+myMassgateText.myClanStats.highestScoreAsInfantry	보병담당시의 최고점수
+myMassgateText.myClanStats.highestScoreAsAir	항공담당시의 최고점수
+myMassgateText.myClanStats.highestScoreAsArmor	기갑담당시의 최고점수
+myMassgateText.myClanStats.highestScoreAsSupport	지원담당시의 최고점수
+myMassgateText.myClanStats.avgNumberOfUnitsKilledInAMatch	유닛 평균격파수
+myMassgateText.myClanStats.avgNumberOfUnitsLostInAMatch	유닛 평균손실수
+myMassgateText.myClanStats.numberOfNukesDeployed	배치한 전술핵병기 수
+myMassgateText.myClanStats.numberOfTacticalAidCriticalHits	전술지원 크리티컬히트수
+myMassgateText.myClanStats.timePlayedAsUSA	미군으로 플레이한 시간
+myMassgateText.myClanStats.timePlayedAsUSSR	소련군으로 플레이한 시간
+myMassgateText.myClanStats.timePlayedAsNATO	NATO군으로 플레이한 시간
+myMassgateText.myTournaments.gt_domination	제압
+myMassgateText.myTournaments.gt_assault	강습
+myMassgateText.myTournaments.gt_koth	킹 오브 더 힐
+myMassgateText.myTournaments.gt_varied	각종모드
+myMassgateText.myTournaments.st_completed	클리어
+myMassgateText.myTournaments.st_scheduled	예약완료
+myMassgateText.myTournaments.st_ongoing	진행중
+myMassgateText.myTournaments.st_applied	신청완료
+myMassgateText.myTournaments.st_joined	참전완료
+myMassgateText.myTournaments.st_invited	요청
+myMassgateText.myTournaments.st_rejected	만원
+myMassgateText.myTournaments.txt_TournamentWinner	토너먼트승자
+myMassgateText.myTournaments.txt_FinalRound	최종라운드
+myMassgateText.myTournaments.txt_r1	라운드1
+myMassgateText.myTournaments.txt_r2	라운드2
+myMassgateText.myTournaments.txt_r3	라운드3
+myMassgateText.myTournaments.txt_r4	라운드4
+myMassgateText.myTournaments.txt_Winner	(승자)
+myMassgateText.myTournaments.txt_Loser	(패자)
+myMassgateText.myTournaments.txt_Bye	(부전승)
+myMassgateText.myTournaments.txt_vs	대
+myMassgateText.myTournaments.DefaultTeamName	__PLAYERNAME__의 팀
+myMassgateText.myTournaments.modal_Applying	토너먼트참가에 적용중
+myMassgateText.myTournaments.modal_Leaving	토너먼트를 이탈중
+myMassgateText.myTournaments.modal_Retrieving	토너먼트의 모든 정보를 불러 오는중
+myMassgateText.myTournaments.status_Applied_OK	토너먼트를 신청했습니다
+myMassgateText.myTournaments.status_Applied_DupName	신청에 실패했습니다. 지정한 팀명은 이 토너먼트의 참가자가 이미 사용하고 있습니다. 다른 이름을 선택해 주세요.
+myMassgateText.myTournaments.status_Applied_Full	신청에 실패했습니다. 토너먼트는 만원입니다.
+myMassgateText.myTournaments.status_Applied_Noright	신청에 실패했습니다. 참가조건을 충족하지 못했습니다.
+myMassgateText.myTournaments.status_Applied_General	신청에 실패했습니다 ‐ 일반적인 오류가 발생했습니다.
+myMassgateText.myTournaments.modal_StartMatch	토너먼트전의 서버를 검색중...
+myMassgateText.myTournaments.status_Left	토너먼트를 이탈했습니다. 대전예정인 상대는 부전승을 거두며 자동적으로 1단계 위로 올라갑니다.
+myMassgateText.myTournaments.status_NoServer	토너먼트서버를 찾을 수 없습니다. 잠시 시간이 지나면 다시 시도 해 주세요.
+myMassgateText.myTournaments.info_WasAccepted	__TOURNAMENTNAME__토너먼트에서 참가신청을 수락했습니다.
+myMassgateText.myTournaments.info_WasRejected	__TOURNAMENTNAME__토너먼트가 만원이라 신청히 거부되었습니다.
+myMassgateText.myTournaments.warn_MatchImminent	토너먼트전이 곧 시작됩니다. 토너먼트화면으로 이동해 자세한 정보를 확인해 주세요.
+myMassgateText.myTournaments.info_MatchMissed	__TOURNAMENTNAME__토너먼트의 대전시작시간에 맞추지 못했습니다.
+myMassgateText.myTournaments.confirmApply	클랜대표로 토너먼트에 등록하겠습니까?
+myMassgateText.myTournaments.noprivileges	클랜리더 이외는 토너먼트 신청이 불가능합니다. 클랜소속이 아니라면 첫화면에서 클랜을 생성해 주세요.
+myMassgateText.myContentStrings.AskMapDownload	현재서버는 현재 보유하고 있지 않은 맵을 사용하고 있기 때문에 플레이 할 수 없습니다. Massgate에서 맵을 검색하겠습니까?
+myMassgateText.myContentStrings.MapNotFound	맵을 찾을 수 없습니다
+myMassgateText.myContentStrings.NotImplemented	실행하지 못했습니다
+myMassgateText.myContentStrings.myMapDLPending	보유
+myMassgateText.myContentStrings.myMapDLSkipped	넘기기
+myMassgateText.myContentStrings.myMapDLWaiting	대기중
+myMassgateText.myContentStrings.myMapDLPaused	일시정지
+myMassgateText.myContentStrings.myMapDLCompleted	클리어
+myMassgateText.myContentStrings.myMapDLFailed	실패
+myMassgateText.myContentStrings.myMapAvailable	Massgate에서 __REPLACE__라는 새로운 맵을 다운로드할 수 있습니다. 다운로드하겠습니까?
+myMassgateText.myContentStrings.myMapDownloading	__REPLACE__의 다운로드를 시작했습니다
+myMassgateText.myContentStrings.myMapFinished	__REPLACE__의 다운로드가 끝났습니다
+myMassgateText.myContentStrings.NoMap	현재서버는 당신이 보유하지 않은 맵을 사용하고 있기 때문에 접속할 수 없습니다.
+myMassgateText.myContentStrings.MissingMapDialogHeader	맵이 없습니다
+myMassgateText.myContentStrings.MissingMapDialogBody	참가하려는 서버에서 사용하고 있는 맵 몇개가 (__REPLACE__)이거나, 다운로드되지 않았습니다. 포럼을 방문해 온라인용맵을 찾아 주세요. 서버에 참가할 때는 참가버튼을 눌러 주세요. 단 맵없이 플레이하면 강제로 제외됩니다. 중지할 때는 취소를 눌러 주세요.
+myMassgateText.myContentStrings.MissingModDialogHeader	MOD가 없습니다
+myMassgateText.myContentStrings.MissingModDialogBody	참가하려는 서버에서는 당신이 갖고 있지 않은 MOD를 사용하고 있습니다. 온라인상에서 맵을 찾으시겠습니까? YES를 클릭하면 포럼으로 들어갑니다. NO를 클릭하면 취소됩니다.
+myMassgateText.myClanChallengeStrings.WaitingForServer	서버를 기다리고 있습니다
+myMassgateText.myClanChallengeStrings.ServerUnavailable	이용가능한 클랜전서버를 찾을 수 없습니다. 나중에 다시 시도 해 주세요
+myMassgateText.myClanChallengeStrings.WaitingForPlayer	대전신청을 송신했습니다. 대전상대를 기다리고 있습니다.
+myMassgateText.myClanChallengeStrings.AcceptChallenge	수락
+myMassgateText.myClanChallengeStrings.DeclineChallenge	거절
+myMassgateText.myClanChallengeStrings.SendChallenge	송신
+myMassgateText.myClanChallengeStrings.CancelChallenge	취소
+myMassgateText.myClanChallengeStrings.UnknownMap	알 수 없는 오류입니다.
+myMassgateText.myClanChallengeStrings.Connecting	서버에 접속중.
+myMassgateText.myClanChallengeStrings.InviteeNotOfficer	상대방이 클랜사관이 아니기 때문에 대전신청을 수락할 수 없습니다
+myMassgateText.myClanChallengeStrings.InviterNotOfficer	당신은 클랜사관이 아니기 때문에 다른 클랜에 대전신청을 할 수 없습니다
+myMassgateText.myClanChallengeStrings.OpponentDeclined	상대클랜이 대전신청을 거절했습니다
+myMassgateText.myClanChallengeStrings.LobbyAcceptedPleaseWait	상대클랜이 대전신청을 수락했습니다. 잠시만 기다려 주세요.
+myMassgateText.myClanChallengeStrings.wentOffline	대전을 신청한 플레이어가 오프라인이 되었습니다.
+myMassgateText.myClanChallengeStrings.inviteString	__PLAYERNAME__(이)가 당신에게 __CLANNAME__과의 클랜전에 참가를 희망합니다
+myMassgateText.myClanChallengeStrings.details	자세히...
+myMassgateText.myClanChallengeStrings.challengeDetailsStartedthis	__PLAYERNAME__(이)가 __CLANNAME__의 멤버에게 대전을 신청했습니다. 참전하겠습니까?
+myMassgateText.myClanChallengeStrings.challengeDetailsJoin	__CLANNAME__(이)가 당신의 클랜에게 대전을 신청했으며, __PLAYERNAME__(이)이가 협력을 원하고 있습니다. 참전하겠습니까?
+myMassgateText.myQuestionDialog.buttonOk	OK
+myMassgateText.myQuestionDialog.buttonCancel	취소
+myMassgateText.myQuestionDialog.buttonYes	네
+myMassgateText.myQuestionDialog.buttonNo	아니오
+myMassgateText.myQuestionDialog.buttonAccept	수락
+myMassgateText.myQuestionDialog.buttonDecline	거절
+myMassgateText.myQuestionDialog.buttonSave	저장
+myMassgateText.myQuestionDialog.buttonPreorder	지금 바로 예약구매한다
+myMassgateText.myQuestionDialog.buttonLater	나중에
+myMassgateText.myQuestionDialog.buttonInstall	설치
+myMassgateText.myQuestionDialog.buttonJoin	참가
+myMassgateText.myQuestionDialog.buttonForums	포럼
+myMassgateText.AccessCodes.Activating	코드를 활성화하고 있습니다...
+myMassgateText.AccessCodes.Invalid	코드를 활성화하지 못했습니다. 다시 한번 시도 해 주세요
+myMassgateText.AccessCodes.Error	코드를 활성화하는 도중에 오류가 발생했습니다. 나중에 다시 시도 해 주세요. 코드는 활성화되지 않았습니다.
+myMassgateText.AccessCodes.AuthFailure	E메일과 패스워드와 일치하는 계정은 없습니다. 코드는 활성화되지 않았습니다.
+myMassgateText.AccessCodes.Presell	억세스코드가 승인되었습니다.
+myMassgateText.AccessCodes.Guest	[월드 인 컨플릭트 - 멀티플레이어]를 구입해 주셔서 감사합니다.. CD키의 잠금이 해제되었습니다.
+myMassgateText.AccessCodes.cdkeyWasNotTimebombed	이 CD키는 업그레이드되지 않습니다. 영구적으로 온라인접속이 가능합니다. 이 억세스코드는 다른 CD키로 사용해 주세요.
+myMassgateText.AccessCodes.timebombedAlreadyUpgraded	이미 CD키는 업그레이드가 완료됐습니다. 이 억세스코드는 다른 CD키로 사용해 주세요.
+myMassgateText.Options.download1	기능정지
+myMassgateText.Options.download2	플레이중에는 제외
+myMassgateText.Options.download3	항상
+myMassgateText.Options.internet1	ADSL
+myMassgateText.Options.internet2	케이블
+myMassgateText.Options.internet3	이더넷
+myMassgateText.Options.likeMap	(사용가능)
+myMassgateText.Options.dislikeMap	(사용중지)
+myMassgateText.Options.rankBalanceAny	전부
+myMassgateText.Options.rankBalanceYes	네
+myMassgateText.Options.rankBalanceNo	아니오
+myMassgateText.MatchLobby.invitePending	(요청)
+myMassgateText.MatchLobby.MaximizeText	대전로비로 돌아가기
+myMassgateText.MatchLobby.declinedMatchInvitation	__PLAYERNAME__(이)가 대전초대를 거절했습니다
+myMassgateText.MatchLobby.unknownMap	알 수 없음
+myMassgateText.MatchLobby.maxPlayers	%u vs. %u
+myMassgateText.MatchLobby.clanType	클랜
+myMassgateText.MatchLobby.tournamentType	토너먼트
+myMassgateText.MatchLobby.playerEntersRoom	%s(이)가 로비에 들어왔습니다
+myMassgateText.MatchLobby.bossLeft	대전제안자가 대전로비를 떠나서 대전은 취소되었습니다
+myMassgateText.MatchLobby.playerLeftRoom	%s(이)가 로비를 떠났습니다
+myMassgateText.MatchLobby.preparingLobby	대전로비 준비중
+myMassgateText.MatchLobby.declinedMissingMap	__PLAYERNAME__(은)는 이 클랜전의 맵을 가지고 있지 않습니다
+myMassgateText.MatchLobby.declinedMissingPreOrderMap	__PLAYERNAME__(은)는 게임을 예약구매하지 않아 이 클랜전에 참가할 수 없습니다
+myMassgateText.MatchLobby.declinedServerError	__PLAYERNAME__(을)를 초대중에 알 수 없는 오류가 발생했습니다
+myMassgateText.MatchLobby.declinedPlayerNotAvailable	__PLAYERNAME__(은)는 오프라인이거나 플레이중이므로 현재 클랜전에 초대할 수 없습니다
+myMassgateText.MatchLobby.startingServer	<#ff0>클랜전서버를 시작합니다. 잠시만 기다려 주세요..</>
+myMassgateText.myClanMatchLogStrings.gameModeDomination	제압
+myMassgateText.myClanMatchLogStrings.gameModeAssault	강습
+myMassgateText.myClanMatchLogStrings.gameModeTugOfWar	공방전
+myMassgateText.myClanMatchLogStrings.gameModeUnknown	알 수 없음
+myMassgateText.myClanMatchLogStrings.datePlayed	플레이날짜 : __REPLACE__
+myMassgateText.myClanMatchLogStrings.map	맵 : __REPLACE__
+myMassgateText.myClanMatchLogStrings.gameMode	게임모드 : __REPLACE__
+myMassgateText.myClanMatchLogStrings.gameTime	게임시간 : __REPLACE__
+myMassgateText.myClanMatchLogStrings.winner	승자 : __REPLACE__
+myMassgateText.myClanMatchLogStrings.loser	패자 : __REPLACE__
+myMassgateText.myClanMatchLogStrings.clanDeleted	삭제된 클랜
+myMassgateText.myClanMatchLogStrings.score	__CLAN__ 점수 :  __REPLACE__
+myMassgateText.myClanMatchLogStrings.numCriticalHits	__CLAN__ 중대한 전술지원공격을 성공한 횟수 :  __REPLACE__
+myMassgateText.myClanMatchLogStrings.domination	__CLAN__ 제압 :  __REPLACE__
+myMassgateText.myClanMatchLogStrings.assaultiness	__CLAN__(이)가 __NUMCOMMANDPOINTS__의 전략거점을 공략하는데 사용한 시간 :  __MINUTES__ : __SECONDS__
+myMassgateText.myClanMatchLogStrings.tugOfWariness	__CLAN__ (이)가 __NUMLINES__ 의 전선과  __NUMPERIMITERPOINTS__ 의 주변거점을 공략

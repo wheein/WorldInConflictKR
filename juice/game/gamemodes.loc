@@ -1,0 +1,12 @@
+﻿GameModes.Domination.myName	제압
+GameModes.Domination.myGameExtendedText	게임은 연장되었습니다
+GameModes.Domination.myDescription	모든 서클(주변거점)을 지배하고 전략거점을 점령합니다. 적보다 많은 주변거점을 지배하면 아군팀의 깃발이 확대될 것입니다(화면상단의 제압막대에서 확인가능).
+GameModes.Assault.myName	강습
+GameModes.Assault.myGameExtendedText	<empty>
+GameModes.Assault.myDescription	강습모드에서는 플레이어들은 2팀(공격측/수비측)으로 나뉘며 전반과 후반에 걸쳐 공수를 교대합니다. 각각의 전략거점을 하나씩 빼앗는 쟁탈전입니다.
+GameModes.TugOfWar.myName	공방전
+GameModes.TugOfWar.myGameExtendedText	<empty>
+GameModes.TugOfWar.myDescription	공방전에서는 전략거점을 확보하면 전선을 연장시킬 수 있습니다. 전선을 상대팀측으로 몰아 붙히려면 모든 주변거점(서클)을 점령할 필요성이 있습니다.
+GameModes.TeamDeathmatch.myName	팀데스매치
+GameModes.TeamDeathmatch.myGameExtendedText	<empty>
+GameModes.TeamDeathmatch.myDescription	그저 상대팀을 쓰러트리기만 하면 됩니다.

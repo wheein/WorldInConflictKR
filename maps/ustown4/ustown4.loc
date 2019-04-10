@@ -1,0 +1,245 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	연구시설
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	연구시설을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	연구시설을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 연구시설을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	방송국
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	방송국을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	방송국을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 방송국을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	주유소
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	주유소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	주유소를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 주유소를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	슈퍼마켓
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	슈퍼마켓을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	슈퍼마켓을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 슈퍼마켓을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	해안
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	해안을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	해안을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	적이 해안을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	시가지 광장
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	시가지 광장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	시가지 광장을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 시가지 광장을 점령했다
+myWicedMap.myMissionStats.myName	do_Seaside
+myWicedMap.myMissionStats.mySPName	%02d－파인밸리공방전
+myWicedMap.myMissionStats.myDescription	해안을 따라 아름다운 시가지로 유명한 파인밸리를 파괴와 혼란이 집어 삼키려고 하고 있다. 소련군과 미군이 이 땅의 지배권를 차지하기 위해 싸움을 시작한 것이다.
+myWicedMap.myMissionStats.mySPDescription	상처입고 피폐한 소여대령 휘하 대대 병사들에게 파인밸리를 방어하라는 명령이 떨어졌다. 이미 전개중인 소련군의 공정부대를 격파하고, 지금부터 들어 닥칠 소련군침공부대에 대비해 방어선을 구축해야 한다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	해안선
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	해안선
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeGas.myDescription	주유소주변을 확보하고, 철저히 막아라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeGas.myLongDescription	파인밸리는 벌써 소련군에게 점령당했다. 시가지를 탈환하기 위해 우리는 시가지 바깥쪽에 있는 전략거점을 급습하려 한다. 우선은 주유소를 탈환하고 그곳에 방어거점을 구축해라. 차기임무는 그 후에 하달한다. 주유소에 있는 2개의 주변거점을 제압하고, 원 안쪽에 자군유닛을 넣는다. 그리하면 즉시 방어진지가 구축될 것이다.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeGas.myVisualisationText	주유소주변을 확보하고, 철저히 막아라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeCity.myDescription	파인밸리의 중심부에 이르는 3개의 진로를 확보해라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeCity.myLongDescription	파인밸리공략전의 제2단계가 시작됐다. 자네의 임무는 바깥쪽에 있는 3개의 적방어거점을 파괴하는 것이다. 배넌 휘하 챨리중대는 서측에서 시가지의 중심부로 진격한다. 웹 휘하 알파중대는 배넌부대를 지원한다. 자네는 3개의 주변거점에 있는 방어진지를 모두 파괴한 후, 거점을 제압해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeCity.myVisualisationText	파인밸리의 중심부에 이르는 3개의 진로를 확보해라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeTV.myDescription	방송국주변을 제압해라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeTV.myLongDescription	파인밸리의 소련군잔재부대는 방송국에 설정한 집결지점으로 후퇴했다. 적은 중(重)포병대를 배치, 우리가 집결지점으로 정면공격을 걸어 오지 못하도록 하고 있다. 포격에 당할 수 있는 지역을 우회해서 적을 쳐라. 적부대를 모두 격파하고, 방송국에 설정된 전략거점을 제압한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeTV.myVisualisationText	방송국주변을 제압해라
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldMarket.myDescription	슈퍼마켓을 지켜라
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldMarket.myLongDescription	소련군의 주력공세는 북동방면에서 오리라 예상하지만, 동시에 교외에서 슈퍼마켓으로도 지원 공격부대가 쳐들어 올 것이다. 절대로 슈퍼마켓을 돌파당해서는 않된다. 슈퍼마켓에 있는 전략거점을 사수해라. 만일 소련군에게 2개의 주변거점을 제압당하면, 전략거점은 적의 손에 들어간다.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldMarket.myVisualisationText	슈퍼마켓을 지켜라
+myWicedMap.myMissionStats.myPrimaryObjectives.ReTakeMarket.myDescription	슈퍼마켓을 확보해라
+myWicedMap.myMissionStats.myPrimaryObjectives.ReTakeMarket.myLongDescription	소련군이 우리의 방어선인 슈퍼마켓을 돌파했다. 즉시 슈퍼마켓으로 향해 반격을 실시하고, 주변거점을 뺏어 와라. 슈퍼마켓에 있는 전략거점을 소련군에서 탈환한다.
+myWicedMap.myMissionStats.myPrimaryObjectives.ReTakeMarket.myVisualisationText	슈퍼마켓을 탈환해라
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldTownSquare.myDescription	시가지 광장을 지켜라
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldTownSquare.myLongDescription	시가지 광장을 지켜야 한다. 파인밸리가 적의 손에 들어가면, 남진을 막지 못하게 되니, 적은 오리건앞까지 단숨에 전진할 것이다.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldTownSquare.myVisualisationText	시가지 광장을 지켜라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeEntrance.myDescription	남동쪽 루트를 탈환해라
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeEntrance.myLongDescription	남동쪽에서 파인밸리로 진입하는 루트에 있는 중앙방어진지에서, 웹의 중대가 부득이하게 철수하게 되었다. 이 진지를 탈환해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeEntrance.myVisualisationText	남동쪽 루트를 탈환해라
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldEntrance.myDescription	남동쪽 루트를 보존및 유지해라
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldEntrance.myLongDescription	당장이라도 소련군의 새로운 공격이 시작될 것이다. 다음 지시가 있을 때까지 남동쪽 루트의 전략거점을 보존및 유지해라.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldEntrance.myVisualisationText	남동쪽 루트를 보존및 유지해라
+myWicedMap.myMissionStats.mySecondaryObjectives.KillSniper.myDescription	소련군저격병을 제거해라
+myWicedMap.myMissionStats.mySecondaryObjectives.KillSniper.myLongDescription	소련군의 저격병이 주유소주변 어딘가에 숨어 있다. 찾아 내서 제거해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillSniper.myVisualisationText	소련군저격병을 제거해라
+myWicedMap.myMissionStats.mySecondaryObjectives.KillArty.myDescription	연구시설부근에 있는 소련군포병부를 격파해라
+myWicedMap.myMissionStats.mySecondaryObjectives.KillArty.myLongDescription	연구시설부근에서 소련군의 자주박격포가 확인되었다. 옥외에 전개하고 있는 모든 보병에게 위험한 존재다. 가능하면 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillArty.myVisualisationText	연구시설부근에 있는 소련군포병부를 격파해라
+myWicedMap.myMissionStats.mySecondaryObjectives.HealBannon.myDescription	배넌을 수리지원해라
+myWicedMap.myMissionStats.mySecondaryObjectives.HealBannon.myLongDescription	배넌의 중대가 주유소에서 적의 격렬한 공격을 받아, 수리를 필요로 한다. 험비를 파견해 전차를 수리하고, 싸울 수 있도록 해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.HealBannon.myVisualisationText	챨리중대를 수리지원해라
+myWicedMap.myMissionStats.mySecondaryObjectives.SaveArtillery.myDescription	연구시설부근의 포병대를 지원해라
+myWicedMap.myMissionStats.mySecondaryObjectives.SaveArtillery.myLongDescription	박격포소대가 소련군의 진격으로 고립, 공격을 받고 있다. 가능하면 그들을 구출해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.SaveArtillery.myVisualisationText	연구시설부근의 포병대를 지원해라
+myWicedMap.myMissionStats.mySecondaryObjectives.KillTvSpotter.myDescription	소련군의 전진관측병을 제거해라
+myWicedMap.myMissionStats.mySecondaryObjectives.KillTvSpotter.myLongDescription	자신들의 바로 근처에 있는 상대에게도 포격을 실시할 수 있도록, 소련군은 전진관측병을 방송국주변 어딘가에 배치하고 있다. 이 관측병을 제거하면, 적의 탄막사격은 그칠 것이다.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillTvSpotter.myVisualisationText	소련군의 전진관측병을 제거해라
+myWicedMap.myMissionStats.myScriptEvents.dropZoneChanged.myString	강하지점이 변경됐다.
+myWicedMap.myMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다.
+myWicedMap.myMissionStats.myScriptEvents.newUnits.myString	새로운 유닛이 주어졌다.
+myWicedMap.myMissionStats.myScriptEvents.newTank.myString	새로운 전차가 주어졌다. 이 전차는 지금 강하지점에 있다.
+myWicedMap.myMissionStats.myScriptEvents.newUnit.myString	새로운 유닛이 주어졌다.
+myWicedMap.myMissionStats.myScriptEvents.givenTA.myString	화기지원을 요청할 수 있다.
+myWicedMap.myMissionStats.myScriptEvents.abrahmGiven.myString	에이브럼스 1대를 무상으로 요청할 수 있다.
+myWicedMap.myMissionStats.myTipTexts.SpecialAbilities.myHeader	전투학교－특수능력
+myWicedMap.myMissionStats.myTipTexts.SpecialAbilities.myText	유닛은 TOW미사일, 폭파, 연막등의 특수능력을 장비하고 있다. 사용시는 특수능력을 좌클릭한다. 목표을 선택할 필요가 있는 경우는, 목표를 우클릭한다. 특수능력을 사용하면, 재사용까지는 일정시간이 걸린다.
+myWicedMap.myMissionStats.myTipTexts.Fortifications.myHeader	전투학교－방어진지
+myWicedMap.myMissionStats.myTipTexts.Fortifications.myText	전략거점은 흙포대를 쌓아 올린 총좌, 이른바 방어진지를 구축해서 지킬 수 있다. 이렇게 전략거점의 방비를 굳히려면, 서로 연결된 주변거점 전체에 유닛을 배치, 방어진지가 완성될 때까지 유닛을 그대로 놔두지 않으면 않된다. 주변거점에 있는 유닛이 많으면 많을 수록, 진지구축 속도는 빨라진다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_01.myText	파커, 명령이네. 주유소를 제압하고, 수비를 단단히 하게.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_01.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_02.myText	그리고 파커, 미안하지만 유리스이등병은 살리지 못했네. 저 저격병은 절대로 용서하지 말게나. 유럽에서 했던 실패를 반복하지 말도록.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_02.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_03.myText	유리스이등병의 원수네, 파커.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_03.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_04.myText	저격병입니다! 저기 굴뚝쪽에!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_04.myPortraitText	병사
+myWicedMap.myMissionStats.myMessageBoxList.ust4_05.myText	당했다! 저격병이다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_05.myPortraitText	병사
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06.myText	저격병이 노리고 있습니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06.myPortraitText	병사
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06a.myText	저격병은 아직 팔팔하군, 파커! 정리하게. 놓치지 말게.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06a.myPortraitText	병사
+myWicedMap.myMissionStats.myMessageBoxList.ust4_07.myText	저격병이 도망간 것 같군, 파커. 전력을 다 했겠지만 말야.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_07.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_08.myText	잘 했네, 파커! 당장이라도 적이 반격해 올 것이네. 그 장소에 방어진지를 구축하게나.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_08.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_09.myText	파커! 담당구역을 지키게. 우리는 배넌의 중대가 돌파하면 곧바로 공격을 재개하겠네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_09.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_10.myText	적을 정리하고 주유소를 탈환하게, 파커!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_10.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_11.myText	이글 식스. 여기는 배넌. 슈퍼마켓부근에서 격렬한 저항세력과 조우. 지원을 부탁합니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_11.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_12.myText	더 이상의 지원은 해 줄수 없네, 배넌. 조금만 더 힘내게나!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_12.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_13.myText	이글 식스, 여기는 배넌. 슈퍼마켓을 제압했습니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_13.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_14.myText	라져, 배넌. 서쪽으로 공격을 옮겨가게. 웹의 중대가 지원해 줄것이네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_14.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_15.myText	파커! 시가지 중심부부근에 세군데 있는 방어거점을 제압및 확보하게. 전황은 유리하게 흐르고 있다네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_15.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_16.myText	제1방어거점을 제압. 앞으로 2개.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_16.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_17.myText	파커! 여기는 이글식스. 연구시설부근에 적포병대를 발견. 되도록이면 파괴한다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_17.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_18.myText	적포병은 침묵했다. 잘 했네, 파커.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_18.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_19.myText	실수했군, 파커. 적포병은 상처하나 없이 철수했네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_19.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20.myText	방어거점은 이제 하나 남았네, 파커!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20a.myText	배넌! 상황보고를 부탁하네!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20a.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_21.myText	배넌입니다! 주위가 온통 적투성이입니다. 놈들이 RPG로 전차를 노리고 있습니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_21.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_22.myText	담당구역을 지키게, 배넌. 웹이 공격을 이어 받을 것이네. 괜찮겠나, 웹?
+myWicedMap.myMissionStats.myMessageBoxList.ust4_22.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_23.myText	라져, 대령. 공격을 이행하겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_23.myPortraitText	웹
+myWicedMap.myMissionStats.myMessageBoxList.ust4_24.myText	이글 식스, 여기는 웹. 적의 방어선을 돌파했습니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_24.myPortraitText	웹
+myWicedMap.myMissionStats.myMessageBoxList.ust4_25.myText	라져, 웹. 잘 했네, 제군! 적은 남쪽으로 철수중이다. 잘만하면 점심전에 시가지는 우리의 것이 될 것이다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_25.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_26.myText	파커! 남아 있는 적부대는 포병대라네. 방송국부근에서 수비를 굳히고 있군. 동쪽에서 우회해 격파 하게. 배넌과 웹은 해안에서 접근하도록.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_26.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_27.myText	그리고 파커! 가능하면 적의 착탄관측병도 정리하게나.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_27.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_28.myText	파커! 적포병대는 침묵했다. 방송국을 제압한다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_28.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_30.myText	이글 식스로부터 배넌에게! 지금 어딘가?
+myWicedMap.myMissionStats.myMessageBoxList.ust4_30.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_31.myText	적보병부대때문에 발이 묶였습니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_31.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_32.myText	여기는 웹. 배넌중대를 우회해서 방송국으로 거겠습니다. 허가를 부탁합니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_32.myPortraitText	웹
+myWicedMap.myMissionStats.myMessageBoxList.ust4_33.myText	거절하겠네, 웹. 배넌을 지원하게. 방송국은 파커에게 맡기지.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_33.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_34.myText	잘 했네, 파커! 방송국을 제압했군. 이제 적은 얼마 남지 않았네. 13:00시에 시가지 광장에서 사령관에게 상황설명을 해야하네. 시간이 얼마 없네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_34.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_36.myText	파커, 슈퍼마켓은 제압했네. 북쪽은 자네에게 맡기지. 별도로 명령이 있을 때까지 슈퍼를 지키게.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_36.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_37.myText	여기는 배넌! 전차부대와 교전중. 북동쪽에서 대거 밀려 오고 있습니다. 언제까지 버틸 수 있을지 모르겠습니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_37.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_38.myText	라져, 배넌. 이글 식스로부터 웹에게. 배넌을 지원바란다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_38.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_39.myText	라져. 제2소대를 보내겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_39.myPortraitText	웹
+myWicedMap.myMissionStats.myMessageBoxList.ust4_40.myText	파커, 지금 바로 수비측에 붙게나. 적의 돌파를 허용하지 말게.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_40.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_41.myText	주변거점은 제압했다. 잘 했네, 파커. 계속해서 수비를 부탁함세.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_41.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_42.myText	여기는 배넌! 전황이 불리합니다! 전차대의 피해가 큰데다가 수리차량까지 당했습니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_42.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_43.myText	라져, 배넌. 어떻게든 해보겠네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_43.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_44.myText	파커, 응답하게! 가용 험비가 있다면 지금 바로 배넌대위가 있는 곳으로 보내주게. 주유소쪽이네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_44.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_45.myText	너무 늦었잖아, 파커. 덕분에 전차를 한대 더 잃을 뻔했다구.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_45.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_46.myText	잘 했다, 파커. M1의 지휘를 맡기겠네. 잘 쓰게나.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_46.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_47.myText	여기는 배넌! 정비병은 어쨌나, 파커!? 주포는 고장난데다가 전차는 2대나 뒤집어지고. 뭐, 우리때문에 서두를 필요는 없지만 말야!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_47.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_48.myText	여기는 배넌. 전차가 또 당했습니다. 너때문에 말도 아니다, 파커!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_48.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_49.myText	헛소리하지 말게, 배넌.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_49.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_50.myText	파커, 포병대가 자넬 노리고 있네! 적이 겨냥하기 전에 후퇴하게! 반복한다, 후퇴하게!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_50.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_51.myText	지금 당장 후퇴하게, 파커! 포격당할지 몰라!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_51.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_52.myText	이글 식스. 여기는 웹. 적의 맹공을 받고 있습니다. 꽤 많은 희생자가 나왔습니다. 다른 방어지점으로 이동하겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_52.myPortraitText	웹
+myWicedMap.myMissionStats.myMessageBoxList.ust4_53.myText	라져. 파커! 남동쪽 진입로로 가게!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_53.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_54.myText	따로 명령이 있을 때까지 담당구역을 지키게, 파커! 방어선을 따라 공격해 올거라 예상되네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_54.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_55.myText	여기는 배넌... 맹공격때문에 피해가 상당해서, 버틸 수가 없으니.... 시가지 광장으로 후퇴하겠습니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_55.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_56.myText	안되네, 배넌! 그곳에 남아서 싸워야 하네. 알겠나?
+myWicedMap.myMissionStats.myMessageBoxList.ust4_56.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_57.myText	이글 식스, 다시 한번... 잘 않들립니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_57.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_58.myText	젠장! 거기에 쳐박혀서 싸우라고 명령했다, 배넌!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_58.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_59.myText	...희생자.... 철수... 교신종료!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_59.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_60.myText	배넌! 응답해라, 챨리 식스! 제길. 이글 식스로부터 전대대에게. 시가지 광장까지 후퇴한다. 반복한다. 시가지 광장까지 후퇴한다. 수비를 단단히 해야한다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_60.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_61.myText	주위가 적투성이입니다! 이대로라면 전멸합니다. 후퇴해야합니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_61.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_62.myText	단단히 수비해야 하네, 배넌! 이건 명령이야.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_62.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_63.myText	대령! 무리입니다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_63.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_64.myText	후퇴하면 내 손으로 자넬 조져주겠네! 중대를 집결시켜!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_64.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_65.myText	총원, 담당구역을 지켜라. 적을 격퇴해라!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_65.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_66.myText	올테면 와 봐라! 때려 눕혀 주마!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_66.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.ust4_67.myText	헛소리하지 말게, 배넌!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_67.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_68.myText	여기는 이글 식스. 적은 모든 방향에서 밀려 오고 있다! 탄약을 확인하고 제대로 노리고 쏴라!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_68.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_69.myText	이 시가지를 잃으면 모든 해안을 잃는 것이나 마찬가지다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_69.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_70.myText	어떻게 해서든 적의 전진을 막아라!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_70.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_71.myText	파커! 별동박격포부대에서 요청이 왔네. 연구시설부근에서 공격을 받고 있는 모양이네. 할 수 있다면 지원해 주게.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_71.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_72.myText	잘 했네, 파커. 박격포부대의 지휘권을 주겠네. 될 수 있는 한 지원해 주게.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_72.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_73.myText	파커! 박격포부대와의 교신이 두절되었네. 박격포부대를 잃는다면 큰 타격이네.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_73.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_74.myText	여기는 이글 식스! 해안으로 후퇴! 반복한다. 후퇴한다!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_74.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.ust4_75.myText	파커! 윌킨스대령과 상의했네. 화력을 지원해 준다고 하네. 필요에 따라 요청하게나.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_75.myPortraitText	소여
+myWicedMap.myLocStrings.DefendBeach	해안을 확보해라 : 
+myWicedMap.myLocStrings.timerTakeTownXMinutes	거점을 제거해라 : 

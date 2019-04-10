@@ -1,0 +1,35 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	폐허
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	폐허를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	폐허의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 폐허를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	대저택
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	대저택을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	대저택의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 대저택을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	마을
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	마을을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	마을의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 마을을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2x.myUiName	등대
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2x.myWeCapturedText	등대를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2x.myWeLostText	등대의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2x.myEnemyCapturedText	적이 등대를 점령했다
+myWicedMap.myMissionStats.myName	do_Ruins
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	일찌기 이곳엔 아름다운 바다를 내려다 보는 중세의 성이 있었다. 하지만 지금 이 땅에서는 NATO와 소련간의 제3차세계대전이 일어 날 처지에 놓여있다.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	폐허
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	폐허

@@ -1,0 +1,45 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	스페이스니들
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	스페이스니들을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	스페이스니들의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 스페이스니들을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	터널입구
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	터널입구를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	터널입구의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 터널입구를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	보급기지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	보급기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	보급기지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 보급기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	유니온센터
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	유니온센터의 지배권을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	유니온센터를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 유니온센터를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	소련군 중앙기지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	소련군 중앙기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	소련군 중앙기지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 소련군 중앙기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	선착장
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	선착장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	선착장의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 선착장을 점령했다
+myWicedMap.myMissionStats.myName	do_SpaceNeedle
+myWicedMap.myMissionStats.mySPName	%02d－마지막 싸움
+myWicedMap.myMissionStats.myDescription	높이 치솟은 스페이스니들이 전쟁의 화염으로 휘감긴 거리를 내려다 보고 있다. 두 초강대국이 시애틀을 둘러싼 싸움을 펼치고 있는 것이다.
+myWicedMap.myMissionStats.mySPDescription	시애틀로 소련의 최종공격이 시작됐다. 이미 합중국대통령은 소련군의 격퇴가 제때 이루어 지지 않았을 경우에는 중국군의 침공시작과 동시에 핵폭탄을 시애틀에 투하하라는 명령을 내렸다. 소여대령은 소련군사령부를 격멸하기 위해 대대를 이끌고 시가지로 향했다. 핵폭탄투하의 순간이 시시각각 다가 온다...
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	스페이스니들
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	스페이스니들
+myWicedMap.myLocStrings.NukeTimer	철수까지의 시간 : 
+myWicedMap.myLocStrings.NukeTimer2	핵폭발 : 

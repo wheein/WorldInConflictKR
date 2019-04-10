@@ -1,0 +1,510 @@
+﻿UnitTypes.-------Normal-Units-------.myUIName	...일반유닛...
+UnitTypes.-------Normal-Units-------.myToolTipInfo	<empty>
+UnitTypes.F1_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.F1_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.F1_Marine.myUIName	미군 - 라이플병
+UnitTypes.F1_Marine.myToolTipInfo	일반라이플보병
+UnitTypes.F1_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.F1_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.F1_Marine_Copy_NoScore.myUIName	미군 - 공수보병
+UnitTypes.F1_Marine_Copy_NoScore.myToolTipInfo	공수라이플보병
+UnitTypes.US_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Machine_Gunner.myUIName	미군 - 기관총병
+UnitTypes.US_Machine_Gunner.myToolTipInfo	미군기관총병(M249 SAW장비)
+UnitTypes.US_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Medic.myUIName	미군 - 위생병
+UnitTypes.US_Medic.myToolTipInfo	미군위생병. 소속분대의 부상병들을 치료한다.
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	그레네이드런쳐탄막사격
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	M203그레네이드런쳐를 장비한 라이플병은 40mm유탄을 일제사격할 수 있다. 적보병에게 절대적인 위력을 발휘하지만, 기갑부대에게는 효과가 약하다.
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Medic_w_Special.myUIName	미군 - 위생병
+UnitTypes.US_Medic_w_Special.myToolTipInfo	미군위생병. 소속분대의 부상병들을 치료한다.
+UnitTypes.US_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_AntiTank.myUIName	미군 - 대전차병
+UnitTypes.US_AntiTank.myToolTipInfo	미군대전차보병. 강력한 무반동포를 장비.
+UnitTypes.US_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_AA_Infantry.myUIName	미군 - 대공병
+UnitTypes.US_AA_Infantry.myToolTipInfo	미군대공보병. 스팅거미사일런쳐를 장비.
+UnitTypes.US_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Squad_Mechanized.myUIName	미군 - 대전차보병
+UnitTypes.US_Squad_Mechanized.myToolTipInfo	유효공격대상 : \n- 전차 \n- 차량 \n\n <#4a3>특징 :  \n- 대전차전에 특화된 분대\n- 항공유닛은 공격불가</>
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	그레네이드런쳐탄막사격
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	M203그레네이드런쳐를 장비한 라이플병은 40mm유탄을 일제사격할 수 있다. 적보병에게 절대적인 위력을 발휘하지만, 기갑부대에게는 효과가 약하다.
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Squad_Infantry.myUIName	미군 - 보병
+UnitTypes.US_Squad_Infantry.myToolTipInfo	유효공격대상 : \n- 보병 \n- 헬리콥터 \n- 차량 \n\n <#4a3>특징 :  \n- 다목적보병분대\n- 그레네이드런쳐를 장비</>
+UnitTypes.US_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Sniper.myUIName	미군 - 저격병
+UnitTypes.US_Sniper.myToolTipInfo	유효공격대상 : \n- 보병 \n\n <#4a3>특징 :  \n- 차폐물밖에서는 지극히 취약 \n- 차량에 무기력 \n- 다른 보병보다 은밀성이 높다</>
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myName	직접조준포격
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myInfo	공수병분대가 지정한 지점으로 직접 화력지원.
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Squad_Airborne.myUIName	미군 - 공수보병
+UnitTypes.US_Squad_Airborne.myToolTipInfo	유효공격대상 : \n- 보병 \n- 방어진지 \n\n <#4a3>특징 :  \n- 포격요청 가능 \n- 차폐물밖에서는 지극히 취약 \n- 차량에 무기력</>
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.M1A1_HEAT.myVisualRep.myName	HEAT탄
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.M1A1_HEAT.myVisualRep.myInfo	HEAT탄 공격으로 경(輕)차량에 큰 위력을 발휘하지만, 전차에게는 효과가 없다.
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.US_Tank_Abrahms.myUIName	미군 - 중(重)전차
+UnitTypes.US_Tank_Abrahms.myToolTipInfo	<#888><i>M1A1 에이브럼스</></>\n\n유효공격대상 : \n- 전차 \n- 차량 \n\n <#4a3>특징 :  \n- 중(重)전차 공격에 최적 \n- 대보병전에는 부적합 \n- 중(重)장갑, 저(底)속도</>
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.M60A3_WP.myVisualRep.myName	황린탄
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.M60A3_WP.myVisualRep.myInfo	황린탄을 발사할 수 있다. 보병에게 크게 위력적.
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.US_M60A3.myUIName	미군 - 중(中)전차
+UnitTypes.US_M60A3.myToolTipInfo	<#888><i>M60A3 패튼</></>\n\n유효공격대상 : \n- 차량 \n- 보병 \n- 전차 \n\n <#4a3>특징 :  \n- 전차공격에 중간정도의 위력 \n- 보병에게 큰 위력\n- 중(重)장갑, 중(中)속도</>
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Shillelagh_ATGM.myVisualRep.myName	쉴레일리대전차미사일
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Shillelagh_ATGM.myVisualRep.myInfo	적외선유도 MGM-51쉴레일리 대전차미사일을 발사한다. 쉴레일리는 셰리던을 위해 대중(重)전차방어병기로 개발된 미사일이다.
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.US_Sheridan.myUIName	미군 - 경(輕)전차
+UnitTypes.US_Sheridan.myToolTipInfo	<#888><i>M551셰리던</></>\n\n유효공격대상 : \n- 차량 \n- 전차 \n\n <#4a3>특징 :  \n- 경(軽)장갑차량에 대한 코스트퍼포먼스가 높다 \n- 적전차를 격파하려면 측면에서 공격할 필요가 있다. \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_TOW_missile.myVisualRep.myName	TOW미사일
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_TOW_missile.myVisualRep.myInfo	유선유도가 가능한 BGM-71 TOW미사일을 발사한다. 전차에게 가장 효과적이며, 그 외에 차량공격도 가능하다
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.US_Bradley_APC.myUIName	미군 - 장갑수송차
+UnitTypes.US_Bradley_APC.myToolTipInfo	<#888><i>M2A2 브레들리</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 보병들을 수송한다 \n- 보병에게 큰 위력 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_mk19.myVisualRep.myName	Mk-19 그레네이드런쳐탄막
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_mk19.myVisualRep.myInfo	벨트급탄식 Mk-19자동유탄총. 40mm유탄을 1분에 300발에서 400발까지 발사 할 수 있다.
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.US_AAVP7A1.myUIName	미군 - 수륙양용수송차량
+UnitTypes.US_AAVP7A1.myToolTipInfo	<#888><i>AAVP7A1</></>\n\n유효공격대상 : \n- 보병 \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 수륙양용보병수송차 \n- 보병에게 큰 위력 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.US_M270.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myName	연막 전개
+UnitTypes.US_M270.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myInfo	발연제를 총전한 로켓탄을 목표지점에 발사해 두꺼운 연기커튼을 만들고, 적에게서 모습을 감춘다.
+UnitTypes.US_M270.myUIName	미군 - 중(重)포부대
+UnitTypes.US_M270.myToolTipInfo	<#888><i>M270 MLRS</></>\n\n유효공격대상 : \n- 모든 육상유닛 \n- 건물 \n- 삼림 \n\n <#4a3>특징 :  \n- 매우 긴 사정거리 \n- 연막 전개가능 \n- 중(中)장갑, 저(底)속도</>
+UnitTypes.US_M125_Mortar.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myName	황린탄
+UnitTypes.US_M125_Mortar.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myInfo	목표지점에 황린박격탄을 발사한다. 착탄과 동시에 발화되서 하얗고 두꺼운 연기를 일으켜 일대를 휘감는다.
+UnitTypes.US_M125_Mortar.myUIName	미군 - 중(中)포부대
+UnitTypes.US_M125_Mortar.myToolTipInfo	<#888><i>M125 MCV</></>\n\n유효공격대상 : \n- 보병 \n- 경(輕)차량 \n- 건물 \n\n <#4a3>특징 :  \n- 긴 사정거리 \n- 황린탄 발사가능 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.US_M730A2_AA.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.US_M730A2_AA.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.US_M730A2_AA.myUIName	미군 - 중(重)대공차량
+UnitTypes.US_M730A2_AA.myToolTipInfo	<#888><i>M48 셰퍼럴</></>\n\n유효공격대상 : \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 장거리 대공미사일에 대한 방어 \n- 육상유닛에게 취약 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.US_M163.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myName	지상지원
+UnitTypes.US_M163.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myInfo	유닛에게 적지상부대타격을 지시. 전차에겐 그다지 효과없다.
+UnitTypes.US_M163.myUIName	미군 - 중(中)대공차량
+UnitTypes.US_M163.myToolTipInfo	<#888><i>M163 VADS</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 중거리 대공포에 대한 방어 \n- 지상지원이 가능 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	폭약
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	전투공병에게 지정지점에 대량의 폭약을 설치하도록 명령한다. 폭약은 원격기폭 가능. 작은 건물정도는 간단히 날려 버린다.
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.US_Engineer.myUIName	미군 - 폭파공병
+UnitTypes.US_Engineer.myToolTipInfo	유효공격대상 : \n- 건물 \n- 다리 \n\n <#4a3>특징 :  \n- 건축물에 폭약설치 가능 \n- 모든 유닛에게 취약</>
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myName	긴급수리
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myInfo	정비병에게 우군차량을 수리하도록 명령한다. 데미지의 대부분이 금방 복구된다.
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myName	현장수리
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myInfo	정비병이 자신들의 정비차량을 전장에서 즉석수리한다. 수리에는 다소 시간이 걸린다. 공을 받거나 수리외의 명령을 내리면 수리는 중단된다.
+UnitTypes.US_M88A1_Arv.myUIName	미군 - 수리차량
+UnitTypes.US_M88A1_Arv.myToolTipInfo	<#888><i>M88A1 MRV</></>\n\n<#4a3>특징 :  \n- 강력한 수리유닛 \n- 비무장 \n- 중(重)장갑, 중(中)속도</>
+UnitTypes.US_HUMWEE.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	철갑탄
+UnitTypes.US_HUMWEE.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	철갑탄을 M2기관총에 장전한다. 장갑차량에 대한 약간의 위력 상승 효과.
+UnitTypes.US_HUMWEE.myUIName	미군 - 병력수송차
+UnitTypes.US_HUMWEE.myToolTipInfo	<#888><i>M1025 험비</></>\n\n유효공격대상 : \n- 보병 \n\n <#4a3>특징 :  \n- 보병들을 수송한다 \n- 우군차량 수리가능 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.US_M-939_Truck.myUIName	미군 - 수송트럭
+UnitTypes.US_M-939_Truck.myToolTipInfo	<#888><i>M939 5ｔ트럭</></>\n\n<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Hellfire.myVisualRep.myName	헬파이어미사일
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Hellfire.myVisualRep.myInfo	어떤 전차의 장갑이라도 관통할 수 있는 헬파이어 대전차미사일을 발사한다. 안전한 거리에서 적차량을 행동불능으로 만드는데 최적.
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.US_AH_Apache.myUIName	미군 - 중(重)공격헬리콥터
+UnitTypes.US_AH_Apache.myToolTipInfo	<#888><i>AH-64A 아파치</></>\n\n유효공격대상 : \n- 전차 \n- 차량 \n- 보병 \n\n <#4a3>특징 :  \n- 육상차량에 절대적인 위력 \n- 대공유닛에 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myName	사이드와인더미사일
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myInfo	적헬리콥터에 AIM-9 사이드와인더미사일을 발사한다.
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.US_AH1_Super_Cobra.myUIName	미군 - 중(中)공격헬리콥터
+UnitTypes.US_AH1_Super_Cobra.myToolTipInfo	<#888><i>AH-1W슈퍼코브라</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 항공및 지상목표에 효과적 \n- 대공유닛에게는 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.US_Blackhawk_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.US_Blackhawk_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.US_Blackhawk_UH.myUIName	미군 - 수송헬리콥터
+UnitTypes.US_Blackhawk_UH.myToolTipInfo	<#888><i>UH-60블랙호크</></>\n\n<#4a3>특징 :  \n- 보병공수기 \n- 비무장 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	적외선스캔
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	연기나 숲, 건물에 숨은 적을 탐지한다.
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.US_OH_6A_Cayuse.myUIName	미군 - 정찰헬리콥터
+UnitTypes.US_OH_6A_Cayuse.myToolTipInfo	<#888><i>OH-6A 카유스</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n-  적외선스캔을 사용해 숨은 적을 탐지한다 \n- 대공유닛에 취약 \n- 저(低)장갑, 초고(超高)속도</>
+UnitTypes.US_fortification_machinegun.myUIName	미군 - 기관총진지
+UnitTypes.US_fortification_machinegun.myToolTipInfo	<empty>
+UnitTypes.US_fortification_antitank.myUIName	미군 - 대전차진지
+UnitTypes.US_fortification_antitank.myToolTipInfo	<empty>
+UnitTypes.US_fortification_antiair.myUIName	미군 - 대공진지
+UnitTypes.US_fortification_antiair.myToolTipInfo	<empty>
+UnitTypes.NATO_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Marine.myUIName	NATO군 - 라이플병
+UnitTypes.NATO_Marine.myToolTipInfo	일반라이플보병
+UnitTypes.NATO_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Marine_Copy_NoScore.myUIName	NATO군 - 공수보병
+UnitTypes.NATO_Marine_Copy_NoScore.myToolTipInfo	공수라이플보병
+UnitTypes.NATO_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Machine_Gunner.myUIName	NATO군 - 기관총병
+UnitTypes.NATO_Machine_Gunner.myToolTipInfo	NATO군 기관총병. 경(輕)기관총을 장비.
+UnitTypes.NATO_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Medic.myUIName	NATO군 - 위생병
+UnitTypes.NATO_Medic.myToolTipInfo	NATO군 위생병. 분대내의 부상병을 치료합니다.
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	그레네이드런쳐탄막사격
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	그레네이드를 장비한 라이플병. 목표지점에 고성능유탄을 일제사격한다. 적보병에게 절대적인 위력 ; 기갑유닛에겐 비교적 낮은 위력.
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Medic_w_Special.myUIName	NATO군 - 위생병
+UnitTypes.NATO_Medic_w_Special.myToolTipInfo	NATO군 위생병. 분대내의 부상병을 치료합니다.
+UnitTypes.NATO_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_AntiTank.myUIName	NATO군 - 대전차병
+UnitTypes.NATO_AntiTank.myToolTipInfo	NATO군 대전차보병. 강력한 무반동포로 무장.
+UnitTypes.NATO_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_AA_Infantry.myUIName	NATO군 - 대공병
+UnitTypes.NATO_AA_Infantry.myToolTipInfo	NATO군 대공보병. 스팅거미사일런쳐를 장비.
+UnitTypes.NATO_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Squad_Mechanized.myUIName	NATO군 - 대전차보병
+UnitTypes.NATO_Squad_Mechanized.myToolTipInfo	유효공격대상 : \n- 전차 \n- 차량 \n\n <#4a3>특징 :  \n- 대전차전에 특화된 분대\n- 항공유닛은 공격불가</>
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	그레네이드런쳐탄막사격
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	그레네이드를 장비한 라이플병. 목표지점에 고성능유탄을 일제사격한다. 적보병에게 절대적인 위력 ; 기갑유닛에겐 비교적 낮은 위력.
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Squad_Infantry.myUIName	NATO군 - 보병
+UnitTypes.NATO_Squad_Infantry.myToolTipInfo	유효공격대상 : \n- 보병 \n- 헬리콥터 \n- 차량 \n\n <#4a3>특징 :  \n- 다목적보병분대\n- 그레네이드런쳐를 장비</>
+UnitTypes.NATO_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Sniper.myUIName	NATO군 - 저격병
+UnitTypes.NATO_Sniper.myToolTipInfo	유효공격대상 : \n- 보병 \n\n <#4a3>특징 :  \n- 차폐물밖에서는 지극히 취약 \n- 차량에 무기력 \n- 다른 보병보다 은밀성이 높다</>
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myName	직접조준포격
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myInfo	공수병분대가 지정한 지점으로 직접 화력지원.
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Squad_Airborne.myUIName	NATO군 - 공수보병
+UnitTypes.NATO_Squad_Airborne.myToolTipInfo	유효공격대상 : \n- 보병 \n- 방어진지 \n\n <#4a3>특징 :  \n- 포격요청 가능 \n- 차폐물밖에서는 지극히 취약 \n- 차량에 무기력</>
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Leopard2_HEAT_round.myVisualRep.myName	HEAT탄
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Leopard2_HEAT_round.myVisualRep.myInfo	HEAT탄 공격으로 경(輕)차량에 큰 위력을 발휘하지만, 전차에게는 효과가 없다.
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.NATO_Tank_Leopard2.myUIName	NATO군 - 중(重)전차
+UnitTypes.NATO_Tank_Leopard2.myToolTipInfo	<#888><i>레오파르트 2A4</></>\n\n유효공격대상 : \n- 전차 \n- 차량 \n\n <#4a3>특징 :  \n- 전차공격에 최적 \n- 대보병전에는 부적합 \n- 중(重)장갑, 저(底)속도</>
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Chieftain_WP.myVisualRep.myName	황린탄
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Chieftain_WP.myVisualRep.myInfo	황린탄을 발사할 수 있다. 보병에게 크게 위력적.
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.NATO_Chieftain_MkV.myUIName	NATO군 - 중(中)전차
+UnitTypes.NATO_Chieftain_MkV.myToolTipInfo	<#888><i>치프텐 Mk 5</></>\n\n유효공격대상 : \n- 차량 \n- 보병 \n- 전차 \n\n <#4a3>특징 :  \n- 전차공격에 중간정도의 위력 \n- 보병에게 큰 위력\n- 중(重)장갑, 중(中)속도</>
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Hesh_round.myVisualRep.myName	HESH탄
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Hesh_round.myVisualRep.myInfo	HESH탄(점착유탄)을 발사한다. 이는 성형화약탄으로 대전차병기로 스코피온에 장착되어 있다.
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.NATO_AMX30.myUIName	NATO군 - 경(輕)전차
+UnitTypes.NATO_AMX30.myToolTipInfo	<#888><i>FV101 스코피온</></>\n\n유효공격대상 : \n- 차량 \n- 전차 \n\n <#4a3>특징 :  \n- 경(軽)장갑차량에 대한 코스트퍼포먼스가 높다 \n- 적전차를 공격하려면 측면에서 공격할 필요가 있다 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.APDS_bullets.myVisualRep.myName	Sabot탄
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.APDS_bullets.myVisualRep.myInfo	두꺼운 장갑을 관통하는 APDS(장탄통부철갑)탄을 30mm포로 장전한다.
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.NATO_Warrior_APC.myUIName	NATO군 - 장갑수송차
+UnitTypes.NATO_Warrior_APC.myToolTipInfo	<#888><i>FV510 워리어</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 보병들을 수송한다 \n- 보병에게 큰 위력\n- 중(中)장갑, 중(中)속도</>
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myName	소이탄
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myInfo	소이폭렬탄에 의한 공격을 실시. 보병에게 효과적.
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.NATO_Recon_Luchs.myUIName	NATO군 - 수륙양용수송차량
+UnitTypes.NATO_Recon_Luchs.myToolTipInfo	<#888><i>장갑정찰차 룩스</></>\n\n유효공격대상 : \n- 보병 \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 수륙양용보병수송차 \n- 보병에게 큰 위력\n- 중(中)장갑, 저(底)속도</>
+UnitTypes.NATO_LARS_SF_2.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myName	연막 전개
+UnitTypes.NATO_LARS_SF_2.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myInfo	발연제를 총전한 로켓탄을 목표지점에 발사해 두꺼운 연기커튼을 만들고, 적에게서 모습을 감춘다.
+UnitTypes.NATO_LARS_SF_2.myUIName	NATO군 - 중(重)포부대
+UnitTypes.NATO_LARS_SF_2.myToolTipInfo	<#888><i>LARS 110 SF 2</></>\n\n유효공격대상 : \n- 모든 육상유닛 \n- 건물 \n- 삼림 \n\n <#4a3>특징 :  \n- 매우 긴 사정거리 \n- 탄막(을)를 전개가능 \n- 중(中)장갑, 저(底)속도</>
+UnitTypes.NATO_Mortar_Weasel.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myName	황린탄
+UnitTypes.NATO_Mortar_Weasel.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myInfo	목표지점에 황린박격탄을 발사한다.착탄과 동시에 발화되서 하얗고 두꺼운 연기를 일으켜 일대를 휘감는다.
+UnitTypes.NATO_Mortar_Weasel.myUIName	NATO군 - 중(中)포부대
+UnitTypes.NATO_Mortar_Weasel.myToolTipInfo	<#888><i>FV432 자주박격포</></>\n\n유효공격대상 : \n- 보병 \n- 경(輕)차량 \n- 건물 \n\n <#4a3>특징 :  \n- 긴 사정거리 \n- 황린탄 발사가능 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.NATO_Marder_Roland.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.NATO_Marder_Roland.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.NATO_Marder_Roland.myUIName	NATO군 - 중(重)대공차량
+UnitTypes.NATO_Marder_Roland.myToolTipInfo	<#888><i>로랜 FRK</></>\n\n유효공격대상 : \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 장거리 대공미사일에 대한 방어 \n- 대지상유닛 방어병기없음 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.NATO_Gepard_AA.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myName	지상지원
+UnitTypes.NATO_Gepard_AA.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myInfo	유닛에게 적지상부대타격을 지시. 전차에겐 그다지 효과없다.
+UnitTypes.NATO_Gepard_AA.myUIName	NATO군 - 중(中)대공차량
+UnitTypes.NATO_Gepard_AA.myToolTipInfo	<#888><i>게팔트 자주대공포</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 중거리 대공포에 대한 방어 \n- 지상지원이 가능Can  \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	폭약
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	전투공병에게 지정지점에 대량의 폭약을 설치하도록 명령한다. 폭약은 원격기폭 가능. 작은 건물정도는 간단히 날려 버린다.
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.NATO_Engineer.myUIName	NATO군 - 폭파공병
+UnitTypes.NATO_Engineer.myToolTipInfo	유효공격대상 : \n- 건물 \n- 다리 \n\n <#4a3>특징 :  \n- 건축물에 폭약설치 가능 \n- 모든 유닛에게 취약</>
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myName	긴급수리
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myInfo	정비병에게 우군차량을 수리하도록 명령한다. 데미지의 대부분이 금방 복구된다.
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myName	현장수리
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myInfo	정비병이 자신들의 정비차량을 전장에서 즉석수리한다. 수리에는 다소 시간이 걸린다. 공을 받거나 수리외의 명령을 내리면 수리는 중단된다.
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myUIName	NATO군 - 수리차량
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myToolTipInfo	<#888><i>치프텐 AAVR</></>\n\n<#4a3>특징 :  \n- 강력한 수리유닛 \n- 비무장 \n- 중(重)장갑, 중(中)속도</>
+UnitTypes.NATO_LandRover.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	철갑탄
+UnitTypes.NATO_LandRover.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	기관총에 철갑탄을 장전한다 장갑차량에 대한 약간의 위력 상승 효과.
+UnitTypes.NATO_LandRover.myUIName	NATO군 - 병력수송차
+UnitTypes.NATO_LandRover.myToolTipInfo	<#888><i>D90</></>\n\n유효공격대상 : \n- 보병 \n\n <#4a3>특징 :  \n- 보병들을 수송한다 \n- 우군차량 수리가능 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.NATO_Renault_4000.myUIName	NATO군 - 수송트럭
+UnitTypes.NATO_Renault_4000.myToolTipInfo	<#888><i>TRM-4000</></>\n\n<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HOT_missile.myVisualRep.myName	HOT미사일
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HOT_missile.myVisualRep.myInfo	HOT대전차미사일을 발사한다. 어떤 전차라도 격파가능하다. 안전한 거리에서 적차량을 파괴하는데 최적.
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.NATO_Mangusta.myUIName	NATO군 - 중(重)공격헬리콥터
+UnitTypes.NATO_Mangusta.myToolTipInfo	<#888><i>A129만구스타</></>\n\n유효공격대상 : \n- 전차 \n- 차량 \n- 보병 \n\n <#4a3>특징 :  \n- 육상차량에 절대적인 위력 \n- 대공유닛에 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Mistral.myVisualRep.myName	미스트랄미사일
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Mistral.myVisualRep.myInfo	미스트랄미사일을 적헬리콥터에게 발사한다.
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.NATO_Gazelle_341.myUIName	NATO군 - 중(中)공격헬리콥터
+UnitTypes.NATO_Gazelle_341.myToolTipInfo	<#888><i>SA-341 가젤</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 항공및 지상목표에 효과적 \n- 대공유닛에 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.NATO_Superpuma_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.NATO_Superpuma_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.NATO_Superpuma_UH.myUIName	NATO군 - 수송헬리콥터
+UnitTypes.NATO_Superpuma_UH.myToolTipInfo	<#888><i>SA-330 슈퍼푸마</></>\n\n<#4a3>특징 :  \n- 보병공수기 \n- 비무장 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	적외선스캔
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	연기나 숲, 건물에 숨은 적을 탐지한다.
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.NATO_PAH_1_Bo105.myUIName	NATO군 - 정찰헬리콥터
+UnitTypes.NATO_PAH_1_Bo105.myToolTipInfo	<#888><i>PAH-1</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 적외선스캔으로 숨어 있는 유닛을 발견 \n- 대공유닛에 취약 \n- 경(軽)장갑, 초고(超高)속도</>
+UnitTypes.NATO_fortification_machinegun.myUIName	NATO군 - 기관총진지
+UnitTypes.NATO_fortification_machinegun.myToolTipInfo	<empty>
+UnitTypes.NATO_fortification_antitank.myUIName	NATO군 - 대전차진지
+UnitTypes.NATO_fortification_antitank.myToolTipInfo	<empty>
+UnitTypes.NATO_fortification_antiair.myUIName	NATO군 - 대공진지
+UnitTypes.NATO_fortification_antiair.myToolTipInfo	<empty>
+UnitTypes.USSR_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Marine.myUIName	소련군 - 라이플병
+UnitTypes.USSR_Marine.myToolTipInfo	일반라이플보병
+UnitTypes.USSR_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Marine_Copy_NoScore.myUIName	소련군 - 공수보병
+UnitTypes.USSR_Marine_Copy_NoScore.myToolTipInfo	공수라이플보병
+UnitTypes.USSR_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Machine_Gunner.myUIName	소련군 - 기관총병
+UnitTypes.USSR_Machine_Gunner.myToolTipInfo	소련군기관총병. PKM기관총으로 무장.
+UnitTypes.USSR_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Medic.myUIName	소련군 - 위생병
+UnitTypes.USSR_Medic.myToolTipInfo	소련군위생병. 소속분대의 부상병들을 치료한다.
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	그레네이드런쳐탄막사격
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	GP-25 그레네이드런쳐를 장비한 라이플병은 40mm유탄을 일제사격한다. 보병에게 절대적인 위력；기갑유닛에게는 위력이 떨어진다
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Medic_w_Special.myUIName	소련군 - 위생병
+UnitTypes.USSR_Medic_w_Special.myToolTipInfo	소련군위생병. 소속분대의 부상병들을 치료한다.
+UnitTypes.USSR_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_AntiTank.myUIName	소련군 - 대전차병
+UnitTypes.USSR_AntiTank.myToolTipInfo	소련군대전차보병. 강력한 무반동포로 무장.
+UnitTypes.USSR_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_AA_Infantry.myUIName	소련군 - 대공병
+UnitTypes.USSR_AA_Infantry.myToolTipInfo	소련군대공보병. 그로스미사일런쳐로 무장.
+UnitTypes.USSR_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Squad_Mechanized.myUIName	소련군 - 대전차보병
+UnitTypes.USSR_Squad_Mechanized.myToolTipInfo	유효공격대상 : \n- 전차 \n- 차량 \n\n <#4a3>특징 :  \n- 대전차전에 특화된 분대\n- 항공유닛은 공격불가</>
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	그레네이드런쳐탄막사격
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	GP-25그레네이드런쳐를 장비한 라이플병은 40mm유탄을 일제사격한다. 보병에게 절대적인 위력；기갑유닛에게는 위력이 떨어진다
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Squad_Infantry.myUIName	소련군 - 보병
+UnitTypes.USSR_Squad_Infantry.myToolTipInfo	유효공격대상 : \n- 보병 \n- 헬리콥터 \n- 차량 \n\n <#4a3>특징 :  \n- 다목적보병분대\n- 그레네이드런쳐를 장비</>
+UnitTypes.USSR_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Sniper.myUIName	소련군 - 저격병
+UnitTypes.USSR_Sniper.myToolTipInfo	유효공격대상 : \n- 보병 \n\n <#4a3>특징 :  \n- 차폐물밖에서는 지극히 취약 \n- 차량에 무기력 \n- 다른 보병보다 은밀성이 높다</>
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myName	직접조준포격
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myInfo	공수병분대가 지정한 지점으로 직접 화력지원.
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Squad_Airborne.myUIName	소련군 - 공수보병부대
+UnitTypes.USSR_Squad_Airborne.myToolTipInfo	유효공격대상 : \n- 보병 \n- 방어진지 \n\n <#4a3>특징 :  \n- 포격요청 가능 \n- 차폐물밖에서는 지극히 취약 \n- 차량에 무기력</>
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.T80_HEAT.myVisualRep.myName	HEAT탄
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.T80_HEAT.myVisualRep.myInfo	HEAT탄 공격으로 경(輕)차량에 큰 위력을 발휘하지만, 전차에게는 효과가 없다.
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.USSR_T80U.myUIName	소련군 - 중(重)전차
+UnitTypes.USSR_T80U.myToolTipInfo	<#888><i>T-80U</></>\n\n유효공격대상 : \n- 전차 \n- 차량 \n\n <#4a3>특징 :  \n- 전차공격에 최적 \n- 대보병전에는 부적합 \n- 중(重)장갑, 저(底)속도</>
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.T62_Frag-HE.myVisualRep.myName	파편유탄
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.T62_Frag-HE.myVisualRep.myInfo	사방으로 파편이 튀는 전차유탄을 발사한다. 보병에게 절대적인 효과；전차에겐 효과없음.
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.USSR_T62.myUIName	소련군 - 중(中)전차
+UnitTypes.USSR_T62.myToolTipInfo	<#888><i>T-62</></>\n\n유효공격대상 : \n- 차량 \n- 보병 \n- 전차 \n\n <#4a3>특징 :  \n- 전차공격에 중간정도의 위력 \n- 보병에게 큰 위력  \n- 중(重)장갑, 중(中)속도</>
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.AT4_Spigot_ATGM.myVisualRep.myName	AT-4스피곳대전차미사일
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.AT4_Spigot_ATGM.myVisualRep.myInfo	유선유도인 AT-4스피곳 대전차미사일을 발사한다. 주로 전차공격용.
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.USSR_Bmp_R.myUIName	소련군 - 경(輕)전차
+UnitTypes.USSR_Bmp_R.myToolTipInfo	<#888><i>PT-76</></>\n\n유효공격대상 : \n- 차량 \n- 전차 \n\n <#4a3>특징 :  \n- 경(軽)장갑차량에 대한 코스트퍼포먼스가 높다 \n- 적전차를 격파하려면 측면에서 공격할 필요가 있다 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_AT5_missile.myVisualRep.myName	AT-5미사일
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_AT5_missile.myVisualRep.myInfo	유선유도인 AT-5 스팬드럴미사일을 발사한다. 전차공격에 최적, 효과는 줄어들지만 다른 육상차량에게도 사용가능
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.USSR_Bmp_3.myUIName	소련군 - 장갑수송차
+UnitTypes.USSR_Bmp_3.myToolTipInfo	<#888><i>BMP-2</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 보병들을 수송한다 \n- 보병에게 큰 위력 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myName	소이탄
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myInfo	소이폭렬탄에 의한 공격을 실시. 보병에게 효과적.
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.USSR_Btr80.myUIName	소련군 - 수륙양용수송차량
+UnitTypes.USSR_Btr80.myToolTipInfo	<#888><i>BTR-80</></>\n\n유효공격대상 : \n- 보병 \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 수륙양용보병수송차 \n- 보병에게 큰 위력 \n- 중(中)장갑, 저(底)속도</>
+UnitTypes.USSR_2S7_Pion.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myName	연막 전개
+UnitTypes.USSR_2S7_Pion.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myInfo	목표지점에 발연제를 충전한 포탄을 발사해 두꺼운 연기커튼을 깔아, 적으로부터 모습을 감춘다.
+UnitTypes.USSR_2S7_Pion.myUIName	소련군 - 중(重)포부대
+UnitTypes.USSR_2S7_Pion.myToolTipInfo	<#888><i>2S7피온</></>\n\n유효공격대상 : \n- 모든 지상유닛 \n- 건물 \n- 삼림 \n\n <#4a3>특징 :  \n- 매우 긴 사정거리 \n- 연막 전개가능 \n- 중(中)장갑, 저(底)속도</>
+UnitTypes.USSR_2S9_Anona.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myName	소이탄
+UnitTypes.USSR_2S9_Anona.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myInfo	착탄시 발화하는 소이박격탄을 발사한다. 보병및 삼림에 매우 효과적.
+UnitTypes.USSR_2S9_Anona.myUIName	소련군 - 중(中)포부대
+UnitTypes.USSR_2S9_Anona.myToolTipInfo	<#888><i>2S1 구보즈디카</></>\n\n유효공격대상 : \n- 보병 \n- 경(輕)차량 \n- 건물 \n\n <#4a3>특징 :  \n- 긴 사정거리 \n- 소이탄 발사 가능 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.USSR_SA13_Gopher.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	연막
+UnitTypes.USSR_SA13_Gopher.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	발연탄을 발사해 차량을 시계에서 숨긴다.
+UnitTypes.USSR_SA13_Gopher.myUIName	소련군 - 중(重)대공차량
+UnitTypes.USSR_SA13_Gopher.myToolTipInfo	<#888><i>9K35 스트레라10</></>\n\n유효공격대상 : \n- 헬리콥터 \n\n <#4a3>특징 :  \n- 장거리 대공미사일에 대한 방어 \n- 지상유닛에게 무방비 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.USSR_ZSU_Shilka.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myName	지상지원
+UnitTypes.USSR_ZSU_Shilka.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myInfo	유닛에게 적지상부대타격을 지시. 전차에겐 그다지 효과없다.
+UnitTypes.USSR_ZSU_Shilka.myUIName	소련군 - 중(中)대공차량
+UnitTypes.USSR_ZSU_Shilka.myToolTipInfo	<#888><i>ZSU-23-4시르카</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 중거리 대공포에 대한 방어 \n- 지상지원이 가능 \n- 중(中)장갑, 중(中)속도</>
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	폭약
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	전투공병에게 지정지점에 대량의 폭약을 설치하도록 명령한다. 폭약은 원격기폭 가능. 작은 건물정도는 간단히 날려 버린다.
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.USSR_Engineer.myUIName	소련군 - 폭파공병
+UnitTypes.USSR_Engineer.myToolTipInfo	유효공격대상 : \n- 건물 \n- 다리 \n\n <#4a3>특징 :  \n- 건축물에 폭약설치 가능 \n- 모든 유닛에게 취약</>
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myName	긴급수리
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myInfo	정비병에게 우군차량을 수리하도록 명령한다. 데미지의 대부분이 금방 복구된다.
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myName	현장수리
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myInfo	정비병이 자신들의 정비차량을 전장에서 즉석수리한다. 수리에는 다소 시간이 걸린다. 공을 받거나 수리외의 명령을 내리면 수리는 중단된다.
+UnitTypes.USSR_VT55.myUIName	소련군 - 수리차량
+UnitTypes.USSR_VT55.myToolTipInfo	<#888><i>VT-55</></>\n\n<#4a3>특징 :  \n- 강력한 수리유닛 \n- 비무장 \n- 중(重)장갑, 중(中)속도</>
+UnitTypes.USSR_UAZ469.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	철갑탄
+UnitTypes.USSR_UAZ469.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	PKM기관총에 철갑탄을 장전한다. 장갑차량에게는 약간의 위력이 상승.
+UnitTypes.USSR_UAZ469.myUIName	소련군 - 병력수송차
+UnitTypes.USSR_UAZ469.myToolTipInfo	<#888><i>UAZ-469</></>\n\n유효공격대상 : \n- 보병 \n\n <#4a3>특징 :  \n- 보병들을 수송한다 \n- 우군차량(을)를 수송가능 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.USSR_Ural_4320.myUIName	소련군 - 수송트럭
+UnitTypes.USSR_Ural_4320.myToolTipInfo	<#888><i>우랄-4320</></>\n\n<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_AT6Spiral.myVisualRep.myName	AT-6스파이럴미사일
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_AT6Spiral.myVisualRep.myInfo	AT-6스파이럴대전차미사일을 발사한다. 어떤 장갑의 전차도 격파할 수 있다. 안전한 거리에서 적의 차량을 행동불능으로 만드는데 최적.
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.USSR_AH_MI24.myUIName	소련군 - 중(重)공격헬리콥터
+UnitTypes.USSR_AH_MI24.myToolTipInfo	<#888><i>Mi-24V</></>\n\n유효공격대상 : \n- 전차 \n- 차량 \n- 보병 \n\n <#4a3>특징 :  \n- 육상차량에 절대적인 위력 \n- 대공유닛에 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Vympel.myVisualRep.myName	R-73미사일
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Vympel.myVisualRep.myInfo	적 헬리콥터에게 빔펠R-73미사일을 발사한다.
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.USSR_Mi28_Havoc.myUIName	소련군 - 중(中)공격헬리콥터
+UnitTypes.USSR_Mi28_Havoc.myToolTipInfo	<#888><i>Mi-28</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 항공및 지상목표에 효과적. \n- 대공유닛에 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.USSR_Mi8_Hip.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.USSR_Mi8_Hip.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.USSR_Mi8_Hip.myUIName	소련군 - 수송헬리콥터
+UnitTypes.USSR_Mi8_Hip.myToolTipInfo	<#888><i>Mi-8</></>\n\n<#4a3>특징 :  \n- 보병공수기 \n- 비무장 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	적외선스캔
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	연기나 숲, 건물에 숨은 적을 탐지한다.
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.USSR_Ka-25_Hormone.myUIName	소련군 - 정찰헬리콥터
+UnitTypes.USSR_Ka-25_Hormone.myToolTipInfo	<#888><i>Ka-25</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 적외선스캔으로 숨은 유닛을 발견한다 \n- 대공유닛에 취약 \n- 저(低)장갑, 초고(超高)속도</>
+UnitTypes.USSR_fortification_machinegun.myUIName	소련군 - 기관총진지
+UnitTypes.USSR_fortification_machinegun.myToolTipInfo	<empty>
+UnitTypes.USSR_fortification_antitank.myUIName	소련군 - 대전차진지
+UnitTypes.USSR_fortification_antitank.myToolTipInfo	<empty>
+UnitTypes.USSR_fortification_antiair.myUIName	소련군 - 대공진지
+UnitTypes.USSR_fortification_antiair.myToolTipInfo	<empty>
+UnitTypes.-------Special-Units-------.myUIName	...특수유닛...
+UnitTypes.-------Special-Units-------.myToolTipInfo	<empty>
+UnitTypes.Null_Unit.myUIName	사용금지
+UnitTypes.Null_Unit.myToolTipInfo	<empty>
+UnitTypes.Spotter_Unit.myUIName	사용금지
+UnitTypes.Spotter_Unit.myToolTipInfo	<empty>
+UnitTypes.Neutral_RedPickUp.myUIName	중립 - 회수차
+UnitTypes.Neutral_RedPickUp.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_Icecream_truck.myUIName	중립 - 아이스크림판매차
+UnitTypes.Neutral_Icecream_truck.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_Schoolbus.myUIName	중립 - 스쿨버스
+UnitTypes.Neutral_Schoolbus.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neurtal_SeattleCityBus.myUIName	중립 - 시운영버스
+UnitTypes.Neurtal_SeattleCityBus.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_SeattleCityBus_v2.myUIName	중립 - 시운영버스
+UnitTypes.Neutral_SeattleCityBus_v2.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_SeattleCityBus_v3.myUIName	중립 - 시운영버스
+UnitTypes.Neutral_SeattleCityBus_v3.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_US_FireTruck.myUIName	중립 - 소방차
+UnitTypes.Neutral_US_FireTruck.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_US_Ambulance.myUIName	중립 - 구급차
+UnitTypes.Neutral_US_Ambulance.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_DeliveryVan.myUIName	중립 - 배송차
+UnitTypes.Neutral_DeliveryVan.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_DeliveryVan_v2.myUIName	중립 - 배송차
+UnitTypes.Neutral_DeliveryVan_v2.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_MilitaryTruck.myUIName	중립 - 군용트럭
+UnitTypes.Neutral_MilitaryTruck.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.Neutral_TankTruck.myUIName	중립 - 탱크트럭
+UnitTypes.Neutral_TankTruck.myToolTipInfo	<#4a3>특징 :  \n- 보병들을 수송한다 \n- 비무장 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.SP_Tutorial_OPFOR_Inf.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.SP_Tutorial_OPFOR_Inf.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.SP_Tutorial_OPFOR_Inf.myUIName	가상 적부대 - 라이플병
+UnitTypes.SP_Tutorial_OPFOR_Inf.myToolTipInfo	일반라이플보병
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	철갑탄
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	PKM기관총에 철갑탄을 장전한다장갑차량에게는 약간의 위력이 상승.
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myUIName	가상 적부대 - 병력수송차
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myToolTipInfo	<#888><i>UAZ-469</></>\n\n유효공격대상 : \n- 보병 \n\n <#4a3>특징 :  \n- 보병들을 수송한다 \n- 우군차량(을)를 수송가능 \n- 경(軽)장갑, 고(高)속도</>
+UnitTypes.SP_US_Ambulance.myUIName	구호차
+UnitTypes.SP_US_Ambulance.myToolTipInfo	상세정보
+UnitTypes.SP_US_HarpoonMissileEmplacement.myUIName	노획한 하푼 대함미사일런쳐
+UnitTypes.SP_US_HarpoonMissileEmplacement.myToolTipInfo	슈우우우...펑!
+UnitTypes.SP_USSR_4K51_Rubezh.myUIName	4K51루베지대함미사일런쳐
+UnitTypes.SP_USSR_4K51_Rubezh.myToolTipInfo	슈우우우...펑!
+UnitTypes.SP_USSR_Mi_8_Hip_On_Ground.myUIName	소련군 - 수송헬리콥터
+UnitTypes.SP_USSR_Mi_8_Hip_On_Ground.myToolTipInfo	<#888><i>Mi-8</></>\n\n<#4a3>특징 :  \n- 보병공수기 \n- 비무장 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.VIPCar.myUIName	소련군 - VIP탑승차
+UnitTypes.VIPCar.myToolTipInfo	여기는 VIP탑승차! 날려 버려!
+UnitTypes.CINEMATICS_BlackHawk.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.CINEMATICS_BlackHawk.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.CINEMATICS_BlackHawk.myUIName	미군 - 수송헬리콥터
+UnitTypes.CINEMATICS_BlackHawk.myToolTipInfo	<#888><i>UH-60블랙호크</></>\n\n<#4a3>특징 :  \n- 보병공수기 \n- 비무장 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myName	사이드와인더미사일
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myInfo	AIM-92사이드와인더를 적헬리콥터에게 발사한다. 2발의 미사일을 동시에 발사하면 높은 확률로 격추할 수 있다. 
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.CINEMATICS_Cobra25.myUIName	미군 - 중(中)공격헬리콥터
+UnitTypes.CINEMATICS_Cobra25.myToolTipInfo	<#888><i>AH-1W슈퍼코브라</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 항공및 지상목표에 효과적 \n- 대공유닛에게는 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myName	사이드와인더미사일
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myInfo	AIM-92사이드와인더를 적헬리콥터에게 발사한다. 2발의 미사일을 동시에 발사하면 높은 확률로 격추할 수 있다. 
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.CINEMATICS_Cobra40.myUIName	미군 - 중(中)공격헬리콥터
+UnitTypes.CINEMATICS_Cobra40.myToolTipInfo	<#888><i>AH-1W슈퍼코브라</></>\n\n유효공격대상 : \n- 헬리콥터 \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 항공및 지상목표에 효과적 \n- 대공유닛에게는 취약 \n- 중(中)장갑, 초고(超高)속도</>
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	적외선스캔
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	연기나 숲, 건물에 숨은 적을 탐지한다.
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.CINEMATICS_Hormone70.myUIName	소련군 - 정찰헬리콥터
+UnitTypes.CINEMATICS_Hormone70.myToolTipInfo	<#888><i>Ka-25</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 적외선스캔으로 숨은 유닛을 발견한다 \n- 대공유닛에 취약 \n- 저(低)장갑, 초고(超高)속도</>
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	적외선스캔
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	연기나 숲, 건물에 숨은 적을 탐지한다.
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	플레어사출
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	고열원체를 사출한다. 운이 좋으면 적외선추적미사일을 교란할 수 있다. 배후에서 접근하는 미사일로만 사용할 수 있다.
+UnitTypes.CINEMATICS_Hormone100.myUIName	소련군 - 정찰헬리콥터
+UnitTypes.CINEMATICS_Hormone100.myToolTipInfo	<#888><i>Ka-25</></>\n\n유효공격대상 : \n- 보병 \n- 차량 \n\n <#4a3>특징 :  \n- 적외선스캔으로 숨은 유닛을 발견한다 \n- 대공유닛에 취약 \n- 저(低)장갑, 초고(超高)속도</>
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	폭약
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	전투공병에게 지정지점에 대량의 폭약을 설치하도록 명령한다. 폭약은 원격기폭 가능. 작은 건물정도는 간단히 날려 버린다.
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	질주
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	보병의 이동속도가 2배가 되지만, 이 능력을 사용하는 동안에는 적과 싸울 수 없다.
+UnitTypes.CINEMATICS_US_Engineer.myUIName	미군 - 폭파공병
+UnitTypes.CINEMATICS_US_Engineer.myToolTipInfo	유효공격대상 : \n- 건물 \n- 다리 \n\n <#4a3>특징 :  \n- 건축물에 폭약설치 가능 \n- 모든 유닛에게 취약</>

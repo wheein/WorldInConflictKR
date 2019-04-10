@@ -1,0 +1,245 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	벙커
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	벙커를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	벙커를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 벙커를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	적하부두
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	적하부두를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	적하부두를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 적하부두를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	감시탑
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	감시탑을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	감시탑을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 감시탑을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	연료탱크
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	연료탱크를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	연료탱크를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 연료탱크를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	단지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	단지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	단지를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	적이 단지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	제2감시탑
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	제2감시탑을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	제2감시탑을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	적이 제2감시탑을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	태풍방지용 부두
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	태풍방지용 부두를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	태풍방지용 부두를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 태풍방지용 부두를 점령했다
+myWicedMap.myMissionStats.myName	as_Typhoon
+myWicedMap.myMissionStats.mySPName	%02d－곰의 소굴
+myWicedMap.myMissionStats.myDescription	얼어붙은 바렌츠해에 떠오른 아침 해가 소련해군 조선소수비대의 격렬한 저항에 직면하는 NATO군 공략부대를 차갑게 비추고 있다.
+myWicedMap.myMissionStats.mySPDescription	격추된 스텔스에서 회수한 정보에 의하면 몇척의 소련해군 원자력잠수함이 이 조선소에 계류되어 있다. 이 기회를 놓칠 수는 없다. 이곳에서의 미션은 원자력잠수함의 탈취와 파괴다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	태풍
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	태풍
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoats.myDescription	각각의 잠수함을 확보하고 철저히 막아라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoats.myLongDescription	부두에는 3척의 적잠수함이 계류되어 있다. 우리는 이 잠수함들이 어디로 향하는지 파악하고 출항을 저지할 필요성이 있다. 출항전에 잠수함을 확보하고 방어진지를 구축해라. 알다시피 소련군의 반격이 예상된다.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoats.myVisualisationText	TakeBoats
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat1.myDescription	각각의 잠수함을 확보하고 철저히 막아라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat1.myLongDescription	부두에는 3척의 적잠수함이 계류되어 있다. 우리는 이 잠수함들이 어디로 향하는지 파악하고 출항을 저지할 필요성이 있다. 출항전에 잠수함을 확보하고 방어진지를 구축해라. 알다시피 소련군의 반격이 예상된다.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat1.myVisualisationText	TakeBoats
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat3.myDescription	각각의 잠수함을 확보하고 철저히 막아라.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat3.myLongDescription	부두에는 3척의 적잠수함이 계류되어 있다. 우리는 이 잠수함들이 어디로 향하는지 파악하고 출항을 저지할 필요성이 있다. 출항전에 잠수함을 확보하고 방어진지를 구축해라. 알다시피 소련군의 반격이 예상된다.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat3.myVisualisationText	TakeBoats
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldBoat3.myDescription	HoldBoat3
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldBoat3.myLongDescription	부두에는 3척의 적잠수함이 계류되어 있다. 우리는 이 잠수함들이 어디로 향하는지 파악하고 출항을 저지할 필요성이 있다. 출항전에 잠수함을 확보하고 방어진지를 구축해라. 알다시피 소련군의 반격이 예상된다.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldBoat3.myVisualisationText	HoldBoat3
+myWicedMap.myMissionStats.myPrimaryObjectives.BlowBoats.myDescription	모든 잠수함을 파괴할 때까지 사수해라
+myWicedMap.myMissionStats.myPrimaryObjectives.BlowBoats.myLongDescription	공병이 잠수함에 폭약을 설치하고 있다. 잠수함을 파괴할 때까지 주변을 지킬 필요가 있다. 소련군은 준비가 끝나는대로 북쪽에서부터 쳐들어 올 것이다.
+myWicedMap.myMissionStats.myPrimaryObjectives.BlowBoats.myVisualisationText	잠수함을 폭파해라
+myWicedMap.myMissionStats.mySecondaryObjectives.Copter.myDescription	헬리콥터가 이륙하기 전에 파괴해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.Copter.myLongDescription	북쪽에 있는 건물은 헬리콥터 지원시설이라 생각된다.이륙하기 전에 헬리콥터를 격파할 필요가 있다. 그렇지 않으면 우리군은 더 많은 희생을 낳게 될 것이다. 모든 헬리콥터를 격파해라.
+myWicedMap.myMissionStats.mySecondaryObjectives.Copter.myVisualisationText	헬기
+myWicedMap.myMissionStats.mySecondaryObjectives.HoldRes.myDescription	HoldRe
+myWicedMap.myMissionStats.mySecondaryObjectives.HoldRes.myLongDescription	배넌이 주택지에서 적의 맹공에 시달리고 있다. 배넌이 돌파당하면 소련군이 우위에 서게 되고 우리는 잠수함을 파괴하지 못한 채 내몰릴 것이다.
+myWicedMap.myMissionStats.mySecondaryObjectives.HoldRes.myVisualisationText	주택지로 이동 해 배넌의 확보를 지원해라
+myWicedMap.myMissionStats.mySecondaryObjectives.Boat2.myDescription	Boat2
+myWicedMap.myMissionStats.mySecondaryObjectives.Boat2.myLongDescription	배넌이 주택지에서 적의 맹공에 시달리고 있다. 배넌이 돌파당하면 소련군이 우위에 서게 되고 우리는 잠수함을 파괴하지 못한 채 내몰릴 것이다.
+myWicedMap.myMissionStats.mySecondaryObjectives.Boat2.myVisualisationText	주택지로 이동 해 배넌의 확보를 지원해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	벙커
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	벙커
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	벙커를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	적하부두
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	선착장을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	선착장을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	감시탑
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	감시탑을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	감시탑을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	연료탱크
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	연료탱크를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	연료탱크를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	단지
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	단지를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	단지를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myDescription	제2감시탑
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myLongDescription	제2감시탑을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myVisualisationText	제2감시탑을 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myDescription	태풍방지용 부두
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myLongDescription	태풍방지용 부두를 점령해라
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myVisualisationText	태풍방지용 부두를 점령해라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	벙커
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	벙커를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	벙커를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	적하부두
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	선착장을  지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	선착장을  지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	감시탑
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	감시탑을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	감시탑을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	연료탱크
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	연료탱크를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	연료탱크를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	단지
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	단지를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	단지를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myDescription	제2감시탑
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myLongDescription	제2감시탑을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myVisualisationText	제2감시탑을 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myDescription	태풍방지용 부두
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myLongDescription	태풍방지용 부두를 지켜라
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myVisualisationText	태풍방지용 부두를 지켜라
+myWicedMap.myMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다
+myWicedMap.myMissionStats.myScriptEvents.newUnits.myString	새로운 유닛이 주어졌다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_01.myText	파커, 잠수함의 출항을 저지하는데 쓸 수 있는 최대의 시간은 30분이네. 목적지로 향하는 도중에 방어체제를 정비한 적들의 격한 저항이 예상되네. 이 지역에 관한 정보는 매우 적으니 충분한 주의가 필요하네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_01.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_02.myText	위성에서 보내 온 영상에 의하면 북쪽의 작은 시설에 뭔가 중요한 설비가 있는 것 같다. 게다가 2일전에는 이 부근에 전차가 있었던 것 같은데 지금은 개미새끼 한마리도 않보이는군.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_02.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_03.myText	서두르지 않으면 소련군이 기지에서 강력한 증원을 보내 올 것이네. 그러면 철수하는 수밖에 없네. 전국민의 미래가 자네의 성공여부에 달려 있네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_03.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_04.myText	파커, 그 잠수함부두를 제압하고 서둘러서 먼저 전진하게. 자네가 제압한 후에는 배넌에게 그곳을 지키도록 하겠네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_04.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_05.myText	최초의 잠수함은 그곳에 있네. 탈취하게나. 탈취한 후에는 배넌이 수비를 맡게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_05.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06.myText	좋아, 앞으로 전진한다. 배넌, 그곳을 사수하게. 소련군이 반격해 올 것이네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06_01.myText	좋아, 전진한다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06_01.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_07.myText	저 혼자서 말입니까? 파커의 부대가 지원해 주면 않됩니까?
+myWicedMap.myMissionStats.myMessageBoxList.rus4_07.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_08.myText	자네가 지원부대란 말일세, 멍청하긴. 약한 소리하지 말고 일이나 하도록!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_08.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_09.myText	라져!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_09.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_10.myText	적들이 온다!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_10.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_11.myText	목표를 놓치지 말게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_11.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_12.myText	이거 너무 가까운데!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_12.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_13.myText	제대로 겨냥하게!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_13.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_14.myText	배넌입니다. 톰슨이 당했습니다. 데커마저도. 놈들이... 뒤에서 왔습니다. 철수할 수 밖에 없었습니다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_14.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15.myText	배넌, 멍청한 자식. 파커, 당장 잠수함을 뺏어 오게!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15_1.myText	젠장, 1척 잃었군. 파커, 그 잠수함을 당장 뺏어 오게!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15_1.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_16.myText	북쪽 시설에 헬기가 있는 걸 발견했습니다. 현재 급유중. 곧 이륙할 것 같습니다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_16.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_17.myText	파커, 말하지 않아도 알겠지만 이륙하기 전에 헬기를 파괴하지 않으면 수많은 목숨을 잃게 되네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_17.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_18.myText	성공했군, 파커. 자네는 많은 인간들을 비극에서 구해 낸거네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_18.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_19.myText	조심하게, 적헬기가 오고있네. 배넌, 헬기와 파커사이로 비집고 들어 가게. 자네의 전차로 파커를 지키도록!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_19.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_20.myText	하지만, 대령!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_20.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_21.myText	그건 생각해 볼 필요가 있겠습니다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_21.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_22.myText	자네까지 말대꾸하는 건가? 할 수 없군, 모두 퇴피한다! 
+myWicedMap.myMissionStats.myMessageBoxList.rus4_22.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_23.myText	배넌, 파커를 지원하게. 세번째 잠수함으로 가는 길을 연다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_23.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_24.myText	파커. 내 솜씨를 잘 봐.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_24.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_25.myText	강력한 소련군의 증원부대가 북쪽에서 접근중이다. 놈들이 도착하기 전에 저 주택지를 확보하고 수비를 굳혀라.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_25.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_26.myText	맡겨만 주십시오! 모두, 가자!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_26.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_27.myText	뭐라고? 난 자네한테... 뺏어 오라는 소리.... 한적이 없다.... 듣고 있나?
+myWicedMap.myMissionStats.myMessageBoxList.rus4_27.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_28.myText	뭡니까? 잘 않들립니다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_28.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_29.myText	이... 자식이... 네놈을... 해 주마!... 주택지...
+myWicedMap.myMissionStats.myMessageBoxList.rus4_29.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_30.myText	들었지, 파커? 마지막 잠수함을 뭉게버리라구. 난 그쪽 건물 근처에서 자네 뒤를 지킬테니까.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_30.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_31.myText	좋아, 파커. 제압에 성공했군. 잠수함은 앞으로 1척 남았네. 난 무슨 수를 써서라도 사령부와의 통신을 복구시켜 보겠네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_31.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_32.myText	좋다, 파커. 하지만 그 사이에 다른 잠수함을 적들에게 빼앗긴 것 같네. 아직까진 2척 남아 있네. 힘내게나. 난 사령부와의 통신복구에 힘써 보겠네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_32.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_33.myText	서두르게, 파커. 배넌, 자네에겐 나중에 긴히 할 말이 있으니 알아 두게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_33.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_34.myText	좋아, 그 잠수함을 제압했군. 하지만 놀고 있을 시간은 없네. 이반이 오기 전에 목표를 달성하게!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_34.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_35.myText	굉장하네, 파커. 자, 소련군이 도착하기 전에 수비를 굳히게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_35.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_36.myText	후퇴해라. 이대로는 도저히 견디기 힘들다. 잠수함이 어디로 향했는지는 모른다. 불안하군.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_36.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_37.myText	아직 할 수 있습니다!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_37.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_38.myText	배넌, 남아서 싸우고 싶은가? 솔직히 말해서 그렇게 하라고 명령하려던 참이네!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_38.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_39.myText	적전차가 접근. 조심해라.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_39.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_40.myText	사수하게, 배넌. 그정도는 가능할테지?
+myWicedMap.myMissionStats.myMessageBoxList.rus4_40.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_41.myText	괜찮습니다. 문제없습니다!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_41.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_42.myText	지금의 폭발음은 분명 크레믈린에도 들렸을 것이야. 잘 했네, 파커. 자, 적에게 당하기 전에 두번째 잠수함으로 돌아가세.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_42.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_43.myText	자네는 아무것도 찾지 못했어. 잠수함은 무사히 출항했고 말이지. 파커, 자네는 우리가 무엇을 위해 항구를 공격했는지 알고 있나? 브리핑중에 졸기라도 한건 아닌가? 이건 최저최악의 대실패다! 내 눈앞에서 당장 꺼져버려!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_43.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_44.myText	와 줘서 고맙네, 파커. 내 부하가 곧 잠수함에서 하고 있는 작업을 끝낼 것이네. 방전태세를 정비하게. 자, 올테면 와 봐라!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_44.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_45.myText	부하가 잠수함에서의 작업에 조금 시간이 걸리는 것 같군. 파커, 미안하지만 잠시동안만 힘내 주게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_45.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_46.myText	여기는 배넌! 응답바란다! 적이 너무 많습니다! 격렬한 공격때문에 움직일 수가 없습니다. 응원을 부탁합니다!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_46.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_47.myText	배넌, 무슨 일이 있어도 거기를 지켜야 하네. 날 실망시키지 말게! 알겠나?
+myWicedMap.myMissionStats.myMessageBoxList.rus4_47.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_48.myText	무리입니다! 앞으로 몇분안에 개박살납니다!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_48.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_49.myText	적은 분명 재편성을 끝냈을 것이네. 배넌이 지키고 있는 진지를 잃게 되면 버티기 힘들어 질거야. 파커에게 구원요청을 하는 편이 좋을지도 몰라.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_49.myPortraitText	할 스테인
+myWicedMap.myMissionStats.myMessageBoxList.rus4_50.myText	좋아. 파커, 가능하면 배넌을 도와 진지를 지키도록 하게. 배넌은 자신의 임무를 제대로 완수하지 못할 것 같다. 그곳을 잃게 되면 미션전체가 실패하니 선택의 여지가 없네. 그래도 적이 자네 본래의 담당구역을 돌파하는 것은 절대로 허락하지 말게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_50.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_51.myText	해냈습니다! 우리의 힘으로 멋지게 적을 저지했습니다!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_51.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_52.myText	흥, “내 힘”이라고 말하지 않는 건 칭찬해 주지. 배넌, 정신차리고 그곳을 지키게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_52.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_53.myText	젠장, 파커, 어째서 구해주지 않았지? 주위가 온통 적투성이라고. 후퇴한다. 내 전차는 이미 고철덩어리나 다름없어.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_53.myPortraitText	배넌
+myWicedMap.myMissionStats.myMessageBoxList.rus4_54.myText	내 예상대로의 움직임이군, 배넌.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_54.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_55.myText	할 스테인과 파커, 잘 해 줬네. 자, 이제 마지막 잠수함을 박살내고 철수지점으로 향한다. 배넌, 자네도 말이네.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_55.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_56.myText	순조롭군. 폭파팀은 곧 작업을 끝낼 것이다. 이반이 총공격에 옮기기 전에 철수준비를 한다. 배넌, 자네도 함께 마지막 잠수함을 정리하게.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_56.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_57.myText	동료들은 아무것도 발견하지 못했네. 잠수함은 무사히 출항해 버렸고 말이지. 파커, 자네는 우리가 무엇을 위해 항구를 공격했는지 알고 있나? 브리핑중에 졸기라도 한건 아닌가? 모든 잠수함을 파괴할 필요가 있었단 말이네. 이건 최저최악의 대실패다! 내 눈앞에서 당장 꺼져버려!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_57.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_58.myText	순조롭군. 폭파팀은 곧 작업을 끝낼 것이다. 앞으로 1분만 더 힘내면 철수할 수 있다.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_58.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_59.myText	끝났다. 자, 철수지점으로 간다. 모두 서둘러라!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_59.myPortraitText	소여
+myWicedMap.myMissionStats.myMessageBoxList.rus4_60.myText	 자네는 아무것도 발견하지 못했네. 잠수함은 무사히 출항했고 말이지. 파커, 자네는 우리가 무엇을 위해 항구를 공격했는지 알고 있나? 브리핑중에 졸기라도 한건 아닌가? 모든 잠수함을 파괴할 필요가 있었단 말이네. 이건 최저최악의 대실패다! 자네는 아마도 소련의 수용소에서 일생을 마치게 될 것이야.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_60.myPortraitText	소여
+myWicedMap.myLocStrings.BoatsTimer	TakeBoats
+myWicedMap.myLocStrings.CopterTimer	헬기 타이머 : 
+myWicedMap.myLocStrings.TakeBoat3	마지막 잠수함을 출항전에 확보해라 : 
+myWicedMap.myLocStrings.Boat1	제1잠수함을 확보해라 : 
+myWicedMap.myLocStrings.timerBlowBoat3	공병이 잠수함을 가라앉힐 때까지 잠수함을 보존및 유지해라 : 
+myWicedMap.myLocStrings.BlowBoat1	공병이 잠수함을 가라앉힐 때까지 잠수함을 보존및 유지해라 : 

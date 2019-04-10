@@ -1,0 +1,37 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	북쪽 언덕
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	북쪽 언덕을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	북쪽 언덕의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	북쪽 언덕을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	남쪽 언덕
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	남쪽 언덕을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	남쪽 언덕의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	남쪽 언덕을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	해안
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	해안을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	해안의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 해안을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	마리나
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	마리나를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	마리나의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 마리나를 점령했다
+myWicedMap.myMissionStats.myName	do_Island
+myWicedMap.myMissionStats.mySPName	%02d－폭풍의 전조
+myWicedMap.myMissionStats.myDescription	미군과 소련군이 퓨젯만에 있는 작은 섬의 지배권을 둘러싼 공방을 펼치고 있다. 이 섬의 언덕, 해안, 마리나가 전략상 중요한 거점역할을 하기 때문이다.
+myWicedMap.myMissionStats.mySPDescription	소련군은 퓨젯만에 떠 있는 섬 몇몇에 대함미사일중대를 배치해 견고한 수비를 하고 있다. 섬을 탈환하고 대함미사일을 손에 넣을 수 있다면 중국함대가 퓨젯만까지 쫓아왔을 경우를 대비한 대항수단으로 이용할 수 있을 것이다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	섬
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	섬
+myWicedMap.myLocStrings.timerTakeAA	대공진지를 격파해라
+myWicedMap.myLocStrings.timerTakeGuns	대함미사일발사대를 확보해라

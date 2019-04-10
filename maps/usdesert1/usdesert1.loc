@@ -1,0 +1,35 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	중앙기지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	중앙기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	중앙기지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 중앙기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	산등성이
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	산등성이를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	산등성이의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	적이 산등성이를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	소계곡
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	소계곡을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	소계곡의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	적이 소계곡을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	레이더기지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	레이더기지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	레이더기지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 레이더기지를 점령했다
+myWicedMap.myMissionStats.myName	do_Silo
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	네바다사막을 겨냥한 소련군임무부대의 목표는 미군미사일기지의 사일로를 무력화하는 것이다. 미국도 귀중한 전력을 사수해야 한다는 필승의 각오로 방전태세를 굳건히 하고 있다.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	사일로
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	사일로

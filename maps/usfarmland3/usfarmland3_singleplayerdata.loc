@@ -1,0 +1,222 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	파인밸리에서의 싸움이 끝나자 소련군은 후퇴했고 우리는 시애틀주변의 수비를 강화했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	우리들도 공세를 취할 여건은 되지 않았다. 우리는 마냥 기다렸다. 그리고 상처를 치료하면서 다음엔 무슨 일이 일어날지 생각했다. 크리스마스가 다가올 즈음 드디어 소련군은 움직이기 시작했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	몇개연대가 동쪽 케스케이드산맥으로 진격해 온 것이다. 포트텔러를 노리고 있다는 것은 금방 알 수 있었다. 그곳에 전략방어를 구상하고 있는 스타워즈계획본부가 위치해 있기 때문이다. 그곳엔 우리는 알고 있으나 그들은 알지 못하는 비밀이 있었다. 스타워즈계획이란 존재하지 않는, 이른바 뻥카였다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	소련군이 본부에 도달하면 모든 것이 거짓이었다는 것이 확실해질 것이며, 소련이 도시및 군사기지로 실시하려던 핵공격실시계획을 억제하지도 못하게 될 것이다. 이 비밀을 적들이 알지 못하도록 우리도 동쪽으로 향했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	우리가 적들을 산맥으로 유인해 진격을 늦추는 동안 포트텔러를 지키고 있는 윌킨스대령의 부대는 조금이라도 수비를 강화하려고 필사의 노력을 계속하고 있었다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRiver.myDescription	두군데의 여울을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRiver.myLongDescription	소련군은 여울을 따라 경(軽)전차와 중(中)전차를 도하시킬 생각이다. 다리를 폭파할 때까지 여울을 확보하고 보존및 유지해라. 이를 성공시키면 소련군의 진격을 반나절은 늦출 수 있다.\n\n목표를 달성하려면 두군데 있는 여울을 확보하고 방어진지를 구축해야 한다.\n\n소련군이 두군데의 여울을 제압하고 방어진지를 구축하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRiver.myVisualisationText	두군데의 여울을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridge.myDescription	다리를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridge.myLongDescription	다리는 이 지역의 중요한 도하점이다. 우리는 이 다리를 폭파할 예정이지만 배넌대위가 챨리중대와 함께 돌아 올 때까지는 폭파할 수 없다. 다리주변을 확보하고 방어진지를 구축해라.\n\n목표를 달성하려면 다리주변의 전략거점에 방어진지를 구축해야 한다.\n\n소련군이 그곳에 방어진지를 구축하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridge.myVisualisationText	다리를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridgeHold.myDescription	배넌이 도착할 때까지 다리를 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridgeHold.myLongDescription	배넌이 이쪽으로 향하고 있다. 그들이 통과할 때까지 다리를 보존및 유지해야 한다.\n\n목표를 달성하려면 배넌의 전차대가 다 건널 때까지 다리를 보존및 유지해야 한다.\n\n자신이 지휘하고 있는 유닛을 모두 잃거나, 배넌이 도착하기 전에 소련군이 이곳을 제압하고 방어진지를 구축하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridgeHold.myVisualisationText	배넌이 도착할 때까지 다리를 보존및 유지하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BridgeSurvive.myDescription	다리를 파괴해서는 않된다
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BridgeSurvive.myLongDescription	허가가 내려질 때까지 다리를 파괴해서는 않된다.\n\n목표를 달성하려면 명령이 내려올 때까지 다리를 빈틈없이 지켜내야 한다.\n\n대령이 명령을 내리기 전에 다리가 파괴되면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BridgeSurvive.myVisualisationText	다리를 파괴해서는 않된다
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeRiverOnTime.myDescription	즉시 여울 두군데를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeRiverOnTime.myLongDescription	소련군의 주력부대가 이쪽으로 접근중이다. 그들이 도착하면 도하지점을 확보하는 것이 한층 힘들어 진다.\n\n목표를 달성하려면 되도록 빨리 두군데의 여울에 방어진지를 구축해야 한다.\n\n제한시간내에 2개의 여울을 제압하지 못하면 목표달성에 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeRiverOnTime.myVisualisationText	즉시 여울 두군데를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillHQ.myDescription	소련군 포병대를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillHQ.myLongDescription	강 건너편에 있는 언덕중 한 곳에 소련군의 야포 몇문이 배치되어 있다. 포격으로 피해가 커지기 전에 야포를 찾아 내서 격파해라.\n\n목표를 달성하려면 맵상에 마킹되어 있는 지역에 있는 야포를 찾아내고 파괴해야 한다.\n\n미션완료전에 야포를 파괴하지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillHQ.myVisualisationText	소련군 포병대를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.InfantryReinforcements.myHeader	전투학교－분대 보충
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.InfantryReinforcements.myText	보병분대의 경우는 [분대보충]버튼을 누르면 잃은 병사를 보충할 수 있다. 단, 이것은 인원을 보충할 뿐이지 아직 살아 있는 병사의 체력을 회복시키지는 못한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.ArmorFacing.myHeader	전투학교－기갑부대의 방향
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.ArmorFacing.myText	차량은 방향... 정면, 측면, 상면, 후면... 에 따라 방어력이 다르다. 전투시에는 이 특성을 고려할 것. 유닛의 방향은 이동명령을 내린 다음 마우스를 우클릭한 채 지향방향으로 드래그하면 바꿀 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_01.myText	멍때리고 있을 틈이 없네, 파커. 여울 두군데를 단단히 지키게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_01.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_02.myText	적이 이미 도착했다면 전부 정리하도록. 알겠나? 놈들이 먼저 수비를 강화해 버리면 주력부대를 격퇴할 수가 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_02.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_03.myText	서두르게, 파커. 수비강화가 빠르면 빠를수록 유리해질 것이네. 웹대위가 지원준비를 하고 있네. 우물쭈물하지 말게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_03.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_04.myText	잘 했네, 파커. 지금쯤 적은 남은 여울 한곳의 수비에 들어 갔을 것이네. 다소의 저항은 각오하고 가게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_04.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05a.myText	부하들은 배치에 들어가려고 하는 중입니다. 척후병에 의하면 맞은편 물가에서는 적들의 활동이 활발한 것같습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05a.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05b.myText	적의 움직임이 예상보다 빠르군... 이쪽도 서둘러야 하네. 뭘 해야 될지는 알고 있겠지, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05b.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06a.myText	늦었어, 파커. 시간이 너무 걸렸네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06a.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06b.myText	또 한번 훌륭한 움직임이였네. M60을 2대 보내겠네. 절대로 잃어선 않되네! 배넌이 돌아올 때까지 쓸 수 있는 전차는 그 것뿐이네. 그것도 배넌이 돌아왔을 때의 이야기지만 말일세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06b.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_07.myText	웹입니다! 제2여울에 원군을 보내겠습니다. 대령, 배넌은 분명 무사할겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_07.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_08.myText	판단은 금물이네, 대위.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_08.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_09.myText	마지막 여울이네, 파커. 다리를 포상으로 걸겠네. 적의 손에 떨어지기 전에 확보하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_09.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_10.myText	서두르라고 했을 텐데, 파커! 적이 여울 두군데에 방어진지를 쌓았네. 이젠 끝이네. 케스케이드폴의 수비를 강화할 시간이 없군. 실패야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_10.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_11.myText	뭘 우물쭈물하고 있나, 파커? 지금 당장 두 여울을 확보하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_11.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_12.myText	이글 식스, 여기는 배넌. 상황보고를 부탁합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_12.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_13.myText	라져, 배넌. 임무는 아직 달성하지 못했나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_13.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_14.myText	다리는 파괴했습니다, 대령. 복귀하려고 합니다만, 현재 적의 저항이 상당히 격렬합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_14.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_15.myText	애시당초 여울을 계속해서 지킨다는 건 무리네, 배넌. 여의치 않는다면 다른 루트를 찾아야만 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_15.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_16.myText	대령! 여긴 적투성이입니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_16.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_17.myText	뭐가 어떻든 상관없네, 배넌. 우는 소리나 하면서 이반이 다리를 건너게 할 작정인가?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_17.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_18.myText	잘 했네, 파커. 조금만 더 기다리지. 하지만 배넌이 돌아오지 못하게 된다면 다리는 폭파하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_18.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_19.myText	대령! 척후병으로부터 보고가 들어왔습니다. 맞은편 물가에 적의 자주포가 배치되고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_19.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_20.myText	라져. 이곳을 조준하려는 속셈이겠지, 파커. 강습반을 파견해 무력화하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_20.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_21.myText	파커! 기상이 악화되고 있네. 공군의 지원이 머지않아 끊길거라는군. 항공기가 귀환하기 전에 필요한 지원을 요청해 두게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_21.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_22.myText	지원요청은 이걸로 마지막이네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_22.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_23.myText	항공기가 귀환했다는 공군의 보고가 들어왔네. 이제 증원은 포기해야 해. 현재병력으로 극복하는 수 밖에 없어.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_23.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_24.myText	이글 식스! 상황보고입니다. 적의 주력부대가 이쪽으로 향하고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_24.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_25.myText	저 다리를 폭파해야 한다. 배넌, 응답하게! 어디 있나? 챨리 식스!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_25.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_26.myText	한창 전투중일지도 모르겠습니다. 중간에 언덕이 있으면 무선이 잘 않듣더군요. 조금 더 기다려 보는게 어떻습니까?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_26.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_27.myText	젠장! 당장이라도 응답이 없으면 다리를 폭파하고 이동한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_27.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_28.myText	더 이상 기다릴 수 없다. 이미 당한걸지도 모르지. 다리폭파및 이동준비를 하게, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_28.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_29.myText	...식스...이글 식스, 여기는 배넌! 폭파는 연기해 주십시오! 다리까지 앞으로 500m인 지점에서 적 전차대와 교전중입니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_29.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_30.myText	명령은 연기하겠네, 파커! 아직 폭파시키지 말게! 챨리중대가 건널 때까지 대기하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_30.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter1.myText	이글 식스! 여기는 배넌!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter1.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter2.myText	배넌, 보고하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter3.myText	최종경유지점에서 2킬로 떨어진 지점에서 적들의 소규모 파견부대와 교전중. 적은 APC와 지프.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter3.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter4.myText	누구와 교전중인지는 보고할 필요없네, 배넌. 그쪽 다리를 파괴해야 하네. 정리가 끝나면 다시 보고하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter4.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_31.myText	아슬아슬했군, 배넌. 잘 했네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_31.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_32.myText	감사합니다, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_32.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_33.myText	좋아, 총원은 케스케이드폴을 향해 이동한다. 방심하지 마라. 아직 끝난게 아니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_33.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_34.myText	다리를 잃었다! 배넌과 챨리중대도 돌아오지 못할 것이다. 이로써 케스케이드폴 녀석들의 바람대로 되버렸군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_34.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_35.myText	확실하게 포병을 정리했군, 파커. 이번에는 다리에 집중해 주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_35.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_36.myText	포병을 정리하지 못한 답장이 날라 왔군, 파커. 이번이야말로 확실히 해 보게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_36.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_37.myText	여기는 웹. 현재, 복수의 적 부대와 교전중.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_37.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_38.myText	라져, 웹. 적을 접근시키지 말게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_38.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_39.myText	웹입니다. 소련군이 대거 쳐들어 오고 있습니다. 구스타프를 앞장세워서 매운 맛을 보여 주겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_39.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_40.myText	여기는 웹. 배넌이 늦어질 것 같으면 철수해야 하지 않습니까. 이제 그리 길게는 버틸 수가 없습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_40.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_41.myText	웹입니다! 양쪽 여울에서 맹공을 받고 있습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_41.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_42.myText	라져, 대위. 버틸 수 있겠나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_42.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_43.myText	네, 대령. 지원이 있다면 도움이 될 것 같습니다만.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_43.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_44.myText	라져. 어떻게든 해보지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_44.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_45.myText	웹! 그쪽 상황은?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_45.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_46.myText	아직은 괜찮습니다, 대령. 맹공에 노출되어 있지만 얼마동안은 버틸 수 있을 것 같습니다. 단지 잔여탄약이 얼마 없습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_46.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_47.myText	알았네. 금방 보급해 주지. 힘내게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_47.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_48.myText	여울은 나한테 맡기게, 파커! 자네는 다음목표로 이동해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_48.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_49.myText	대령, 윌킨스대령에게서 연락은 있습니까?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_49.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_50.myText	1시간전에 연락이 왔네. 케스케이드폴에서 합류하기로 되어 있다네. 포트텔러근처의 주둔지네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_50.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_51.myText	부대규모는 어느 정도입니까?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_51.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_52.myText	2개중대가 조금 않될듯 하네, 대위.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_52.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_53.myText	하지만, 적은 연대규모로 몰려 올 것입니다. 치열한 싸움이 될 것같습니다만, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_53.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_54.myText	아마도, 그렇겠지...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_54.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_55.myText	웹대위! 상황보고를 하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_55.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_56.myText	웹입니다. 아직까진 여울을 지키고 있지만 머지않아 적에게 돌파당할 것 같습니다. 본대가 뒤쫓아 오고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_56.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_57.myText	알았네. 우리는 다리를 되도록 길게 지켜 보겠네. 하지만 배넌때문에 위험을 무릅 쓸 수는 없네. 늦어지면 알아서 어떻게든 하겠지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_57.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_58.myText	대령, 나중을 위해서라도 그의 전차는 필요합니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_58.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_59.myText	그래. 하지만 다리를 잃으면 나중이란 없네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_59.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_60.myText	대령, 보병부대에게 저 숲은 상당히 안성맞춤이군요. 강까지 거의 들키지 않고 이동할 수 있을겁니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_60.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_61.myText	확실히 그렇군. 숲을 이용하면 기습을 가할 수 있을 것이야.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_61.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_62.myText	파커! 보병부대를 숲에 숨긴 다음 강으로 향하도록 하게나. 기습을 가하세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_62.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_63.myText	파커! 다리에 피해를 입었네! 명령이 있기 전까지 파괴하지 말게! 알겠나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_63.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_64.myText	파커! 배넌이 돌아올 때까지 다리를 무너트려서는 않되네! 단 한명도 내버려 두고 갈 생각은 없으니까! 다리가 무너지면 우리는 모든 전차부대를 잃게 되네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_64.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_65.myText	다리를 지켜내지 못했군, 파커. 챨리중대는 건너편에서 고립됐네. 전차부대가 없이 포트텔러를 방어하긴 어려울 것같군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_65.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myText	파커, 정신차려! 적들이 그쪽 수비를 강화하려 한다! 저지해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myText	적이 방어진지를 구축하려 한다! 전력을 다 해서 저지해라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myText	적이 그곳에 진지를 구축하면 끝장이다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myText	파커! 그곳에 방어진지가 구축된다면 모든게 물거품이 될거야! 공격하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myText	서두르게, 파커! 적이 수비를 강화하면 이 미션은 실패한 것과 다름없네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myText	파커, 소련군이 방어진지를 구축하려고 하네! 늦기 전에 저지해야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	파커! 적들이 그쪽 수비를 강화하기 전에 역습하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	파커, 그 포인트를 가져 오게! 이반이 수비를 강화하면 작전은 실패할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	이반이 수비를 강화하기 전에 그 포인트를 탈환하게! 지금까지의 노력을 물거품으로 만들 순 없네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myText	파커, 이 얼간이자식아! 적이 거점을 먹어버렸잖아! 되찾아라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myText	파커, 소련군이 거점을 점령했다! 탈환해야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myText	파커, 머리를 좀 굴려라! 그 거점을 탈환하라니까!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myPortraitText	배넌
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	파커, 놈들에게 밀리고 있네. 밀어내야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	파커, 놈들에게 밀리고 있네. 밀어내야 해!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	파커, 방금 잃은 거점을 되찾아 오게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	중위, 이반이 포인트를 탈취했네. 당장 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	파커! 이반을 밀어 내게! 포인트를 되찾게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	정신차리게! 파커, 적이 포인트를 가져갔네! 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_66.myText	국립훈련센터에 가본 기억이 있나, 파커? 옛날 자네가 지휘하고 있던 소대의 상사가 거기에서 교관을 하고 있네. 베테랑 군인이며 굉장한 교사이기도 하지.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_66.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	윌킨스대령은 자네가 강에서 소련군의 발을 묶고 시간을 벌어 줘서 감사하고 있다. 배넌대위의 임무가 성공해 적의 발걸음을 한층 더 늦출 수 있게 됐다. 포트텔러를 굳건하게 지킬 수 있는 귀중한 시간을 손에 넣은 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	소련군의 발을 묶는데 실패했기 때문에 윌킨스대령의 부대는 포트텔러의 수비를 강화하지 못했다. 포트텔러는 몇일안에 함락될 것이다. 우리가 알고 있는 세계는 이제 존재하지 않게 되는 것이다.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myEnemyCapturedText	적이 (을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myWeCapturedText	(을)를 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myWeLostText	 의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myEnemyCapturedText	적이 (을)를 점령했다

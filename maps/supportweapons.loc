@@ -1,0 +1,1407 @@
+﻿SupportWeaponDatabase.US.RadarScan_US.myGuiName	항공정찰
+SupportWeaponDatabase.US.RadarScan_US.myGuiDescription	레이더의 유효반경내에 있는 모든 유닛을 표시\n‐ 지속시간은 짧지만 유효반경내의 상황을 확실하게 파악할 수 있다\n‐ 레이더의 유효반경은 꽤 넓은 편
+SupportWeaponDatabase.US.RadarScan_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.RadarScan_US.myTauntText	<empty>
+SupportWeaponDatabase.US.RadarScan_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.RadarScan_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.RadarScan_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭으로 취소.
+SupportWeaponDatabase.US.Paratrooper_US.myGuiName	공수부대
+SupportWeaponDatabase.US.Paratrooper_US.myGuiDescription	공수부대를 소환한다\n- 공수부대는 포격을 요청할 수 있다
+SupportWeaponDatabase.US.Paratrooper_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Paratrooper_US.myTauntText	<empty>
+SupportWeaponDatabase.US.Paratrooper_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Paratrooper_US.myHelpBox.myLeftHandedDescription	우클릭으로 공수부대의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.US.Paratrooper_US.myHelpBox.myRightHandedDescription	좌클릭으로 공수부대의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.US.Repair_Jeep_US.myGuiName	수송차량 공중투하
+SupportWeaponDatabase.US.Repair_Jeep_US.myGuiDescription	예비 수송차량을 요청한다\n- 병력수송및 수리가능.
+SupportWeaponDatabase.US.Repair_Jeep_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Repair_Jeep_US.myTauntText	<empty>
+SupportWeaponDatabase.US.Repair_Jeep_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Repair_Jeep_US.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.US.Repair_Jeep_US.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.US.Light_Tank_US.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.US.Light_Tank_US.myGuiDescription	예비 경(輕)전차를 요청한다
+SupportWeaponDatabase.US.Light_Tank_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Light_Tank_US.myTauntText	<empty>
+SupportWeaponDatabase.US.Light_Tank_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Light_Tank_US.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.US.Light_Tank_US.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.US.BridgeRepairer_US.myGuiName	다리를 수리한다
+SupportWeaponDatabase.US.BridgeRepairer_US.myGuiDescription	망가진 다리를 수리한다
+SupportWeaponDatabase.US.BridgeRepairer_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.BridgeRepairer_US.myTauntText	<empty>
+SupportWeaponDatabase.US.BridgeRepairer_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.BridgeRepairer_US.myHelpBox.myLeftHandedDescription	파괴된 다리를 우클릭하면 수리, 좌클릭으로 취소.
+SupportWeaponDatabase.US.BridgeRepairer_US.myHelpBox.myRightHandedDescription	파괴된 다리를 좌클릭하면 수리, 우클릭으로 취소.
+SupportWeaponDatabase.US.Napalmstrike_US.myGuiName	네이팜공격
+SupportWeaponDatabase.US.Napalmstrike_US.myGuiDescription	숲이나 보병, 경(輕)차량에 효과적\n‐ 특정 일대를 짧은 시간 동안 불태운다\n‐ 작은 직사각형의 영역
+SupportWeaponDatabase.US.Napalmstrike_US.myTauntTextYouHitPlayer	네이팜공격으로 %s(을)를 통구이로 만들었다.
+SupportWeaponDatabase.US.Napalmstrike_US.myTauntText	%s의 네이팜공격을 쳐맞았다.
+SupportWeaponDatabase.US.Napalmstrike_US.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 네이팜탄을 선물했다.
+SupportWeaponDatabase.US.Napalmstrike_US.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.US.Napalmstrike_US.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.US.Tankbuster_US.myGuiName	탱크버스터
+SupportWeaponDatabase.US.Tankbuster_US.myGuiDescription	전차와 차량에 효과적\n‐ 직사각형의 소규모 공격범위
+SupportWeaponDatabase.US.Tankbuster_US.myTauntTextYouHitPlayer	탱크버스터로 %s(을)를 걸레로 만들었다.
+SupportWeaponDatabase.US.Tankbuster_US.myTauntText	%s의 탱크버스터때문에 큰 타격을 입었다.
+SupportWeaponDatabase.US.Tankbuster_US.myTauntTextPlayerHitPlayer	%s(이)가 요청한 탱크버스터로 인해 %s(은)는 산산조각났다.
+SupportWeaponDatabase.US.Tankbuster_US.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.US.Tankbuster_US.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.US.Bunkerbuster_US.myGuiName	레이저유도폭탄
+SupportWeaponDatabase.US.Bunkerbuster_US.myGuiDescription	다리나 건물파괴에 효과적\n‐ 좁은 공격범위
+SupportWeaponDatabase.US.Bunkerbuster_US.myTauntTextYouHitPlayer	%s에게 레이저유도폭탄이 명중.
+SupportWeaponDatabase.US.Bunkerbuster_US.myTauntText	%s의 조준레이저로 인해 벙커버스터가 문안인사왔다.
+SupportWeaponDatabase.US.Bunkerbuster_US.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 벙커버스터를 선물했다.
+SupportWeaponDatabase.US.Bunkerbuster_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.Bunkerbuster_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.AntiAirstrike_US.myGuiName	공대공(空對空)공격
+SupportWeaponDatabase.US.AntiAirstrike_US.myGuiDescription	항공유닛에게 효과적\n‐ 원형의 대규모 공격범위 \n‐ 적유닛만을 공격
+SupportWeaponDatabase.US.AntiAirstrike_US.myTauntTextYouHitPlayer	%s에게 공대공(空對空)공격이 명중.
+SupportWeaponDatabase.US.AntiAirstrike_US.myTauntText	%s에게서 불의의 공대공(空對空)공격을 쳐맞았다.
+SupportWeaponDatabase.US.AntiAirstrike_US.myTauntTextPlayerHitPlayer	%s(은)는 공대공(空對空)공격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.US.AntiAirstrike_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.AntiAirstrike_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.GasAttack_US.myGuiName	화학병기공격
+SupportWeaponDatabase.US.GasAttack_US.myGuiDescription	보병에게 효과적\n‐ 특정일대에 짧은 시간동안 영향을 미친다\n‐ 원형의 대규모 공격범위
+SupportWeaponDatabase.US.GasAttack_US.myTauntTextYouHitPlayer	%s의 병사는 화학병기공격으로 인해 호흡이 곤란한 지경이다.
+SupportWeaponDatabase.US.GasAttack_US.myTauntText	%s의 화학병기공격으로 인해 별사들이 호흡곤란상태이다.
+SupportWeaponDatabase.US.GasAttack_US.myTauntTextPlayerHitPlayer	%s(이)가 %s의 주변에 독가스를 살포.
+SupportWeaponDatabase.US.GasAttack_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.GasAttack_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myGuiName	대규모항공지원
+SupportWeaponDatabase.US.HeavyAirSupport_US.myGuiDescription	전차, 항공유닛, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 적유닛만을 공격
+SupportWeaponDatabase.US.HeavyAirSupport_US.myTauntTextYouHitPlayer	대규모항공공격으로 %s(을)를 걸레로 만들었다.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myTauntText	%s의 대규모항공공격으로 인해 부대가 전멸했다.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myTauntTextPlayerHitPlayer	%s(이)가 요청한 대규모항공공격으로 %s(은)는 전멸했다.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myGuiName	CHILD_HeavyAirSupport_US_AT_1
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myGuiName	CHILD_HeavyAirSupport_US_AA_1
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myGuiName	CHILD_HeavyAirSupport_US_AT_2
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myGuiName	CHILD_HeavyAirSupport_US_AA_2
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myGuiName	CHILD_HeavyAirSupport_US_AT_3
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myGuiDescription	보병에게 효과적\n‐ 원형의 대규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myTauntTextYouHitPlayer	%s(을)를 경(輕)탄막사격으로 잡았다.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myTauntText	%s(이)가 요청한 경(輕)탄막사격이 우군을 잡아 버렸다.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myTauntTextPlayerHitPlayer	%s(이)가 요청한 경(輕)탄막사격이 %s(을)를 잡았다.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myGuiName	Mupp
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myGuiName	Mupp
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.Airstrike_US.myGuiName	항공공격
+SupportWeaponDatabase.US.Airstrike_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.US.Airstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Airstrike_US.myTauntText	%s(이)가 요청한 항공공격때문에 큰 타격을 입었다
+SupportWeaponDatabase.US.Airstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Airstrike_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.Airstrike_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.ClusterBomb_US.myGuiName	항공공격
+SupportWeaponDatabase.US.ClusterBomb_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.US.ClusterBomb_US.myTauntTextYouHitPlayer	클러스터폭탄으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.US.ClusterBomb_US.myTauntText	%s의 클러스터폭탄을 시원하게 먹였다.
+SupportWeaponDatabase.US.ClusterBomb_US.myTauntTextPlayerHitPlayer	%s(이)가 투하한 클러스터폭탄으로 인해 %s(은)는 큰 타격을 입었다.
+SupportWeaponDatabase.US.ClusterBomb_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.ClusterBomb_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 효과는 크다
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myTauntTextYouHitPlayer	중(重)탄막사격으로 %s(을)를 섬멸했다.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myTauntText	%s의 중(重)탄막사격이 우군을 잡아 버렸다.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myTauntTextPlayerHitPlayer	%s의 중(重)탄막사격으로 인해 %s(은)는 큰 타격을 입었다.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.Artillery_US.myGuiName	정밀포격
+SupportWeaponDatabase.US.Artillery_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 소규모 공격범위\n‐ 작은 효과
+SupportWeaponDatabase.US.Artillery_US.myTauntTextYouHitPlayer	정밀포격으로 %s(을)를 섬멸했다.
+SupportWeaponDatabase.US.Artillery_US.myTauntText	%s의 정밀포격으로 인해 큰 타격을 받았다.
+SupportWeaponDatabase.US.Artillery_US.myTauntTextPlayerHitPlayer	%s(이)가 요청한 정밀포격이 %s에게 명중했다.
+SupportWeaponDatabase.US.Artillery_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.Artillery_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.US.DaisyCutter_US.myGuiName	데이지커터
+SupportWeaponDatabase.US.DaisyCutter_US.myGuiDescription	보병, 차량, 숲에 효과적\n‐ 원형의 중간규모 공격범위
+SupportWeaponDatabase.US.DaisyCutter_US.myTauntTextYouHitPlayer	데이지커터가 %s에게 명중했다.
+SupportWeaponDatabase.US.DaisyCutter_US.myTauntText	%s의 데이지커터가 명중했다.
+SupportWeaponDatabase.US.DaisyCutter_US.myTauntTextPlayerHitPlayer	%s의 데이지커터가 %s에게 명중했다.
+SupportWeaponDatabase.US.DaisyCutter_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.DaisyCutter_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.US.CarpetBombing_US.myGuiName	융단폭격
+SupportWeaponDatabase.US.CarpetBombing_US.myGuiDescription	유닛과 건축물에 효과적\n‐ 직사각형의 대규모 공격범위
+SupportWeaponDatabase.US.CarpetBombing_US.myTauntTextYouHitPlayer	융단폭격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.US.CarpetBombing_US.myTauntText	%s(이)가 요청한 융단폭격때문에 큰 타격을 입었다.
+SupportWeaponDatabase.US.CarpetBombing_US.myTauntTextPlayerHitPlayer	%s(은)는 융단폭격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.US.CarpetBombing_US.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.US.CarpetBombing_US.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.US.TacticalNuke_US.myGuiName	전술핵병기
+SupportWeaponDatabase.US.TacticalNuke_US.myGuiDescription	유닛과 건축물에 효과적\n‐ 원형의 대규모 공격범위\n‐ 방사능이 잠시동안 잔류한다
+SupportWeaponDatabase.US.TacticalNuke_US.myTauntTextYouHitPlayer	%s에게 핵공격을 실시했다.
+SupportWeaponDatabase.US.TacticalNuke_US.myTauntText	%s의 핵공격을 받았다.
+SupportWeaponDatabase.US.TacticalNuke_US.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 핵병기를 사용했다.
+SupportWeaponDatabase.US.TacticalNuke_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.US.TacticalNuke_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.RadarScan_USSR.myGuiName	항공정찰
+SupportWeaponDatabase.USSR.RadarScan_USSR.myGuiDescription	레이더의 유효반경내에 있는 모든 유닛을 표시\n‐ 지속시간은 짧지만 유효반경내의 상황을 확실하게 파악할 수 있다\n‐ 레이더의 유효반경은 꽤 넓은 편
+SupportWeaponDatabase.USSR.RadarScan_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.RadarScan_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.RadarScan_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.RadarScan_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.RadarScan_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myGuiName	공수부대
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myGuiDescription	스페나츠 공수부대를 소환\n‐ 공수부대는 포격을 요청할 수 있다
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myGuiName	수송차량 공중투하
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myGuiDescription	예비 병력수송차량을 요청한다\n- 병력수송및 수리가능
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myGuiDescription	예비 경(輕)전차를 요청한다
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myGuiName	다리를 수리한다
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myGuiDescription	망가진 다리를 수리한다
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myHelpBox.myLeftHandedDescription	파괴된 다리를 우클릭하면 수리, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myHelpBox.myRightHandedDescription	파괴된 다리를 좌클릭하면 수리, 우클릭으로 취소.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myGuiName	네이팜공격
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myGuiDescription	숲이나 보병, 경(輕)차량에 효과적\n‐ 특정 일대를 짧은 시간 동안 불태운다\n‐ 작은 직사각형의 영역
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myTauntTextYouHitPlayer	네이팜탄으로 %s(을)를 통구이로 만들었다.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myTauntText	%s의 네이팜탄을 시원하게 먹였다.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 네이팜탄을 선물했다.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myGuiName	탱크버스터
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myGuiDescription	전차와 차량에 효과적\n‐ 직사각형의 소규모 공격범위
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myTauntTextYouHitPlayer	탱크버스터로 %s(을)를 걸레로 만들었다.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myTauntText	%s의 탱크버스터때문에 큰 타격을 입었다.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myTauntTextPlayerHitPlayer	%s(이)가 요청한 탱크버스터로 인해 %s(은)는 산산조각났다.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myGuiName	레이저유도폭탄
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myGuiDescription	다리나 건물파괴에 효과적\n‐ 좁은 공격범위
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myTauntTextYouHitPlayer	%s에게 레이저유도폭탄이 명중했다.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myTauntText	%s의 조준레이저로 인해 벙커버스터가 문안인사왔다.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 벙커버스터를 선물했다.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myGuiName	공대공(空對空)공격
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myGuiDescription	항공유닛에게 효과적\n‐ 원형의 대규모 공격범위 \n‐ 적유닛만을 공격
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myTauntTextYouHitPlayer	%s(을)를 공대공(空對空)격격으로 추격했다.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myTauntText	%s에게서 불의의 공대공(空對空)공격을 쳐맞았다.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myTauntTextPlayerHitPlayer	%s(은)는 공대공(空對空)공격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myGuiName	화학병기공격
+SupportWeaponDatabase.USSR.GasAttack_USSR.myGuiDescription	보병에게 효과적\n‐ 특정일대에 짧은 시간동안 영향을 미친다\n‐ 원형의 대규모 공격범위
+SupportWeaponDatabase.USSR.GasAttack_USSR.myTauntTextYouHitPlayer	%s의 병사는 화학병기공격으로 인해 호흡이 곤란한 지경이다.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myTauntText	%s의 화학병기공격이 병사들을 덮쳤다.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myTauntTextPlayerHitPlayer	%s(이)가 %s의 주변에 독가스를 살포.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myGuiName	대규모항공지원
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myGuiDescription	전차, 항공유닛, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 적유닛만을 공격
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myTauntTextYouHitPlayer	%s(을)를 대규모항공공격으로 분쇄했다.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myTauntText	%s의 대규모항공공격으로 인해 부대가 전멸했다.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myTauntTextPlayerHitPlayer	%s(이)가 요청한 대규모항공공격때문에 %s(은)는 전멸했다.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myGuiName	CHILD_HeavyAirSupport_USSR_AT_1
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myGuiName	CHILD_HeavyAirSupport_USSR_AA_1
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myGuiName	CHILD_HeavyAirSupport_USSR_AT_2
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myGuiName	CHILD_HeavyAirSupport_USSR_AA_2
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myGuiName	CHILD_HeavyAirSupport_USSR_AT_3
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myGuiDescription	보병에게 효과적\n‐ 원형의 대규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myTauntTextYouHitPlayer	경(輕)포격으로 %s의 다리를 묶었다.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myTauntText	%s(이)가 요청한 경(輕)포격에 의해 불의의 일격을 당했다.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	%s이 요청한 경(輕)탄막사격이 %s(을)를 잡아 버렸다.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myGuiName	Mupp
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myGuiName	Mupp
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.Airstrike_USSR.myGuiName	항공공격
+SupportWeaponDatabase.USSR.Airstrike_USSR.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.USSR.Airstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Airstrike_USSR.myTauntText	%의 대규모항공공격때문에 큰 타격을 입었다.
+SupportWeaponDatabase.USSR.Airstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Airstrike_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.Airstrike_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myGuiName	항공공격
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myTauntTextYouHitPlayer	클러스터폭탄으로 %s(을)를 날려 버렸다.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myTauntText	%s의 클러스터폭탄을시원하게 먹였다.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myTauntTextPlayerHitPlayer	%s(이)가 투하한 클러스터폭탄으로 인해 %s(은)는 큰 타격을 입었다.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 효과는 크다
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myTauntTextYouHitPlayer	중(中)포격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myTauntText	%s의 중(重)탄막사격을 퍼부었다.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	%s의 중(重)탄막사격으로 인해 %s(은)는 큰 타격을 입었다.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.Artillery_USSR.myGuiName	정밀포격
+SupportWeaponDatabase.USSR.Artillery_USSR.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 소규모 공격범위\n‐ 작은 효과
+SupportWeaponDatabase.USSR.Artillery_USSR.myTauntTextYouHitPlayer	정밀포격으로 %s(을)를 분쇄시켰다.
+SupportWeaponDatabase.USSR.Artillery_USSR.myTauntText	%s의 정밀탄막사격으로 인한 타격을 받았다.
+SupportWeaponDatabase.USSR.Artillery_USSR.myTauntTextPlayerHitPlayer	%s(이)가 요청한 정밀포격이 %s에게 명중했다.
+SupportWeaponDatabase.USSR.Artillery_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.Artillery_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myGuiName	연료기화폭탄
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myGuiDescription	보병, 차량, 숲에 효과적\n‐ 원형의 중간규모 공격범위
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myTauntTextYouHitPlayer	연료기화폭탄이 %s에게 명중했다.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myTauntText	%s의 연료기화폭탄을 시원하게 먹였다.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myTauntTextPlayerHitPlayer	%s(은)는 연료기화폭탄으로 %s(을)를 불덩어리로 만들었다.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myGuiName	융단폭격
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myGuiDescription	유닛과 건축물에 효과적\n‐ 직사각형의 대규모 공격범위
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myTauntTextYouHitPlayer	융단폭탄으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myTauntText	%s의 융단폭탄으로 인해 부대가 전멸했다.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myTauntTextPlayerHitPlayer	%s(은)는 융단폭격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myGuiName	전술핵병기
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myGuiDescription	유닛과 건축물에 효과적\n‐ 원형의 대규모 공격범위\n‐ 방사능이 잠시동안 잔류한다
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myTauntTextYouHitPlayer	%s에게 조국의 위대함을 알려 줬다.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myTauntText	%s으로 인해 지상에서 소멸했다.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 소련의 위대함을 보여 주었다.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.RadarScan_NATO.myGuiName	항공정찰
+SupportWeaponDatabase.NATO.RadarScan_NATO.myGuiDescription	레이더의 유효반경내에 있는 모든 유닛을 표시\n‐ 지속시간은 짧지만 유효반경내의 상황을 확실하게 파악할 수 있다\n‐ 레이더의 유효반경은 꽤 넓은 편
+SupportWeaponDatabase.NATO.RadarScan_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.RadarScan_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.RadarScan_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.RadarScan_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.RadarScan_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myGuiName	공수부대
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myGuiDescription	프랑스군 외인공수부대를 소환\n‐ 공수부대는 포격을 요청할 수 있다
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 공수부대의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 공수부대의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myGuiName	수송차량 공중투하
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myGuiDescription	예비 병력수송차량을 요청한다\n- 병력수송및 수리가능
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myGuiDescription	예비 경(輕)전차를 요청한다
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myGuiName	다리를 수리한다
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myGuiDescription	망가진 다리를 수리한다
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myHelpBox.myLeftHandedDescription	파괴된 다리를 우클릭하면 수리, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myHelpBox.myRightHandedDescription	파괴된 다리를 좌클릭하면 수리, 우클릭으로 취소.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myGuiName	네이팜공격
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myGuiDescription	숲이나 보병, 경(輕)차량에 효과적\n- 특정 일대를 짧은 시간 동안 불태운다\n- 작은 직사각형의 영역
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myTauntTextYouHitPlayer	%s(이)가 네이팜공격으로 한줌의 재로 만들었다.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myTauntText	%s의 네이팜탄을 시원하게 먹였다.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 네이팜탄을 선물했다.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myGuiName	탱크버스터
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myGuiDescription	전차와 차량에 효과적\n‐ 직사각형의 소규모 공격범위
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myTauntTextYouHitPlayer	탱크버스터로 %s(을)를 걸레로 만들었다.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myTauntText	%s의 탱크버스터때문에 큰 타격을 입었다.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myTauntTextPlayerHitPlayer	%s(이)가 요청한 탱크버스터로 인해 %s(은)는 산산조각났다.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myGuiName	레이저유도폭탄
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myGuiDescription	다리나 건물파괴에 효과적\n‐ 좁은 공격범위
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myTauntTextYouHitPlayer	%s에게 레이저유도폭탄이 명중했다.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myTauntText	%s의 조준레이저로 인해 벙커버스터가 문안인사왔다.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 벙커버스터를 선물했다.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myGuiName	공대공(空對空)공격
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myGuiDescription	항공유닛에게 효과적\n‐ 원형의 대규모 공격범위 \n‐ 적유닛만을 공격
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myTauntTextYouHitPlayer	공대공(空對空)공격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myTauntText	%s에게서 불의의 공대공(空對空)공격을 쳐맞았다.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myTauntTextPlayerHitPlayer	%s(은)는 공대공(空對空)공격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myGuiName	화학병기공격
+SupportWeaponDatabase.NATO.GasAttack_NATO.myGuiDescription	보병에게 효과적\n‐ 특정일대에 짧은 시간동안 영향을 미친다\n‐ 원형의 대규모 공격범위
+SupportWeaponDatabase.NATO.GasAttack_NATO.myTauntTextYouHitPlayer	%s의 병사는 화학병기공격으로 인해 호흡이 곤란한 지경이다.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myTauntText	%s의 화학병기공격이 병사들을 덮쳤다.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myTauntTextPlayerHitPlayer	%s(이)가 %s의 주변에 독가스를 살포.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myGuiName	대규모항공지원
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myGuiDescription	전차, 항공유닛, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 적유닛만을 공격
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myTauntTextYouHitPlayer	대규모항공공격으로 %s(을)를 섬멸했다.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myTauntText	%s의 대규모항공공격으로 인해 부대가 전멸했다.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myTauntTextPlayerHitPlayer	%s(이)가 요청한 대규모항공공격으로 인해 %s(은)는 전멸했다.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myGuiName	CHILD_HeavyAirSupport_NATO_AT_1
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myGuiName	CHILD_HeavyAirSupport_NATO_AA_1
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myGuiName	CHILD_HeavyAirSupport_NATO_AT_2
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myGuiName	CHILD_HeavyAirSupport_NATO_AA_2
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_3
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myGuiDescription	보병에게 효과적\n‐ 원형의 대규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myTauntTextYouHitPlayer	경(輕)포격이 %s에게 명중했다.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myTauntText	%s(이)가 요청한 경(輕)포격에 의해 불의의 일격을 당했다.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	%s이 요청한 경(輕)탄막사격이 %s(을)를 잡았다.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myGuiName	Mupp
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myGuiName	Mupp
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.Airstrike_NATO.myGuiName	항공공격
+SupportWeaponDatabase.NATO.Airstrike_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.NATO.Airstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Airstrike_NATO.myTauntText	%s의 항공공격으로 큰 피해를 입었다.
+SupportWeaponDatabase.NATO.Airstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Airstrike_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.Airstrike_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myGuiName	항공공격
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myTauntTextYouHitPlayer	클러스터폭탄으로 %s(을)를 섬멸했다.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myTauntText	%s의 클러스터폭탄을시원하게 먹였다.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myTauntTextPlayerHitPlayer	%s(이)가 투하한 클러스터폭탄으로 인해 %s(은)는 큰 타격을 입었다.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 효과는 크다
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myTauntTextYouHitPlayer	중(中)포격으로 %s(을)를 섬멸했다.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myTauntText	%s의 중(重)탄막사격을 퍼부었다.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	%s의 중(重)탄막사격으로 인해 %s(은)는 큰 타격을 입었다.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.Artillery_NATO.myGuiName	정밀포격
+SupportWeaponDatabase.NATO.Artillery_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 소규모 공격범위\n‐ 작은 효과
+SupportWeaponDatabase.NATO.Artillery_NATO.myTauntTextYouHitPlayer	정밀포격이 %s에게 명중했다.
+SupportWeaponDatabase.NATO.Artillery_NATO.myTauntText	%s의 정밀탄막사격으로 인해 큰 타격을 받았다.
+SupportWeaponDatabase.NATO.Artillery_NATO.myTauntTextPlayerHitPlayer	%s(이)가 요청한 정밀포격이 %s에게 명중했다.
+SupportWeaponDatabase.NATO.Artillery_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.\n우클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.Artillery_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.\n좌클릭한 채로 공격방향을 지정.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myGuiName	데이지커터
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myGuiDescription	보병, 차량, 숲에 효과적\n‐ 원형의 중간규모 공격범위
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myTauntTextYouHitPlayer	데이지커터로 %s(을)를 섬멸했다.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myTauntText	%s의 데이지커터가 명중했다.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myTauntTextPlayerHitPlayer	%s의 데이지커터가 %s에게 명중했다.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myGuiName	융단폭격
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myGuiDescription	유닛과 건축물에 효과적\n‐ 직사각형의 대규모 공격범위
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myTauntTextYouHitPlayer	융단폭격으로 %s(을)를 섬멸했다.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myTauntText	%s의 융단폭탄을시원하게 먹였다.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myTauntTextPlayerHitPlayer	%s(은)는 융단폭격으로 %s에게 큰 타격을 주었다.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myGuiName	전술핵병기
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myGuiDescription	유닛과 건축물에 효과적\n‐ 원형의 대규모 공격범위\n ‐방사능이 잠시동안 잔류한다
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myTauntTextYouHitPlayer	%s에게 핵공격을 실시했다.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myTauntText	%s의 핵공격을 받았다.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 핵병기를 사용했다.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myGuiName	전술핵병기
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myGuiDescription	유닛과 건축물에 효과적\n‐ 원형의 대규모 공격범위\n‐ 방사능이 잠시동안 잔류한다
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myTauntTextYouHitPlayer	%s에게 핵공격을 실시했다.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myTauntText	%s의 핵공격을 받았다.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myTauntTextPlayerHitPlayer	%s(은)는 %s에게 핵병기를 사용했다.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myGuiName	레이더주사레벨1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myGuiName	전술핵병기
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myGuiName	정밀포격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myGuiName	정밀포격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiName	BLU-82데이지커터・레벨1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myGuiName	항공공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myGuiName	연료기화폭탄
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myGuiName	직접조준포격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myGuiName	레이저유도폭탄
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myGuiName	항공공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myGuiName	전술핵병기
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myGuiName	전술핵병기
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myGuiDescription	유닛과 건축물에 효과적\n‐ 원형의 대규모 공격범위\n‐ 방사능이 잠시동안 잔류한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myGuiName	탄막사격레벨1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myGuiName	탄막사격레벨1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myGuiName	전술핵병기
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myGuiName	공수부대
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myGuiName	공수부대
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myGuiName	수송차량 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myGuiName	항공정찰
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myGuiDescription	레이더의 유효반경내에 있는 모든 유닛을 표시\n‐ 지속시간은 짧지만 유효반경내의 상황을 확실하게 파악할 수 있다\n‐ 레이더의 유효반경은 꽤 넓은 편
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myGuiName	공수부대
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myGuiDescription	프랑스군 외인공수부대를 소환\n‐ 공수부대는 포격을 요청할 수 있다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 공수부대의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 공수부대의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myGuiName	수송차량 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myGuiDescription	예비 병력수송차량을 요청한다\n- 병력수송및 수리가능
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myGuiDescription	예비 경(輕)전차를 요청한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myGuiName	다리를 수리한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myGuiDescription	망가진 다리를 수리한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myHelpBox.myLeftHandedDescription	파괴된 다리를 우클릭하면 수리, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myHelpBox.myRightHandedDescription	파괴된 다리를 좌클릭하면 수리, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myGuiName	네이팜공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myGuiDescription	숲이나 보병, 경(輕)차량에 효과적\n‐ 특정 일대를 짧은 시간 동안 불태운다\n‐ 작은 직사각형의 영역
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myGuiName	탱크버스터
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myGuiDescription	전차와 차량에 효과적\n‐ 직사각형의 소규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myGuiName	레이저유도폭탄
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myGuiDescription	다리나 건물파괴에 효과적\n‐ 좁은 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myGuiName	공대공(空對空)공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myGuiDescription	항공유닛에게 효과적\n‐ 원형의 대규모 공격범위 \n‐ 적유닛만을 공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myGuiName	화학병기공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myGuiDescription	보병에게 효과적\n‐ 특정일대에 짧은 시간동안 영향을 미친다\n‐ 원형의 대규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myGuiName	대규모항공지원
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myGuiDescription	전차, 항공유닛, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 적유닛만을 공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myGuiDescription	보병에게 효과적\n‐ 원형의 대규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myGuiName	항공공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myGuiName	항공공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 대규모 공격범위\n ‐효과는 크다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myGuiName	정밀포격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 소규모 공격범위\n‐ 작은 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myGuiName	데이지커터
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myGuiDescription	보병, 차량, 숲에 효과적\n‐ 원형의 중간규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myGuiName	융단폭격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myGuiDescription	유닛과 건축물에 효과적\n‐ 직사각형의 대규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myGuiName	전술핵병기
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myGuiDescription	유닛과 건축물에 효과적\n‐ 원형의 대규모 공격범위\n‐ 방사능이 잠시동안 잔류한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myGuiName	항공정찰
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myGuiDescription	레이더의 유효반경내에 있는 모든 유닛을 표시\n‐ 지속시간은 짧지만 유효반경내의 상황을 확실하게 파악할 수 있다\n‐ 레이더의 유효반경은 꽤 넓은 편
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myGuiName	공수부대
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myGuiDescription	공수부대를 소환한다\n- 공수부대는 포격을 요청할 수 있다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myHelpBox.myLeftHandedDescription	우클릭으로 공수부대의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myHelpBox.myRightHandedDescription	좌클릭으로 공수부대의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myGuiName	수송차량 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myGuiDescription	예비 병력수송차량을 요청한다\n- 병력수송및 수리가능
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myGuiName	경(輕)전차 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myGuiDescription	예비 경(輕)전차를 요청한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myHelpBox.myLeftHandedDescription	우클릭으로 경(輕)전차의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myHelpBox.myRightHandedDescription	좌클릭으로 경(輕)전차의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myGuiName	다리를 수리한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myGuiDescription	망가진 다리를 수리한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myHelpBox.myLeftHandedDescription	파괴된 다리를 우클릭하면 수리, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myHelpBox.myRightHandedDescription	파괴된 다리를 좌클릭하면 수리, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myGuiName	네이팜공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myGuiDescription	숲이나 보병, 경(輕)차량에 효과적\n‐ 특정 일대를 짧은 시간 동안 불태운다\n‐ 작은 직사각형의 영역
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myGuiName	탱크버스터
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myGuiDescription	전차와 차량에 효과적\n‐ 직사각형의 소규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myGuiName	공대공(空對空)공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myGuiDescription	항공유닛에게 효과적\n‐ 원형의 대규모 공격범위 \n‐ 적유닛만을 공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myGuiName	화학병기공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myGuiDescription	보병에게 효과적\n‐ 특정일대에 짧은 시간동안 영향을 미친다\n‐ 원형의 대규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myGuiName	대규모항공지원
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myGuiDescription	전차, 항공유닛, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 적유닛만을 공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myGuiDescription	보병에게 효과적\n‐ 원형의 대규모 공격범위\n‐광범위한 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myGuiName	항공공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 효과는 크다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myGuiName	정밀포격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 소규모 공격범위\n‐ 작은 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myGuiName	데이지커터
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myGuiDescription	보병, 차량, 숲에 효과적\n‐ 원형의 중간규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myGuiName	융단폭격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myGuiDescription	유닛과 건축물에 효과적\n‐ 직사각형의 대규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myGuiName	항공정찰
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myGuiDescription	레이더의 유효반경내에 있는 모든 유닛을 표시\n‐ 지속시간은 짧지만 유효반경내의 상황을 확실하게 파악할 수 있다\n‐ 레이더의 유효반경은 꽤 넓은 편
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myGuiName	공수부대
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myGuiDescription	스페나츠 공수부대를 소환\n‐ 공수부대는 포격을 요청할 수 있다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 수송차량의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 수송차(기)의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myGuiName	수송차량 공중투하
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myGuiDescription	예비 병력수송차량을 요청한다\n- 병력수송및 수리가능
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myGuiName	다리를 수리한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myGuiDescription	망가진 다리를 수리한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myHelpBox.myLeftHandedDescription	파괴된 다리를 우클릭하면 수리, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myHelpBox.myRightHandedDescription	파괴된 다리를 좌클릭하면 수리, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myGuiName	네이팜공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myGuiDescription	숲이나 보병, 경(輕)차량에 효과적\n‐ 특정 일대를 짧은 시간 동안 불태운다\n‐ 작은 직사각형의 영역
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myGuiName	탱크버스터
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myGuiDescription	전차와 차량에 효과적\n‐ 직사각형의 소규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myGuiName	레이저유도폭탄
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myGuiDescription	다리나 건물파괴에 효과적\n‐ 좁은 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myGuiName	공대공(空對空)공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myGuiDescription	항공유닛에게 효과적\n‐ 원형의 대규모 공격범위 \n‐ 적유닛만을 공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myGuiName	화학병기공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myGuiDescription	보병에게 효과적\n‐ 특정일대에 짧은 시간동안 영향을 미친다\n‐ 원형의 대규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myGuiName	대규모항공지원
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myGuiDescription	전차, 항공유닛, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 적유닛만을 공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myGuiName	경(輕)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myGuiDescription	보병에게 효과적\n‐ 원형의 대규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myGuiName	항공공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myGuiName	항공공격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 중간규모 공격범위\n‐ 중간정도의 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 효과는 크다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiName	연료기화폭탄
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiDescription	보병, 차량, 숲에 효과적\n‐ 원형의 중간규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myGuiName	융단폭격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myGuiDescription	유닛과 건축물에 효과적\n‐ 직사각형의 대규모 공격범위
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 비행경로의 시작점과 방향을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 비행경로의 시작점과 방향을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myGuiName	전술핵병기
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myGuiDescription	유닛과 건축물에 효과적\n‐ 원형의 대규모 공격범위\n‐ 방사능이 잠시동안 잔류한다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myGuiName	Incendiary Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myGuiDescription	Good against infantry, tanks, vehicles and forests \n- Burns the impact area for a period of time \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myGuiName	Incendiary Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myGuiDescription	Good against infantry, tanks, vehicles and forests \n- Burns the impact area for a period of time \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myGuiName	전함 미주리의 함포사격1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myGuiDescription	모든 육상유닛에게 큰 타격\n‐ 원형의 중간규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myHelpBox.myLeftHandedDescription	우클릭으로 포격지점을 지정.좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myHelpBox.myRightHandedDescription	좌클릭으로 포격지점을 지정.우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myGuiName	전함 미주리의 함포사격2
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myGuiDescription	모든 육상유닛에게 큰 타격\n‐ 원형의 중간규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myHelpBox.myLeftHandedDescription	우클릭으로 포격지점을 지정.좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myHelpBox.myRightHandedDescription	좌클릭으로 포격지점을 지정.우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myGuiName	전함 미주리의 함포사격3
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myGuiDescription	모든 육상유닛에게 큰 타격\n‐ 원형의 중간규모 공격범위\n‐ 광범위한 효과
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myHelpBox.myLeftHandedDescription	우클릭으로 포격지점을 지정.좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myHelpBox.myRightHandedDescription	좌클릭으로 포격지점을 지정.우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myGuiName	중(重)탄막사격
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myGuiDescription	전차, 보병, 차량에 효과적\n‐ 원형의 대규모 공격범위\n‐ 효과는 크다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myGuiName	공수부대
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myGuiDescription	노르웨이 공수부대를 소환\n‐ 공수부대는 포격을 요청할 수 있다
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myHelpBox.myLeftHandedDescription	우클릭으로 공수부대의 강하지점을 지정, 좌클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myHelpBox.myRightHandedDescription	좌클릭으로 공수부대의 강하지점을 지정, 우클릭으로 취소.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myGuiName	Radar scan Level 1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myGuiName	Carpet Bombing
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myGuiName	Carpet Bombing
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myGuiName	Daisy Cutter Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myGuiName	Napalm Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myGuiName	Airdropped Transport
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myGuiName	Precision Artillery
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myGuiName	Heavy Air Support
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_2
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_3
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myGuiName	폭약을 기폭한다.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myGuiDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myTauntText	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myHelpBox.myLeftHandedDescription	우클릭으로 폭약을 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myHelpBox.myRightHandedDescription	좌클릭으로 폭약을 설치, 우클릭으로 취소.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myGuiName	직접조준포격
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myGuiDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myTauntText	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myHelpBox.myLeftHandedDescription	우클릭으로 포격지점을 지정. 좌클릭으로 취소.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myHelpBox.myRightHandedDescription	좌클릭으로 포격지점을 지정. 우클릭으로 취소.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myGuiName	포격
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myGuiDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myTauntText	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myGuiName	영상[전술핵병기]
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myGuiName	영상[전술핵병기, 데미지없음]
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myGuiName	영상[충격파]
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myGuiName	영상[데이지커터]
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myGuiName	영상[포병에 의한 포격]
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myGuiName	영상[핵탄두탑재 순항미사일]
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myGuiName	영상[숨겨진기폭장치에 초점이 맞춰져 있다]
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myGuiName	영상[기본형 고성능핵미사일]
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myGuiName	영상[직접조준포격]
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myGuiName	영상[소폭발]
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myGuiName	영상[소폭발2]
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myGuiName	영상[중(重)탄막사격]
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myGuiName	영상[중(重)탄막사격]
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myGuiName	영상[네이팜탄]
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myHelpBox.myLeftHandedDescription	우클릭으로 설치, 좌클릭으로 취소.
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myHelpBox.myRightHandedDescription	좌클릭으로 설치, 우클릭은 취소.

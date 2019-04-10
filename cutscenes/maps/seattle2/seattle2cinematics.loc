@@ -1,0 +1,29 @@
+﻿Cine1.myPresentation.Blank.myEvents.PresentationEvent(0).myLocalizedText	시애틀 다운타운\\11:00\\침공의 날
+Cine1.myPresentation.Blank.myEvents.PresentationEvent(1).myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(0)	[001.8-005.5] 여기는 배넌대위! 소령과 연락을 취하고 싶습니다만.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(1)	[006.5-009.5] 예? 그러면 도대체 누가 지휘를?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(2)	[010.5-012.5] 저말입니까? 그런 바보같은.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(3)	[017.0-018.5] 뭐라구요?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(4)	[019.5-023.0] 알턱이 없잖습니까. 후퇴해서 재편성부터 해야겠습니다!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(5)	[023.5-027.0] 줄루 파이브, 들리나? 어이!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(6)	[050.5-051.5] 지휘관은 누군가?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(15)	[051.5-054.0] \n파커중위입니다! 저쪽에 있습니다!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(7)	[061.5-064.0] 휴가는 쫑난것 같군, 파커.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(8)	[064.5-067.0] 뉴욕에서 만난 후로 간만이군. 이제 만날 일은 없을거라 생각했는데 말야.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(16)	[067.7-069.7] 거기 2명! 어디 가는거냐?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(9)	[069.8-071.1] 아군을 찾으러 가려고 합니다.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(10)	[071.1-075.0] \n저는 마이크. 여기는 안톤. 워싱턴 주방위군입니다.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(11)	[075.1-078.5] 지금부터는 우리들과 함께한다. 라이플을 가져 와. 여기서 탈출해야 해.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(12)	[078.5-080.6] \n꼬리 내리고 도망가는겁니까?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(13)	[080.7-084.5] 시애틀은 이미 틀렸어. 남아있어 봤자 죽기밖에 더 하겠나.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(14)	[085.0-088.0] 파커, 후퇴하자구!
+Cine1.myPresentation.M01F01.myEvents.Farplane1.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.ToggleShadows1.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Shadows.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.CineShadowsM01F01.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane2.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane3.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane4.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane5.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane6.myLocalizedText	<empty>
+Cine2.myPresentation.Blank.myEvents.text.myLocalizedText	25분 후

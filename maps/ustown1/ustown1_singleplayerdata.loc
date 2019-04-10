@@ -1,0 +1,225 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	우리가 싸움의 피로를 풀고 부대를 재정비하려던 찰나 드디어 중국이 소련의 동맹국으로서 참전했다는 소식이 들려왔다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	중국군 침공함대는 곧장 시애틀을 노리고 있다. 소련군이 구축한 교두보로 상륙할 작정인 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	미주리는 1주일전에 브리티쉬콜롬비아 앞바다에서 격침되었다. 중국군 함대를 저지할 수 있는 전력은 이미 태평양 함대중에는 없다는 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	우리는 서쪽으로 향했다. 목표는 시애틀과 소련군의 중앙방어선이다. 웹은 하루라도 좋으니 장병들을 쉬게해야 한다고 건의했지만 대령은 거절했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	대령은 말했다. 병사들을 쉬게하면 시기를 놓치게 되고 모든것이 무로 돌아간다고. 무로 돌아간다는 것은 무슨 말일까? 그 진정한 의미를 우리가 이해하게 된것은 나중에 대통령의 결단이 무엇인지 알게 되었을 때였다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Church.myDescription	소련군 전초지점을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Church.myLongDescription	남쪽으로 돌아 들어가서 오래된 교회주변에 있는 소련군진지를 확보하고 보급선을 지킬 필요가 있다.\n\n목표를 달성하려면 교회주변에 방어진지를 구축해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Church.myVisualisationText	소련군 전초지점을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthTown.myDescription	시가지 남부를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthTown.myLongDescription	공격 제1단계는 종료됐다. 이번엔 시가지를 공략할 차례다. 우선은 시가지 남부를 탈환해라.\n\n목표를 달성하려면 시가지 남부에 방어진지를 구축해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthTown.myVisualisationText	시가지 남부를 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SawMill.myDescription	제재소를 공략하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SawMill.myLongDescription	소련군이 시가지 중심에 있는 다리를 폭파했기 때문에 동쪽으로 우회해야 한다. 동쪽에는 제재소가 있다. 이곳을 확보하지 않으면 앞으로 전진할 수 없다.\n\n목표를 달성하려면 제재소 주변에 방어진지를 구축해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SawMill.myVisualisationText	제재소를 공략하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendSawMill.myDescription	제재소를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendSawMill.myLongDescription	소련군이 제재소에 반격을 가해 왔다. 반드시 지켜야만 한다.\n\n목표를 달성하려면 소련군의 반격으로부터 제재소를 지켜내야 한다.\n\n소련군이 제재소를 제압하고 방어진지를 구축하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendSawMill.myVisualisationText	제재소를 지켜라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthTown.myDescription	시가지 광장을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthTown.myLongDescription	시가지 광장은 지금도 소련군 잔재부대가 점령하고 있다. 광장으로 향해 적을 격파하고 일대를 확보해라.\n\n목표를 달성하려면 소련군이 태세를 재정비하는 것보다 빨리 맵상에 마킹되어 있는 전략거점에 방어진지를 구축해야 한다.\n\n제한시간내에 이 목표를 달성하지 못하면 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthTown.myVisualisationText	시가지 광장을 확보하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearArea.myDescription	소련군 잔재부대를 일소하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearArea.myLongDescription	소련군 잔재부대는 통제가 되지 않을정도로 산개되어 있다. 하지만 이를 섬멸하지 않으면 대대도 전진할 수 없다. 물론 섬멸하는 것은 자네의 역할이다.\n\n이 목표를 달성하고 승리하기 위해서는 적 잔재부대를 일소해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearArea.myVisualisationText	소련군 잔재부대를 일소하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BreakLine.myDescription	소련군 방어선을 돌파하라
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BreakLine.myLongDescription	소련군 수비대가 시가지 광장에 방어진지를 구축하고 있다. 이를 돌파하고 시가지를 확보하면 우리는 진격을 재개할 수 있다.\n\n이 목표를 달성하려면 소련군진지로 공격을 계속해서 방어선을 돌파해야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BreakLine.myVisualisationText	소련군 방어선을 돌파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SawmillTime.myDescription	즉시 제재소를 공략하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SawmillTime.myLongDescription	대령은 공격의 진척상황에 초조함을 감추지 못하고 있다. 전속력으로 제재소를 목표로 해야 한다.\n\n목표를 달성하려면 제한시간내에 제재소를 확보해야 한다.\n\n제한시간내에 제재소를 확보하지 못하면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SawmillTime.myVisualisationText	즉시 제재소를 공략하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillVIP.myDescription	소련군 지휘소를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillVIP.myLongDescription	소련군의 지휘관이 시가지를 버리고 민간인의 차를 이용해 도망치려 한다. 이 지휘관을 제거하면 소련군 병사들의 전의는 크게 꺾일 것이며 각 부대는 서로 협력하길 꺼려할 것이다.\n\n목표를 달성하려면 소련군 지휘관이 탑승한 차량을 파괴해야 한다.\n\n지휘관이 탑승한 차량이 도망가면 목표달성은 실패한다.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillVIP.myVisualisationText	소련군 지휘소를 격파하라
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneChanged.myString	강하지점이 변경됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	강하지점이 확대됐다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.newUnits.myString	새로운 유닛이 주어졌다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	화기지원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenRe.myString	증원을 요청할 수 있다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReward.myString	상을 획득했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	최대지원포인트가 상승했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.addTAPoints.myString	보다 많은 전술지원포인트를 획득했다.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.SawmillTimeAward.myString	중(重)포를 사용할 수 있다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief1.myText	웹, 파커가 남쪽으로 돌아 들어 갈 때까지 정면에서 공격하게. 이 시가지가 소련의 방어선을 부술 수 있는 열쇠야. 어떻게 해서든 탈취해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief2.myText	대령, 정면에서 공격을 감행하면 희생자가 늘어나게 될겁니다. 제가 북쪽에서 돌아 들어가는 편이...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief2.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief3.myText	그럴 시간이 없네, 웹! 즉시 공격을 이행하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief4.myText	라져... 제2소대를 파견해 다리를 확보하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief4.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_01.myText	파커! 남쪽으로 이동해서 교회에 있는 소련의 전초지점을 제압하게. 격렬한 저항은 충분히 각오해 두게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_01.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_02.myText	이글 식스, 여기는 웹. 제2소대를 잃었습니다. 다리는 탄막사격으로 인해 붕괴되었습니다. 지시를 부탁드립니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_02.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_03.myText	먼저 선수치게! 중대를 북쪽으로 이동시키고 거기서부터 돌아 들어가세.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_03.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_04.myText	라져, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_04.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05.myText	뭐하고 있나, 파커!? 교회를 제압하게, 지금 당장!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05a.myText	좋아, 교회를 확보했다. 확실하게 지켜야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05a.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_06.myText	늦었네, 파커. 웹, 그쪽 상황은 어떤가?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_06.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_07.myText	격전이 한창입니다, 대령! 그쪽으로 돌아가겠습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_07.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_08.myText	제길! 파커, 적의 폭격기가 그쪽으로 향하고 있네. 즉각 퇴각하게! 교회에서 이탈하고 강으로 가게! 강이네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_08.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_09.myText	이반새끼, 필사적으로 몸부림치는군. 무의미한 몸부림일텐데.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_09.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_10.myText	파커! 시가지 남측으로 이동해서 제압하게. 웹은 계속해서 북쪽에서 공격하고.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_10.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_11.myText	웹입니다! 상당한 손상을 입었습니다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_11.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_12.myText	증원을 보내겠네, 웹. 후퇴하지 말게. 저 다리는 반드시 필요하다네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_12.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_13.myText	라져, 이글 식스. 반드시 다리를 손에 넣겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_13.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_14.myText	시가지 안쪽에 발판을 마련했네. 절대로 잃어선 않되네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_14.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_15.myText	파커, 지금 교전중이네! 자네의 중대는 다리를 건너서 북쪽을 향하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_15.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_16.myText	파커! 적 지휘관이 꼬리를 내리고 도망가고 있네! 민간인의 차로 남쪽으로 향하고 있어. 맞닥뜨리면 처리하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_16.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_17.myText	잘 했네, 파커! 지휘관이 없다면 통제가 되지 않을 것이네. 의외로 편해질지 모르네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_17.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_18.myText	방금 처리하지 못한 게 최우선목표였네, 파커. 내가 자네를 너무 고평가했군.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_18.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_19.myText	젠장! 또 다른 다리 하나가 떨어져 나갔군. 다른 루트를 찾아야겠네, 파커. 동쪽 제재소옆으로 이동하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_19.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_20.myText	여기는 이글 식스. 헬기부대를 파견했다. 화력지원을 받을 수 있을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_20.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_21.myText	제대로 수비대를 분쇄해 버렸군, 파커! 이젠 그곳을 지키게나.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_21.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_22.myText	신속하고 정확하구만, 파커! MLRS의 직접지휘권을 주겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_22.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_23.myText	제재소를 공략하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_23.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_24.myText	늦었네, 파커. 시간이 꽤나 걸렸구만. 이놈을 정리하고 시애틀로 이동하겠네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_24.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_25.myText	파커! 이미 늦었네. 되도록이면 서둘러서 제재소로 향해주게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_25.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_26.myText	파커는 숲속에서 보병부대와 조우할지도 모릅니다. 매복을 경계해야 합니다, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_26.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_27.myText	조우한다면 쫒아 버릴 때까지네. 알겠나, 파커? 무슨 일이 있어도 멈춰선 않되네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_27.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_28.myText	파커, 뭐하고 있나!? 부대이동 않하나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_28.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_29.myText	여기는 웹. 댐을 확보했습니다. 부하들이 건너가고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_29.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_30.myText	슬슬 시간이 됐군! 파커! 적은 포위됐네. 방어선을 부셔버리고 시가지로 돌입하게. 웹이 지원할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_30.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_31.myText	항공지원도 보내겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_31.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_32.myText	적의 수비가 무너지고 있네! 고삐를 늦추지 말게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_32.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_33.myText	여기는 이글 식스. 방어선을 파괴했다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_33.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_34.myText	혼란을 틈타 시가지의 다른 장소도 제압하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_34.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_35.myText	건물에 보병이 숨어있을지도 모르네. 방심하지 말게, 파커.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_35.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_36.myText	거의 끝났네, 파커! 정신줄 놓지말게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_36.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_37.myText	여기는 이글 식스. 시가지 광장을 확보!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_37.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_38.myText	적은 시가지안에 있네. 맡겨도 되겠지, 파커? 항복하지 않으면 일소하게. 알겠나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_38.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_39.myText	제군들은 들어라! 여기서부터 150킬로 서쪽에 있는 사단 집결지점까지 이동한다. 철야로 진군한다. 밥을 먹으면서도 걷고 또 걸어야 한다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_39.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_40.myText	이글 식스, 여기는 웹. 북쪽 다리를 파괴. 동쪽 댐을 향해 이동중.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_40.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_41.myText	라져, 웹. 부탁하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_41.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_42.myText	적은 여기서 단단히 방어하고 있지만 어떻게 해서든 돌파해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_42.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_43.myText	적 공격기를 조심하게. 포병에게도 주의하도록.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_43.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_44.myText	좀더 공격을 가하게, 파커! 이 시가지를 탈환하고 오늘밤중으로 시애틀에 도착해야 하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_44.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_45.myText	지금 당장 강으로 가게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_45.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_46.myText	웹입니다! 공격이 제대로 되질 않습니다! 더 이상 무리하면 통제불능입니다, 대령!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_46.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_47.myText	제임스, 자네는 항상 기대에 부응해 주었네. 이번에도 그리 해줄거라 믿고 있네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_47.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_48.myText	파커! 적이 탄막사격을 요청했네. 목표지점은 바로 거기네! 즉각 대피하게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_48.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_49.myText	젠장! 중앙다리가 파괴됐네! 우회해야 하네, 파커!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_49.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_50.myText	파커, 전차와 싸울 때는 우회해서 배후를 치게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_50.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_51.myText	아마추어는 한명도 없어 보입니다. 베테랑과도 같은 전투방식이군요.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_51.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_52.myText	그래 보이는군, 대위. 적에게 걸맞는 경의를 표해 주게나. 적을 얕보면 전쟁은 패배란걸 명심하게.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_52.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_53.myText	여기는 웹. 적 전차대와 교전중. 남쪽입니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_53.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_54.myText	전진을 계속하고 있나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_54.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_55.myText	돌파는 계속 시도해 봤지만, 성공하지 못했습니다, 대령.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_55.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_56.myText	알았네, 대위. 항공지원을 수배해 보겠네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_56.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_57.myText	여기는 웹! 최초의 방어선을 돌파. 소련군은 동쪽에서 재집결하고 있습니다. 추적하겠습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_57.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_58.myText	웹으로부터 이글 식스에게. 대군과 또 다시 맞닥뜨렸습니다. 지금 공격거점을 구축하려고 하나, 적의 수가 상당히 많습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_58.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_59.myText	자네라면 대처할 수 있네, 대위. 전진만 있을 뿐이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_59.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_60.myText	이동한다! 오늘중에 돌파하지 않으면 시애틀을 탈환할 수 없다. 케스케이드폴에서 또 다시 실패를 반복할 순 없다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_60.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_61.myText	왜 전혀 나아가질 못하나, 제군들!? 도로로 나간다!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_61.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_62.myText	여기는 이글식스. 윌킨스대령의 대대는 남쪽 아득히 먼 곳에 있어서 지원요청은 무리가 있어 보인다. 단독으로 완수할 수 밖에 없다. 실패는 용납치 않는다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_62.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_63.myText	프랑스는 적의 뒷마당에서 승리를 거두었지. 하물며 미국 본토에서 우리가 당한다면 우스운 꼴이 될지도 모른다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_63.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_64.myText	그 기세다, 제군들! 힘내라!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_64.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_92.myText	파커, 제재소를 빼앗겨 버렸군. 자네때문에 전체적인 공세작전이 늦어지고 시애틀을 잃게 될 것이네. 알고 있나?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_92.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_93.myText	파커, 노쓰타운으로 통하는 다리가 파괴된터라 제재소 옆을 통과하는 루트밖에 남아있지 않네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_93.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_94.myText	이글 식스, 여기는 웹. 적의 경(軽)기갑부대가 제재소로 향하고 있습니다.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_94.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_95.myText	파커, 들었나!? 제재소를 잃으면 않되네. 확실하게 지키고 격퇴해야 하네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_95.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_96.myText	공격부대를 격파한 모양이군, 파커. 제재소는 무사하네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_96.myPortraitText	웹
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	파커! 적들이 그쪽 수비를 강화하기 전에 역습하게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	파커, 그 포인트를 가져 오게! 이반이 수비를 강화하면 작전은 실패할 것이네.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	이반이 수비를 강화하기 전에 그 포인트를 탈환하게! 지금까지의 노력을 물거품으로 만들 순 없네!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	중위, 이반이 포인트를 탈취했네. 당장 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	파커! 이반을 밀어 내게! 포인트를 되찾게나!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	정신차리게! 파커, 적이 포인트를 가져갔네! 되찾아 오게!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	소여
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	적의 방어선을 돌파함으로써 시애틀로 가는 길을 열었다. 하지만 다른 대대가 납득할 정도의 전과를 올리지 못했기 때문에 사령부는 시애틀을 향한 공격일자를 2, 3일 늦출 수밖에 없을 것이다.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	적의 방어선을 파괴하지 못했기 때문에 전체적인 공세작전이 늦어져 버렸다. 중국군은 어떤 저항도 받지 않고 바다에서 시애틀로 침입할 수 있을 것이다.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myWeCapturedText	시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myWeLostText	시가지 광장의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myEnemyCapturedText	적이 시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myWeCapturedText	시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myWeLostText	시가지 광장의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myEnemyCapturedText	적이 시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myWeCapturedText	시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myWeLostText	시가지 광장의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myEnemyCapturedText	적이 시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myWeCapturedText	시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myWeLostText	시가지 광장의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myEnemyCapturedText	적이 시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myWeCapturedText	시가지 광장을 점령했다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myWeLostText	시가지 광장의 지배권을 잃었다
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myEnemyCapturedText	적이 시가지 광장을 점령했다

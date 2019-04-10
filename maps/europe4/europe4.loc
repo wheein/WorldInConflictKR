@@ -1,0 +1,45 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	농장
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	농장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	농장을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	적이 농장을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	야포진지
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	야포진지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	야포진지의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	적이 야포진지를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	풍차
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	풍차를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	풍차를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	적이 풍차를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	시가지서부
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	시가지서부를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	시가지 서부의 지배권을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	적이 시가지 서부를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myUiName	교회
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeCapturedText	교회를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeLostText	교회를 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myEnemyCapturedText	교회를 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myUiName	대저택
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeCapturedText	대저택을 점령했다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeLostText	대저택을 잃었다
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myEnemyCapturedText	적이 대저택을 점령했다
+myWicedMap.myMissionStats.myName	do_Riviera
+myWicedMap.myMissionStats.mySPName	%02d－대서양을 넘어
+myWicedMap.myMissionStats.myDescription	소련군이 점령한 남프랑스를 해방시키기 위해 미군의 공세가 개시되었다. 소련군과의 전쟁은 점점 치열해 졌고, 따뜻한 마을의 풍경도 포격으로 인해 대지는 파괴된 병기들로 뒤덮힌 전장으로 변했다 .
+myWicedMap.myMissionStats.mySPDescription	유럽의 전쟁이 발발하고 나서 2개월 후, 소련군은 마르세이유근교로 강습상륙을 감행했다. 하지만 최근 도착한 소여대령휘하에 있는 미군의 지원이 있다면 반공작전으로 소련군을 바다로 몰아낼 수 있을 것이다.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	리비에라
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	리비에라
+myWicedMap.myLocStrings.FortificationDeadline	소련군주력부대, 도달예상시간 : 
+myWicedMap.myLocStrings.SecureLighthouseTimer	소련군포병진지를 확보해라 : 

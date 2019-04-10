@@ -1,0 +1,9 @@
+﻿myAIs.AI1.myArtilleryBarageText	탄막포격을 개시한다.
+myAIs.AI1.myAttackAreaText	공격을 개시하고, 일대를 확보한다.
+myAIs.AI1.myDefendAreaText	방어를 개시한다.
+myAIs.AI1.myAntiAirText	그쪽으로 향하고 있다-바로 헬기를 쫓아 내줄테니까.
+myAIs.AI1.myAttentionText	그쪽으로 향하고 있다.
+myAIs.AI1.myBackupText	그쪽으로 향하고 있다. 그곳을 벗어나지 마라.
+myAIs.AI1.myTABarrageText	전술지원포격을 전개한다. 접근하지 마라.
+myAIs.AI1.myTAOtherText	전술지원, 전개중.
+myAIs.AI1.myDefaultText	알았다. 기다려라.
