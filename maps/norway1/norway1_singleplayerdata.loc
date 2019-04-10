@@ -1,0 +1,294 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	As the Red Army continues to sweep through Europe, NATO is reeling. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	It won't be long before that tenuous alliance unravels and the people rise up
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	in protest against their corrupt governments -- 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	After weeks of bitter fighting in Europe it was clear that we weren't losing. But we weren't winning either.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	Except for France, NATO forces were as unable to push back the front, as we were to push it forward. The Generals, being quite fond of their own lives, desperately sought a solution to the stalemate and finally one was found.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	A strike force would be sent  to the Norwegian coast to destroy the anti-air defenses there and open up a corridor for our bombers to fly through. Colonel Orlovsky was chosen to lead the strike and Captain Malashenko
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	was ready to burst with pride over the mission. But the rest of us were just happy to get out of the meat grinder that Germany had become.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide8.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Radar.myDescription	Destroy the radar
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Radar.myLongDescription	The initial landing has been successful but until we've destroyed the coastal radar we're in an untenable position. No reinforcements can be brought in as long as that radar is operative. Destroy it at once.\n\nTo complete this objective you must destroy the radar marked on your map.\n\nYou will fail this objective and the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Radar.myVisualisationText	Destroy the radar
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Village.myDescription	Clear the village
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Village.myLongDescription	One of the Ekranoplanes was forced to beach further north and they have been cut off. Your objective is to clear a route through the village and reunite with them.\n\nTo complete this objective you must clear the positions marked on your map on the way to the other Ekranoplane.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Village.myVisualisationText	Clear the village
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBeachHead.myDescription	Defend the second beachhead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBeachHead.myLongDescription	The Norwegians are still making forays against the separated Ekranoplane and defenses must be put in place. Fortify and defend the area until the attacks cease.\n\nTo complete this objective you must prevent the Norwegians from capturing the Ekranoplane.\n\nYou will fail the objective and the mission if the Ekranoplane is taken and the area fortified by the Norwegians.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBeachHead.myVisualisationText	Defend the second beachhead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeAA.myDescription	Secure the SAM emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeAA.myLongDescription	Even though our ultimate task here is to destroy the command center housing the controls for the northernmost air-defenses in Norway we need temporary control of the surface-to-air missile batteries marked on your map. With it we can fight off incoming enemy jets while we focus on destroying the command center.\n\nTo complete this objective you must capture the positions marked on your map.\n\nYou will fail this objective if the Norwegian bomber squadron arrives before you are done.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeAA.myVisualisationText	Secure the SAM emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendAA.myDescription	Defend the SAM emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendAA.myLongDescription	The Norwegians will not give up their air defenses without a fight. They will attack from all directions and with all the strength they can muster. You must defend your position until the attacks slacken off, comrade. The outcome of the mission depends on it.\n\nTo complete this objective you must prevent the enemy from capturing and fortifying your position.\n\nYou will fail this objective and the mission if the enemy captures and fortifies the position with machine gun pillboxes.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendAA.myVisualisationText	Defend the SAM emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBase.myDescription	Secure the base entrance
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBase.myLongDescription	The final phase of our mission is at hand. The main base entrance must be secured so that our engineers can prepare the command center for destruction. Then the air corridor will be opened and our comrades in the air force will be free to fly sorties against Great Britain and the European mainland.\n\nTo complete this objective you must secure and fortify the position marked on your map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBase.myVisualisationText	Secure the base entrance
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldBase.myDescription	Defend the base entrance
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldBase.myLongDescription	The base entrance has been secured and the engineers have moved inside. Now you must defend them until they have finished their preparations. The Norwegians are quite unhappy about losing this command center and will stop at nothing to take it back. Prove your worth to the Red Army by not giving ground.\n\nTo complete this objective you must prevent the enemy from capturing and fortifying the position around the base entrance.\n\nYou will fail the objective and the mission if the enemy captures and fortifies the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldBase.myVisualisationText	Defend the base entrance
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HelpAiSec.myDescription	Kill the attack against Malachenko before it kills him.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HelpAiSec.myLongDescription	Kill the attack against Malachenko before it kills him.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HelpAiSec.myVisualisationText	Kill the attack against Malachenko before it kills him.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.PlaneSec.myDescription	Help the AI rescue the plane
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.PlaneSec.myLongDescription	Help the AI rescue the plane.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.PlaneSec.myVisualisationText	Help the AI rescue the plane.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.CaptureTheAAQuickly.myDescription	Move swiftly
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.CaptureTheAAQuickly.myLongDescription	The Norwegian air force has been alerted to our presence and will counter-attack at the earliest possible opportunity. To ensure that we are well defended you should secure the surface-to-air missile batteries as quickly as possible.\n\nTo complete this objective you must capture the position marked on your map before the allotted time runs out.\n\nYou will fail the objective if the first wave of Norwegian bombers arrive before you have captured the position.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.CaptureTheAAQuickly.myVisualisationText	Move swiftly
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myHeader	COMBAT SCHOOL - Special abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myText	All units have special abilities. There are both offensive and defensive varieties. Use them to increase unit lethality or to protect your unit in a desperate situation. All abilities have a cooldown timer and this should be taken into consideration when the ability is used.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_01.myText	Sokol-1 to Romanov! Force a breach and destroy that radar. We cannot reinforce until it is disabled.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_01.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_02.myText	Take good care of your men, Comrade Lieutenant. They're all you have until that radar is down. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_02.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_03.myText	Excellent lieutenant! The radar is down and we have established contact with our comrades in the air force. Further reinforcements can now be brought in.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_03.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_04.myText	Sokol-1 to Romanov, Priyom. I say again: This is Sokol-1 calling Romanov. Pryiom!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_04.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_05.myText	We have the beach secured but one of the Ekranoplanes was forced to land further north. I want you to clear a route through the village and link up with them, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_05.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_06.myText	The Norwegians have that village well fortified. Use available fire support and hit them hard. Timing is the key. 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_06.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_07.myText	You are making good progress, lieutenant. Watch out for enemy fortifications.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_07.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_08.myText	Almost there, Romanov. Keep pushing!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_08.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_09.myText	This is Shakal. It is exceedingly good to see you comrades.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_09.myPortraitText	SHAKAL
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_10.myText	Sokol-1 here. We don't leave our own to suffer, Shakal. On that you can rest assured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_10.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_11.myText	The Norwegians are renewing their attack, lieutenant. Dig in around the aircraft and hold. Malashenko will attack them from the south. That should draw off their forces eventually.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_11.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_12.myText	Sokol-1 here. The second beachhead is secured. We can now carry on with our primary mission. I'm reinforcing you with some heavy armor, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_12.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_13.myText	This is Sokol-1. The enemy is in control of the second beachhead. We cannot continue with such a significant part of our force cut off and destroyed. I am aborting the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_13.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_14.myText	Your next task is to take control of the surface-to-air missile batteries located on the hills to the east. Speed is of the essence, comrade. Right now we are extremely vulnerable to enemy air attacks.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_14.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_15.myText	Sokol-1 here. Well done, Romanov! We have control of the missiles and radar. The Norwegian fighters are veering off. Now they will have to come at us overland.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_15.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_16.myText	Chyort! They are here! Take cover everyone! Take --
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_16.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_17.myText	Norwegian fighter-bombers are moving toward us this very minute, Romanov. If you can secure those missiles swiftly we might escape their wrath.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_17.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_18.myText	You saved us from certain harm, Romanov. Again and again you prove your worth.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_18.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_19.myText	Norwegian fighter-bombers just hit us at the beach, Romanov. Now capture those damn missiles before the second wave gets here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_19.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_20.myText	There is no time for rest. The Norwegians are preparing a counter-attack on your position, Romanov. You must defend at all costs.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_20.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_21.myText	The air force has a new experimental bomb they wish to test. They have several flights ready to deliver this ordnance on your target coordinates. Use it to fight off the enemy and deny them cover.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_21.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_22.myText	Sokol-1 here. The attacks are ceasing. Well defended, Romanov. Our comrades in the air force thank you for your assistance in battle-testing the new bomb. It was a complete success.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_22.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_23.myText	This is Sokol-1. We lost control of the air-defenses. Without them we will soon be bombed by the enemy. I am aborting. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_23.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_24.myText	Now, take your forces to the main base entrance and secure it. We will send in the engineers as soon as the area is deemed safe enough.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_24.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_25.myText	Excellent, lieutenant. The engineers have moved inside.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_25.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_26.myText	Sokol-1 here. We failed to secure the main entrance and the mission cannot be completed. Retreat to the beach. We are aborting.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_26.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_27.myText	You must hold in place until our engineers have finished placing the demolitions. The Norwegians will throw everything they have at you but you must not let them through, understood? Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_27.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_28.myText	Sokol-1 here. The command center has been destroyed. A flight has been sent to bomb the oil platforms off shore.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_28.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_29.myText	Malashenko here. What news?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_29.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_30.myText	It seems NATO has been doing some raiding as well. Tell your men to return to the aircraft. Officers' debrief by the main beachhead in twenty minutes. I will tell you more then. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_30.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_31.myText	We have breached the first perimeter. Remaining forces will push forward as soon as you move toward the radar, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_31.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_32.myText	Our ultimate goal is the command center hidden in the mountain. But we have to secure the surrounding area before we move in. Especially the outer anti-air defenses.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_32.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_33.myText	Shakal calling Sokol-1. We suffered rudder damage on the way in and I have beached the aircraft north of a small village. Request link-up. Priyom.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_33.myPortraitText	SHAKAL
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_34.myText	Sokol-1 to Shakal. Have the men you carried take up defensive positions. We'll get to you as soon as we can.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_34.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_35.myText	Understood, Sokol-1. We'll try to fend them off. Shakal, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_35.myPortraitText	SHAKAL
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_36.myText	The objective is the radar, Romanov. We cannot call in reinforcements until you have destroyed it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_36.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_37.myText	Malashenko here. We'll soon be in control of the beach. Norwegian forces are slowly retreating. They haven't offered much resistance so far.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_37.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_38.myText	Do not get overconfident, captain. These are experienced cold-weather fighters we're facing. And they know the lay of the land.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_38.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_39.myText	They don't seem very experienced to me. Pitiful rabble. Like all NATO forces slaeakei. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_39.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_40.myText	Romanov. The air force will be supporting us throughout this mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_40.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_41.myText	Sokol-1 to Malashenko. You are to move north-east through the ravine while Romanov assaults the village.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_41.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_42.myText	Govorit Malashenko. Moving north-east now, comrade colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_42.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_43.myText	Excellent. We can count on the Norwegians bringing reinforcements into the area soon. Speed is of the essence. We cannot win a prolonged fight. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_43.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_44.myText	Several units are standing by to reinforce you, Romanov. Just give the word.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_44.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_45.myText	Ja, Shakal. What is the status of those reinforcements? Priyom.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_45.myPortraitText	SHAKAL
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_46.myText	They are moving to you now. Expect link-up soon. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_46.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_47.myText	Malashenko, report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_47.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_48.myText	We are holding at the mouth of the ravine. Only light resistance so far.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_48.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_49.myText	We caught them off guard, but they will rally soon enough. Stay vigilant. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_49.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_50.myText	Govorit Malashenko. What is the status of the stray Ekranoplane?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_50.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_51.myText	They are holding, but won't be able to do so for much longer without our help.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_51.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_52.myText	Maybe if they learned to navigate in the first place we wouldn't be in this mess.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_52.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_53.myText	We are lucky the landing went as smooth as it did, Malashenko.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_53.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_54.myText	Malashenko na svjazi. I see Norwegian forces moving toward the second beachhead. We're engaging at long range but holding in place.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_54.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_55.myText	Very good, captain. As soon as Romanov has secured and fortified the area we'll continue the attack inland.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_55.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_56.myText	Norwegian infantry is attacking through the forest. Call in napalm strikes to expose and neutralize them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_56.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_57.myText	Ja, Sokol-1. Fortifications have been built around the beachhead. As soon as the attacks lessen we'll turn the table on the Norwegians and move inland.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_57.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_58.myText	Govorit Malashenko. We just fought off a determined attack here. We have to move soon or we'll lose the initiative.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_58.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_59.myText	You are right. We will move as soon as Romanov has secured that beachhead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_59.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_60.myText	Sokol-1 to Malashenko. You are to continue north along the rift and take up positions in the foothills to the north-east. We have reports of Norwegian ground forces approaching from there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_60.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_61.myText	Estj, Sokol-1. We are moving at this time. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_61.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_62.myText	Romanov. We have to secure both the radar and the missiles. So you will have to split up your forces and coordinate your attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_62.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_63.myText	Govorit Malashenko. Enemy troops are massing in the mountains to the north. We can hold them off but we need air support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_63.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_64.myText	When Romanov has secured the missiles you will get all the air support you need. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_64.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_65.myText	The Norwegian bomber-squadron is but a minute out, Romanov. We have to control the missiles before they get here or we'll be doomed!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_65.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_66.myText	Thirty seconds, Romanov. Our lives depend on you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_66.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_67.myText	Sokol-1 here. The first wave of enemy bombers is but a minute out. We need control of those surface-to-air missiles!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_67.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_68.myText	Malashenko here. You will need that bomb, Romanov. I see several companies' worth of infantry advancing toward you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_68.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_69.myText	They are coming at you from the south, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_69.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_70.myText	Enemy units moving in from the west!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_70.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_71.myText	The Norwegians are renewing their attack from the east.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_71.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_72.myText	Govorit Malashenko. We are hard beset by the enemy. Request air support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_72.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_73.myText	Give him what you can, Romanov. We have to weather this attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_73.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_74.myText	Captain Malashenko. You are responsible for the SAM launchers. Get your troops into position as soon as Romanov has started moving toward the entrance.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_74.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_75.myText	Consider it done, Sokol-1. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_75.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_76.myText	We're close. But stay focused on the task at hand. Only when the base has been destroyed can we return to the beaches and then home.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_76.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_77.myText	There is the entrance. Neutralize the defenses and move into position, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_77.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_78.myText	Well done, Romanov! You've gotten a foothold. Now keep pushing!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_78.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_79.myText	We have the entrance. Dig in and get some fortifications up, lieutenant. The engineers will need time to get all the explosives in place.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_79.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_80.myText	Sokol-1 to Malashenko. Report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_80.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_81.myText	Govorit Malashenko. It's rather calm around here. Sporadic attacks but nothing serious.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_81.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_82.myText	They are concentrating their attacks on Romanov and the base entrance. I will call on you to support him if needed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_82.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_83.myText	Understood, comrade colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_83.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_84.myText	Romanov. Burn the forests around you to deny the Norwegians cover and concealment.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_84.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_85.myText	Sokol-1 to Romanov. The engineers report that half of the explosives are in place.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_85.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_86.myText	Ja, Sokol-1. The engineers are finishing up now, Romanov. It won't be much longer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_86.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_87.myText	The engineers have cleared the entrance. Detonation in three, two, one, mark.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_87.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_88.myText	Malashenko na svjazi. My scouts report large enemy troop movements near the base entrance. You have a real fight on your hands, tovarisj.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_88.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_89.myText	Good, the way is clear. Link-up with Shakal by the beach.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_89.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_90.myText	Don't forget to watch your rear, Romanov. More Norwegian forces are moving toward you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_90.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_91.myText	Da, you must hold them at bay, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_91.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_92.myText	Enemy helicopters have been sighted in the area, Romanov. You might need anti-air support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_92.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_93.myText	Excellent job everyone, but I am afraid I also have some grave news.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_93.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_94.myText	Secure your position, Romanov! Fight off the enemy!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_94.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_95.myText	Secure your position before it's too late, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_95.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_96.myText	Your position is being overrun, lieutenant! Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_96.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_97.myText	We cannot afford to lose any ground, Romanov! Fight back the enemy!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_97.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_98.myText	You are hurting them, lieutenant! Keep it up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_98.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_99.myText	The Norwegian attack will soon be spent.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_99.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_100.myText	It won't be much longer before they must retreat, lieutenant. Just hold for a while longer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_100.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_101.myText	Take back that position, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_101.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_102.myText	The entrance must be kept safe until the engineers have finished!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_102.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_103.myText	You must keep the area secure, lieutenant! 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_103.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_104.myText	As soon as we're done here we will return home.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_104.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_105.myText	Only a few minutes more, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_105.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_106.myText	You are doing well, Romanov. Hold them off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_106.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_107.myText	Malashenko na svjazi. Any word from our comrades at the Fulda Gap?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_107.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_108.myText	None yet. But I am sure we will learn about their fate within a few hours.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_108.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_109.myText	I am sure they will be victorious. None can stand against us. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.nor1_109.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	By destroying the air defense command center you helped open up a corridor for our heavy bombers to fly through. Now we can strike with impunity against targets in the Atlantic and Northern Britain. This will help ensure overall victory for our great nation.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	The raid has failed because of your inability to operate with efficiency and focus. Now our bombers will have a limited strike range and NATO ships can operate without fear of air attacks in most of the Atlantic Ocean. You are to report to the Kiev Garrison detention center for further education in the needs of the state.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_11_01.myTitle	Offensive Special Ability
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_11_01.myText	Medium tanks' offensive special ability is very effective against infantry. Press [[X]] to fire a HE shell.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_11_02.myTitle	Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_11_02.myText	Repair tanks are able to rapidly repair other vehicles. Press [[X]] to repair your damaged vehicles.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_11_03.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_11_03.myText	To call in multiple strikes, aim and press [[A]]. Press [[LB]] to cancel.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeAA.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeAA.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeAA.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeAA.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Plane.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Plane.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Plane.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Plane.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village2.myWeCapturedText	We captured the 
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village2.myWeLostText	We lost control of the 
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village2.myEnemyCapturedText	Enemy captured the 
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village3.myUiName	Command Point
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Village3.myEnemyCapturedText	<empty>

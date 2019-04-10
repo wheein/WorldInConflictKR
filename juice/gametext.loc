@@ -1,0 +1,743 @@
+﻿myGameText.myToolTips.myCancel	Cancel
+myGameText.myToolTips.myBack	Back
+myGameText.myToolTips.myOpenMegaMap	Open the objectives screen
+myGameText.myToolTips.myZoomIn	Zoom in
+myGameText.myToolTips.myZoomOut	Zoom out
+myGameText.myToolTips.myCloseMap	Close the screen
+myGameText.myToolTips.myMultiplayerLobby	Open the multiplayer lobby
+myGameText.myToolTips.myAPCost	AP cost
+myGameText.myToolTips.myPerception	Perception
+myGameText.myToolTips.myViewRange	View range
+myGameText.myToolTips.mySpeed	Speed
+myGameText.myToolTips.myFirepower	Firepower
+myGameText.myToolTips.myNeutralUnit	Neutral
+myGameText.myToolTips.myOrderMove	Move
+myGameText.myToolTips.myOrderAttack	Attack
+myGameText.myToolTips.myOrderGoToBase	Go to base
+myGameText.myToolTips.myOrderGoToLandingZone	Go to landing zone
+myGameText.myToolTips.myOrderToggleReturnToBase	Toggle return to base
+myGameText.myToolTips.myOrderSelectLandingZone	Select landing zone
+myGameText.myToolTips.myOrderLoad	Load
+myGameText.myToolTips.myOrderUnloadAll	Unload all
+myGameText.myToolTips.myOrderEnterBuilding	Enter building
+myGameText.myToolTips.myOrderExitBuilding	Exit building
+myGameText.myToolTips.myOrderBlow	Blow up
+myGameText.myToolTips.myOrderRepair	Repair
+myGameText.myToolTips.myOrderSwitchToSecondaryMode	Switch to secondary mode
+myGameText.myToolTips.myOrderSwitchToPrimaryMode	Switch to primary mode
+myGameText.myToolTips.myNotEnoughAP	Not enough AP
+myGameText.myToolTips.myOrderStop	Stop
+myGameText.myToolTips.myOrderFollow	Follow
+myGameText.myToolTips.myOrderStack	Order stacking mode
+myGameText.myToolTips.myUpgradeDropship	Upgrade dropship
+myGameText.myToolTips.myReinforcements	Call down reinforcements
+myGameText.myToolTips.myDropshipBehaviour	The dropship's LZ behaviour
+myGameText.myToolTips.mySelectSquad	Select squad
+myGameText.myToolTips.myCameraToggle	Toggles between Classic RTS camera and Free camera
+myGameText.myToolTips.myObjectives	Show mission objectives
+myGameText.myToolTips.myRechargeableEquipment	Deploy Rechargeable Equipment
+myGameText.myToolTips.myNotEnoughHonors	Not enough Tactical Aid points
+myGameText.myToolTips.myUpgradeSupportWeapon	Upgrade %s
+myGameText.myToolTips.myOrderLayBridge	Lay bridge
+myGameText.myToolTips.myNotAvailable	N/A
+myGameText.myToolTips.myChooseRole	Choose Role
+myGameText.myToolTips.myETAToBase	Time until C-130 ready for another drop
+myGameText.myToolTips.myDSComing	Time until C-130 will arrive with your new units
+myGameText.myToolTips.myRechargablePending	 %s (PENDING) (Shortcut: %s)\n%s\n%us cooldown
+myGameText.myToolTips.myRechargableReady	%s (Shortcut: %s)\n%s\n%us cooldown
+myGameText.myToolTips.myRechargableCooldown	%s (ON COOLDOWN) (Shortcut: %s)\n%s\nUseable in %us
+myGameText.myToolTips.myRechargableProcessing	%s (PROCESSING) (Shortcut: %s)\n%s\nTime left: %us
+myGameText.myToolTips.myRechargableProcessingNoTime	%s (PROCESSING) (Shortcut: %s)\n%s
+myGameText.myToolTips.myLANChangeName	Change LAN Name
+myGameText.myToolTips.mySetCustomPlayerColor	Set custom color for player
+myGameText.myToolTips.myMute	Mute
+myGameText.myToolTips.myUnmute	Unmute
+myGameText.myTUIText.myEchelonLeftFormation	Left echelon formation
+myGameText.myTUIText.myEchelonRightFormation	Right echelon formation
+myGameText.myTUIText.myWedgeFormation	Wedge formation
+myGameText.myTUIText.myLineFormation	Line formation
+myGameText.myTUIText.myColumnFormation	Column formation
+myGameText.myTUIText.myBoxFormation	Box formation
+myGameText.myTUIText.myHealth	Health:
+myGameText.myTUIText.myEnergy	Energy:
+myGameText.myTUIText.myCameraDistance	Distance from camera
+myGameText.myTUIText.myOrderQueue	Order queue:
+myGameText.myTUIText.myMove	Move
+myGameText.myTUIText.myMoveAdd	Move add
+myGameText.myTUIText.myDropshipReturns	Return
+myGameText.myTUIText.myDropshipStays	Stay
+myGameText.myTUIText.myInShadow	Shadow bonus active
+myGameText.myTUIText.myHighGround	High ground bonus active
+myGameText.myTUIText.myInForest	Forest bonus active
+myGameText.myTUIText.mySuppressed	Suppressed
+myGameText.myTUIText.myNoDropship	No Dropship
+myGameText.myTUIText.myStoreCamera	Stored camera position
+myGameText.myTUIText.myRestoreCamera	Restored camera position
+myGameText.myTUIText.myGamePaused	GAME IS PAUSED
+myGameText.myTUIText.myChangedName	%s changed name to %s
+myGameText.myTUIText.mySetCustomColorTitle	Set custom color for %s
+myGameText.myTUIText.myTeamPlayersText	%s - %u PLAYING
+myGameText.myTUIText.myPlayerDropZoneText	%s - %s
+myGameText.myTUIText.myPlayerDropTimeText	Seconds to deployment: %0d
+myGameText.myTUIText.myMOTDHeaderText	Server Information
+myGameText.myTUIText.myJoinTeamPenalty	PENALTY: %u
+myGameText.myFrontEnd.myDifficultyEasy	Easy
+myGameText.myFrontEnd.myDifficultyNormal	Normal
+myGameText.myFrontEnd.myDifficultyHard	Hard
+myGameText.myFrontEnd.myDifficultyVeryHard	Very Hard
+myGameText.myFrontEnd.myCampaignCompleted	Completed
+myGameText.myFrontEnd.myCampaignInProgress	In progress
+myGameText.myFrontEnd.myCampaignNotStarted	Not started
+myGameText.myFrontEnd.myVersionText	WIC build
+myGameText.myFrontEnd.myAvailablePersonnelSlots	Available personnel slots: %u
+myGameText.myFrontEnd.myIPCost	IP COST: %u
+myGameText.myFrontEnd.myBotsEnabled	BOTS ENABLED
+myGameText.myFrontEnd.myBotsDisabled	<empty>
+myGameText.myFrontEnd.myRoundTimeSeveralSeconds	Debug: Several Seconds (x0.05)
+myGameText.myFrontEnd.myRoundTimeSeveralDays	Debug: Several Days (x99.99)
+myGameText.myFrontEnd.myRoundTimeVeryShort	Very Short (x0.25)
+myGameText.myFrontEnd.myRoundTimeShort	Short (x0.5)
+myGameText.myFrontEnd.myRoundTimeNormal	Normal (x1)
+myGameText.myFrontEnd.myRoundTimeLong	Long (x1.5)
+myGameText.myFrontEnd.myRoundTimeVeryLong	Very Long (x2)
+myGameText.myFrontEnd.myMapName	Map Name: %s
+myGameText.myFrontEnd.myGameMode	Game Mode: %s
+myGameText.myFrontEnd.myMatchTime	Match Time: %u Min
+myGameText.myFrontEnd.myCreditsName	Credits
+myGameText.myFrontEnd.myStartVolumeTest	START TEST
+myGameText.myFrontEnd.myEndVolumeTest	END TEST
+myGameText.myChat.myChat	Chat:
+myGameText.myChat.myTeamChat	Team chat:
+myGameText.myChat.myVoipFrom	From: 
+myGameText.myChat.myVoipTo	To: 
+myGameText.myChat.myVoipSome	Multiple in Team
+myGameText.myChat.myVoipAll	All in Team
+myGameText.myChat.myChatToAllPrefix	ALL
+myGameText.myChat.myChatToTeamPrefix	TEAM
+myGameText.myStatus.myGameWon	Mission Accomplished
+myGameText.myStatus.myGameLost	Mission Failed
+myGameText.myStatus.myObjectiveCompleted	Completed
+myGameText.myStatus.myObjectiveFailed	Failed
+myGameText.myStatus.myGameWonByTeam	- Game won by team
+myGameText.myStatus.myWinnerText	%s - WINNER [TOTAL SCORE: %i]
+myGameText.myStatus.myLoserText	%s - LOSER [TOTAL SCORE: %i]
+myGameText.myStatus.myWinningSideText	%s WINS
+myGameText.myStatus.myWinningSideTextWithTime	%s WINS [TIME LEFT: %u:%02u]
+myGameText.myStatus.myCamPosDebugInfoReport	Report nr: %u / %u
+myGameText.myStatus.myCamPosDebugInfoAdded	Added new camera position debug instance
+myGameText.myStatus.mySPWonHeadline	MISSION ACCOMPLISHED
+myGameText.myStatus.mySPWonDescription	YOU HAVE COMPLETED THE MISSION
+myGameText.myStatus.mySPLostHeadline	MISSION FAILED
+myGameText.myStatus.mySPLostDescription	YOU HAVE FAILED THE MISSION
+myGameText.mySaveText.myNewSave	New save
+myGameText.mySaveText.myDeleteConfirm	Are you sure that you want to delete the saved game?
+myGameText.mySaveText.myReplaceConfirm	Are you sure that you want to replace the saved game?
+myGameText.mySaveText.myDelete	Delete
+myGameText.mySaveText.myReplace	Replace
+myGameText.mySaveText.myCampaignName	Campaign Name: %s
+myGameText.mySaveText.myDate	Date: %04u-%02u-%02u
+myGameText.mySaveText.myTime	Time: %02u:%02u:%02u
+myGameText.mySaveText.myMedalsEarned	Medals Earned: %u
+myGameText.mySaveText.myMissionsCompleted	Missions Completed: %u
+myGameText.myUnitInfo.myViewRange	View range
+myGameText.myUnitInfo.mySpeed	Speed
+myGameText.myUnitInfo.myWeaponRange	Weapon range
+myGameText.myUnitBar.myTransporting	Transporting
+myGameText.myUnitBar.myTransported	Transported
+myGameText.myUnitBar.myInBuilding	In Building
+myGameText.myUnitBar.myInCover	In Cover
+myGameText.myUnitBar.myHoldingFire	Holding Fire
+myGameText.myUnitBar.myRightClickDesc	<empty>
+myGameText.myPlayer.myPlayerCloseToLoosing	Enemy team is one Victory Location away from winning
+myGameText.myPlayer.myPlayerLoosing	The last Victory Location is about to fall
+myGameText.myPlayer.myPlayerCloseToWinning	Your team needs one more Victory Location to win
+myGameText.myPlayer.myPlayerEntersGame	enters the fray
+myGameText.myPlayer.myPlayerLeavesGame	runs home to mommy
+myGameText.myPlayer.myVictoryLocationTooltip	VL
+myGameText.myPlayer.myLandingZoneTooltip	LZ
+myGameText.myPlayer.myDropshipAspectCost	%d AP, %ds
+myGameText.myPlayer.myFrom	From %s: %s
+myGameText.myPlayer.myClient	Client: %s
+myGameText.myPlayer.myNewPrimaryObjective	NEW PRIMARY OBJECTIVE
+myGameText.myPlayer.myNewSecondaryObjective	NEW SECONDARY OBJECTIVE
+myGameText.myPlayer.myObjectiveCompletedString	Completed
+myGameText.myPlayer.myObjectiveCancelledString	Cancelled
+myGameText.myPlayer.myObjectiveFailedString	Failed
+myGameText.myPlayer.myCurrentMissionText	CURRENT MISSION: %s
+myGameText.myPlayer.myGiveTAMessage	%s gave TA points to %s. (%i points given)
+myGameText.myPlayer.myAlliedPlayerSwitchedRoleMessage	%s switched role to %s
+myGameText.myPlayer.mySelectTeamText	CHANGE TEAM (CURRENT TEAM: %s)
+myGameText.myPlayer.myMatchWaitingForPlayers	Waiting for additional players on teams: %s (%d/%d)  - %s (%d/%d)
+myGameText.myPlayer.myMatchCountdownToStart	Waiting for match to start
+myGameText.myPlayer.myMatchWaitingForReady	All players not yet ready
+myGameText.myPlayer.myReloadingResources	World In Conflict is reloading resources, please wait...
+myGameText.myPlayer.myAdmin	|ADMIN|
+myGameText.myPlayer.myInstantMessageEventString	You have recieved an instant message from %s
+myGameText.myPlayer.myTeamBalancedMessage	You were moved to the other faction to even the teams.
+myGameText.myPlayer.myFriendlyFireWarning	WARNING: You are doing damage to friendly units
+myGameText.myPlayer.myMapCycleMessage	Map cycle will commence shortly. Please stand by.
+myGameText.myMissionStats.myColumn0	AP value killed
+myGameText.myMissionStats.myColumn1	AP value Lost
+myGameText.myMissionStats.myColumn2	AP score
+myGameText.myMissionStats.myColumn3	Total score
+myGameText.myMissionStats.myColumn4	Units lost
+myGameText.myMissionStats.myColumn5	Units acquired
+myGameText.myMissionStats.myColumn6	AP value killed
+myGameText.myMissionStats.myColumn7	Largest army
+myGameText.myMissionStats.myColumn8	Experience levels
+myGameText.myMissionStats.myColumn9	Kill score
+myGameText.myMissionStats.myColumn10	Transport score
+myGameText.myMissionStats.myColumn11	AP spent on upgrades
+myGameText.myMissionStats.myColumn12	Dropships killed
+myGameText.myMissionStats.myColumn13	Dropships lost
+myGameText.myMissionStats.myColumn14	Battlefield time
+myGameText.myMissionStats.myColumn15	Total AP gained
+myGameText.myMissionStats.myColumn16	Kill AP gained
+myGameText.myMissionStats.myColumn17	Zone AP gained
+myGameText.myMissionStats.myColumn18	Other AP gained
+myGameText.myMissionStats.myColumn19	Total AP spent
+myGameText.myMissionStats.myColumn20	Unit spend
+myGameText.myMissionStats.myColumn21	Dropship spend
+myGameText.myMissionStats.myColumn22	Other spend
+myGameText.myMissionStats.myColumn23	AP lost to maintenance
+myGameText.myMissionStats.myName	Name
+myGameText.myMissionStats.myVictoryText	Victory!
+myGameText.myMissionStats.myDefeatText	Defeat!
+myGameText.myMultiplayerFrontend.myDefaultGameName	New game
+myGameText.myMultiplayerFrontend.myDefaultPlayerName	<empty>
+myGameText.myMultiplayerFrontend.myTeamName	Team 
+myGameText.myMultiplayerFrontend.myLobbySlotOpen	Open
+myGameText.myMultiplayerFrontend.myLobbySlotClosed	Closed
+myGameText.myMultiplayerFrontend.myLobbySlotAI	AI
+myGameText.myMultiplayerFrontend.myAllowDropin	Drop-in allowed
+myGameText.myMultiplayerFrontend.myNoUnits	Lose on no Units
+myGameText.myMultiplayerFrontend.myNoPresence	Lose on no Presence
+myGameText.myMultiplayerFrontend.myNoLZ	Lose on no LZs
+myGameText.myMultiplayerFrontend.myAllVL	Win on VL domination
+myGameText.myMultiplayerFrontend.myIgnoreScripted	Ignoring scripted wins
+myGameText.myMultiplayerFrontend.myTimeLimit	<empty>
+myGameText.myMultiplayerFrontend.myScoreLimit	Score Limit
+myGameText.myMultiplayerFrontend.myNoScoreLimit	No score limit
+myGameText.myMultiplayerFrontend.myNoTimeLimit	No time limit
+myGameText.myMultiplayerFrontend.myGamenameHeader	Game name
+myGameText.myMultiplayerFrontend.myMapnameHeader	Map
+myGameText.myMultiplayerFrontend.myPasswordHeader	Locked
+myGameText.myMultiplayerFrontend.myGameStartedAgo	Game started %d:%02d minutes ago.
+myGameText.myMultiplayerFrontend.myHostUnknownMap	The host has selected a map that you don't have
+myGameText.myMultiplayerFrontend.myDSEnRoute	ETA to drop:
+myGameText.myMultiplayerFrontend.myCentSign	¢
+myGameText.myMultiplayerFrontend.myCargoSpace	CARGO SPACE:
+myGameText.myMultiplayerFrontend.myETAtoBase	ETA to base:
+myGameText.myMultiplayerFrontend.myGameMode	Game mode
+myGameText.myMultiplayerFrontend.myDomination	Domination
+myGameText.myMultiplayerFrontend.myAssault	Assault
+myGameText.myMultiplayerFrontend.myKingOfTheHill	King of the Hill
+myGameText.myMultiplayerFrontend.myPrisonerOfWar	Prisoner of War
+myGameText.myMultiplayerFrontend.myUnknown	Unknown
+myGameText.myMultiplayerFrontend.myUnknownMap	Unknown map
+myGameText.myMultiplayerFrontend.myPlayers	Players
+myGameText.myMultiplayerFrontend.mySpectators	Spectators
+myGameText.myMultiplayerFrontend.myRanked	Ranked
+myGameText.myMultiplayerFrontend.myYes	Yes
+myGameText.myMultiplayerFrontend.myNo	No
+myGameText.myMultiplayerFrontend.myTimeLeft	Time left
+myGameText.myMultiplayerFrontend.myIpNumber	IP number
+myGameText.myMultiplayerFrontend.myBotModeNone	No Bots
+myGameText.myMultiplayerFrontend.myBotModeAuto	Auto Even Teams
+myGameText.myMultiplayerFrontend.myBotModePvsB	Player(s) VS. Bots
+myGameText.myMultiplayerFrontend.myBotModeAdvanced	Advanced Mode
+myGameText.myMultiplayerFrontend.myTugOfWar	Tug of War
+myGameText.myMultiplayerFrontend.myTeamDeathmatch	Team Deathmatch
+myGameText.myErrors.myServerConnectionLost	Connection to server lost.
+myGameText.myErrors.myErrorWhileLoading	Error while loading mission.
+myGameText.myErrors.myMissingMapError	Could not find map: %s
+myGameText.myErrors.myMOSErrorOccured	A connection error occurred and you have been disconnected from Massgate.
+myGameText.myErrors.myTimeoutWhileConnecting	Timeout while connecting to server.
+myGameText.myErrors.myFailedToConnectToServer	Failed to connect to server.
+myGameText.myErrors.myUnknownCommand	Unknown command received from server. Connection closed.
+myGameText.myErrors.myWrongVersion	Failed to connect to server. Wrong version.
+myGameText.myErrors.myServerFull	Failed to connect to server. Server Full.
+myGameText.myErrors.myServerError	Failed to connect to server. Connection denied (possible server error).
+myGameText.myErrors.myNoUDP	Failed to connect to server. Could not establish UDP connection.
+myGameText.myErrors.myGameClose	Failed to connect to server. Server closed.
+myGameText.myErrors.myBindFailed	Failed to bind local port. Unable to complete connection.
+myGameText.myErrors.myConnectionLostMessage	Server connection lost (%.0f seconds).
+myGameText.myErrors.myGeneralNetworkError	General network error.
+myGameText.myErrors.myHostShutdown	The game host has shut down the game.
+myGameText.myErrors.myDataErrorClient	You don't have the same map data as the server.
+myGameText.myErrors.myDataErrorServer	%s does not have the same map data as the server. May be using a different version of the map.
+myGameText.myErrors.myWrongPassword	Failed to connect to server. Wrong password.
+myGameText.myErrors.myCamPosDebugInfoUploadFailed	Failed to upload content bug report set to server
+myGameText.myErrors.myCamPosDebugInfoDownloadFailed	Failed to download content bug report set from server
+myGameText.myErrors.myCamPosDebugInfoDownloadCorrupted	The downloaded content bug report set is corrupted
+myGameText.myErrors.myDisconnectedIdleMessage	Disconnected because of idling.
+myGameText.myErrors.myDisconnectedFriendlyFireMessage	Disconnected because of too much friendly fire.
+myGameText.myErrors.myWarningSpamMessage	You have been muted in %i seconds. Reason: spamming
+myGameText.myErrors.myWarningTeamBalanceMessage	Auto team balancing enabled. Forced team balance in %d
+myGameText.myErrors.myWarningTeamBalancedMessage	%s has been transferred to the other team.
+myGameText.myErrors.myDx9ToDx10	You have switched between dx9 and dx10 rendering, this will not take effect until after WIC has been restarted
+myGameText.myErrors.myWarningRequestSpamMessage	You have been request muted in %i seconds. Reason: spamming
+myGameText.myErrors.myBannedMessage	You are banned from this server.
+myGameText.myErrors.myDisconnectedKickMessage	You were kicked from the server due to a vote.
+myGameText.myErrors.myDisconnectedKickBanMessage_KickOnly	You were kicked from the server by an admin.\nReason: %s
+myGameText.myErrors.myDisconnectedKickBanMessage_Indefinitely	You were banned from the server indefinitely by an admin.\nReason: %s
+myGameText.myErrors.myDisconnectedKickBanMessage	You were banned from the server for %u minutes by an admin.\nReason: %s
+myGameText.myOptions.MouseWheelUp	Wheel Up
+myGameText.myOptions.MouseWheelDown	Wheel Down
+myGameText.myOptions.PressKey	<press key>
+myGameText.myOptions.FSAA_none	None
+myGameText.myOptions.FSAA_2x	2x
+myGameText.myOptions.FSAA_4x	4x
+myGameText.myOptions.TexQual_low	Low
+myGameText.myOptions.TexQual_med	Medium
+myGameText.myOptions.TexQual_high	High
+myGameText.myOptions.AF_none	None
+myGameText.myOptions.AF_2x	2x
+myGameText.myOptions.AF_4x	4x
+myGameText.myOptions.AF_8x	8x
+myGameText.myOptions.AF_16x	16x
+myGameText.myOptions.Shad_none	Off
+myGameText.myOptions.Shad_simple	(option not used)
+myGameText.myOptions.Shad_complex	On
+myGameText.myOptions.Refl_none	None
+myGameText.myOptions.Refl_sky	Sky
+myGameText.myOptions.Refl_skyground	Sky & ground
+myGameText.myOptions.Refl_skygroundprops	Sky, ground & props
+myGameText.myOptions.Refl_all	Everything
+myGameText.myOptions.PS_LOW	Low
+myGameText.myOptions.PS_HIGH	High
+myGameText.myOptions.TexSharp_veryblurry	Very blurry
+myGameText.myOptions.TexSharp_blurry	Blurry
+myGameText.myOptions.TexSharp_normal	Normal
+myGameText.myOptions.TexSharp_sharp	Sharp
+myGameText.myOptions.TexSharp_verysharp	Very sharp
+myGameText.myOptions.Subs_none	None
+myGameText.myOptions.Subs_ingameonly	Default
+myGameText.myOptions.Subs_allcutscenes	All cutscenes
+myGameText.myOptions.GraphicsDetail_Low	Low
+myGameText.myOptions.GraphicsDetail_Med	Medium
+myGameText.myOptions.GraphicsDetail_High	High
+myGameText.myOptions.GraphicsDetail_VeryHigh	Very high
+myGameText.myOptions.GraphicsDetail_Custom	Custom
+myGameText.myOptions.PhysicsDetail_Low	Low
+myGameText.myOptions.PhysicsDetail_Med	Medium
+myGameText.myOptions.PhysicsDetail_High	High
+myGameText.myOptions.TQuality	Texture Quality
+myGameText.myOptions.WQuality	Water Quality
+myGameText.myOptions.SQuality	Shadows
+myGameText.myOptions.OODLevel	(option not used)
+myGameText.myOptions.FSAA	Fullscreen Anti-Alias
+myGameText.myOptions.Aniso	Anisotropic Filtering
+myGameText.myOptions.UnitTracks	Unit Tracks
+myGameText.myOptions.Decals	Ground Scorch Marks
+myGameText.myOptions.Autoprops	Flowers and Bushes
+myGameText.myOptions.HQTerrain	High Quality Terrain
+myGameText.myOptions.WRClouds	Water Reflects Clouds
+myGameText.myOptions.WRUnits	Water Reflects Units
+myGameText.myOptions.WRProps	Water Reflects Props
+myGameText.myOptions.WREffects	Water Reflects Effects
+myGameText.myOptions.WCrests	Water Crests
+myGameText.myOptions.WTrails	Water Trails
+myGameText.myOptions.Roads	Roads
+myGameText.myOptions.Clouds	Clouds
+myGameText.myOptions.ZF	Z-Feather
+myGameText.myOptions.PostFX	Post Effects
+myGameText.myOptions.PostFXSS	Soft Shadows
+myGameText.myOptions.PostFXBloom	Bloom
+myGameText.myOptions.PostFXHH	Heat Haze
+myGameText.myOptions.TreeShad	Tree Shadows
+myGameText.myOptions.VSync	VSync
+myGameText.myOptions.PS	Pixel Shaders
+myGameText.myOptions.RefreshRate	Refresh Rate
+myGameText.myOptions.FSAA_6x	6x
+myGameText.myOptions.FSAA_8x	8xCSAA
+myGameText.myOptions.FSAA_16x	16xCSAA
+myGameText.myOptions.MouseButton	Mouse Button
+myGameText.myOptions.PhysDetail	Physics Quality
+myGameText.myOptions.TerrainTQuality	Terrain Texture Quality
+myGameText.myOptions.TransAA	Transparency Antialiasing
+myGameText.myOptions.WRefSize	Water Reflection Size
+myGameText.myOptions.TreeHQShad	HQ Tree Shaders
+myGameText.myOptions.MaxFPSNone	None
+myGameText.myOptions.MaxFPS15	15 FPS
+myGameText.myOptions.MaxFPS20	20 FPS
+myGameText.myOptions.MaxFPS30	30 FPS
+myGameText.myOptions.MaxFPS	Framerate Cap (Power Saving)
+myGameText.myOptions.ParticlePhys	Debris Physics
+myGameText.myOptions.Display_Adapter	Display Adapter
+myGameText.myOptions.DualScreen	Megamap on secondary screen
+myGameText.myOptions.DX10Render	Use DX10 rendering
+myGameText.myOptions.ObjectLODLevel	World Distance Detail
+myGameText.myOptions.MeshLODLevel	Animation Quality
+myGameText.myOptions.GraphicsDetail_VeryLow	Very Low
+myGameText.myOptions.UseHighestLod	Full Object Geometry
+myGameText.myOptions.RenderWindows	Windows on Buildings
+myGameText.myOptions.RenderDetails	Extra Object Details
+myGameText.myOptions.CloudShadows	Shadows from clouds
+myGameText.myOptions.QuadCoreLineOfSight	High Line of Sight Resolution
+myGameText.myOptions.QuadCoreWind	Improved Wind Simulation
+myGameText.myOptions.UITexQual	UI Texture Quality
+myGameText.myOptions.Compressed	Compressed
+myGameText.myOptions.Uncompressed	Uncompressed
+myGameText.myOptions.Grass	Grass
+myGameText.myOptions.Craters	Craters
+myGameText.myOptions.VeryShort	Very Short
+myGameText.myOptions.Short	Short
+myGameText.myOptions.Medium	Medium
+myGameText.myOptions.Long	Long
+myGameText.myOptions.VeryLong	Very Long
+myGameText.myOptions.UnitTracksLength	Unit Tracks Length
+myGameText.myOptions.UseWreckFx	Destruction Fx
+myGameText.myOptions.DX9ToDX10	You have switched between DirectX 9 and DirectX 10. This will not take effect until after you have restarted World in Conflict.
+myGameText.myOptions.MulticoreExplosionDebris	Extra debris on explosions
+myGameText.myContentDownload.myAvailableFiles	Available Files
+myGameText.myContentDownload.mySelectedFiles	Selected Files
+myGameText.myContentDownload.mySize	Size
+myGameText.myContentDownload.myStatusGettingFileList	Getting Filelist
+myGameText.myContentDownload.myStatusDownloadStarting	Download Starting
+myGameText.myContentDownload.myStatusDownloadingFile	Downloading file '%s'
+myGameText.myContentDownload.myErrorDownloadingFile	Error while downloading file '%s'
+myGameText.myContentDownload.myDownloadComplete	Download complete. You have to restart Ground Control 2 to use the downloaded file(s).
+myGameText.myContentDownload.myTimeout	Timeout while receiving file. The server might be coming back though. Press Abort to stop download.
+myGameText.myStrategicMap.myTaunt1	How do you like me now?
+myGameText.myStrategicMap.myTaunt2	It's not gonna work!
+myGameText.myStrategicMap.myTaunt3	You son of a...
+myGameText.myStrategicMap.myTaunt4	I'm gonna get u for that! Watch out...
+myGameText.myStrategicMap.myWarnInf	%s warns for for infantry in %s%s
+myGameText.myStrategicMap.myWarnArmor	%s Warns for armor in %s%s
+myGameText.myStrategicMap.myWarnAir	%s warns for incoming aircraft in sector %s%s
+myGameText.myStrategicMap.myWarnArty	%s warns artillery in sector %s%s
+myGameText.myStrategicMap.myTacticsAA	%s needs AA in sector %s%s
+myGameText.myStrategicMap.myTacticsArmor	%s needs armor in sector %s%s
+myGameText.myStrategicMap.myTacticsRepair	%s needs repairs in sector %s%s
+myGameText.myStrategicMap.myTacticsArty	%s needs artillery support in sector %s%s
+myGameText.myStrategicMap.myStrategyBridge	%s: We need a bridge at %s%s
+myGameText.myStrategicMap.myStrategyClearForest	%s: Clear forest at %s%s
+myGameText.myStrategicMap.myStrategyAttack	Attack here!
+myGameText.myStrategicMap.myStrategyDefend	Defend here!
+myGameText.myStrategicMap.myAcceptRequest	%s has accepted request
+myGameText.myStrategicMapRequestToolTips.myTauntTip	Taunts
+myGameText.myStrategicMapRequestToolTips.myWarnTip	Warnings
+myGameText.myStrategicMapRequestToolTips.myTacticsTip	Tactics
+myGameText.myStrategicMapRequestToolTips.myStrategiesTip	Strategies
+myGameText.myStrategicMapRequestToolTips.myTaunt1Tip	How do you like me now?
+myGameText.myStrategicMapRequestToolTips.myTaunt2Tip	It's not gonna work
+myGameText.myStrategicMapRequestToolTips.myTaunt3Tip	You son of a...
+myGameText.myStrategicMapRequestToolTips.myTaunt4Tip	I'm gonna get you for that!
+myGameText.myStrategicMapRequestToolTips.myWarnInfTip	Warning for infantery
+myGameText.myStrategicMapRequestToolTips.myWarnArmorTip	Warning for armor
+myGameText.myStrategicMapRequestToolTips.myWarnAirTip	Warning for air
+myGameText.myStrategicMapRequestToolTips.myWarnArtyTip	Warning for artillery
+myGameText.myStrategicMapRequestToolTips.myTacAATip	Request AA
+myGameText.myStrategicMapRequestToolTips.myTacArmorTip	Request armor
+myGameText.myStrategicMapRequestToolTips.myTacRepairsTip	Requst repairs
+myGameText.myStrategicMapRequestToolTips.myTacArtyTip	Request artillery
+myGameText.myStrategicMapRequestToolTips.myStratBridgeTip	Request a bridge
+myGameText.myStrategicMapRequestToolTips.myStratForestTip	Request a forest
+myGameText.myStrategicMapRequestToolTips.myStratAttackTip	Request an attack
+myGameText.myStrategicMapRequestToolTips.myStratDefendTip	Request defence
+myGameText.myGameMode.myAssaultFirstRoundStart	Assault Round One starting!
+myGameText.myGameMode.myAssaultSecondRoundStart	Assault Round Two starting!
+myGameText.myGameMode.myAssaultRoundOneOver	Assault Round One over.
+myGameText.myGameMode.myAssaultGameOver	Assault over.
+myGameText.myGameMode.myDominatingWin	Total Domination imminent. You are about to win!
+myGameText.myGameMode.myDominatingLose	Total Domination imminent. You are about to lose!
+myGameText.myGameMode.myKingStart	King of the Hill starting!
+myGameText.myGameMode.myKingGo	King of the Hill GO!
+myGameText.myGameMode.myKing10Seconds	King of the Hill will start in 10 seconds!
+myGameText.myGameMode.myAssaultRound1AttackHeading	PHASE ONE - YOU ARE ATTACKING
+myGameText.myGameMode.myAssaultRound1DefendHeading	PHASE ONE - YOU ARE DEFENDING
+myGameText.myGameMode.myAssaultRound2AttackHeading	PHASE TWO - YOU ARE ATTACKING
+myGameText.myGameMode.myAssaultRound2DefendHeading	PHASE TWO - YOU ARE DEFENDING
+myGameText.myGameMode.myAssaultAttackText	Take each Command Point as quickly as possible!
+myGameText.myGameMode.myAssaultDefendText	Defend each Command Point from the enemy attacks
+myGameText.myChatCommandTriggers.myChatTrigger	say
+myGameText.myChatCommandTriggers.myChatHelp	/say, usage: /say This is a chat message to all players!
+myGameText.myChatCommandTriggers.myTeamChatTrigger	team
+myGameText.myChatCommandTriggers.myTeamChatHelp	/team, usage: /team This is a chat message to your team mates!
+myGameText.myChatCommandTriggers.myWhisperTrigger1	whisper
+myGameText.myChatCommandTriggers.myWhisperTrigger2	w
+myGameText.myChatCommandTriggers.myWhisperHelp	/whisper, /w usage: /w PlayerName This is a private chat message!
+myGameText.myChatCommandTriggers.myWhisperPlayerDoesNotExist	The specified player does not exist
+myGameText.myChatCommandTriggers.myWhisperSentToPlayerName	To %s: %s
+myGameText.myChatCommandTriggers.myHelpTrigger	help
+myGameText.myChatCommandTriggers.myHelpHelp	Available system commands:\n/help, /quit, /say, /team, /whisper.\nAny command can be combined with /command help
+myGameText.myChatCommandTriggers.myQuitTrigger	quit
+myGameText.myChatCommandTriggers.myQuitHelp	/quit. Optional argument: menu (exits to menu instead of quitting game)
+myGameText.myChatCommandTriggers.myQuitAdditionalCommandMenu	menu
+myGameText.myChatCommandTriggers.myEETrigger_DoNotTranslate	fussball
+myGameText.myChatCommandTriggers.myEEHelp	From the developer team with mad love.
+myGameText.myChatCommandTexts.myOptionalHelpString	help
+myGameText.myChatCommandTexts.myNoCommandProvidedString	No command provided. Try /help for a few commands.
+myGameText.myChatCommandTexts.myUsageString	Usage: %s
+myGameText.myChatCommandTexts.myFailedToExecuteCommandString	Failed to execute command /%s
+myGameText.myChatCommandTexts.myInvalidCommandString	Invalid command /%s
+myGameText.myServerMessages.myShutdownWarningMins	This server will shut down in %d minutes.
+myGameText.myServerMessages.myShutdownWarningSecs	This server will shut down in %d seconds.
+myGameText.myServerMessages.myStatsReported	Your statistics were successfully reported to Massgate.
+myGameText.myServerMessages.myStatsPlayLonger	Your statistics were NOT reported to Massgate. You did not play long enough.
+myGameText.myServerMessages.myStatsNotRanked	Your statistics were NOT reported to Massgate. This server is not ranked.
+myGameText.myServerMessages.myRankedModeSet	This server will be set to RANKED after next map cycle.
+myGameText.myServerMessages.myRankedModeUnset	This server has been set to UNRANKED, no stats will be reported to Massgate.
+myGameText.myVoteMessages.myVoteYes	You voted yes.
+myGameText.myVoteMessages.myVoteNo	You voted no.
+myGameText.myVoteMessages.myVoteEndedYes	Vote ended YES.
+myGameText.myVoteMessages.myVoteEndedNo	Vote ended NO.
+myGameText.myVoteMessages.myVoteHelpText	(Press %s to vote yes and %s to vote no.)
+myGameText.myVoteMessages.myVoteStatsText	In favor: %d%% (%d of %d have voted)
+myGameText.myVoteMessages.myVoteLayoutHasVoted	%s\n%s
+myGameText.myVoteMessages.myVoteLayoutHasNotVoted	%s\n%s %s
+myGameText.myVoteMessages.myVoteNoSpectating	Admin decision by %s: No spectating allowed.
+myGameText.myVoteMessages.myVoteLockFreeSpec	Admin decision by %s: Spectate All not allowed.
+myGameText.myVoteMessages.myVoteLockTeamFromSpec	Admin decision by %s: Spectating of team %s not allowed.
+myGameText.myVoteMessages.myVoteLockChatFromSpec	Vote initialized by %s: Vote to lock chat from spectating.
+myGameText.myVoteMessages.myVoteUnlockChatFromSpec	Vote initialized by %s: Vote to unlock chat from spectating.
+myGameText.myVoteMessages.myVoteLockTeams	Admin decision by %s: Teams are now locked.
+myGameText.myVoteMessages.myVoteUnlockTeams	Admin decision by %s: Teams are no longer locked.
+myGameText.myVoteMessages.myVoteKickClientFromServer	Vote initialized by %s: Vote to kick %s. 
+myGameText.myVoteMessages.myVoteKickClientFromTeam	Vote initialized by %s: Vote to team kick %s.
+myGameText.myVoteMessages.myVoteChangeMap	Vote initialized by %s: Vote to change map to %s.
+myGameText.myVoteMessages.myVoteTimeLimit	Vote initialized by %s: Vote to change time to %i minutes.
+myGameText.myVoteMessages.myVoteInvitePlayer	Vote initialized by %s: Vote to team invite %s.
+myGameText.myVoteMessages.myVoteSetMatchMode	Admin decision by %s: Match mode enabled. Map will restart.
+myGameText.myVoteMessages.myVoteExitMatchMode	Admin decision by %s: Match mode disabled. Map will restart.
+myGameText.myVoteMessages.myVoteServerGameOver	Vote initialized by %s: Vote to end game.
+myGameText.myVoteMessages.myVoteAllowSpectating	Admin decision by %s: Spectating allowed.
+myGameText.myVoteMessages.myVoteAllowFreeSpec	Admin decision by %s: Spectate All allowed.
+myGameText.myVoteMessages.myVoteUnlockTeamFromSpec	Admin decision by %s: Spectating of team %s allowed.
+myGameText.myVoteMessages.myVoteSetClanMatch	Vote initialized by %s: Vote to set clan match.
+myGameText.myVoteMessages.myVoteKickBanFromServer	Admin decision by %s: %s was banned from the server.
+myGameText.myVoteMessages.myVoteKickBanFromServer_KickOnly	Admin decision by %s: %s was kicked from the server.
+myGameText.myVoteMessages.myVoteInProgress	You are unable to initialize a new vote while another is in progress.
+myGameText.myVoteMessages.myVoteTooFewVoteEntitled	You are unable to initialize new votes with fewer than %d players on the teams combined.
+myGameText.myVoteMessages.myVoteCooldownInProgress	You have initiated a vote recently. You are unable to initialize votes for another %d seconds.
+myGameText.myVoteMessages.myVoteMapNotFound	unknown map
+myGameText.myVoteMessages.myVotePause	Game paused by admin
+myGameText.myVoteMessages.myVoteResume	Game resumed by admin
+myGameText.myMinimap.myDirectionNorth	N
+myGameText.myMinimap.myDirectionEast	E
+myGameText.myMinimap.myDirectionSouth	S
+myGameText.myMinimap.myDirectionWest	W
+myGameText.myInformationBoxes.myPaletteStop.myHeadline	STOP
+myGameText.myInformationBoxes.myPaletteStop.myDescription	Issue a stop order to selected units.
+myGameText.myInformationBoxes.myPaletteMove.myHeadline	MOVE
+myGameText.myInformationBoxes.myPaletteMove.myDescription	Issue a move order to selected units. 
+myGameText.myInformationBoxes.myPaletteMoveBackwards.myHeadline	MOVE BACKWARDS
+myGameText.myInformationBoxes.myPaletteMoveBackwards.myDescription	Issue a reverse move order. \n\nGood for keeping the front armor towards the enemy.
+myGameText.myInformationBoxes.myPaletteUnloadAll.myHeadline	UNLOAD
+myGameText.myInformationBoxes.myPaletteUnloadAll.myDescription	Unload all infantry from selected transport or building.
+myGameText.myInformationBoxes.myPaletteHoldFire.myHeadline	HOLD FIRE
+myGameText.myInformationBoxes.myPaletteHoldFire.myDescription	Toggle hold fire. \n\nGood for micro managing reload times.
+myGameText.myInformationBoxes.myPaletteAttackGround.myHeadline	ATTACK GROUND
+myGameText.myInformationBoxes.myPaletteAttackGround.myDescription	Force fire on the selected position. \n\nVital for effective use of artillery units.
+myGameText.myInformationBoxes.myPaletteRepair.myHeadline	REPAIR
+myGameText.myInformationBoxes.myPaletteRepair.myDescription	Issue a repair order on one of your own or friendly units.
+myGameText.myInformationBoxes.myPaletteStack.myHeadline	WAYPOINTS
+myGameText.myInformationBoxes.myPaletteStack.myDescription	Issue a move order with multiple waypoints.
+myGameText.myInformationBoxes.myPaletteFollow.myHeadline	FOLLOW UNIT
+myGameText.myInformationBoxes.myPaletteFollow.myDescription	Order one or multiple units to follow another unit.
+myGameText.myInformationBoxes.myPaletteEnterTransport.myHeadline	ENTER NEAREST TRANSPORT
+myGameText.myInformationBoxes.myPaletteEnterTransport.myDescription	Selected infantry will enter the nearest empty transport.
+myGameText.myInformationBoxes.myPaletteEnterBuilding.myHeadline	ENTER NEAREST BUILDING
+myGameText.myInformationBoxes.myPaletteEnterBuilding.myDescription	Selected infantry will enter the nearest empty building.
+myGameText.myInformationBoxes.myAbilityNext.myHeadline	NEXT SPECIAL ABILITY
+myGameText.myInformationBoxes.myAbilityNext.myDescription	Jump to the Special Abilities of the next unit type within your current selection.
+myGameText.myInformationBoxes.myAbilityCurrent.myHeadline	UNIT TYPE ABILITIES
+myGameText.myInformationBoxes.myAbilityCurrent.myDescription	This is the unit type, within your current selection, displaying its Special Abilities
+myGameText.myInformationBoxes.myAbilityPrev.myHeadline	PREVIOUS SPECIAL ABILITY
+myGameText.myInformationBoxes.myAbilityPrev.myDescription	Jump to the Special Abilities of the previous unit type within your current selection.
+myGameText.myInformationBoxes.myResupply.myHeadline	RESUPPLY SQUAD
+myGameText.myInformationBoxes.myResupply.myDescription	Restore your infantry squad back to full strength in numbers.\n\nCosts reinforcement points.
+myGameText.myInformationBoxes.myMiniMapContacts.myHeadline	CONTACTS
+myGameText.myInformationBoxes.myMiniMapContacts.myDescription	Show your Massgate contacts.
+myGameText.myInformationBoxes.myMiniMapObjectives.myHeadline	OBJECTIVES
+myGameText.myInformationBoxes.myMiniMapObjectives.myDescription	Show your current objectives.
+myGameText.myInformationBoxes.myMiniMapSwapUnitGroup.myHeadline	SWAP UNIT GROUP
+myGameText.myInformationBoxes.myMiniMapSwapUnitGroup.myDescription	Jump between your different units all over the battlefield.
+myGameText.myInformationBoxes.myMiniMapGoToDropZone.myHeadline	GO TO DROP ZONE
+myGameText.myInformationBoxes.myMiniMapGoToDropZone.myDescription	Move the camera to your drop zone.\n\nRight-click to select your last deployed units.
+myGameText.myInformationBoxes.myMiniMapHelp.myHeadline	HELP
+myGameText.myInformationBoxes.myMiniMapHelp.myDescription	Shows the help screen.
+myGameText.myInformationBoxes.myMiniMapSelectTeam.myHeadline	CHANGE TEAM
+myGameText.myInformationBoxes.myMiniMapSelectTeam.myDescription	Change the team you are playing for. \n\n<#f00>Changing team will make you lose all of your current units.</>
+myGameText.myInformationBoxes.myMiniMapToggleFormation.myHeadline	CHANGE FORMATION
+myGameText.myInformationBoxes.myMiniMapToggleFormation.myDescription	Change between the different movement formations.
+myGameText.myInformationBoxes.myMiniMapZoomIn.myHeadline	ZOOM IN
+myGameText.myInformationBoxes.myMiniMapZoomIn.myDescription	Zoom in on the MiniMap.
+myGameText.myInformationBoxes.myMiniMapZoomOut.myHeadline	ZOOM OUT
+myGameText.myInformationBoxes.myMiniMapZoomOut.myDescription	Zoom out on the MiniMap.
+myGameText.myInformationBoxes.myMiniMapMegaMapToggle.myHeadline	TOGGLE MEGAMAP
+myGameText.myInformationBoxes.myMiniMapMegaMapToggle.myDescription	Display a strategic top-down view of the entire battlefield.
+myGameText.myInformationBoxes.myMiniMapDisband.myHeadline	DISBAND SELECTED UNITS
+myGameText.myInformationBoxes.myMiniMapDisband.myDescription	<#f00>Remove your currently selected units from the battlefield.</>\n\nTheir points value will be refunded to your incoming Reinforcements Points.
+myGameText.myInformationBoxes.myTAToggle.myHeadline	TACTICAL AID MENU
+myGameText.myInformationBoxes.myTAToggle.myDescription	Here you can call in off map support.
+myGameText.myInformationBoxes.myTAPoints.myHeadline	TACTICAL AID POINTS
+myGameText.myInformationBoxes.myTAPoints.myDescription	Your current total amount of Tactical Aid points.\n\nYou spend these points to call in different kinds of off map support.
+myGameText.myInformationBoxes.myTAProgress.myHeadline	TACTICAL AID PROGRESS
+myGameText.myInformationBoxes.myTAProgress.myDescription	Displays the progress towards your next full Tactical Aid point.
+myGameText.myInformationBoxes.myTACategory0.myHeadline	NON-DESTRUCTIVE
+myGameText.myInformationBoxes.myTACategory0.myDescription	A collection of useful non-destructive TAs.
+myGameText.myInformationBoxes.myTACategory1.myHeadline	SELECTIVE STRIKES
+myGameText.myInformationBoxes.myTACategory1.myDescription	TA's specialized to take out specific targets
+myGameText.myInformationBoxes.myTACategory2.myHeadline	INDISCRIMINATE STRIKES
+myGameText.myInformationBoxes.myTACategory2.myDescription	Destructive TA's without any regard of targets, within the area of effect.
+myGameText.myInformationBoxes.myReinforcementToggle.myHeadline	REINFORCEMENT MENU
+myGameText.myInformationBoxes.myReinforcementToggle.myDescription	Here you can order units and change role and team.
+myGameText.myInformationBoxes.myReinforcementPoints.myHeadline	REINFORCEMENT POINTS
+myGameText.myInformationBoxes.myReinforcementPoints.myDescription	The number to the left displays your current total of points.\n\nThe number to the right displays your current amount of incoming points.
+myGameText.myInformationBoxes.myReinforcementPointsPenalty.myHeadline	REINFORCEMENT POINTS
+myGameText.myInformationBoxes.myReinforcementPointsPenalty.myDescription	<#f00>You currently have a Balance Penalty to your Reinforcement Points.</>\n\nThe number to the left displays your current total of points.\n\nThe number to the right displays your current amount of incoming points.
+myGameText.myInformationBoxes.myBalancePenalty.myHeadline	BALANCE PENALTY
+myGameText.myInformationBoxes.myBalancePenalty.myDescription	You currently have a penalty to your Reinforcement Points for joining the more highly ranked team.\n\nThis penalty will decrease if the teams become more balanced.
+myGameText.myInformationBoxes.myReinforcementProgressIn.myHeadline	DROPSHIP ARRIVING
+myGameText.myInformationBoxes.myReinforcementProgressIn.myDescription	Time unitil your units arrive.
+myGameText.myInformationBoxes.myReinforcementProgressOut.myHeadline	DROPSHIP RETURNING
+myGameText.myInformationBoxes.myReinforcementProgressOut.myDescription	Time until the dropship is back at base. When it's back, new units can be ordered.
+myGameText.myInformationBoxes.myReinforcementDeploy.myHeadline	DEPLOY UNITS
+myGameText.myInformationBoxes.myReinforcementDeploy.myDescription	Deploy your selected units.
+myGameText.myInformationBoxes.myReinforcementSetDropZone.myHeadline	CHANGE DROP ZONE
+myGameText.myInformationBoxes.myReinforcementSetDropZone.myDescription	Move your drop zone to another location.
+myGameText.myInformationBoxes.myReinforcementChangeRole.myHeadline	CHANGE ROLE
+myGameText.myInformationBoxes.myReinforcementChangeRole.myDescription	Change to another role to get rebate on and access to different units. \n\n<#f00>Changing role will make you lose all of your current units.</>
+myGameText.myInformationBoxes.myReinforcementRoleArmor.myHeadline	ARMOR <#f00>(OUTSIDE ROLE)</>
+myGameText.myInformationBoxes.myReinforcementRoleArmor.myDescription	Contains units specific to the Armor role.
+myGameText.myInformationBoxes.myReinforcementRoleArmorActive.myHeadline	ARMOR (CURRENT ROLE)
+myGameText.myInformationBoxes.myReinforcementRoleArmorActive.myDescription	Contains units specific to the Armor role.
+myGameText.myInformationBoxes.myReinforcementRoleArmorFPM.myHeadline	ARMOR
+myGameText.myInformationBoxes.myReinforcementRoleArmorFPM.myDescription	Contains Armor units.
+myGameText.myInformationBoxes.myReinforcementRoleInfantry.myHeadline	INFANTRY <#f00>(OUTSIDE ROLE)</>
+myGameText.myInformationBoxes.myReinforcementRoleInfantry.myDescription	Contains units specific to the Infantry role.
+myGameText.myInformationBoxes.myReinforcementRoleInfantryActive.myHeadline	INFANTRY (CURRENT ROLE)
+myGameText.myInformationBoxes.myReinforcementRoleInfantryActive.myDescription	Contains units specific to the Infantry role.
+myGameText.myInformationBoxes.myReinforcementRoleInfantryFPM.myHeadline	INFANTRY
+myGameText.myInformationBoxes.myReinforcementRoleInfantryFPM.myDescription	Contains Infantry units.
+myGameText.myInformationBoxes.myReinforcementRoleAir.myHeadline	AIR <#f00>(OUTSIDE ROLE)</>
+myGameText.myInformationBoxes.myReinforcementRoleAir.myDescription	Contains units specific to the Air role.
+myGameText.myInformationBoxes.myReinforcementRoleAirActive.myHeadline	AIR (CURRENT ROLE)
+myGameText.myInformationBoxes.myReinforcementRoleAirActive.myDescription	Contains units specific to the Air role.
+myGameText.myInformationBoxes.myReinforcementRoleAirFPM.myHeadline	AIR
+myGameText.myInformationBoxes.myReinforcementRoleAirFPM.myDescription	Contains Air units.
+myGameText.myInformationBoxes.myReinforcementRoleSupport.myHeadline	SUPPORT <#f00>(OUTSIDE ROLE)</>
+myGameText.myInformationBoxes.myReinforcementRoleSupport.myDescription	Contains units specific to the Support role.
+myGameText.myInformationBoxes.myReinforcementRoleSupportActive.myHeadline	SUPPORT (CURRENT ROLE)
+myGameText.myInformationBoxes.myReinforcementRoleSupportActive.myDescription	Contains units specific to the Support role.
+myGameText.myInformationBoxes.myReinforcementRoleSupportFPM.myHeadline	SUPPORT
+myGameText.myInformationBoxes.myReinforcementRoleSupportFPM.myDescription	Contains Support units.
+myGameText.myInformationBoxes.myDominationBarFlags.myHeadline	TEAM DOMINATION
+myGameText.myInformationBoxes.myDominationBarFlags.myDescription	The flag of the winning team dominates the bar.
+myGameText.myInformationBoxes.myDominationBarLeftPush.myHeadline	FRIENDLY DOMINANCE
+myGameText.myInformationBoxes.myDominationBarLeftPush.myDescription	Arrows, if present, indicate how many Perimeter Points you hold over your opponent.\n\nThe more arrows you have, the faster you will win.
+myGameText.myInformationBoxes.myDominationBarRightPush.myHeadline	ENEMY DOMINANCE
+myGameText.myInformationBoxes.myDominationBarRightPush.myDescription	Arrows, if present, indicate how many Perimiter Points your opponent holds over you.\n\nThe more arrows they have, the faster they will win.
+myGameText.myInformationBoxes.myDominationBarTimeLeft.myHeadline	ROUND TIME
+myGameText.myInformationBoxes.myDominationBarTimeLeft.myDescription	Time left of the current round.
+myGameText.myInformationBoxes.myAssultBarTimeLeft.myHeadline	ROUND TIME
+myGameText.myInformationBoxes.myAssultBarTimeLeft.myDescription	Time left of the current phase.
+myGameText.myInformationBoxes.mySelectSquad.myHeadline	SQUAD %u
+myGameText.myInformationBoxes.mySelectSquad.myDescription	Click to select all units in squad %u.\n\nDouble-click to move camera to squad.
+myGameText.myPopupBoxes.myResetDefaults.myHeadline	RESET DEFAULTS
+myGameText.myPopupBoxes.myResetDefaults.myDescription	Are you sure you want reset to the default settings?
+myGameText.myPopupBoxes.myRevert.myHeadline	REVERT
+myGameText.myPopupBoxes.myRevert.myDescription	Are you sure you want revert to the original settings?
+myGameText.myPopupBoxes.myDeleteReplay.myHeadline	DELETE REPLAY
+myGameText.myPopupBoxes.myDeleteReplay.myDescription	Are you sure you want to delete this replay?
+myGameText.myPopupBoxes.myDeleteSavedGame.myHeadline	DELETE SAVEGAME
+myGameText.myPopupBoxes.myDeleteSavedGame.myDescription	Are you sure you want to delete this save game?
+myGameText.myPopupBoxes.myDeleteCurrentCampaignSave.myHeadline	DELETE SAVEGAME
+myGameText.myPopupBoxes.myDeleteCurrentCampaignSave.myDescription	This save file contains your currently loaded campain data. It can not be deleted.
+myGameText.myPopupBoxes.myOverwriteSavedGame.myHeadline	OVERWRITE SAVEGAME
+myGameText.myPopupBoxes.myOverwriteSavedGame.myDescription	The specified name already exists. Are you sure you want to overwrite this save game?
+myGameText.myPopupBoxes.myOverwriteCampaign.myHeadline	OVERWRITE CAMPAIGN
+myGameText.myPopupBoxes.myOverwriteCampaign.myDescription	The specified campaign name already exists. Do you want to overwrite it?
+myGameText.myPopupBoxes.myRestartMap.myHeadline	RESTART MAP
+myGameText.myPopupBoxes.myRestartMap.myDescription	Are you sure you want to restart the mission?
+myGameText.myPopupBoxes.myVoipMicWarning.myHeadline	VOIP
+myGameText.myPopupBoxes.myVoipMicWarning.myDescription	Microphone not selected as audio input, VOIP may not function. Check the Windows audio properties.
+myGameText.myPopupBoxes.myStartTutorial.myHeadline	START TUTORIAL
+myGameText.myPopupBoxes.myStartTutorial.myDescription	This will start the Tutorial. Are you sure?
+myGameText.myPopupBoxes.myResumeCampaign.myHeadline	RESUME CAMPAIGN
+myGameText.myPopupBoxes.myResumeCampaign.myDescription	Are you sure you want to resume the active campaign?
+myGameText.myPopupBoxes.myExitConfirmation.myHeadline	EXIT TO WINDOWS
+myGameText.myPopupBoxes.myExitConfirmation.myDescription	Do you really want to exit World in Conflict?
+myGameText.myPopupBoxes.myExitToMenuConfirmation.myHeadline	EXIT TO MAIN MENU
+myGameText.myPopupBoxes.myExitToMenuConfirmation.myDescription	Do you really want to exit to the main menu?
+myGameText.myPopupBoxes.myFirstRunTutorial.myHeadline	RUN TUTORIAL
+myGameText.myPopupBoxes.myFirstRunTutorial.myDescription	If you are new to the game, we highly recommend that you play the Tutorial. Do you want to run the Tutorial now?
+myGameText.myPopupBoxes.myNoChangeTeamLeft.myHeadline	MAX TEAMCHANGE LIMIT REACHED
+myGameText.myPopupBoxes.myNoChangeTeamLeft.myDescription	No more team changes allowed in this match!
+myGameText.myHelpBoxes.myFollowOrder.myLeftHandedDescription	Right click a unit to follow. Left click to cancel.
+myGameText.myHelpBoxes.myFollowOrder.myRightHandedDescription	Left click a unit to follow. Right click to cancel.
+myGameText.myHelpBoxes.myStackOrder.myLeftHandedDescription	Left click on the ground to stack move orders. Right click to cancel.
+myGameText.myHelpBoxes.myStackOrder.myRightHandedDescription	Right click on the ground to stack move orders. Left click to cancel.
+myGameText.myHelpBoxes.myForceAttackOrder.myLeftHandedDescription	Right click to Attack Ground.
+myGameText.myHelpBoxes.myForceAttackOrder.myRightHandedDescription	Left click to Attack Ground.
+myGameText.myHelpBoxes.mySetDropzoneOrder.myLeftHandedDescription	Right click in the blinking area to place your drop zone. Left click to cancel.
+myGameText.myHelpBoxes.mySetDropzoneOrder.myRightHandedDescription	Left click in the blinking area to place your drop zone. Right click to cancel.
+myGameText.myHelpBoxes.myRepairOrder.myLeftHandedDescription	Right click a unit to repair it. Left click to cancel.
+myGameText.myHelpBoxes.myRepairOrder.myRightHandedDescription	Left click a unit to repair it. Right click to cancel.
+myGameText.myHelpBoxes.myLayBridgeOrder.myLeftHandedDescription	Right click a riverbank to lay a bridge. Left click to cancel.
+myGameText.myHelpBoxes.myLayBridgeOrder.myRightHandedDescription	Left click a riverbank to lay a bridge. Right click to cancel.
+myGameText.myHelpBoxes.myPlaceRequestOrder.myLeftHandedDescription	Right click to place the chosen request. Left click to cancel.
+myGameText.myHelpBoxes.myPlaceRequestOrder.myRightHandedDescription	Left click to place the chosen request. Right click to cancel.
+myGameText.myHelpBoxes.myOffensiveSpecialAbilityOrder.myLeftHandedDescription	Right click to place the special ability.
+myGameText.myHelpBoxes.myOffensiveSpecialAbilityOrder.myRightHandedDescription	Left click to place the special ability.
+myGameText.myHelpBoxes.myMoveBackwardsOrder.myLeftHandedDescription	Right click to move backwards. Left click to cancel.
+myGameText.myHelpBoxes.myMoveBackwardsOrder.myRightHandedDescription	Left click to move backwards. Right click to cancel.
+myGameText.myHelpBoxes.myMoveOrder.myLeftHandedDescription	Right click to move. Left click to cancel.
+myGameText.myHelpBoxes.myMoveOrder.myRightHandedDescription	Left click to move. Right click to cancel.
+myGameText.myGameModeAssault.myAssaultingText	ATTACKING
+myGameText.myGameModeAssault.myDefendingText	DEFENDING
+myGameText.myGameModeAssault.myAssaultCapturedText	<#0f0>CAPTURED</>
+myGameText.myGameModeAssault.myAssaultDefendedText	<#f00>DEFENDED</>
+myGameText.myGameModeAssault.myDefendCapturedText	<#f00>FALLEN</>
+myGameText.myGameModeAssault.myDefendDefendedText	<#0f0>DEFENDED</>
+myGameText.myGameModeAssault.myCapTimeText	<#0f0>%02d:%02d</>
+myGameText.myGameModeAssault.myDefTimeText	<#f00>%02d:%02d</>
+myGameText.myGameModeAssault.myDisabledTimeText	<#888>--:--</>
+myGameText.myGameModeAssault.myDisabledText	<#888>DISABLED IN PHASE TWO</>
+myGameText.myGameModeAssault.myRoundCompletionText	Completed in %02d:%02d
+myGameText.myGameModeAssault.myRoundStartsInText	Phase Two Starts in: %02d
+myGameText.myGameModeAssault.myClickToContinueText	Click to Continue
+myGameText.myGameModeAssault.myFullAttackingText	YOU ARE ATTACKING
+myGameText.myGameModeAssault.myFullDefendingText	YOU ARE DEFENDING
+myGameText.myGameModeAssault.myPhase1Text	- PHASE ONE -
+myGameText.myGameModeAssault.myPhase2Text	- PHASE TWO -
+myGameText.myGameModeAssault.myRoundLengthAttacking1Text	Capture each Command Point as quickly as possible!
+myGameText.myGameModeAssault.myRoundLengthDefending1Text	Fight off the enemy attacks at each Command Point!
+myGameText.myGameModeAssault.myRoundLengthAttacking2Text	Capture as many Command Points as possible in %02d:%02d!
+myGameText.myGameModeAssault.myRoundLengthDefending2Text	Hold the enemy off for %02d:%02d!
+myGameText.myGameModeAssault.myWaitScreenCountdownText	Phase Two Starts in:
+myGameText.myGameModeAssault.myWaitScreenUnknownTimeText	Waiting for Phase Two to Start
+myGameText.mySPStats.myMissionTime	MISSION TIME: %02u:%02u.%02u
+myGameText.mySPStats.myTotalScoreEarned	TOTAL SCORE EARNED: %u
+myGameText.mySPStats.myDamageScore	SCORE EARNED FROM DAMAGING UNITS: %u
+myGameText.mySPStats.myRepairScore	SCORE EARNED FROM REPAIRING: %u
+myGameText.mySPStats.myTransportingScore	SCORE EARNED FROM TRANSPORTING: %u
+myGameText.mySPStats.myTAScore	SCORE EARNED FROM TACTICAL AID: %u
+myGameText.mySPStats.myReinforcementPointsSpent	TOTAL REINFORCEMENT POINTS SPENT: %u
+myGameText.mySPStats.myUnitsLost	UNITS LOST: %u
+myGameText.mySPStats.myUnitsKilled	UNITS KILLED: %u
+myGameText.mySPStats.myFortificationsDestroyed	FORTIFICATIONS DESTROYED: %u
+myGameText.mySPStats.myTAPointsEarned	TACTICAL AID POINTS EARNED: %u
+myGameText.mySPStats.myTAPointsSpent	TACTICAL AID POINTS SPENT: %u
+myGameText.mySPStats.myTACrits	TACTICAL AID CRITICAL STRIKES: %u
+myGameText.mySPStats.myBestTACrit	BEST TACTICAL AID CRITICAL STRIKE: %u, %s
+myGameText.mySPStats.myBestTACritEmpty	BEST TACTICAL AID CRITICAL STRIKE: %u
+myGameText.mySPStats.myFavoriteTA	FAVORITE TACTICAL AID: %s
+myGameText.mySPStats.myMaxKillStreak	KILL STREAK: %u
+myGameText.mySPStats.myMaxDeathStreak	DEATH STREAK: %u
+myGameText.mySPStats.myUnitsRank2	UNITS PROMOTED TO RANK 2: %u
+myGameText.mySPStats.myUnitsRank3	UNITS PROMOTED TO RANK 3: %u
+myGameText.mySPStats.myUnitsRank4	UNITS PROMOTED TO RANK 4: %u
+myGameText.mySPStats.myUnitsRank5	UNITS PROMOTED TO RANK 5: %u
+myGameText.mySPStats.myMostUsedUnit	MOST USED UNIT: %s
+myGameText.myWirelessFrontend.myStatusConnected	CONNECTED
+myGameText.myWirelessFrontend.myStatusNoConnection	NOT CONNECTED
+myGameText.myWirelessFrontend.myAdHocEnabled	ENABLED
+myGameText.myWirelessFrontend.myAdHocDisabled	DISABLED
+myGameText.myWirelessFrontend.myAdHocConnecting	CONNECTING
+myGameText.myWirelessFrontend.myAdhocEnable	ENABLE AD-HOC NETWORK
+myGameText.myWirelessFrontend.myAdHocDisable	DISABLE AD-HOC NETWORK
+myGameText.myWirelessFrontend.myAdHocFailedHeader	WIRELESS NETWORK PROBLEM
+myGameText.myWirelessFrontend.myAdHocFailed	World in Conflict failed to establish a wireless ad-hoc connection. Please ensure that your wireless network device is working properly.

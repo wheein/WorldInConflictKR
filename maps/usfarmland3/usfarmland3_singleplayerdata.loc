@@ -1,0 +1,222 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	After Pine Valley the Russians pulled back and tightened their perimeter around Seattle.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	Unable to mount an attack ourselves, we waited, nursing our wounds and trying to anticipate what would happen next. Not long before Christmas, the Russians made their next move. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	Several regiments attacked east up into the Cascade Range, and it soon became apparent that their objective was Fort Teller - the headquarters for the Strategic Defense Initiative, or as the public popularly dubbed it: the Star Wars project. What we knew - and they didn't - was that the project was a bust.  
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	If the Russians reached that base, they'd realize the whole thing was basically a scam - that we had nothing to stop their nuclear missiles from striking our cities and military bases. We couldn't let them figure that out, so we moved east
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	as well. Taking the fight into the mountains and trying to delay the Russians while Colonel Wilkins and his people at Fort Teller dug in as hard as they could.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRiver.myDescription	Secure the two river fords
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRiver.myLongDescription	The river fords can be used by the Soviets to send light and medium armor across. The fords must be secured and held until we can blow the bridge. If we accomplish this, the Soviets will be delayed at least half a day.\n\nTo complete this objective you will have secure and fortify the positions at the two river fords.\n\nYou will fail the mission if Soviet forces manage to capture and fortify both river positions at the same time.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRiver.myVisualisationText	Secure the two river fords
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridge.myDescription	Secure the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridge.myLongDescription	The bridge constitutes the main crossing in the area. We are going to blow it but we can’t until Captain Bannon returns with C Company. You must secure and fortify the area around the bridge until he does.\n\nTo complete this objective you must build fortifications at the position by the bridge.\n\nYou will fail the mission if the Russians manage to fortify the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridge.myVisualisationText	Secure the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridgeHold.myDescription	Hold the bridge until Bannon arrives
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridgeHold.myLongDescription	Bannon is on his way back and you must hold the bridge long enough for him to cross.\n\nTo complete this objective you must hold the bridge until Bannon’s tanks have crossed it.\n\nYou will fail the mission if you lose all your units or if Soviet forces manage to capture and fortify the bridge before Bannon arrives.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridgeHold.myVisualisationText	Hold the bridge until Bannon arrives
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BridgeSurvive.myDescription	The bridge must not be destroyed
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BridgeSurvive.myLongDescription	The bridge must not be destroyed before permission has been given.\n\nTo complete this objective you must ensure that the bridge remains up until ordered otherwise.\n\nYou will fail the mission if the bridge is destroyed before the Colonel has ordered it to be demolished.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BridgeSurvive.myVisualisationText	The bridge must not be destroyed
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeRiverOnTime.myDescription	Secure both fords ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeRiverOnTime.myLongDescription	The Soviet main force is headed this way and it will be much harder to secure the crossings when they have arrived.\n\nTo complete this objective you will have to build fortifications at both fords as soon as possible.\n\nYou will fail the objective if the time runs out before you have captured both fords.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeRiverOnTime.myVisualisationText	Secure both fords ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillHQ.myDescription	Destroy the Soviet artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillHQ.myLongDescription	Several Soviet artillery pieces have taken up position on one of the hills across the river. They should be located and destroyed before they cause too much damage.\n\nTo complete this objective you must locate and destroy the artilly in the area marked on the map.\n\nYou will fail the objective if you do not destroy the artillery before the mission has ended.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillHQ.myVisualisationText	Destroy the Soviet artillery
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.InfantryReinforcements.myHeader	COMBAT SCHOOL - Reinforce Squad
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.InfantryReinforcements.myText	To replace casualties taken in an infantry squad you can press the Resupply Squad button. This will replace any losses taken by the squad, but will not restore the health of soldiers that are still alive.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.ArmorFacing.myHeader	COMBAT SCHOOL - Armor and Facing
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.ArmorFacing.myText	Vehicles have different amounts of protection to the front, rear, sides and top. This should be utilized to your advantage during combat. You can change unit facing by pressing and holding the right mouse button while giving a move order and then drag the mouse in the direction you want the unit to face.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_01.myText	No time to dick around, Parker. Establish defensive positions at those two fords!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_01.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_02.myText	If Ivan is already there I want him annihilated, you hear me? If he gets the chance to dig in before we get there we won't be able to hold back the main force.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_02.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_03.myText	Try to be quick, Parker. The sooner we dig in the better. Captain Webb is standing by to reinforce you. Now get going! Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_03.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_04.myText	Well done, Parker. Ivan is probably dug in at the other ford by now, so expect some resistance when you get there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_04.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05a.myText	My guys are moving into position now, sir. And my scouts report increased Soviet activity across the river.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05a.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05b.myText	They're moving fast… We just have to move faster. You know what to do Parker. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_05b.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06a.myText	Finally, Parker. Too bad it took you so long.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06a.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06b.myText	Another excellent job, Parker. I'm detailing a pair of M60s to you. Don't lose them! They're all we have until Bannon returns. If he returns.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_06b.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_07.myText	Webb here! My men are reinforcing the second crossing now. And, sir, I'm sure Bannon will pull through.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_07.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_08.myText	That remains to be seen, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_08.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_09.myText	And now for the final crossing, Parker. The bridge is the prize. Claim it and secure it before Ivan does.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_09.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_10.myText	I told you to be quick, Parker! Ivan's got both fords fortified. We won't be able to beat them back now and Cascade Falls won't have time to set up a proper defense. We've failed, gentlemen.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_11.myText	What's holding you Parker? Secure both crossings ASAP! Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_11.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_12.myText	Eagle six, this is Bannon. SITREP, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_12.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_13.myText	Roger that, Bannon. I gather you didn't accomplish your objective?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_13.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_14.myText	The bridge has been destroyed, sir. We're moving back now, but we're encountering increased Soviet resistance in the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_14.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_15.myText	We won't be able to hold the crossing forever, Bannon. If you're not here in time you'll have to find another way around.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_15.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_16.myText	But sir! The area is crawling with commies!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_16.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_17.myText	And I couldn't care less, Bannon. Ivan is not getting this bridge because of your incompetence. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_17.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_18.myText	God job, Parker. We'll wait a little while longer, but if Bannon isn't here soon we'll blow the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_18.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_19.myText	Sir! My scouts just reported several Soviet artillery vehicles moving into position across the river.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_19.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_20.myText	Roger that. They'll be zeroing in on your position, Parker. Send out a strike team to neutralize them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_20.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_21.myText	Parker! The weather is getting worse and the air force says they soon won't be able to bring in any more reinforcements. Call in what you can before their planes are grounded.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_21.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_22.myText	Last call for those reinforcements, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_22.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_23.myText	I just got off the horn with the air force. Their planes are grounded and that means no more reinforcements. We'll have to make do with what we've got. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_23.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_24.myText	Eagle six! I have a SITREP. My scouts say the Soviet main force is moving into the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_24.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_25.myText	We need to blow that bridge. Bannon, come in! Where the hell are you? Charlie Six, come in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_25.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_26.myText	They could be in combat, sir. And the hills break up the radio transmissions. We should give them a little more time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_26.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_27.myText	Dammit! If I don't hear from them soon we'll blow the bridge and move on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_27.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_28.myText	We can't delay any longer. They might be dead for all we know. Prepare to blow the bridge and move, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_28.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_29.myText	[static] … Six … [static] Eagle six this is Bannon! Don't blow the bridge yet! We're half a click out and coming up on the rear of several Soviet tanks, engaging now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_29.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_30.myText	Belay that order, Parker! Don't blow the bridge yet! Hold until Charlie Company is across.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_30.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter1.myText	Eagle six, come in! This is Bannon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter2.myText	Bannon, report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter3.myText	We're two clicks from our final waypoint and engaging a small Soviet advance force. APCs and Jeeps, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter4.myText	I couldn't care less what you're engaging, Bannon. There'a a bridge in that area and I want you to destroy it. Report when you're done. Eagle Six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_inter4.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_31.myText	That was in the nick of time, Bannon. Well done.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_31.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_32.myText	Thank you, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_32.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_33.myText	Alright everyone, we're moving on to Cascade Falls. Stay sharp. This thing ain't over yet.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_33.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_34.myText	We lost the bridge! And we probably lost Bannon and Charlie Company as well. Now the guys at Cascade Falls won't stand a chance. 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_35.myText	Good job clearing that artillery, Parker. Now concentrate your forces around the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_35.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_36.myText	You're paying the price for not taking out that artillery, Parker. Now make sure your people stay buttoned up.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_37.myText	This is Webb. We are engaging multiple Russian targets at this time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_37.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_38.myText	Roger that Webb. Keep them at bay. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_38.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_39.myText	Webb here. The Russians are coming at us in force. Bring up the Gustavs and we’ll show those bastards a thing or two.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_39.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_40.myText	This is Webb. If Bannon doesn't get here soon, we'll have to withdraw. I can't sustain these losses for much longer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_40.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_41.myText	Webb here! We’re under heavy attack at both fords!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_41.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_42.myText	Understood, captain. Can you hold?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_42.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_43.myText	I belive so, colonel. Some back-up would be nice, though.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_43.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_44.myText	Roger that. I'll see what I can do. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_44.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_45.myText	Webb! How are you holding out?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_45.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_46.myText	We’re still doing good, sir. The Russians are attacking like crazy but we can hold for a while longer. I am running low on ammo though.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_46.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_47.myText	Roger that. I'll get you some supplies. Hang in there. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_47.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_48.myText	We'll hold the fords, Parker! Move on to your next objective!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_48.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_49.myText	Sir, have we heard from Colonel Wilkins yet?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_49.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_50.myText	I spoke to him briefly an hour ago. He told us to meet him at Cascade Falls, the garrison town near Fort Teller.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_50.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_51.myText	How many men does he have?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_51.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_52.myText	Two understrength companies is what he told me, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_52.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_53.myText	And we have regiments of Soviet troops coming. This won't be an easy fight, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_53.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_54.myText	No, it won't captain. It won't …
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_54.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_55.myText	Captain Webb! SITREP.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_55.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_56.myText	Webb here. We're still holding at the fords but the Russians will break through eventually. Their main force can't be far out now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_56.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_57.myText	Understood, captain. We will hold the bridge for as long as possible. But I won't risk it for Bannon's sake. He will have to fend for himself if he is late.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_57.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_58.myText	Sir, we will need his tanks for the upcoming battle.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_58.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_59.myText	Maybe. If we lose this bridge there won't be any more battles.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_59.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_60.myText	Colonel, these woods are ideal for infantry. The trees could cover an advance almost all the way to the river.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_60.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_61.myText	You're right, captain. Using the woods would help us retain the element of surprise.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_61.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_62.myText	Parker! Use those woods as cover for your infantry as you maneuver toward the river. Try to take Ivan by surprise.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_62.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_63.myText	Parker! The bridge is taking collateral damage! Make sure it stays up until I say we drop it! Is that CLEAR?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_63.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_64.myText	Parker! We have to make sure the bridge stays up until Bannon gets here! I will leave no man behind, you hear! If that bridge drops before I say so we’ll lose an entire company of tanks!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_64.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_65.myText	You failed to protect the bridge, Parker and now charlie company is trapped on the other side. We'll have a hard time defending Fort Teller without them. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_65.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myText	What the hell, Parker! The Commies are fortifying that position! Stop them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myText	The Russians are digging in, Parker! Use those skills of yours and fight them off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myText	Don't let the commies get defenses up at that position or it'll all be over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myText	Parker! We'll lose everything if the Russians fortify that position! Attack them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myText	Get a move on, Parker! If the Russians get their defenses up we'll lose this battle!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myText	The Russians are getting a foothold, Parker! Stop them before they fortify!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myText	Parker you klutz! We just lost a position! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myText	The Russians have overthrown our position, Parker! Reclaim it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myText	Don't you know any tactics at all, Parker! Retake that position, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	Parker, the enemy is gaining ground. Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	We're losing ground, lieutenant Parker! Retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	We have to retake that position we just lost, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_66.myText	Did you ever get a chance to go to the National Training Center, Parker? An old platoon sergeant of mine is an instructor there. He really knows his stuff. Good teacher too.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm3_66.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	Colonel Wilkins is thankful for the extra time you bought him by delaying the Russians at the river. Captain Bannon's success further hampered their advances. You now have some precious extra hours to prepare for the defense of Fort Teller.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Since you failed to delay the Russians, Colonel Wilkins and his defenders at Fort Teller were caught unprepared. Fort Teller itself will fall within days.  Then the world as we know it will be no more.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPRiver2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBridge.myEnemyCapturedText	<empty>

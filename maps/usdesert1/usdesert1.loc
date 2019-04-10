@@ -1,0 +1,35 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Ridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Ridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Ridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Ridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	Gulch
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the Gulch
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the Gulch
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the Gulch
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Radar Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Radar Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Radar Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Radar Station
+myWicedMap.myMissionStats.myName	do_Silo
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	A Soviet task force makes a dash for a U.S. missile base in the Nevada desert with the intent to disable the silos, and the Americans scramble to defend their most precious military resources.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SILO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SILO

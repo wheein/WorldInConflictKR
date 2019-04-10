@@ -1,0 +1,46 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	Rail Yard
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	We captured the Rail Yard
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	We lost control of the Rail Yard
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	Enemy captured the Rail Yard
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Coal Mine
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the Coal Mine
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the Coal Mine
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the Coal Mine
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myUiName	Camp HQ
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myWeCapturedText	We captured the Camp HQ
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myWeLostText	We lost control of the Camp HQ
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myEnemyCapturedText	Enemy captured the Camp HQ
+myWicedMap.myMissionStats.myName	do_Quarry
+myWicedMap.myMissionStats.mySPName	%02d - For the Motherland
+myWicedMap.myMissionStats.myDescription	Prolonged NATO operations on Soviet soil lead them to a large quarry where battle erupts as Soviet forces gather to take on the challenge.
+myWicedMap.myMissionStats.mySPDescription	NATO has made a veiled incursion into Soviet territory with a two-pronged attack. The forces led by Colonel Orlovsky must defend a prisoner of war camp located near a quarry. The prisoners held there are important NATO officers and they are needed for exchange against Soviet officers held by NATO. 
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	QUARRY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	QUARRY
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myDescription	Exploit a gap in the Soviet lines and move into enemy territory.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myLongDescription	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myDescription	Rescue all NATO POWs found in the area.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myLongDescription	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myDescription	Destroy enemy AA emplacements around the camp HQ. Targets will be marked with smoke as they are found.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myLongDescription	[A NATO scout helicopter will help you find all enemy AA emplacements and mark their locations with smoke. Destroy them as they are found so that the SAR-helicopters can move in to the central administrations compound.]
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myVisualisationText	<empty>
+myWicedMap.myLocStrings.TimeuntilNATO	Time until NATO arrives:
+myWicedMap.myLocStrings.VLAD	ASDASD

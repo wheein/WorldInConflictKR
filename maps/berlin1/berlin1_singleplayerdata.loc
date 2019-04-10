@@ -1,0 +1,458 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	To no one's surprise following their earlier intransigence, NATO
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	diplomats yesterday walked out of the Malta Peace Conference. Clearly, peace is not on their agenda. Only threats and deception and endless profits for the capitalist war machine. But our brave 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	comrades in the armed forces will not be intimidated. They stand vigilant along the German border,
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	their resolve unquenchable, ready to deliver -- It was inevitable.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	Our massive preparations had gone on far too long for us to simply stand down. We were like a coiled spring, ready to throw ourselves into the fray. All we waited for was one word - attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	Spirits were high and the men joked about how we would crush the enemy with one fell stroke. But some didn't laugh. They had been to Afghanistan. They knew war ...
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas1.myDescription	Clear the camp entrance
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas1.myLongDescription	The Great Liberation War is about to commence. And you have been given the honor of taking the first action against the enemy. Your Alfa-squad must first clear the camp entrance to reach the AA-emplacements. Weapons are free but be careful. We are disabling NATO communications but it won't be long until they understand what is going on.\n\nTo complete this objective you must move your squad to the camp entrance.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas1.myVisualisationText	Clear the camp entrance
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas2.myDescription	Disable the first AA-emplacement
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas2.myLongDescription	The first missile emplacement is located due east of you. Move there and place explosives. Kill all interfering guards.\n\nTo complete this objective you must move your squad to the first AA-emplacement and place explosives there.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas2.myVisualisationText	Disable the first AA-emplacement
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas3.myDescription	Disable the second AA-emplacement
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas3.myLongDescription	The second missile emplacement is located to the north. Move there and place explosives. Kill all interfering guards.\n\nTo complete this objective you must move your squad to the second AA-emplacement.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas3.myVisualisationText	Disable the second AA-emplacement
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas4.myDescription	Exfiltrate
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas4.myLongDescription	The mission has been accomplished and the time has come for the men to disperse. They will split up and move to their respective rendezvous-points in West Berlin and then rejoin us in a few days when the offensive has been completed.\n\nTo complete this objective you must move your squad to the position indicated on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Spetznas4.myVisualisationText	Exfiltrate
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Exfiltrate.myDescription	Exfiltrate
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Exfiltrate.myLongDescription	The mission has been accomplished and the time has come for the men to disperse. They will split up and move to their respective rendezvous-points in West Berlin and then rejoin us in a few days when the offensive has been completed.\n\nTo complete this objective you must move your squad to the position indicated on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Exfiltrate.myVisualisationText	Exfiltrate
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Ta.myDescription	Initiate the artillery barrage
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Ta.myLongDescription	You have been given the great task of initiating the artillery barrage that will obliterate the enemy and signal the start of the offensive. When the first shells have landed the wall will be destroyed with pre-placed explosives.\n\nTo complete this objective you must place the artillery barrage on the position marked on your map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Ta.myVisualisationText	Initiate the artillery barrage
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Assault1.myDescription	Advance to Phase Line Volga
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Assault1.myLongDescription	You are a part of Section A of the 2nd Battle Group, 5th Shock Army. Your main objectives are the destruction of the U.S. 6th Armored Battalion and clearing of the 17th June Street from Brandenburger Tor to the Ernst Reuter Platz. The section will first advance to Phase Line Volga, and from there continue with a pincer maneuver that will encircle the enemy.\n\nTo complete this objective you must move to the position marked on your map.\n\nIf you lose all your units you will fail the objective and the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Assault1.myVisualisationText	Advance to Phase Line Volga
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Assault2.myDescription	Continue your advance to Phase Line Volga
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Assault2.myLongDescription	Continue your advance toward the phase line. Destroy all enemies you encounter.\n\nTo complete this objective you must move your forces to the position marked on the map.\n\nIf you lose all your units you will fail the objective and the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Assault2.myVisualisationText	Continue your advance to Phase Line Volga
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCrossing.myDescription	Secure the road junction
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCrossing.myLongDescription	Captain Malashenko is in need of immediate assistance at a major road junction further ahead. Move there at once and attack the NATO forces in the flank. That should break them. Then dig in and set up defenses around the junction.\n\nTo complete this objective you must fortify the position marked on your map with machine gun defenses.\n\nIf you have less than two units remaining you will fail the objective and the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCrossing.myVisualisationText	Secure the road junction
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridgeAA.myDescription	Order anti-air reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridgeAA.myLongDescription	You will need to protect yourself against enemy air attacks while moving to the bridge. Call for anti-air units on the support channel.\n\nTo complete this objective you must order down anti-air reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridgeAA.myVisualisationText	Order anti-air reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridge.myDescription	Secure the Moltke Bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridge.myLongDescription	The Moltke Bridge is the most important crossing in this area of West Berlin and absolutely vital to our continued advance in the city. Secure it and make sure that NATO doesn't destroy it.\n\nTo complete this objective you must clear and fortify the position at the Moltkebrücke with anti-tank missiles.\n\nIf you have less than two tanks remaining you will fail the objective and the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridge.myVisualisationText	Secure the Moltke Bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Position2.myDescription	Reinforce Section B
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Position2.myLongDescription	2nd Battle Group is preparing for the final assault to crush the U.S. 6th Armored Battalion. Take your assigned place in the battle line and prepare to advance.\n\nTo complete this objective you must move your units to the position marked on your map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Position2.myVisualisationText	Reinforce Section B
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Push1.myDescription	Advance to the 17th June Street
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Push1.myLongDescription	The Americans are preparing a counter-attack to stall us and enable their leaders to flee. We must move into position as quickly as possible and then destroy all attacking U.S. forces. This will enable us to complete our final two objectives: The capture of the 17th June Street and the destruction of the U.S. 6th Armored Battalion.\n\nTo complete this objective you must move to the position marked on your map and destroy all enemy opposition along the way.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Push1.myVisualisationText	Advance to the 17th June Street
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Push2.myDescription	Move to the rendezvous point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Push2.myLongDescription	The Americans are preparing a counter-attack to stall us and enable their leaders to flee. We must move into position as quickly as possible and then destroy all attacking U.S. forces.\n\nTo complete this objective you must move to the position marked on your map and destroy all enemy opposition along the way.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Push2.myVisualisationText	Move to the rendezvous point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.LastFight.myDescription	Defend against the counter-attack
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.LastFight.myLongDescription	Our forces report excellent progress all over Berlin and the city will soon be liberated from the foreign oppressors. But the battle is not won until all enemy units have been destroyed. Use all the fire support you have at your disposal to destroy the American counter-attack aimed at your position.\n\nTo complete this objective you hold against U.S. 6th Armored Battalion until the Tu-95s deal with what remains.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.LastFight.myVisualisationText	Defend against the counter-attack
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.AASupport.myDescription	Aid Malashenko
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.AASupport.myLongDescription	Second Company led by Captain Malashenko has come under heavy fire from NATO helicopters. Use your anti-air units to chase them away.\n\nTo complete this objective you must destroy all helicopters attacking Captain Malashenko's units.\n\nYou will fail this objective if you do not destroy a sufficient number of helicopters in time.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.AASupport.myVisualisationText	Aid Malashenko
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myDescription	Destroy the MLRS launchers
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myLongDescription	The Americans are moving another artillery battery into range. Call in an Su-25 strike to destroy it.\n\nTo complete this objective you must destroy the enemy artillery units marked on your map.\n\nYou will fail this objective if you don't destroy the enemy units before they retreat.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myVisualisationText	Destroy the MLRS launchers
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolObj.myHeader	COMBAT SCHOOL - Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolObj.myText	You just received your first objective. There are primary objectives that must be completed for the mission to succeed, and secondary objectives that are optional.\n\nAll objectives can be reviewed on the Objectives Screen, where you also can find further information about each objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolFormations.myHeader	COMBAT SCHOOL - Formations
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolFormations.myText	Units can be placed in different formations. Some formations are well suited for negotiating narrow streets, while others are more suitable for open fields. You can cycle through the available formations by pressing the Change Formation button (default: Z).
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolTa.myHeader	COMBAT SCHOOL - Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolTa.myText	On the Tactical Aid menu you can use Tactical Aid Points to order in air strikes, artillery barrages, extra units and much more. You acquire Tactical Aid points by destroying the enemy and accomplishing objectives. \n\nNote that you can order in multiple simultaneous strikes from the same Tactical Aid by pressing the multiple placement buttons.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myHeader	COMBAT SCHOOL - Special Abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myText	All units have special abilities. There are both offensive and defensive varieties. Use them to increase unit lethality or to protect your unit in a desperate situation. All abilities have a cooldown timer and this should be taken into consideration when the ability is used.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Reinforcements.myHeader	COMBAT SCHOOL - Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Reinforcements.myText	To order down reinforcements you open up the reinforcements menu (default: B). You then pick what vehicles you want by left-clicking on them. If you want to remove any units from your order you simply right-click on them in the buy menu or left-click on them in the delivery tally.\n\nWhen you are done you press the deploy button to have your reinforcements delivered to your drop zone on the battlefield.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.NumberGrouping.myHeader	COMBAT SCHOOL - Squad Management
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.NumberGrouping.myText	To create a squad you select two or more units and press the create group buttons (default: CTRL + 0-9). You then chose the entire group by pressing the corresponding number. A double-click on the same number focuses the camera on that group.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myHeader	COMBAT SCHOOL - Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myText	To fortify a position you need to place units in all the connected perimeter points of that position. The more units you have there, the faster the position will be fortified and, once fortified, those fortifications will be harder to destroy when under attack by enemy units.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool7.myHeader	COMBAT SCHOOL - Command Points
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool7.myText	A Command Point represents a strategically important position. Each Command Point consists of a few Perimeter Points as indicated by the connected circles. All Perimeter Points belonging to a Command Point must be held at the same time in order for the command point to be taken.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_01.myText	Lieutenant Romanov. Your Alfa-squad is to make a forward recon of - wait ... Stand by for the Colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_01.myPortraitText	COMMAND
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_02.myText	Lieutenant. My call-sign is Sokol-1. There will be no more reconnaissance. You are to execute plan Odessa. The air defenses must be destroyed before the main assault begins.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_02.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_03.myText	This is Zvezda. We are in position. Pryiom.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_03.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_04.myText	Your objective is to destroy two anti-air-emplacements. Weapons are free and we are now at war. Good luck, lieutenant. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_04.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_05.myText	Zvezda here. We are ready to enter the camp. We will start with clearing the entrance and neutralizing the guard tower. Just give the word, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_05.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_06.myText	We are ready to execute, lieutenant. Just give the word.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_06.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_07.myText	Is there a problem, lieutenant? We are ready to go.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_07.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_08.myText	Camp entrance cleared. We are ready to move on, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_08.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_09.myText	Sokol-1 to Romanov. The first AA-emplacement is located to the east. Move swiftly.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_09.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_10.myText	You cannot have the squad loiter around the camp much longer, Romanov. Move them out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_10.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_11.myText	This entire effort is dependent upon your success, lieutenant. What is holding you up?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_11.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_12.myText	This is Zvezda. Placing explosives now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_12.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_13.myText	Enemy scout helicopter spotted. We're staying out of sight.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_13.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_14.myText	Well done, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_14.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_15.myText	We're only half-way there, Romanov. Complete the mission!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_15.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_16.myText	Lieutenant, execute the order or I will find someone else to take command.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_16.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_17.myText	Zvezda to Romanov. We're at the objective. Preparing target for demolition.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_17.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_18.myText	All explosives in place. Ready to exfiltrate.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_18.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_19.myText	Sokol-1 here. Exfiltration coordinates have been sent. Move there now and avoid detection. The explosives will be detonated when the attack is launched.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_19.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_20.myText	Get your men out of there, lieutenant. If they are still in the area when the assault begins they will be killed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_20.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_21.myText	What are you waiting for, lieutenant? I told you to order your men to exfiltrate!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_21.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_22.myText	Mission accomplished. Exfiltrating now. See you in a few days, lieutenant. Zvezda out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_22.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_23.myText	Expertly done, lieutenant. Those men will disperse and find their way back to us in the coming days. Now you must prepare for the upcoming assault. Expect word within the hour. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_23.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_24.myText	Romanov. The explosives will detonate in three, two, one, mark.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_24.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_25.myText	Sokol-1 to all battle group elements. Today we liberate West Berlin from the American oppressors. Only minutes remain until we rain fire on the enemy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_25.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_26.myText	We have three main objectives. Destroying the U.S. 6th Armored Battalion, securing the Moltke-bridge over the Spree, and clearing the 17th June Street for use by Army Command.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_26.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_27.myText	I have full confidence in all of you. Sokol out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_27.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_28.myText	Lieutenant Romanov. I want you to initiate the artillery barrage. The wall itself will be destroyed by pre-placed explosives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_28.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_29.myText	This is Sokol-1. Red Dawn. I say again: Red Dawn. Make me proud.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_29.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_30.myText	Lieutenant Romanov. Advance with your tank platoon to Phase Line Volga. Destroy all enemies you encounter.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_30.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_31.myText	We must secure the 17th June Street - that's the main avenue - by noon. Army Command is planning a parade along the avenue in celebration of the victory they expect us to win for them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_31.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_32.myText	You are half-way to the phase-line, lieutenant. Keep moving forward.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_32.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_33.myText	Malashenko to Sokol-1. Resistance is heavier than expected. Pryiom!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_33.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_34.myText	Understood, Malashenko. You will get assistance.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_34.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_35.myText	Make haste to the phase line, Romanov. I am clearing a path for you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_35.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_36.myText	Well done, Lieutenant. Phase Line Volga is secure.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_36.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_37.myText	Romanov. We must secure that road junction. You will attack the enemy in the flank while Malashenko pushes forward.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_37.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_38.myText	I have sent you reinforcements, lieutenant. Use their guided missiles to take out the fortifications.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_38.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_39.myText	This is Malashenko. We are advancing now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_39.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_40.myText	All enemy positions have been destroyed. Move in and secure the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_40.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_41.myText	We have to move quickly, lieutenant. Get your units in position.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_41.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_42.myText	Finally. Now we must set up defenses before they counter-attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_42.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_43.myText	The Americans are counter-attacking. Destroy them Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_43.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_44.myText	Govorit Malashenko. We have several American units attacking. Request permission to call in an air-strike.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_44.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_45.myText	The street was to be kept intact. But I won't sacrifice our soldiers for the sake of a parade. Air-strike authorized.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_45.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_46.myText	Acknowledged. Calling it in now. Stay low.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_46.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_47.myText	Excellent. The road junction has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_47.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_48.myText	This is Dnepr, calling Sokol-1! We are under heavy attack by the Moltke Bridge and cannot hold. They have helicopters! I repeat: They have - [cut short by static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_48.myPortraitText	DNEPR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_49.myText	Dnepr? Come in Dnepr! Chyort! We have to secure Moltke Bridge or the entire flank will fall.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_49.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_50.myText	One target remaining. Go north.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_50.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_51.myText	The helicopter is back. Stay out of the light.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_51.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_52.myText	Romanov! I'm sending you to reinforce Section B and capture that bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_52.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_53.myText	You will need anti-aircraft support to handle those helicopters. Call for reinforcements on the support channel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_53.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_54.myText	Estj, the Americans will shoot you to pieces if you are unable to protect yourself, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_54.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_55.myText	When you have what you need you are to advance to the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_55.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_56.myText	Good call, Romanov. Those units will be with you shortly.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_56.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_57.myText	You are ready, lieutenant. Now move to the bridge and clear the skies on the way there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_57.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_58.myText	You will need anti-air support before moving north, Romanov, or they will wipe you out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_58.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_59.myText	I cannot allow you to continue the advance without anti-air support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_59.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_60.myText	No, Romanov. The enemy helicopters will destroy you if you move ahead without AA-support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_60.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_61.myText	You have incoming enemy helicopters, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_61.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_62.myText	More enemy helicopters are moving in to attack you, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_62.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_63.myText	Good thing you got there in time, Romanov. The entire flank was about to fall. Now push through and secure that bridge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_63.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_64.myText	We have the bridge! Now hold in place and get some sandbagged positions up! Expect a counter-attack any minute!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_64.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_65.myText	We need anti-tank emplacements in place as well, Romanov. Have your men keep working.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_65.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_66.myText	Ja, Sokol-1. The Moltke-bridge is now under our control and the northern flank has been secured. We owe much to Lieutenant Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_66.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_67.myText	Two objectives remain. We must secure the main avenue and destroy the U.S. 6th battalion. Section A and B will form a pincer and then move to surround the enemy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_67.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_68.myText	The Americans are targeting us with MLRS launchers. I will ask Frontal Aviation to deal with them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_68.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_69.myText	Call in air support to destroy any remaining artillery pieces, Romanov. We cannot have them firing at us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_69.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_70.myText	The American artillery is still shooting at us, Romanov. You were supposed to destroy them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_70.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_71.myText	The enemy MLRS batteries are about to pull back. Destroy them before they get away, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_71.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_72.myText	Excellent, lieutenant. Those launchers won't harass us anymore.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_72.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_73.myText	The American artillery got away unscathed. This is not the way to impress me, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_73.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_74.myText	Lieutenant. I am reassigning you to Section B. They are forming the battle line now. Take up your position and prepare to advance.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_74.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_75.myText	You should also take this opportunity to replenish any losses.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_75.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_76.myText	This is Sokol-1. All units are in place. Launch the attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_76.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_77.myText	Romanov. Move with Section B toward the main avenue and link up with Captain Malashenko. The Americans are preparing a counter-attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_77.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_78.myText	Section A, advance. Section B, advance. Make this a day to be remembered, comrades. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_78.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_79.myText	Ja, Sokol-1. Friendly helicopters are moving in to assist you. All thank our Frontal Aviation comrades.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_79.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_80.myText	Sokol-1 here. The wooded areas are infested with enemy infantry. I will burn them out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_80.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_81.myText	Well done, Romanov. The advance is going well.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_81.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_82.myText	Sokol-1! Malashenko na svjazi! We're under attack by NATO helicopters and need immediate anti-air support!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_82.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_83.myText	Romanov! You have the necessary equipment. Aid Captain Malashenko if you can.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_83.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_84.myText	Where are you, Romanov! The enemy helicopters are ripping my people to shreds!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_84.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_85.myText	Govorit Malashenko. I need your anti-air units here NOW, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_85.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_86.myText	Thank you, lieutenant. You've saved many lives today. It will not be forgotten. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_86.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_87.myText	Romanov! What the hell happened to that anti-air support? My men's lives are on your conscience. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_87.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_88.myText	Now I want you to link up with Captain Malashenko. You two will form the breaker upon which the Americans will hurl themselves and be destroyed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_88.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_89.myText	Malashenko, report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_89.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_90.myText	Govorit Malashenko. We are moving to the forward position now. I see American tanks approaching.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_90.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_91.myText	Good. They are about to launch their counter-attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_91.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_92.myText	Ja, Sokol-1. All units are in place and the Americans are approaching. Sections A and B are to continue to close the gap while Lieutenant Romanov and Captain Malashenko hold the middle.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_92.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_93.myText	Romanov, I am giving you command of all fire support assets. We have incoming Tu-95s but until they arrive you must use all available support to hold off the American attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_93.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_94.myText	Govorit Malashenko. We will damage the avenue if we call in fire support indiscriminately.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_94.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_95.myText	I am concerned with winning this battle, captain. Not with preserving a parade ground for Army Command. Proceed with the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_95.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_96.myText	Understood, Sokol-1. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_96.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_97.myText	The first enemy echelon is here. Romanov, call in artillery and air strikes on them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_97.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_98.myText	The Americans are throwing everything they have into this attack. I count on you to deal with them, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_98.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_99.myText	Govorit Malashenko. This is a glorious day for the Motherland and for Socialism! Soon, West Berlin will be liberated!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_99.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_100.myText	Ja, Sokol-1. I want all flanking units to advance another 50 meters. We are tightening the noose.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_100.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_101.myText	Ja, Sokol-1, to all units. Hold in place. Tu-95 bombers are on their way to deal with all remaining enemies. I say again: Hold in place. Do not move into the target area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_101.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_102.myText	Ja, Berkut. We are dropping our payload. Stay clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_102.myPortraitText	BERKUT
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_103.myText	Strike successful. Return to base. Berkut out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_103.myPortraitText	BERKUT
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_104.myText	We crushed them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_104.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_105.myText	Sokol-1 to all Battle Group elements. The Americans have been destroyed and the avenue is secure. I am immensely proud of you all but I ask that you honor our comrades who perished here today. Without their sacrifice this victory could not have been accomplished. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_105.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_106.myText	If we go there they will discover us, comrade lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_106.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_107.myText	No, comrade lieutenant. That would mean suicide.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_107.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_108.myText	Do not allow your team to stray, Romanov. They must not be discovered.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_108.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_109.myText	I have to refuse that order, comrade lieutenant. I won't risk the lives of my men by going there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_109.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_110.myText	Romanov! There is an additional artillery battery you can call on for fire support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_110.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_111.myText	You have your anti-air support, lieutenant! Get moving to the bridge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_111.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_112.myText	Guard tower clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_112.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_113.myText	Guard neutralized.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_113.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_114.myText	Area clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_114.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_115.myText	The guard tower has been dealt with.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_115.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_116.myText	Enemy killed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_116.myPortraitText	ZVEZDA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_117.myText	Get out of the area as quickly as you can.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_117.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_118.myText	Your men must get those explosives in place. They can't do that if they are not in position, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_118.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_119.myText	Those men must stay in position until the explosives have been placed, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_119.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_120.myText	Hold in place, Romanov. You will be too exposed at the other side of the river.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_120.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_121.myText	Njet, Romanov. We will not cross the bridge at this time. Just make sure that it is secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_121.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_122.myText	The Americans must be desperate to throw themselves at us like this.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_122.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_123.myText	Da, they are acting like fools. And they will die like fools.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_123.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_124.myText	Malashenko na svjazi. Any word from our comrades at the Fulda Gap?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_124.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_125.myText	None yet. But I am sure we will learn about their fate within a few hours.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_125.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_126.myText	I am sure they will be victorious. None can stand against us. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_126.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_127.myText	The artillery is standing by, Romanov. Mark your targets and call in the coordinates!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_127.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_128.myText	The entire battle group is waiting for you, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_128.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_129.myText	The advance has begun, Romanov! Order your tanks to assault at once!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_129.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_130.myText	Order your tank platoon to attack, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_130.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_131.myText	I have sent reinforcements to you, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_131.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_132.myText	Your platoon has been reinforced, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_132.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_133.myText	You're platoon is combat ineffective, Romanov. I'm putting you in reserve.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_133.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_134.myText	You have taken too many casualties, lieutenant. I'm putting you in reserve.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_134.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_135.myText	Don't forget to call in fire support when needed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_135.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_136.myText	You have fire support standing by, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_136.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_137.myText	Gather your units, Romanov. Don't let them get too dispersed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_137.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_138.myText	You need to maintain tight unit cohesion, Romanov. Keep your people together.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_138.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_139.myText	We are waiting for you, Romanov! Move all your units into position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_139.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_140.myText	The assault can not continue without you, lieutenant! Move all your units into position at once!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_140.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_141.myText	I am talking to the air force about a bombing run. They will be here soon. We only have to hold for a little while longer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ber1_141.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	West Berlin has been liberated from an unjust foreign occupation and you performed commendably, comrade lieutenant. Army Command has expressed misgivings about excessive damage to the 17th June Street, but the fact that you managed to secure the city by noon makes up for this minor failing. If we keep this effort up, we will ensure a swift end to the war.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	You failed to ensure a swift liberation of West Berlin and now the battle looks to be a protracted affair. You can expect to be put in front of a tribunal to answer for this failure.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_01.myTitle	Help tips
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_01.myText	Help tips offer help and hints throughout the game. You can turn these off in the Options menu.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_02.myTitle	Selecting Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_02.myText	Press [[A]] to select a unit.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_03.myTitle	Move Orders
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_03.myText	Press [[A]] to issue move order.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_04.myTitle	Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_04.myText	The [[OM]] icon indicate primary objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_05.myTitle	Defensive Special Abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_05.myText	Press [[B]] to trigger defensive special abilities.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_06.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_06.myText	Press [[LB]] to open Tactical Aid menu.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_07.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_07.myText	Use [[LS]] to select Heavy Artillery and press [[A]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_08.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_08.myText	Aim at [[OM]] and press [[A]] to deploy.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_09.myTitle	Selecting Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_09.myText	Press Up on the [[DP]] to select Alpha Company.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_10.myTitle	Attack Orders
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_10.myText	Press [[A]] to attack enemy units.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_11.myTitle	Camera Control
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_11.myText	Press [[LS]] to change camera height.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_12.myTitle	Command Points
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_12.myText	Clear and occupy all connected circles to capture the Command Point.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_13.myTitle	Command Points
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_13.myText	Move your units into each circle to capture the Command Point.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_14.myTitle	Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_14.myText	Keep your units inside the circles to fortify.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_15.myTitle	Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_15.myText	Press [[RB]] to order reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_16.myTitle	Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_16.myText	Use [[LS]] to select Heavy Anti-Air and press [[A]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_17.myTitle	Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_17.myText	Press [[RB]] again to call in reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_18.myTitle	Companies
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_18.myText	Press and hold a direction on the [[DP]] to create a company.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_19.myTitle	Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_19.myText	Command Points may have up to three fortifications.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_20.myTitle	Secondary Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_20.myText	The [[SOM]] icon indicate non-mandatory objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_21.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_21.myText	Use the new Tank Buster Tactical Aid to easily take out the enemy artillery.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_22.myTitle	Offensive Special Abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_22.myText	Press [[X]] to use offensive special abilities.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_23.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_01_23.myText	Every Tactical Aid may be deployed up to three times consecutively.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_1.myTitle	Voice Commands
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_1.myText	You can also deploy Tactical Aids using voice commands. Hold [[LB]] and name the Tactical Aid you require then release button.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_2.myTitle	Voice Commands
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_2.myText	You can also request reinforcements using voice commands. Hold [[RB]] and name the units you require then release button.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Camera.myTitle	Camera Control
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Camera.myText	Use [[LS]] and [[RS]] to move the camera.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Company_Select.myTitle	Companies
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Company_Select.myText	Tap a direction on the [[DP]] to select the company.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Allied_Units.myTitle	Allied Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Allied_Units.myText	Blue icons denotes allied units. Your units are shown in green.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Circle_Highlight.myTitle	Selecting Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Circle_Highlight.myText	Press [[RS]] to show selection reticle.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Circle_Select.myTitle	Selecting Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Circle_Select.myText	Press again to expand and [[A]] to select.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Single_Select.myTitle	Selecting Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Single_Select.myText	Use [[LS]] and [[RS]] to pinpoint a unit. Press [[A]] to select it.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Capture_SAM1.myTitle	Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Capture_SAM1.myText	Move a unit into the circle to capture it.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Capture_CP.myTitle	Command Points
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Capture_CP.myText	Press [[Y]] on a circle to distribute selected units between the connected circles.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Capture_PP.myTitle	Command Points
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Capture_PP.myText	Press [[Y]] on a circle to automatically move into it.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureBridge.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureBridge.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureBridge.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureBridge.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pushback2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Assault2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Spetznas1.myEnemyCapturedText	<empty>

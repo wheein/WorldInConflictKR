@@ -1,0 +1,245 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Research Facility
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Research Facility
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Research Facility
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Research Facility
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	TV Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the TV Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the TV Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the TV Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Super Market
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Super Market
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Super Market
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Super Market
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	We captured the Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	We lost control of the Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	Enemy captured the Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Town Square
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the Town Square
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the Town Square
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the Town Square
+myWicedMap.myMissionStats.myName	do_Seaside
+myWicedMap.myMissionStats.mySPName	%02d - Battle for Pine Valley 
+myWicedMap.myMissionStats.myDescription	The beautiful seaside town of Pine Valley is turned into a quagmire of chaos and destruction as Soviet and U.S. forces battle for control of the area.
+myWicedMap.myMissionStats.mySPDescription	The battered U.S. battalion led by Colonel Sawyer is ordered to make a stand in the town of Pine Valley. Destroy the Soviet airborne troops already present, and prepare defenses against the oncoming Soviet invasion force.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SEASIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SEASIDE
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeGas.myDescription	Secure and fortify the area around the gas station.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeGas.myLongDescription	Soviet Units are already occupying Pine Valley. In order to reclaim the town we are mounting a hasty attack against perimeter targets. First reclaim the gas station and then dig in. Further orders will be given once the objective has been accomplished. Capture both command points at the Gas Station and make sure you have units inside both circles. The command point will be fortified shortly thereafter.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeGas.myVisualisationText	Secure and fortify the area around the gas station.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeCity.myDescription	Clear three avenues of approach into Pine Valley Centre.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeCity.myLongDescription	Phase two of the attack against Pine Valley has begun. You are ordered to clear three enemy defensive positions along the outer perimeter. Bannon and Charlie Company will attack along the western flank in direction of the Town Square with Webb and Alpha Company in support. You need to destroy all fortifications at three different perimeter points, and then capture these points to clear them.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeCity.myVisualisationText	Clear three avenues of approach into Pine Valley Centre.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeTV.myDescription	Secure the area around the TV-station.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeTV.myLongDescription	The remnants of the Soviet forces in Pine Valley have withdrawn to an assembly area at the TV-station. They are using heavy artillery to shield all frontal approaches Flank around the impact area and destroy the enemy. Destroy all Soviet units and capture the command point at the TV-station.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeTV.myVisualisationText	Secure the area around the TV-station.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldMarket.myDescription	Defend the supermarket.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldMarket.myLongDescription	Although the main Soviet drive is expected to come from the northeast, supporting attacks are also expected through the suburbs against the supermarket. They must not be allowed a breakthrough. You must hold the command point at the Supermarket. If Soviet units capture both perimeter points the command point will fall.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldMarket.myVisualisationText	Defend the supermarket.
+myWicedMap.myMissionStats.myPrimaryObjectives.ReTakeMarket.myDescription	Secure the supermarket.
+myWicedMap.myMissionStats.myPrimaryObjectives.ReTakeMarket.myLongDescription	The Soviets have created a breach in our defences at the supermarket. Make an immediate counterattack and seal the perimeter. Retake the command point at the supermarket from the Soviet forces.
+myWicedMap.myMissionStats.myPrimaryObjectives.ReTakeMarket.myVisualisationText	Retake the supermarket.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldTownSquare.myDescription	Defend the town square.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldTownSquare.myLongDescription	You must defend the town square. If Pine Valley falls there will be nothing to stop the Soviet invasion force from continuing all the way to Oregon and beyond.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldTownSquare.myVisualisationText	Defend the town square.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeEntrance.myDescription	Retake the south-eastern approach.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeEntrance.myLongDescription	Webb's company has been forced back from their main defensive positions at the south-eastern approach to Pine Valley. You are ordered to retake these positions.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeEntrance.myVisualisationText	Retake the south-eastern approach.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldEntrance.myDescription	Hold the south-eastern approach.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldEntrance.myLongDescription	A renewed Soviet attack is expected shortly. You are to hold position at the south-eastern approach until further notice.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldEntrance.myVisualisationText	Hold the south-eastern approach.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillSniper.myDescription	Eliminate the Soviet sniper.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillSniper.myLongDescription	A Soviet sniper has taken up position somewhere near the gas station. Eliminate him.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillSniper.myVisualisationText	Eliminate the Soviet sniper.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillArty.myDescription	Destroy Soviet artillery near the research facility.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillArty.myLongDescription	Soviet motorized mortars have been spotted near the research facility. They constitute a danger to all exposed infantry and should be destroyed if possible.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillArty.myVisualisationText	Destroy Soviet artillery near the research facility.
+myWicedMap.myMissionStats.mySecondaryObjectives.HealBannon.myDescription	Help Bannon with repairs.
+myWicedMap.myMissionStats.mySecondaryObjectives.HealBannon.myLongDescription	Bannon's company is hard pressed at the gas station and need help with repairs. Send a humvee there to sort things out and keep those tanks in the fight. Use a humvee to repair the tanks at the gas station.
+myWicedMap.myMissionStats.mySecondaryObjectives.HealBannon.myVisualisationText	Help Charlie Company with repairs.
+myWicedMap.myMissionStats.mySecondaryObjectives.SaveArtillery.myDescription	Aid the artillery near the research facility.
+myWicedMap.myMissionStats.mySecondaryObjectives.SaveArtillery.myLongDescription	A mobile mortar platoon has been caught behind the Soviet advance and now they're under attack. Help them if possible.
+myWicedMap.myMissionStats.mySecondaryObjectives.SaveArtillery.myVisualisationText	Aid the artillery near the research facility.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillTvSpotter.myDescription	Eliminate the Soviet forward observer.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillTvSpotter.myLongDescription	In order to call in artillery at danger close range the Soviets must have a forward observer somewhere near the TV-station. If you can eliminate him the artillery barrage will probably be lifted.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillTvSpotter.myVisualisationText	Eliminate the Soviet forward observer.
+myWicedMap.myMissionStats.myScriptEvents.dropZoneChanged.myString	Your drop zone has changed
+myWicedMap.myMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+myWicedMap.myMissionStats.myScriptEvents.newUnits.myString	You have been given command of new units
+myWicedMap.myMissionStats.myScriptEvents.newTank.myString	You have been given command of a new tank. It is currently located at your dropzone
+myWicedMap.myMissionStats.myScriptEvents.newUnit.myString	You have been given command of a new unit
+myWicedMap.myMissionStats.myScriptEvents.givenTA.myString	You have been given access to support weapons
+myWicedMap.myMissionStats.myScriptEvents.abrahmGiven.myString	You can now order down one free Abrams tank.
+myWicedMap.myMissionStats.myTipTexts.SpecialAbilities.myHeader	COMBAT SCHOOL - Special Abilities
+myWicedMap.myMissionStats.myTipTexts.SpecialAbilities.myText	Units have special abilities such as TOW-missiles, demolitions or smoke screens. You left click on a special ability to use it. If it requires a target, you then right click on a target to fire. When an ability has been used, it needs to be recharged before you can use it again.
+myWicedMap.myMissionStats.myTipTexts.Fortifications.myHeader	COMBAT SCHOOL – Fortifications
+myWicedMap.myMissionStats.myTipTexts.Fortifications.myText	Command Points can be fortified with sandbagged weapon emplacements. To fortify a Command Point you need to place units in all its connected Perimeter Points, and keep them there until a fortification has been built. The process will go faster depending on the amount of units in place.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_01.myText	You have your orders, Parker. Secure that gas station and dig in.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_01.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_02.myText	And Parker, Private Uris didn't make it. Make sure you get that sniper, and don't let this be a repeat of that Europe debacle. Eagle Six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_02.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_03.myText	You do honour to Private Uris, Parker. Carry on.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_03.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_04.myText	Sniper! Up on that chimney!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_04.myPortraitText	SOLDIER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_05.myText	Man down! Sniper!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_05.myPortraitText	SOLDIER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06.myText	Incoming sniper fire!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06.myPortraitText	SOLDIER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06a.myText	That sniper is still active, Parker! Make him inactive before he gets away.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_06a.myPortraitText	SOLDIER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_07.myText	Seems the sniper slipped away, Parker. I'm sure you did your best.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_07.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_08.myText	Well done, Parker! We expect Ivan to counter-attack towards you any minute now. Make sure you fortify your position.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_08.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_09.myText	Parker! Hold your ground. We'll continue the attack as soon as Bannon's company has broken through.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_09.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_10.myText	Clear out the enemy and retake that gas station, Parker!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_10.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_11.myText	Eagle Six. This is Bannon. We're facing heavy resistance at the supermarket. Need support, over.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_11.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_12.myText	I have no more support to give you, Bannon. Push harder! Eagle Six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_12.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_13.myText	Eagle Six. This is Bannon. The supermarket has been secured.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_13.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_14.myText	Roger that, Bannon. Continue the attack along the western flank. Webb's company is still in support.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_14.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_15.myText	Parker! I want you to clear and secure three strongpoints near the town centre. We're pushing them back. Eagle six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_15.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_16.myText	First strongpoint cleared. Two remaining.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_16.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_17.myText	Parker! This is Eagle Six. Enemy light artillery has been spotted near the research facility. See if you can destroy them.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_17.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_18.myText	Good job clearing that artillery, Parker.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_18.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_19.myText	Not very impressive, Parker. The Soviet artillery has pulled back unharmed.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_19.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20.myText	One strongpoint remaining, Parker! 
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20a.myText	Bannon! I want a SITREP!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_20a.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_21.myText	Bannon here! The commies are everywhere and they're ambushing my tanks with RPGs!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_21.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_22.myText	Hold where you are, Bannon. Webb will take over the attack. You copy that, Webb?
+myWicedMap.myMissionStats.myMessageBoxList.ust4_22.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_23.myText	Copy, sir. We're moving into the attack now.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_23.myPortraitText	WEBB
+myWicedMap.myMissionStats.myMessageBoxList.ust4_24.myText	Eagle Six. This is Webb. We have broken through the enemy defences.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_24.myPortraitText	WEBB
+myWicedMap.myMissionStats.myMessageBoxList.ust4_25.myText	Roger that, Webb. Excellent job, everyone! Ivan is withdrawing to the south. Keep the pressure up and the town will be ours before lunch.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_25.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_26.myText	Parker! Remaining enemy units are using artillery to shield themselves near the TV-station. I want you to flank around to the east and destroy them. Bannon and Webb will approach from the beach.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_26.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_27.myText	And Parker! See if you can get their artillery observer as well. Eagle Six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_27.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_28.myText	Parker! Ivan's artillery has gone silent, now take that TV station!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_28.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_30.myText	Eagle Six to Bannon! How's your advance going?
+myWicedMap.myMissionStats.myMessageBoxList.ust4_30.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_31.myText	We're bogged down by Soviet infantry, over.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_31.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_32.myText	This is Webb, request permission to bypass Bannon's company and move against the TV-station.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_32.myPortraitText	WEBB
+myWicedMap.myMissionStats.myMessageBoxList.ust4_33.myText	That's a negative Webb. I want you to support Bannon instead. Parker will handle the TV-station.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_33.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_34.myText	Well done Parker! The TV-station has been secured, and only a few Soviet stragglers remain. Commander's briefing at the Town Square at thirteen hundred hours. We don't have much time. Eagle Six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_34.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_36.myText	Parker, you have the supermarket. The entire northern flank depends on you. Hold the supermarket until relieved. Eagle six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_36.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_37.myText	Bannon, here! We are engaging a large number of tanks coming from the northeast. I don't know how long we can hold!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_37.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_38.myText	Roger that Bannon. Eagle Six, to Webb, I need you to reinforce Bannon's position.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_38.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_39.myText	Copy. I'm sending second platoon. Out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_39.myPortraitText	WEBB
+myWicedMap.myMissionStats.myMessageBoxList.ust4_40.myText	Parker, secure your position and do it NOW. We cannot allow a Soviet breakthrough.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_40.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_41.myText	The perimeter has been secured. Well done, Parker. Now, hold.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_41.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_42.myText	This is Bannon! We're taking a beating here! My tracks are heavily damaged and we just lost our recovery vehicle!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_42.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_43.myText	Copy that Bannon. I'll see what I can do.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_43.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_44.myText	Come in Parker! If you have a spare humvee I want you to send it over to Captain Bannon at the gas station ASAP.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_44.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_45.myText	Not a minute too early, Parker. Your slowness almost cost me another tank.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_45.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_46.myText	Well done, Parker. I'm detailing an M1 to you. Make good use of it. Eagle Six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_46.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_47.myText	Bannon here! How about those mechanics Parker?! I've got a malfunctioning main gun and two thrown tracks, but please don't hurry on our account! Bannon, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_47.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_48.myText	This is Bannon. I just lost another tank. Thanks for nothing Parker!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_48.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_49.myText	Cut the chatter, Bannon.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_49.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_50.myText	Parker! Ivan is calling in artillery on your position! Pull back before he zeroes in! I repeat: Pull back!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_50.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_51.myText	Fall back NOW, Parker! That artillery is closing in!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_51.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_52.myText	Eagle Six. This is Webb. The Soviets are making a determined attack against my position. We've taken heavy casualties. Moving to alternate defensive positions now.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_52.myPortraitText	WEBB
+myWicedMap.myMissionStats.myMessageBoxList.ust4_53.myText	Roger that. Parker! I need you to reinforce the south-eastern approach.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_53.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_54.myText	Hold position until further notice, Parker! We're expecting Ivan to attack along the entire perimeter. Eagle Six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_54.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_55.myText	This is Bannon [static] heavy attack and cannot hold. [static] pulling back towards the Town Square!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_55.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_56.myText	Negative, Bannon! You are to stay and fight. Do you copy?
+myWicedMap.myMissionStats.myMessageBoxList.ust4_56.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_57.myText	Say again, Eagle [static] I read you one by one!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_57.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_58.myText	Damn it! I'm ordering you to stay in position Bannon!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_58.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_59.myText	[static] casualties. [static] withdrawing [static] out!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_59.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_60.myText	Bannon! Come in Charlie Six! God damn it. This is Eagle Six to all units. Pull back to the town square. I repeat, pull back to the Town Square. We have to tighten our defence!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_60.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_61.myText	The Russians are everywhere! They'll slaughter us! We have to get out of here!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_61.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_62.myText	You take up defensive positions, Bannon! That's a direct order.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_62.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_63.myText	But, sir! We can't hold!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_63.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_64.myText	If you run I'll shoot you myself! Now rally your company!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_64.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_65.myText	Stay in position everyone. Fight them off!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_65.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_66.myText	Come on you, bastards! Come on and die!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_66.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.ust4_67.myText	Spare us your comments, Bannon!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_67.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_68.myText	This is Eagle Six. They're coming from all directions! Check your ammo and mark your targets!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_68.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_69.myText	If we loose this town we loose the entire coast!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_69.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_70.myText	We have to halt Ivan's advance at all cost!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_70.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_71.myText	Parker! I just got a call from our mortar detachment! They're under attack near the research facility. Aid them if possible.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_71.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_72.myText	Well done, Parker. I'm giving you command of the mortars. Provide what support you can. Eagle Six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_72.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_73.myText	Parker! I just lost contact with our mortar detachment. That's some good men we just lost. Eagle six, out.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_73.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_74.myText	This is Eagle Six! We're falling back towards the beach! I say again: We're falling back!
+myWicedMap.myMissionStats.myMessageBoxList.ust4_74.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.ust4_75.myText	Parker! I just got off the horn with Colonel Wilkins. He is lending us his fire support. Call on them when needed.
+myWicedMap.myMissionStats.myMessageBoxList.ust4_75.myPortraitText	SAWYER
+myWicedMap.myLocStrings.DefendBeach	Secure the Beach: 
+myWicedMap.myLocStrings.timerTakeTownXMinutes	Clear the strongpoints: 

@@ -1,0 +1,348 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.slide1.myText	The Russians took us by surprise. We had been at war for almost four months and still we couldn't understand what was happening.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.slide2.myText	Even as artillery shells started exploding on the streets of Seattle many people just stood there, stunned by shock and disbelief.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.slide3.myText	War can be fascinating to watch on TV but up close and personal it's a whole other story. Imagine your office blown to pieces, your car thrown about like a discarded glove, and your friend lying on the street, his body torn to bloody shreds. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.slide4.myText	That was the reality in Seattle on that fateful day in the fall of '89. The army was fighting in Europe and elsewhere and our Navy was supposed to protect us from an invasion. But they failed. They were fooled, as we were all fooled by the Soviet ruse.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.slide5.myText	But as the first Soviet tanks started rolling off those freighters, a few of us tried to organize a desperate defense. We were not about to give up without a fight.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon.myDescription	Recon the harbor
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon.myLongDescription	An assessment of the strength and disposition of the enemy is needed. Move to the docks and check out the area. It has been marked on your maps.\n\nTo complete this objective you have to move to the position marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon.myVisualisationText	Recon the harbor
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReconRescue.myDescription	Rescue the infantry
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReconRescue.myLongDescription	An infantry squad is pinned down and in desperate need of backup not far from your position. Drive over there and help them fight off the enemy.\n\nTo complete this objective you must assist the infantry squad at the marked position by destroying the enemy forces attacking them.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReconRescue.myVisualisationText	Rescue the infantry
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReSupplyFirst.myDescription	Secure the supply depot
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReSupplyFirst.myLongDescription	Take control of a National Guard supply depot near the harbor. There you will be able to stock up on necessary supplies and reinforce your team.\n\nTo complete this objective you have to move to the position indicated on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReSupplyFirst.myVisualisationText	Secure the supply depot
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2.myDescription	Recon the route to the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2.myLongDescription	We need to make sure the route to the Kingdome is clear. Move a small scout squad to the position indicated on your map and check the route along the way.\n\nTo complete this objective you have to move to the position indicated on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2.myVisualisationText	Recon the route to the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearRoute.myDescription	Clear the route to the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearRoute.myLongDescription	You have been given access to an artillery battery located just outside of town. Use that fire support to demolish all buildings occupied by Soviet forces.\n\nTo complete this objective you have to destroy all Soviet occupied buildings marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearRoute.myVisualisationText	Clear the route to the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearKingdome.myDescription	Clear the LZ at the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearKingdome.myLongDescription	A crowd of civilians has gathered at the Kingdome and the plan is to airlift them out of the city. But the Russians, moving fast, have already set up several anti-air batteries in the parking lot next to the Kingdome. Destroy these vehicles so our choppers can be brought in.\n\nTo complete this objective you have to destroy all the marked anti-air batteries near the Kingdome.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearKingdome.myVisualisationText	Clear the LZ at the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReSupplySecond.myDescription	Set up a perimeter at the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReSupplySecond.myLongDescription	Go to the LZ at the Kingdome and set up a perimeter so the choppers can fly in safely.\n\nTo complete this objective you have to move to the position indicated on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReSupplySecond.myVisualisationText	Set up a perimeter at the Kingdome
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Evacuate.myDescription	Evacuate the remaining Guardsmen
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Evacuate.myLongDescription	Seattle can't be held and a general retreat has been called. Help relieve the beleaguered Guardsmen remaining in the city so that they can get out.\n\nTo complete this objective you have to move to the positions marked on the map and assist the friendly units there by destroying the enemies present.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Evacuate.myVisualisationText	Evacuate the remaining Guardsmen
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Escape.myDescription	Clear the underpass
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Escape.myLongDescription	The planned evacuation route has been blocked by the Russians. They have erected machine gun emplacements that must be cleared before we can use the underpass to retreat from the city.\n\nTo complete this objective you must destroy all enemy fortifications at the position marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Escape.myVisualisationText	Clear the underpass
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RepairBradley.myDescription	Repair the Bradley
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RepairBradley.myLongDescription	A Bradley Infantry Vehicle has been immobilized near the Kingdome. If you can repair it you will provide your group with much needed fire power.\n\nTo complete this objective you have to use your Humvee to repair the marked Bradley IFV.\n\nYou will fail the objective if you do not repair the Bradley before you have cleared the area around the Kingdome.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RepairBradley.myVisualisationText	Repair the Bradley
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.ReSupplyThird.myDescription	Secure the reinforcement LZ
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.ReSupplyThird.myLongDescription	You need to secure the marked landing zone before the choppers can bring in any more units.\n\nTo complete this objective you must move to the position indicated on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.ReSupplyThird.myVisualisationText	Secure the reinforcement LZ
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.BradleyMarker.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.BradleyMarker.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.BradleyMarker.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.BuildingMarker.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.BuildingMarker.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.BuildingMarker.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.newUnits.myString	You have been given command of new units
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.reinforcementsInbound.myString	Reinforcements are inbound
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.reinforcementsArrived.myString	You are now fully reinforced
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolTransport.myHeader	COMBAT SCHOOL - TRANSPORT
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolTransport.myText	To transport infantry, select an infantry unit and then right-click a transport unit. When you wish to unload your infantry, select the transport and then push the unload button. Units being transported in this way cannot attack but are completely protected from damage. However, if your transport is destroyed before it unloads its passengers, the units being transported will be killed as well.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool2.myHeader	COMBAT SCHOOL - COVER
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool2.myText	Infantry units can enter any building by right-clicking on the building with the unit selected. To exit a building, select it and right-click anywhere on the ground outside. Units that take cover inside buildings will still fire at nearby enemies and receive a defense bonus while inside.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myHeader	COMBAT SCHOOL - Special abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myText	All units have special abilities. There are both offensive and defensive varieties. Use them to increase unit lethality or to protect your unit in a desperate situation. All abilities have a cooldown timer and this should be taken into consideration when the ability is used.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool7.myHeader	COMBAT SCHOOL - COMMAND POINTS
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool7.myText	A Command Point represents a strategically important position. Each Command Point consists of a number of linked Perimeter Points as indicated by white circles on the map. All Perimeter Points belonging to a Command Point must be held at the same time in order for the command point to be taken.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchooldRepair.myHeader	COMBAT SCHOOL - Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchooldRepair.myText	Repair capable units such as the Humvee or Repair Tank can repair other units. Select your Repair Tank or Humvee and right-click on a damaged unit.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolObj.myHeader	COMBAT SCHOOL - OBJECTIVES
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolObj.myText	You just received your first objective. There are primary objectives that must be completed for the mission to succeed, and secondary objectives that are optional.\n\nAll objectives can be reviewed on the Objectives Screen, where you also can find further information about each objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolFormations.myHeader	COMBAT SCHOOL - Formations
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolFormations.myText	Units can be placed in different formations. Some formations are well suited for negotiating narrow streets, while others are more suitable for open fields. You can cycle through the available formations by pressing the Change Formation button (default: Z).
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolTa.myHeader	COMBAT SCHOOL - Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchoolTa.myText	On the Tactical Aid menu you can use Tactical Aid Points to order in air strikes, artillery barrages, extra units and much more. You acquire Tactical Aid points by destroying the enemy and accomplishing objectives. \n\nNote that you can order in multiple simultaneous strikes from the same Tactical Aid by pressing the multiple placement buttons.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.Briefing.myText	Briefing: The Russians have launched a surprise attack on Seattle and caught the few American troops there unawares. Rally all remaining forces, try to evacuate what civilians you can, and pull out of the city before it’s too late.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.Briefing.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_1.myText	Redeye four! I want to know what's happening at the harbor. Do a flyby and report back, ok?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_2.myText	Are you serious, captain?! We've lost four choppers down there already! It's a death sentence!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_2.myPortraitText	REDEYE FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_3.myText	So is treason, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_4.myText	Yes, sir. Going there now. Redeye out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_4.myPortraitText	REDEYE FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_5.myText	By god! It's the entire Red Army down there! They've got the whole harbor! We have to pull out now! Retreat, sir! Retreat- [cut off by static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_5.myPortraitText	REDEYE FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_6.myText	Stand down, Parker! Your order is to recon that harbor!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_6.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_7.myText	Redeye four! Come in! God damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_7.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_8.myText	I'll be damned … They must've hidden in those civilian freighters. And I bet there's more coming.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_8.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_9.myText	To anyone out there! This is staff sergeant Hanson of the Washington National Guard! I have men pinned down at the docks in need of immediate reinforcements! They're killing us!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_9.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_10.myText	We hear you sergeant. See what you can do, Parker! My forces here are all tied down.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_10.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_11.myText	Good job! Now get the hell away from those docks. Seems those commie sons of bitches are massing for an attack from the harbor!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_11.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_12.myText	This is Hanson! The National Guard has a supply depot near the harbor. If you could secure it we might be able to bring in some reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_12.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_13.myText	We need all the help we can get. Secure that depot, Lieutenant Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_13.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_14.myText	The supply depot has been secured. This is where you will get your reinforcements, Parker. You better make sure the LZ stays clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_14.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_15.myText	Hanson here! A lot of civilians have gathered at the Kingdome! We have to get them out of there before it's too late!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_15.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_16.myText	What we need, sergeant, is to get the hell out of this city before it's too late for all of us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_16.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_22.myText	I've sent you some reinforcements, Parker! They're deployed at the supply LZ.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_22.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_23.myText	Parker! There's a damaged Bradley stranded near the Kingdome. See if you can patch it up, I'm sending a Humvee for you to use.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_23.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_24.myText	Good for you, Parker. You're gonna need that Bradley.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_24.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_25.myText	I guess you aren't all the Colonel made you out to be, huh, Parker. That Bradley could've been put to good use.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_25.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_26.myText	Hanson here! I have squads pinned down all over the city. We need help extracting!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_26.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_27.myText	Your people will have to take care of themselves, sergeant! We can't stick around any longer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_27.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_28.myText	But sir! You can't leave us here to die!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_28.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_29.myText	Alright, God damn it! Parker, you handle it! I can't risk going there now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_29.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_30.myText	Thank you, lieutenant! We'll remember this. Hanson, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_30.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_31.myText	Yeah, you're a real savior, Parker! Time for us to get out of here. We'll have to go through the underpass to the east.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_31.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_32.myText	Damn it! The underpass has been blocked! Now you're gonna have to fight your way out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_32.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_33.myText	I got some more artillery support for you! Use it to clear the area!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_33.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_34.myText	This is Eagle six. Captain Bannon is that you?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_35.myText	Colonel Sawyer!? How the hell -
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_35.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_36.myText	No time captain! Bring what forces you have and meet me by the I-90 Bridge. You got that?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_37.myText	Sir, I...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_37.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_38.myText	A simple yes will suffice, Bannon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_38.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_39.myText	Yes, sir. We'll be there. Bannon, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_39.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_43.myText	I'm losing people all over the city, dammit! We won't be able to hold out much longer!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_43.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_44.myText	Come on, you commies! Me and my boys are gonna set you up for a dinner date with Stalin!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_44.myPortraitText	PRIVATE DOE 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_45.myText	This is crazy! There's nothing we can do!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_45.myPortraitText	PRIVATE DOE 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_48.myText	Attention all units in Seattle. I'm still unable to raise division or any higher command. We're on our own.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_48.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_49.myText	To all units: Check in with me before you reposition! And rally at position two-four if your CO is dead!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_49.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_50.myText	Sit tight, Parker. I've ordered reinforcements sent to the supply LZ.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_50.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_51.myText	It's been total chaos since this morning, sir. I only hope we can get everyone away from here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_51.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_54.myText	Kill those commies, Parker! We have to secure the area before we can start pulling back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_54.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_55.myText	Find out what the hell is going on, and relay back to me, Parker. I wonder how those damn commies managed to sneak by our navy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_55.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_56.myText	Where the hell is that support, captain?! My guys won't last much longer!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_56.myPortraitText	HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_57.myText	What's the delay, Parker?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_57.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_58.myText	Wipe them out, Parker! Show them what Americans are made of!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_58.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_59.myText	But we can't leave them here to die, captain!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_59.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_60.myText	Damn it! No we can't ... Parker! I can't risk going there. You will have to work your way to the Kingdome.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_60.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_61.myText	There's a lot of Russians occupying the buildings along the way, sir!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_61.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_62.myText	We'll handle it. I've got an artillery battery on the horn and they're offering fire support. Don't waste it on nothing, Parker! And make sure you clear out that infantry before moving your units through.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_62.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_63.myText	This is Yankee five. Just provide us with your target coordinates and we'll take care of the rest, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_63.myPortraitText	YANKEE FIVE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_64.myText	Rounds out. Over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_64.myPortraitText	YANKEE FIVE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_65.myText	Shot. Out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_65.myPortraitText	YANKEE FIVE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_66.myText	Fire mission received. Splash in five. Out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_66.myPortraitText	YANKEE FIVE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_67.myText	Putting rounds on target. Yankee five, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_67.myPortraitText	YANKEE FIVE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_68.myText	The route is clear and that artillery battery is needed elsewhere, Parker! Now get your butt to the Kingdome! We're gonna airlift in reinforcements and then get some trucks to carry those civilians out of there!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_68.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_69.myText	I'm sure they taught you this at West Point, Parker, but if you order your guys to move in a box formation it'll be a lot easier to negotiate those narrow streets.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_69.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_70.myText	Too late, sir! The Russians are moving into the parking lot at the Kingdome and my men have spotted several anti-air batteries there as well!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_70.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_71.myText	I'll abort the evacuation then. Those civilians will have to fend for themselves.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_71.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_72.myText	Unless we can get rid of that triple-A.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_72.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_73.myText	Yeah, well I don't have the men to spare … Parker! You give it a try. Clear the LZ at the Kingdome so our choppers can get the civilians out of there!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_73.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_74.myText	I'll be damned, Parker! We might just do this. Keep it up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_74.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_75.myText	Another one down, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_75.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_76.myText	One more and we can bring in those choppers, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_76.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_77.myText	The area is clear of enemy AA. I've called in the choppers. Get to the LZ and set up a perimeter.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_77.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_78.myText	The Kingdome just got totally razed by artillery! Those civilians were damn lucky I was around to save their butts. Now we should see about getting the hell away from here. We've already overstayed our welcome.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_78.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_79.myText	The first group is nearby, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_79.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_80.myText	Good, you found them! Help them clear the area!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_80.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_81.myText	We owe you one, LT. Those men can get out on their own now. Try and get to the second group ASAP, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_81.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_82.myText	There they are, LT! Help them fight off those Russians!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_82.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_83.myText	Thank you, sir. Now there are just a couple more guys that need help.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_83.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_84.myText	You've located them, LT. If you can help them clear the area, they can get away.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_84.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_85.myText	This is Yankee Five. We're standing by and ready to fire, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_85.myPortraitText	YANKEE FIVE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_90.myText	That was a good hit, Parker! Keep those strikes coming!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_90.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_91.myText	Yeah! That's what you get for invading our homeland you red-bellied sons-of-bitches!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_91.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_92.myText	This is Yankee Five, we're … Wait … INCOOOOMING! [cut of by explosion and then static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_92.myPortraitText	YANKEE FIVE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_93.myText	Dammit! We've lost the fire support and there are more commies coming! We have to get out of here NOW, Parker! Get to that underpass!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_93.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_94.myText	Bring it on you bastards! We can take whatever you throw at us!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_94.myPortraitText	PRIVATE DOE 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_95.myText	We won't fall back another inch. This is our country, dammit!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_95.myPortraitText	PRIVATE DOE 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_96.myText	This is Bravo Four! We're facing a sustained Soviet assault and cannot hold. Please advise, over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_96.myPortraitText	BRAVO-FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.scream_static.myText	[ scream... static.. ]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.scream_static.myPortraitText	REDEYE FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_97.myText	Bravo Four here! We have almost no ammo left and I got a lot of wounded men! We need support!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_97.myPortraitText	BRAVO-FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_98.myText	This is Bravo Four! We need reinforcements dammit! Is anyone out there! My RTO just got shot and I'm down to my last mag!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_98.myPortraitText	BRAVO-FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_99.myText	Hang in there Bravo Four! We'll get you out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_99.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_100.myText	Roger that, I'll try to relocate to [cut off by static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_100.myPortraitText	BRAVO-FOUR
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_101.myText	Bravo Four!? Come in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_101.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_105.myText	Who the hell is in charge of this mess! I thought we we're going to retreat!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_105.myPortraitText	PRIVATE SMITH
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_106.myText	And we will, private! But we have to stay organized!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_106.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_107.myText	To hell with that, sir! If we want to live we better start running!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_107.myPortraitText	PRIVATE SMITH
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_108.myText	Stay off the net if you don't have anything useful to report!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_108.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_109.myText	To anyone who's out there! I'm what's left of second platoon and I'm getting out of this city now! I suggest you all do the same!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_109.myPortraitText	PRIVATE SMITH
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_110.myText	You will retreat in an orderly fashion, private! That's a direct order!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_110.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_111.myText	Sir … Screw you!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_111.myPortraitText	PRIVATE SMITH
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_117.myText	What the hell are you doing, Parker! You can't take on those tanks! Pull back now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_117.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_118.myText	You better recon the route before you go. The Russians are probably everywhere by now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_118.myPortraitText	SGT. HANSON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_119.myText	I know that, sergeant. Parker, send out some scouts to recon that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_119.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_120.myText	Ok, Parker! I know you were the colonel's pet, but you don't impress me worth a damn. We need some intel before we leave this quagmire and I want you to gather it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_120.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_121.myText	Try to avoid taking so many casualties, Parker! I've sent some reinforcements to your supply LZ.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_121.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_122.myText	What part of my order didn't you get, Parker!? Don't send your units through before you've cleared out that Soviet infantry! Use your fire support and call in artillery on them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_122.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_123.myText	This is hotel two-niner. The LZ has been cleared. I repeat: the LZ has been cleared. We're bringing in reinforcements at this time, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_123.myPortraitText	HOTEL TWO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_124.myText	Hotel-two-niner, this is Hotel-six. Hold formation, and keep a look out for the enemy. They'll be back in the area soon enough. Hotel-six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle2_124.myPortraitText	HOTEL SIX
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The Soviet invasion caught everyone by surprise, but through your tenacious defense of the downtown area you helped thousands of civilians to escape the city. The National Guard is also indebted to you for rallying their scattered units and helping them organize the retreat. The Russians have been a little delayed but more decisive action is needed before they can be contained.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	You failed to delay the Soviet invasion and Russian forces are now flowing unhindered through the city. Washington State will fall within a few days, and the remainder of the Pacific Northwest soon after that.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_01.myTitle	Troop Transport
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_01.myText	To load an infantry unit into a transport vehicle, select it and press [[Y]] on the vehicle.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_02.myTitle	Troop Transport
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_02.myText	Press [[Y]] on the vehicle to exit.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_03.myTitle	Entering Structures
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_03.myText	To have an infantry unit seek cover inside a building, select it and press [[Y]] on the structure.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_04.myTitle	Exiting Structures
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_04.myText	Press [[Y]] on the structure to exit.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_05.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_05.myText	To call in multiple strikes, aim and press [[A]]. Press [[LB]] to cancel.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_06.myTitle	Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_06.myText	To repair the Bradley, select the jeep and press [[X]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_07.myTitle	Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_02_07.myText	You have received additional troops at the supply depot.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Formations.myTitle	Formations
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_Formations.myText	Hold [[A]] and press [[LS]] to change formation of select units.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_SA.myTitle	Offensive Special Ability
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_SA.myText	Press [[X]] to use offensive special abilities.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port1_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port1_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port1_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port1_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port2_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port2_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port2_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port2_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port3_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port3_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port3_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Port3_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardFight_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardFight_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardFight_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardFight_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.KingDome_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.KingDome_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.KingDome_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.KingDome_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.TrainStation_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.TrainStation_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.TrainStation_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.TrainStation_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Underpass_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Underpass_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Underpass_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Underpass_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate1_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate1_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate1_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate1_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate5_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate5_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate5_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate5_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate3_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate3_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate3_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate3_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate4_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate4_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate4_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate4_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate2_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate2_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate2_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NationalGuardEvacuate2_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplyFirst.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplyFirst.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplyFirst.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplyFirst.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Recon_2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Recon_2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Recon_2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Recon_2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplySecond.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplySecond.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplySecond.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ReSupplySecond.myEnemyCapturedText	<empty>

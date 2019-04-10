@@ -1,0 +1,196 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	The Russians proved to be tough adversaries, giving ground only when they absolutely had to, and making sure we paid a high price for every yard we gained. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	But after a few days, a gap opened in the Soviet lines and Colonel Sawyer ordered several companies through. The Soviet headquarters had been found 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	and we were to destroy it as swiftly as possible. If we succeeded, the Soviet defenses would collapse and France would be liberated. But if we failed, we would be cut off from the main force and annihilated.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	It was a daring move, typical of the Colonel. "Always aim for a killing blow, everything else is a waste of time and energy", he said to us once, and that motto seemed to permeate all his decisions. He was always certain.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	But the world was not. One uncertainty was Captain Bannon, who was acting like a loose cannon. We all wondered what it would take to bring him to heel.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridges.myDescription	Secure the bridges
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridges.myLongDescription	Start your assault by securing the two bridges. Clear out all enemy defenses, move across and then fortify the bridgeheads.\n\nTo complete this objective you must build fortifications around both bridges.\n\nYou will fail the mission if you fail to complete the objective within the allotted time.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBridges.myVisualisationText	Secure the bridges
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearTown.myDescription	Clear out the town defenders
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearTown.myLongDescription	In order to reach the church you have to clear out the town defenders first. Do this, strongpoint by strongpoint until all opposition has been dealt with.\n\nTo complete this objective you must destroy all marked enemy fortifications before the time runs out.\n\nYou will fail the mission if you do not complete the objective within the allotted time.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearTown.myVisualisationText	Clear out the town defenders
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeChurch.myDescription	Destroy the enemy headquarters
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeChurch.myLongDescription	The main allied offensive is about to be launched. You must secure the Russian headquarters within the allotted time for our mission to be successful.\n\nTo complete this objective you must build fortifications in the area around the church before the time runs out.\n\nYou will fail the mission if you don’t complete the objective within the allotted time.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeChurch.myVisualisationText	Destroy the enemy headquarters
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myDescription	Defend the bridges.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myLongDescription	The Soviets have launched a surprise attack on the bridges. If they fall you will be surrounded and destroyed. You must prevent this from happening.\n\nTo complete this objective you must hold the bridges against the Soviet attack.\n\nYou will fail the mission if the Russians manage to build fortifications around the bridges.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myVisualisationText	Defend the bridges.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectBridges.myDescription	Protect the bridges
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectBridges.myLongDescription	Make sure you protect the bridges into town. If they fall you will be cut off from any reinforcements.\n\nTo complete this objective you must protect the bridges from the Russians.\n\nYou will fail the mission if the Russians manage to capture and fortify the bridges.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectBridges.myVisualisationText	Protect the bridges
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BannonArtillery.myDescription	Destroy the enemy mortars
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BannonArtillery.myLongDescription	Soviet mortars has zeroed in on your position. Destroy them and your troops will be a lot safer.\n\nTo complete this objective you must locate and destroy the Soviet mortar unit.\n\nYou will fail this objective if you haven’t dealt with the mortars before the mission is over.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BannonArtillery.myVisualisationText	Destroy the enemy mortars
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Artillery.myDescription	Capture or destroy the MRLS
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Artillery.myLongDescription	An MLRS unit is firing on your men. It could be put to good use if you manage to capture it.\n\nTo complete this objective you must capture the MRLS launcher by moving one of your units close to it. You can also complete the objective by destroying the launcher.\n\nYou will fail this objective if you haven’t dealt with the launcher before the mission is over.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Artillery.myVisualisationText	Capture or destroy the MRLS
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveChurch.myDescription	The church must stay unharmed
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveChurch.myLongDescription	The town church was built by Cistercian monks in 1123 AD and is counted amongst the national cultural treasures of France. Demonstrate your respect for your allies by insuring that the old stone building remains intact throughout the engagement.\n\nTo complete this objective you must accomplish the entire mission with the church still intact.\n\nYou will fail this objective if the church is destroyed for any reason.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveChurch.myVisualisationText	The church must stay unharmed
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_01.myText	Parker! As soon as the barrage ends I want you to attack. Move up through the town and strike at the command post by the church.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_01.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_02.myText	We do not have long before our main offensive begins, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_02.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_03.myText	He’s right Parker. We need to cut off the head of the snake before the offensive is launched and time is scarce. I’m counting on you. Do this right and we’ll save a lot of NATO lives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_03.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_04.myText	Another excellent job, Parker! The main offensive will start within the hour and thanks to you they'll face an uncoordinated rabble! Good to see you managed to save the church as well. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_04.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_05.myText	Well done, Parker! Thanks to you the main offensive will be a cakewalk! Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_05.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_06.myText	And do not forget the church, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_06.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_07.myText	Okay. Try not to damage the church, Parker. It’s apparently very old and has some cultural value to our allies.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_07.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_08.myText	It was built in the twelfth century! Vous n’avez donc aucune culture.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_08.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_09.myText	Well you heard the commandant. But don’t hesitate to blast the damn thing if it stands in the way of your objective. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_09.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_10.myText	Not good, Parker! I'll have to explain your actions to our allies. Hopefully they'll understand. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_11.myText	Launch your assault now, lieutenant! Start by securing those bridges.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_11.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_12.myText	Bannon! Leave a platoon here to help defend those bridges once Parker has captured them. The rest of your force is to provide security for Commandant Sabatier as he flanks around to the south.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_12.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_13.myText	Sir, can’t the commandant manage his own security? My company could support Parker instead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_13.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_14.myText	Don’t argue with me, Bannon! Your heavy tanks will be sitting ducks on those narrow streets. Now, move out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_14.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_15.myText	Well done, Parker! Bannon’s company will defend those bridges while you continue toward the church.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_15.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_16.myText	Parker! That artillery needs to be dealt with! Capture or destroy it. I’m calling in an air strike to clear the way for you. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_16.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_18.myText	Parker! Deal with those mortars up on the hill. We have some airborne units standing by you could call in. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_18.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_20.myText	Well done, Parker! That’s a German-made raketenwerfer you just captured. Use it to support your attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_20.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_21.myText	That’s one less rocket launcher, Parker. Carry on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_21.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_22.myText	Those mortars won’t bother us anymore, Parker. Well done.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_22.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_23.myText	Parker! We need to clear out the town. You’ll have to move fast, but be careful. Call in fire support if needed. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_23.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_24.myText	First one down, Parker! Keep moving!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_24.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_25.myText	Another strongpoint cleared, Parker. Commandant Sabatier, what’s your status?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_25.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_26.myText	We’re close to the second waypoint and haven’t seen the enemy yet, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_26.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_27.myText	Eagle six, this is Bannon. Nothing’s happening here, sir. Request permission to support the attack on the town, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_27.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_28.myText	Denied, Bannon. Stay with the commandant. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_28.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_29.myText	Halfway there, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_29.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_30.myText	You’ve almost cleared the entire town, Parker! There can’t be many of those bastards left.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_30.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_31.myText	The town has been secured and Ivan is on the run. We'll end this soon enough.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_31.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_32.myText	Eagle Six. We just spotted an enemy column moving toward the bridges! They’re too far away for us to engage!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_32.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_33.myText	It’s a counter-attack! Deal with it, Parker! Those bridges must not fall.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_33.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_34.myText	This is Bannon! I’m moving toward the bridges now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_34.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_35.myText	Negative Bannon! How many times do I have to tell you? You stay with the commandant! Do you read me, over?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_35.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_36.myText	The commandant is doing fine, sir. My lead elements are almost at the bridges already!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_36.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_37.myText	Bannon! Turn around and return to the commandant! Bannon! Come in! God damn it! Hold those bridges, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_37.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_38.myText	Yeah! That got those commie bastards!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_38.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_39.myText	Bannon, you god damn cowboy! You are to return – 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_39.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_40.myText	Eagle six, come in! They’re all around us! Merde! It’s an ambush! We’re[cut short by a  loud bang and then static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_40.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_41.myText	Commandant! Come in! Bannon, get back to the commandant at once! That’s a direct order!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_41.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_42.myText	Yes, sir. Moving there now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_42.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_43.myText	This is Eagle six to Parker! Come in! Come in! Damn it! This mission is aborted.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_43.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_50.myText	Parker! In their infinite wisdom, division command has decided that the airborne assets are needed elsewhere. I tried to argue but they wouldn’t listen. You can’t call on them any longer. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_50.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_51.myText	And Parker! I’m sure I don’t need to tell you this, but those narrow streets would suit your infantry real well. Tanks will have a hard time maneuvering.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_51.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_52.myText	Captain Bannon, are you covering the right flank? I think I saw some movement there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_52.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_53.myText	Yeah, I’m looking and there’s nothing there. Not a damn thing.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_53.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_54.myText	Are you sure, captain?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_54.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_55.myText	Yes, commandant, I’m sure. No wonder you people can’t defend your own country. You keep jumping at shadows.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_55.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_56.myText	That’s enough, Bannon! Focus on the mission and stay off the radio if you don’t have anything important to report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_56.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_57.myText	The cavalry has lent us some helo support. They can help us spot ambushes and find other hidden enemies. But they don’t carry much armament so be careful with where you send them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_57.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_Briefing.myText	Briefing:\nNATO forces have gathered for the final offensive against the Soviet invaders. The combat team lead by Sawyer has been tasked with striking at the headquarters of the entire Soviet division before the main offensive begins. This headquarters is located on top of a hill adjacent to a heavily fortified town. Recapture the town, fight your way to the top and deliver a crippling blow to the Soviet occupation force by destroying that HQ.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_Briefing.myPortraitText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_58.myText	Damn it! We lost one of the bridges! Make sure the other one stays intact, Parker, or we'll have a hard time funneling troops into town!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e2_58.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	Colonel Sawyer's gambit has paid off and you destroyed the Soviet headquarters despite taking great risks. Remaining Soviet forces will have a hard time putting up a coordinated defense when the final phase of the NATO offensive is launched. France will be liberated within a week.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Due to your inadequacy the colonel's gambit failed and your forces have been cut off and annihilated to the last man.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_01.myTitle	Entering Structures
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_01.myText	To have an infantry unit seek cover inside a building, select it and press  on the structure.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_02.myTitle	Exiting Structures
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_02.myText	Press  on the structure to exit.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_03.myTitle	Defensive Special Abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_10_03.myText	Infantry units are slow moving, press  to use the Sprint ability and give them a burst of speed.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge1_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Bridge2_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown1_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown2_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown3_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Church_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonDefense_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown4_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown5_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.ClearTown6_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myWeCapturedText	We captured the BannonDummyCP
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myWeLostText	We lost control of the BannonDummyCP
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.BannonBridgeDummyCP.myEnemyCapturedText	Enemy captured the BannonDummyCP

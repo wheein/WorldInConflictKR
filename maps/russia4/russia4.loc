@@ -1,0 +1,245 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Bunker
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Bunker
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Bunker
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Bunker
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Loading Dock
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Loading Dock
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Loading Dock
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Loading Dock
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Fuel Reserves
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Fuel Reserves
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Fuel Reserves
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Fuel Reserves
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Apartment Blocks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Apartment Blocks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Apartment Blocks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Apartment Blocks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	Second Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	We captured the Second Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	We lost control of the Second Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	Enemy captured the Second Fire Tower
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Typhoon Docks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the Typhoon Docks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the Typhoon Docks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the Typhoon Docks
+myWicedMap.myMissionStats.myName	as_Typhoon
+myWicedMap.myMissionStats.mySPName	%02d - Lair of the Bear
+myWicedMap.myMissionStats.myDescription	The sun rises over the icy Barents Sea and shines a cold light on a NATO assault force trying to capture a Soviet naval yard while facing stiff opposition.
+myWicedMap.myMissionStats.mySPDescription	Intelligence retrieved from the downed stealth plane has uncovered that several Soviet nuclear submarines are tied up at port. They constitute an excellent target of opportunity and the mission is to capture and destroy them before they leave.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	TYPHOON
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	TYPHOON
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoats.myDescription	Secure and fortify each submarine.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoats.myLongDescription	There are three Russian nuclear submarines in these docks. We need to know where these subs are heading and then we need to make sure that they can't go there. You need to secure them before they leave and fortify their positions. You can be certain that the Russians will launch a counter attack.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoats.myVisualisationText	TakeBoats
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat1.myDescription	Secure and fortify each submarine.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat1.myLongDescription	There are three Russian nuclear submarines in these docks. We need to know where these subs are heading and then we need to make sure that they can't go there. You need to secure them before they leave and fortify their positions. You can be certain that the Russians will launch a counter attack.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat1.myVisualisationText	TakeBoats
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat3.myDescription	Secure and fortify each submarine.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat3.myLongDescription	There are three Russian nuclear submarines in these docks. We need to know where these subs are heading and then we need to make sure that they can't go there. You need to secure them before they leave and fortify their positions. You can be certain that the Russians will launch a counter attack.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBoat3.myVisualisationText	TakeBoats
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldBoat3.myDescription	HoldBoat3
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldBoat3.myLongDescription	There are three Russian nuclear submarines in these docks. We need to know where these subs are heading and then we need to make sure that they can't go there. You need to secure them before they leave and fortify their positions. You can be certain that the Russians will launch a counter attack.
+myWicedMap.myMissionStats.myPrimaryObjectives.HoldBoat3.myVisualisationText	HoldBoat3
+myWicedMap.myMissionStats.myPrimaryObjectives.BlowBoats.myDescription	Hold out until all the submarines have been destroyed.
+myWicedMap.myMissionStats.myPrimaryObjectives.BlowBoats.myLongDescription	The engineers are rigging the submarines with explosives. You need to protect the area around the subs until each one is blown. The Russians will attack from the north so be ready.
+myWicedMap.myMissionStats.myPrimaryObjectives.BlowBoats.myVisualisationText	Blow Boats
+myWicedMap.myMissionStats.mySecondaryObjectives.Copter.myDescription	Destroy the helicopters before they can take off.
+myWicedMap.myMissionStats.mySecondaryObjectives.Copter.myLongDescription	The facility to the north is apparently used for helicopter support. You need to destroy those choppers before they can take off or else they will inflict heavy casualties. All the helicopters need to be destroyed.
+myWicedMap.myMissionStats.mySecondaryObjectives.Copter.myVisualisationText	Copter
+myWicedMap.myMissionStats.mySecondaryObjectives.HoldRes.myDescription	HoldRes
+myWicedMap.myMissionStats.mySecondaryObjectives.HoldRes.myLongDescription	Bannon is under heavy attack in the residential area. If it falls the Russians is in a good position to overrun us before we have destroyed all the submarines.
+myWicedMap.myMissionStats.mySecondaryObjectives.HoldRes.myVisualisationText	Move to the residential area and help Bannon secure it.
+myWicedMap.myMissionStats.mySecondaryObjectives.Boat2.myDescription	Boat2
+myWicedMap.myMissionStats.mySecondaryObjectives.Boat2.myLongDescription	Bannon is under heavy attack in the residential area. If it falls the Russians is in a good position to overrun us before we have destroyed all the submarines.
+myWicedMap.myMissionStats.mySecondaryObjectives.Boat2.myVisualisationText	Move to the residential area and help Bannon secure it.
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	Bunker
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	Bunker
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	Capture the Bunker
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	Loading Dock
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	Capture the Loading Dock
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	Capture the Loading Dock
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	Fire Tower
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	Capture the Fire Tower
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	Capture the Fire Tower
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	Fuel Reserves
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	Capture the Fuel Reserves
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	Capture the Fuel Reserves
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	Apartment Blocks
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	Capture the Apartment Blocks
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	Capture the Apartment Blocks
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myDescription	Second Fire Tower
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myLongDescription	Capture the Second Fire Tower
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myVisualisationText	Capture the Second Fire Tower
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myDescription	Typhoon Docks
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myLongDescription	Capture the Typhoon Docks
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myVisualisationText	Capture the Typhoon Docks
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	Bunker
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	Defend the Bunker
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	Defend the Bunker
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	Loading Dock
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	Defend the Loading Dock
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	Defend the Loading Dock
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	Fire Tower
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	Defend the Fire Tower
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	Defend the Fire Tower
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	Fuel Reserves
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	Defend the Fuel Reserves
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	Defend the Fuel Reserves
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	Apartment Blocks
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	Defend the Apartment Blocks
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	Defend the Apartment Blocks
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myDescription	Second Fire Tower
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myLongDescription	Defend the Second Fire Tower
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myVisualisationText	Defend the Second Fire Tower
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myDescription	Typhoon Docks
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myLongDescription	Defend the Typhoon Docks
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myVisualisationText	Defend the Typhoon Docks
+myWicedMap.myMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+myWicedMap.myMissionStats.myScriptEvents.newUnits.myString	You have been given command of new units
+myWicedMap.myMissionStats.myMessageBoxList.rus4_01.myText	We have at the most 30 minutes to stop those subs from leaving Parker. Expect heavy resistance from dug in defenders along the way. Our intel is not very conclusive for this area so be careful.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_01.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_02.myText	We have some blurry satelite images that show some kind of heavy equipment at the small facility to the north. They also had some tanks in the area 2 days ago but the intel boys tell me that they are nowhere to be seen.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_02.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_03.myText	If you don't hurry the russians will bring in heavy reinforcements from the (russian name here) base and we will have to withdraw. Our future depends on your success Parker, get going.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_03.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_04.myText	Parker, assault those sub-pens and hurry on. Bannon will help you hold them after you've taken them.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_04.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_05.myText	The first sub is over there. Take it and then Bannon will hold it while you move on.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_05.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06.myText	Good job, now move on. Bannon, hold that position and expect a russian counter attack.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06_01.myText	Good job, now move on.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_06_01.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_07.myText	Alone sir? Isn't Parker going to leave some support?
+myWicedMap.myMissionStats.myMessageBoxList.rus4_07.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_08.myText	You are the support Bannon. Now stop whining and get it done!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_08.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_09.myText	Will do Sir!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_09.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_10.myText	They are coming in!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_10.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_11.myText	Stay on target.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_11.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_12.myText	They are too close!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_12.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_13.myText	Stay on target!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_13.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_14.myText	Bannon to command, I lost Thompson, lost Decker. They came from... behind. I had to withdraw.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_14.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15.myText	Damn you Bannon. Parker, take back that sub now!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15_1.myText	Damn, we lost one. Parker, take back that sub now!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_15_1.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_16.myText	My men spotted some choppers at the northern facility. They are fueling up and are soon ready to go.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_16.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_17.myText	Parker, I don't need to tell you that we will lose a lot of good men if you don't take out those choppers before they get airborn.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_17.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_18.myText	Fantastic Parker. That will save us a lot of pain.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_18.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_19.myText	Look alive people, the choppers are incoming. Bannon, move your tanks between Parker and those choppers!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_19.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_20.myText	But sir!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_20.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_21.myText	That's probably not a good idea Sir.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_21.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_22.myText	Damn it, you too Halstein? Very well, move to cover people, now!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_22.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_23.myText	Start moving up to support Parker, Bannon. Clear the way to the third sub.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_23.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_24.myText	See you later Parker, now watch how it's done.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_24.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_25.myText	Intel tells me that heavy russian reinfocement is coming in from the north. We need to take and reinforce that residential area before they arrive.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_25.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_26.myText	I can do that! Follow me men!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_26.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_27.myText	What? I didn't [static] you to move get the [static] back. [static] you hear me?
+myWicedMap.myMissionStats.myMessageBoxList.rus4_27.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_28.myText	Repeat sir, you're breaking up.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_28.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_29.myText	You [static] [static] son [static] [static] I'm going [static] [static] you! [static] residential [static] [static]...(connection broken)
+myWicedMap.myMissionStats.myMessageBoxList.rus4_29.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_30.myText	You heard that Parker. You take the last sub and I'll hold your back among those buildings.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_30.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_31.myText	There is only one sub left now Parker. Good job. I'll try to re-establish the connection with command while you head for the last u-boat.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_31.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_32.myText	Good job with that sub Parker but the russians took back the other sub, you still got two subs to take. I will try to re-establish communication with command, you go for those subs.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_32.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_33.myText	Hurry up Parker - Bannon, I'll have word with you later.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_33.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_34.myText	Good job on that Sub but you don't have time to play anymore Parker. Complete your mission before Ivan is here!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_34.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_35.myText	Amazing Parker. Now Fortify the position before the russkies is on top of you.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_35.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_36.myText	Pull back people, we won't be able to hold this for long. Now we will never know where those subs are heading.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_36.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_37.myText	We can still do it sir!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_37.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_38.myText	You can stay and fight if you want Bannon. As a matter of fact, that's an order!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_38.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_39.myText	Incoming hostile tanks, be ready people.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_39.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_40.myText	You need to hold your position Bannon, I hope you can do that.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_40.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_41.myText	All clear here Sir, no problems Sir!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_41.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_42.myText	That explosion could probably be heard all the way to the Kreml, good work Parker. Move back to the second submarine before you are overrun.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_42.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_43.myText	Your men didn't find anything and the ship is still intact. Why did you think we attacked this harbor in the first place Parker? Did you sleep during the briefing? This is a non-acceptable total FUBAR failure. Dismissed!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_43.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_44.myText	Good to have you here Parker. My men already started on this sub and they will be finished any minute. Take defensive positions and be ready. Here they come!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_44.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_45.myText	My men report that they are having some difficulties down in the sub, there will be a slight delay. You need to hold out a little longer Parker.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_45.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_46.myText	Bannon to command, Bannon to command! There are too many Russians here, we are under heavy suppression fire and they just keep coming. I need backup!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_46.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_47.myText	Your orders are to hold that area at any costs Bannon. Don't let me down here Bannon, you hear me!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_47.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_48.myText	It's impossible sir! We will be overrun in a couple of minutes!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_48.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_49.myText	The Russians will have regrouped any second now but if we lose Bannons defensive position we will probably be overrun, maybe Parker should relieve Bannon.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_49.myPortraitText	HALSTEIN
+myWicedMap.myMissionStats.myMessageBoxList.rus4_50.myText	Very well. Parker, if you see an opportunity to help mr Bannon hold his dedicated area of responsibility - which if it falls would compromise our entire operation - then you should do so. But if the russians are about to break through your positions then hold the line, for everyones sake.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_50.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_51.myText	We did it sir! We plugged the hole, they won't be able to get through here anymore!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_51.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_52.myText	Yes, I'm sure that "we" did it. Now stay put there Bannon and hold the area.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_52.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_53.myText	Damn it Parker, you could have helped me! I'm pulling back now, the russians are everywhere. My tanks are taking too much punishment.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_53.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.rus4_54.myText	At least you did what I expected of you Bannon.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_54.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_55.myText	Halstein, Parker - I'm proud of you two. Now blow the last ship then head for extraction. Bannon, head for the extraction point too.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_55.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_56.myText	Good job so far people. The demo-team is almost finished here. Be ready to pull out before Ivan decides to drop everything he got on us. Bannon, get down to the last sub too.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_56.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_57.myText	Those men didn't find anything and the ship is still intact. Why did you think we attacked this harbor in the first place Parker? Did you sleep during the briefing? We needed to blow all the subs Parker. This is a non-acceptable total FUBAR failure. Dismissed!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_57.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_58.myText	Good job so far people. The demo-team is almost done. Just hold a minute and we're ready to leave.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_58.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_59.myText	You did it. Now pull out and head for extraction. Get a move on it people. Go go!
+myWicedMap.myMissionStats.myMessageBoxList.rus4_59.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.rus4_60.myText	Your men didn't find anything and the ship is still intact. Why did you think we attacked this harbor in the first place Parker? Did you sleep during the briefing? We needed to blow all the subs Parker. This is a non-acceptable total FUBAR failure. The end of your life will probably be in a Gulag.
+myWicedMap.myMissionStats.myMessageBoxList.rus4_60.myPortraitText	SAWYER
+myWicedMap.myLocStrings.BoatsTimer	TakeBoats: 
+myWicedMap.myLocStrings.CopterTimer	CopterTimer: 
+myWicedMap.myLocStrings.TakeBoat3	Secure the last submarine before it departs:
+myWicedMap.myLocStrings.Boat1	Secure the first submarine:
+myWicedMap.myLocStrings.timerBlowBoat3	Hold submarine until the engineers can sink it:
+myWicedMap.myLocStrings.BlowBoat1	Hold submarine until the engineers can sink it:

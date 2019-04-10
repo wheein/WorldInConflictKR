@@ -1,0 +1,1407 @@
+﻿SupportWeaponDatabase.US.RadarScan_US.myGuiName	Aerial Recon
+SupportWeaponDatabase.US.RadarScan_US.myGuiDescription	Reveals all units in the area \n- The area is revealed for a short period of time \n- Huge circular area
+SupportWeaponDatabase.US.RadarScan_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.RadarScan_US.myTauntText	<empty>
+SupportWeaponDatabase.US.RadarScan_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.RadarScan_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.RadarScan_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.Paratrooper_US.myGuiName	Airborne Infantry
+SupportWeaponDatabase.US.Paratrooper_US.myGuiDescription	Calls in some Airborne Rangers \n- These soldiers can call down artillery strikes
+SupportWeaponDatabase.US.Paratrooper_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Paratrooper_US.myTauntText	<empty>
+SupportWeaponDatabase.US.Paratrooper_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Paratrooper_US.myHelpBox.myLeftHandedDescription	Right click to set paratrooper drop zone. Left click to cancel.
+SupportWeaponDatabase.US.Paratrooper_US.myHelpBox.myRightHandedDescription	Left click to set paratrooper drop zone. Right click to cancel.
+SupportWeaponDatabase.US.Repair_Jeep_US.myGuiName	Airdropped Transport
+SupportWeaponDatabase.US.Repair_Jeep_US.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.US.Repair_Jeep_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Repair_Jeep_US.myTauntText	<empty>
+SupportWeaponDatabase.US.Repair_Jeep_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Repair_Jeep_US.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.US.Repair_Jeep_US.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.US.Light_Tank_US.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.US.Light_Tank_US.myGuiDescription	Calls in an extra Light Tank 
+SupportWeaponDatabase.US.Light_Tank_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Light_Tank_US.myTauntText	<empty>
+SupportWeaponDatabase.US.Light_Tank_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Light_Tank_US.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.US.Light_Tank_US.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.US.BridgeRepairer_US.myGuiName	Repair Bridge
+SupportWeaponDatabase.US.BridgeRepairer_US.myGuiDescription	Repairs broken bridges
+SupportWeaponDatabase.US.BridgeRepairer_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.BridgeRepairer_US.myTauntText	<empty>
+SupportWeaponDatabase.US.BridgeRepairer_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.BridgeRepairer_US.myHelpBox.myLeftHandedDescription	Right click on a destroyed bridge to repair it. Left click to cancel.
+SupportWeaponDatabase.US.BridgeRepairer_US.myHelpBox.myRightHandedDescription	Left click on a destroyed bridge to repair it. Right click to cancel.
+SupportWeaponDatabase.US.Napalmstrike_US.myGuiName	Napalm Strike
+SupportWeaponDatabase.US.Napalmstrike_US.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.US.Napalmstrike_US.myTauntTextYouHitPlayer	%s was just barbecued by your Napalm Strike.
+SupportWeaponDatabase.US.Napalmstrike_US.myTauntText	%s set you on fire with a Napalm Strike.
+SupportWeaponDatabase.US.Napalmstrike_US.myTauntTextPlayerHitPlayer	%s sent a warm greeting to %s.
+SupportWeaponDatabase.US.Napalmstrike_US.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.US.Napalmstrike_US.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.US.Tankbuster_US.myGuiName	Tank Buster
+SupportWeaponDatabase.US.Tankbuster_US.myGuiDescription	Good against tanks and vehicles \n- Small rectangular area
+SupportWeaponDatabase.US.Tankbuster_US.myTauntTextYouHitPlayer	%s got shredded by your Tank Buster.
+SupportWeaponDatabase.US.Tankbuster_US.myTauntText	%s ripped you apart with a Tank Buster.
+SupportWeaponDatabase.US.Tankbuster_US.myTauntTextPlayerHitPlayer	%s called in a Tank Buster and shredded %s.
+SupportWeaponDatabase.US.Tankbuster_US.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.US.Tankbuster_US.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.US.Bunkerbuster_US.myGuiName	Laser Guided Bomb
+SupportWeaponDatabase.US.Bunkerbuster_US.myGuiDescription	Good against bridges and buildings \n- Small area of effect
+SupportWeaponDatabase.US.Bunkerbuster_US.myTauntTextYouHitPlayer	Your Laser Guided Bomb homed all the way in on %s.
+SupportWeaponDatabase.US.Bunkerbuster_US.myTauntText	%s painted you with a laser and a Bunker Buster followed.
+SupportWeaponDatabase.US.Bunkerbuster_US.myTauntTextPlayerHitPlayer	%s guided a Bunker Buster to the doorstep of %s.
+SupportWeaponDatabase.US.Bunkerbuster_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.Bunkerbuster_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.AntiAirstrike_US.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.US.AntiAirstrike_US.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.US.AntiAirstrike_US.myTauntTextYouHitPlayer	%s was slapped into place by your Air-to-Air Strike.
+SupportWeaponDatabase.US.AntiAirstrike_US.myTauntText	%s taught you not to be overconfident with an Air-to-Air Strike.
+SupportWeaponDatabase.US.AntiAirstrike_US.myTauntTextPlayerHitPlayer	%s used an Air-to-Air strike to teach respect to %s.
+SupportWeaponDatabase.US.AntiAirstrike_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.US.AntiAirstrike_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.US.GasAttack_US.myGuiName	Chemical Strike
+SupportWeaponDatabase.US.GasAttack_US.myGuiDescription	Good against infantry \n- Stays in the area for a short while \n- Large circular area
+SupportWeaponDatabase.US.GasAttack_US.myTauntTextYouHitPlayer	%s is choking on your Chemical Strike.
+SupportWeaponDatabase.US.GasAttack_US.myTauntText	%s tested your soldiers' chemical warfare readiness.
+SupportWeaponDatabase.US.GasAttack_US.myTauntTextPlayerHitPlayer	%s created a toxic cloud around %s.
+SupportWeaponDatabase.US.GasAttack_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.US.GasAttack_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myGuiName	Heavy Air Support
+SupportWeaponDatabase.US.HeavyAirSupport_US.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.US.HeavyAirSupport_US.myTauntTextYouHitPlayer	%s was bombed to smithereens by your Heavy Air Strike.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myTauntText	Your troops got destroyed by a Heavy Air Strike delivered by %s.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myTauntTextPlayerHitPlayer	%s called in a Heavy Air Strike and destroyed %s.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.US.HeavyAirSupport_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myGuiName	CHILD_HeavyAirSupport_US_AT_1
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myGuiName	CHILD_HeavyAirSupport_US_AA_1
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myGuiName	CHILD_HeavyAirSupport_US_AT_2
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myGuiName	CHILD_HeavyAirSupport_US_AA_2
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AA_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myGuiName	CHILD_HeavyAirSupport_US_AT_3
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_HeavyAirSupport_US_AT_3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myGuiDescription	Good against infantry \n- Large circular area \n- Large spread
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myTauntTextYouHitPlayer	%s was caught by your Light Artillery Strike.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myTauntText	%s called in a Light Artillery Strike on your exposed units.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myTauntTextPlayerHitPlayer	%s called in a Light Artillery Strike and humiliated %s.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.LightArtilleryBarrage_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myGuiName	Mupp
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myGuiName	Mupp
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myGuiDescription	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myTauntText	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.CHILD_LightArtilleryBarrage_US_3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.Airstrike_US.myGuiName	Airstrike
+SupportWeaponDatabase.US.Airstrike_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.US.Airstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.US.Airstrike_US.myTauntText	%s called in an Air Strike and struck you hard
+SupportWeaponDatabase.US.Airstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.US.Airstrike_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.US.Airstrike_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.US.ClusterBomb_US.myGuiName	Airstrike
+SupportWeaponDatabase.US.ClusterBomb_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.US.ClusterBomb_US.myTauntTextYouHitPlayer	Your Cluster Bombs smashed the living daylights out of %s.
+SupportWeaponDatabase.US.ClusterBomb_US.myTauntText	%s dropped a load of Cluster Bombs on your ill prepared forces.
+SupportWeaponDatabase.US.ClusterBomb_US.myTauntTextPlayerHitPlayer	%s scattered a deadly payload of Cluster Bombs all over %s.
+SupportWeaponDatabase.US.ClusterBomb_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.US.ClusterBomb_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Large circular area \n- Large spread
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myTauntTextYouHitPlayer	Your Heavy Artillery Strike rained death on %s.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myTauntText	Your men was caught in a Heavy Artillery Strike delivered by %s.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myTauntTextPlayerHitPlayer	%s fired a Heavy Artillery Barrage that was fatal for %s.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.HeavyArtilleryBarrage_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.Artillery_US.myGuiName	Precision Artillery
+SupportWeaponDatabase.US.Artillery_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.US.Artillery_US.myTauntTextYouHitPlayer	Your Precision Artillery Strike eradicated %s.
+SupportWeaponDatabase.US.Artillery_US.myTauntText	%s hit you hard with a Precision Artillery Strike.
+SupportWeaponDatabase.US.Artillery_US.myTauntTextPlayerHitPlayer	%s called down a Precision Artillery Strike on top of %s.
+SupportWeaponDatabase.US.Artillery_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.US.Artillery_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.US.DaisyCutter_US.myGuiName	Daisy Cutter Bomb
+SupportWeaponDatabase.US.DaisyCutter_US.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.US.DaisyCutter_US.myTauntTextYouHitPlayer	Your Daisy Cutter ruined the day for %s.
+SupportWeaponDatabase.US.DaisyCutter_US.myTauntText	%s caught you in the blast of a Daisy Cutter.
+SupportWeaponDatabase.US.DaisyCutter_US.myTauntTextPlayerHitPlayer	%s dropped a massive Daisy Cutter on %s
+SupportWeaponDatabase.US.DaisyCutter_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.DaisyCutter_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.US.CarpetBombing_US.myGuiName	Carpet Bombing
+SupportWeaponDatabase.US.CarpetBombing_US.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.US.CarpetBombing_US.myTauntTextYouHitPlayer	Your Carpet Bombing blew the bejesus out of %s.
+SupportWeaponDatabase.US.CarpetBombing_US.myTauntText	%s called in a Carpet Bombing and eradicated your forces.
+SupportWeaponDatabase.US.CarpetBombing_US.myTauntTextPlayerHitPlayer	%s used Carpet Bombing to demonstrate the art of war to %s.
+SupportWeaponDatabase.US.CarpetBombing_US.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.US.CarpetBombing_US.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.US.TacticalNuke_US.myGuiName	Tactical Nuke
+SupportWeaponDatabase.US.TacticalNuke_US.myGuiDescription	Good against units and buildings \n- Huge circular area \n- Radiation stays in the area for a while
+SupportWeaponDatabase.US.TacticalNuke_US.myTauntTextYouHitPlayer	%s has been shown the light.
+SupportWeaponDatabase.US.TacticalNuke_US.myTauntText	%s just realized his nuclear ambitions.
+SupportWeaponDatabase.US.TacticalNuke_US.myTauntTextPlayerHitPlayer	%s just went nuclear on %s.
+SupportWeaponDatabase.US.TacticalNuke_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.US.TacticalNuke_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.RadarScan_USSR.myGuiName	Aerial Recon
+SupportWeaponDatabase.USSR.RadarScan_USSR.myGuiDescription	Reveals all units in the area \n- The area is revealed for a short period of time \n- Huge circular area
+SupportWeaponDatabase.USSR.RadarScan_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.RadarScan_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.RadarScan_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.RadarScan_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.RadarScan_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myGuiName	Airborne Infantry
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myGuiDescription	Calls in some Airborne Spetsnaz \n- These soldiers can call down artillery strikes
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.USSR.Paratrooper_USSR.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myGuiName	Airdropped Transport
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.Repair_Jeep_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myGuiDescription	Calls in an extra Light Tank 
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.USSR.Light_Tank_USSR.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myGuiName	Repair Bridge
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myGuiDescription	Repairs broken bridges
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myHelpBox.myLeftHandedDescription	Right click on a destroyed bridge to repair it. Left click to cancel.
+SupportWeaponDatabase.USSR.BridgeRepairer_USSR.myHelpBox.myRightHandedDescription	Left click on a destroyed bridge to repair it. Right click to cancel.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myGuiName	Napalm Strike
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myTauntTextYouHitPlayer	%s was caught in your Napalm inferno.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myTauntText	%s caught you in the blaze of a Napalm Strike.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myTauntTextPlayerHitPlayer	%s sent a warm greeting to %s.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.USSR.Napalmstrike_USSR.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myGuiName	Tank Buster
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myGuiDescription	Good against tanks and vehicles \n- Small rectangular area
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myTauntTextYouHitPlayer	Your Tank Buster shredded %s.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myTauntText	%s ripped you apart with a Tank Buster.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myTauntTextPlayerHitPlayer	%s called in a Tank Buster and shredded %s.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.USSR.Tankbuster_USSR.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myGuiName	Laser Guided Bomb
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myGuiDescription	Good against bridges and buildings \n- Small area of effect
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myTauntTextYouHitPlayer	%s was found by your Laser Guided Bomb.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myTauntText	%s painted you with a laser and a Bunker Buster followed.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myTauntTextPlayerHitPlayer	%s guided a Bunker Buster to the doorstep of %s.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.Bunkerbuster_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myTauntTextYouHitPlayer	Your Air-to-Air strike intercepted %s.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myTauntText	%s taught you not to be overconfident with an Air-to-Air Strike.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myTauntTextPlayerHitPlayer	%s used an Air-to-Air strike to teach respect to %s.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.USSR.AntiAirstrike_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myGuiName	Chemical Strike
+SupportWeaponDatabase.USSR.GasAttack_USSR.myGuiDescription	Good against infantry \n- Stays in the area for a short while \n- Large circular area
+SupportWeaponDatabase.USSR.GasAttack_USSR.myTauntTextYouHitPlayer	%s is choking on your Chemical Strike.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myTauntText	%s exposed your soldiers to a deadly Chemical Strike.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myTauntTextPlayerHitPlayer	%s created a toxic cloud around %s.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.USSR.GasAttack_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myGuiName	Heavy Air Support
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myTauntTextYouHitPlayer	The Heavy Air Strike wiped out %s.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myTauntText	Your troops were destroyed by a Heavy Air Strike from %s.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myTauntTextPlayerHitPlayer	%s called in a Heavy Air Strike and destroyed %s.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.USSR.HeavyAirSupport_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myGuiName	CHILD_HeavyAirSupport_USSR_AT_1
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myGuiName	CHILD_HeavyAirSupport_USSR_AA_1
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myGuiName	CHILD_HeavyAirSupport_USSR_AT_2
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myGuiName	CHILD_HeavyAirSupport_USSR_AA_2
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AA_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myGuiName	CHILD_HeavyAirSupport_USSR_AT_3
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_HeavyAirSupport_USSR_AT_3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myGuiDescription	Good against infantry \n- Large circular area \n- Large spread
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myTauntTextYouHitPlayer	Your Light Artillery Strike interdicted %s
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myTauntText	%s called in a Light Artillery Strike on your unsuspecting forces.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	%s called in a Light Artillery Strike and humiliated %s.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.LightArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myGuiName	Mupp
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myGuiName	Mupp
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myGuiDescription	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myTauntText	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.CHILD_LightArtilleryBarrage_USSR_3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.Airstrike_USSR.myGuiName	Airstrike
+SupportWeaponDatabase.USSR.Airstrike_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.USSR.Airstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Airstrike_USSR.myTauntText	% struck your hard with a Heavy Air Strike.
+SupportWeaponDatabase.USSR.Airstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.USSR.Airstrike_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.USSR.Airstrike_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myGuiName	Airstrike
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myTauntTextYouHitPlayer	Your Cluster Bombs blew up %s.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myTauntText	%s dropped a load of Cluster Bombs on your forces.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myTauntTextPlayerHitPlayer	%s scattered a deadly payload of Cluster Bombs all over %s.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.USSR.ClusterBomb_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Large circular area \n- Large spread
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myTauntTextYouHitPlayer	%s was put in a world of hurt by your Heavy Artillery Strike.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myTauntText	%s called in a Heavy Artillery Barrage on your units.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	%s fired a Heavy Artillery Barrage that was fatal for %s.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.HeavyArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.Artillery_USSR.myGuiName	Precision Artillery
+SupportWeaponDatabase.USSR.Artillery_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.USSR.Artillery_USSR.myTauntTextYouHitPlayer	Your Precision Artillery Strike obliterated %s.
+SupportWeaponDatabase.USSR.Artillery_USSR.myTauntText	%s hit you with a Precision Artillery Barrage.
+SupportWeaponDatabase.USSR.Artillery_USSR.myTauntTextPlayerHitPlayer	%s called down a Precision Artillery Strike on top of %s.
+SupportWeaponDatabase.USSR.Artillery_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.USSR.Artillery_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myTauntTextYouHitPlayer	%s was shown the way by your Fuel Air Bomb.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myTauntText	%s caught you in the blast of a Fuel Air Bomb.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myTauntTextPlayerHitPlayer	%s delivered third degree burns with a Fuel Air Bomb to %s.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.DaisyCutter_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myGuiName	Carpet Bombing
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myTauntTextYouHitPlayer	Your Carpet Bombing made a believer out of %s.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myTauntText	Your forces were obliterated in a Carpet Bombing, courtesy of %s.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myTauntTextPlayerHitPlayer	%s used Carpet Bombing to demonstrate the art of war to %s.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.USSR.CarpetBombing_USSR.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myGuiName	Tactical Nuke
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myGuiDescription	Good against units and buildings \n- Huge circular area \n- Radiation stays in the area for a while
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myTauntTextYouHitPlayer	%s now knows the full power of the Motherland.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myTauntText	%s just wiped you off the map.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myTauntTextPlayerHitPlayer	%s showed the might of the Soviet Union to %s.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.USSR.TacticalNuke_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.RadarScan_NATO.myGuiName	Aerial Recon
+SupportWeaponDatabase.NATO.RadarScan_NATO.myGuiDescription	Reveals all units in the area \n- The area is revealed for a short period of time \n- Huge circular area
+SupportWeaponDatabase.NATO.RadarScan_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.RadarScan_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.RadarScan_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.RadarScan_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.RadarScan_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myGuiName	Airborne Infantry
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myGuiDescription	Calls in some Airborne Legionaires \n- These soldiers can call down artillery strikes
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myHelpBox.myLeftHandedDescription	Right click to set paratrooper drop zone. Left click to cancel.
+SupportWeaponDatabase.NATO.Paratrooper_NATO.myHelpBox.myRightHandedDescription	Left click to set paratrooper drop zone. Right click to cancel.
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myGuiName	Airdropped Transport
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.NATO.Repair_Jeep_NATO.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myGuiDescription	Calls in an extra Light Tank 
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.NATO.Light_Tank_NATO.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myGuiName	Repair Bridge
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myGuiDescription	Repairs broken bridges
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myHelpBox.myLeftHandedDescription	Right click on a destroyed bridge to repair it. Left click to cancel.
+SupportWeaponDatabase.NATO.BridgeRepairer_NATO.myHelpBox.myRightHandedDescription	Left click on a destroyed bridge to repair it. Right click to cancel.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myGuiName	Napalm Strike
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myTauntTextYouHitPlayer	%s was burned to cinders by your Napalm Strike.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myTauntText	%s caught you in the blaze of a Napalm Strike.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myTauntTextPlayerHitPlayer	%s sent a warm greeting to %s.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.NATO.Napalmstrike_NATO.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myGuiName	Tank Buster
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myGuiDescription	Good against tanks and vehicles \n- Small rectangular area
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myTauntTextYouHitPlayer	Your Tank Buster shredded %s.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myTauntText	%s ripped you apart with a Tank Buster.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myTauntTextPlayerHitPlayer	%s called in a Tank Buster and shredded %s.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.NATO.Tankbuster_NATO.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myGuiName	Laser Guided Bomb
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myGuiDescription	Good against bridges and buildings \n- Small area of effect
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myTauntTextYouHitPlayer	%s was hit in the face by your Laser Guided Bomb.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myTauntText	%s painted you with a laser and a Bunker Buster followed.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myTauntTextPlayerHitPlayer	%s guided a Bunker Buster to the doorstep of %s.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.Bunkerbuster_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myTauntTextYouHitPlayer	Your Air-to-Air Strike taught respect to %s.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myTauntText	%s taught you not to be overconfident with an Air-to-Air Strike.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myTauntTextPlayerHitPlayer	%s used an Air-to-Air strike to teach respect to %s.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.NATO.AntiAirstrike_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myGuiName	Chemical Strike
+SupportWeaponDatabase.NATO.GasAttack_NATO.myGuiDescription	Good against infantry \n- Stays in the area for a short while \n- Large circular area
+SupportWeaponDatabase.NATO.GasAttack_NATO.myTauntTextYouHitPlayer	%s is choking on your Chemical Strike.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myTauntText	%s exposed your soldiers to a deadly Chemical Strike.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myTauntTextPlayerHitPlayer	%s created a toxic cloud around %s.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.NATO.GasAttack_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myGuiName	Heavy Air Support
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myTauntTextYouHitPlayer	Your Heavy Air Strike wiped out %s.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myTauntText	Your troops were destroyed by a Heavy Air Strike from %s.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myTauntTextPlayerHitPlayer	%s called in a Heavy Air Strike and destroyed %s.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.NATO.HeavyAirSupport_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myGuiName	CHILD_HeavyAirSupport_NATO_AT_1
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myGuiName	CHILD_HeavyAirSupport_NATO_AA_1
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myGuiName	CHILD_HeavyAirSupport_NATO_AT_2
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myGuiName	CHILD_HeavyAirSupport_NATO_AA_2
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AA_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_3
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_HeavyAirSupport_NATO_AT_3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myGuiDescription	Good against infantry \n- Large circular area \n- Large spread
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myTauntTextYouHitPlayer	 %s was caught by your Light Artillery Strike.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myTauntText	%s called in a Light Artillery Strike on your unsuspecting forces.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	%s called in a Light Artillery Strike and humiliated %s.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.LightArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myGuiName	Mupp
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myGuiName	Mupp
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myGuiDescription	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myTauntText	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.CHILD_LightArtilleryBarrage_NATO_3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.Airstrike_NATO.myGuiName	Airstrike
+SupportWeaponDatabase.NATO.Airstrike_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.NATO.Airstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Airstrike_NATO.myTauntText	%s's Air Strike found its target and struck you hard
+SupportWeaponDatabase.NATO.Airstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.NATO.Airstrike_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.NATO.Airstrike_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myGuiName	Airstrike
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myTauntTextYouHitPlayer	Your Cluster Bombs destroyed %s.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myTauntText	%s dropped a load of Cluster Bombs on your forces.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myTauntTextPlayerHitPlayer	%s scattered a deadly payload of Cluster Bombs all over %s.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.NATO.ClusterBomb_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Large circular area \n- Large spread
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myTauntTextYouHitPlayer	That Heavy Artillery Strike knocked the wind out of %s.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myTauntText	%s called in a Heavy Artillery Barrage on your units.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	%s fired a Heavy Artillery Barrage that was fatal for %s.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.HeavyArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.Artillery_NATO.myGuiName	Precision Artillery
+SupportWeaponDatabase.NATO.Artillery_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.NATO.Artillery_NATO.myTauntTextYouHitPlayer	Your Precision Artillery Strike struck %s.
+SupportWeaponDatabase.NATO.Artillery_NATO.myTauntText	%s hit you hard with a Precision Artillery Barrage.
+SupportWeaponDatabase.NATO.Artillery_NATO.myTauntTextPlayerHitPlayer	%s called down a Precision Artillery Strike on top of %s.
+SupportWeaponDatabase.NATO.Artillery_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.NATO.Artillery_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myGuiName	Daisy Cutter Bomb
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myTauntTextYouHitPlayer	Your Daisy Cutter ruined the day for %s.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myTauntText	%s caught you in the blast of a Daisy Cutter.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myTauntTextPlayerHitPlayer	%s dropped a massive Daisy Cutter on %s
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.DaisyCutter_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myGuiName	Carpet Bombing
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myTauntTextYouHitPlayer	Your Carpet Bombing delivered death and destruction to %s.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myTauntText	Your couldn't flee the Carpet Bombing called in by %s.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myTauntTextPlayerHitPlayer	%s used Carpet Bombing to demonstrate the art of war to %s.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.NATO.CarpetBombing_NATO.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myGuiName	Tactical Nuke
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myGuiDescription	Good against units and buildings \n- Huge circular area \n- Radiation stays in the area for a while
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myTauntTextYouHitPlayer	%s is now glowing in the dark.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myTauntText	%s just dropped the big one on you.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myTauntTextPlayerHitPlayer	%s just went nuclear on %s.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myGuiName	Tactical Nuke
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myGuiDescription	Good against units and buildings \n- Huge circular area \n- Radiation stays in the area for a while
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myTauntTextYouHitPlayer	%s is now glowing in the dark .
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myTauntText	%s just dropped the big one on you.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myTauntTextPlayerHitPlayer	%s just went nuclear on %s.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.NATO.TacticalNuke_NATO_British.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myGuiName	Radar scan Level 1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myGuiDescription	Reveals all units in the area \n- The area is revealed for a short period of time \n- Huge circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myGuiName	Tactical Nuke
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myGuiName	Precision Artillery
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myGuiName	Precision Artillery
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiName	BLU-82 Daisy Cutter bomb Level1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myGuiName	Direct Artillery
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_SpecialDirectArtillery.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myGuiDescription	Calls in an extra Light Tank 
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoUnit.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myGuiName	Laser Guided Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myGuiDescription	Good against bridges and buildings \n- Small area of effect
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_SingleProjectile.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myGuiName	Tactical Nuke
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myGuiName	Tactical Nuke
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myGuiDescription	Good against units and buildings \n- Huge circular area \n- Radiation stays in the area for a while
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_US_seattle1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR_Single_Projectile_NO_DAMAGE.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myGuiName	Artillery barrage Level 1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NO_DAMAGE.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myGuiName	Artillery barrage Level 1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_USSR_SingleProjectile_NullBullet.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myGuiName	Tactical Nuke
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.TacticalNuke_US_NO_MISSILE.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myGuiName	Airborne Infantry
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myGuiName	Airborne Infantry
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR_Fast_No_Units.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myGuiName	Airdropped Transport
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tutorial_US_Jeep.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bradley_Us.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myGuiName	Aerial Recon
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myGuiDescription	Reveals all units in the area \n- The area is revealed for a short period of time \n- Huge circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myGuiName	Airborne Infantry
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myGuiDescription	Calls in some Airborne Legionaires \n- These soldiers can call down artillery strikes
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myHelpBox.myLeftHandedDescription	Right click to set paratrooper drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO.myHelpBox.myRightHandedDescription	Left click to set paratrooper drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myGuiName	Airdropped Transport
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_NATO.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myGuiDescription	Calls in an extra Light Tank 
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_NATO.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myGuiName	Repair Bridge
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myGuiDescription	Repairs broken bridges
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myHelpBox.myLeftHandedDescription	Right click on a destroyed bridge to repair it. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_NATO.myHelpBox.myRightHandedDescription	Left click on a destroyed bridge to repair it. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myGuiName	Napalm Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_NATO.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myGuiName	Tank Buster
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myGuiDescription	Good against tanks and vehicles \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_NATO.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myGuiName	Laser Guided Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myGuiDescription	Good against bridges and buildings \n- Small area of effect
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myGuiName	Chemical Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myGuiDescription	Good against infantry \n- Stays in the area for a short while \n- Large circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myGuiName	Heavy Air Support
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myGuiDescription	Good against infantry \n- Large circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Large circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myGuiName	Precision Artillery
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myGuiName	Daisy Cutter Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myGuiName	Carpet Bombing
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_NATO.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myGuiName	Tactical Nuke
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myGuiDescription	Good against units and buildings \n- Huge circular area \n- Radiation stays in the area for a while
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_NATO.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myGuiName	Aerial Recon
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myGuiDescription	Reveals all units in the area \n- The area is revealed for a short period of time \n- Huge circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myGuiName	Airborne Infantry
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myGuiDescription	Calls in some Airborne Rangers \n- These soldiers can call down artillery strikes
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myHelpBox.myLeftHandedDescription	Right click to set paratrooper drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_US.myHelpBox.myRightHandedDescription	Left click to set paratrooper drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myGuiName	Airdropped Transport
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_US.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myGuiDescription	Calls in an extra Light Tank 
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_US.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myGuiName	Repair Bridge
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myGuiDescription	Repairs broken bridges
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myHelpBox.myLeftHandedDescription	Right click on a destroyed bridge to repair it. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_US.myHelpBox.myRightHandedDescription	Left click on a destroyed bridge to repair it. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myGuiName	Napalm Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_US.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myGuiName	Tank Buster
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myGuiDescription	Good against tanks and vehicles \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_US.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myGuiName	Chemical Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myGuiDescription	Good against infantry \n- Stays in the area for a short while \n- Large circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myGuiName	Heavy Air Support
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myGuiDescription	Good against infantry \n- Large circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Large circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myGuiName	Precision Artillery
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myGuiName	Daisy Cutter Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_US.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myGuiName	Carpet Bombing
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myGuiName	Aerial Recon
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myGuiDescription	Reveals all units in the area \n- The area is revealed for a short period of time \n- Huge circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_RadarScan_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myGuiName	Airborne Infantry
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myGuiDescription	Calls in some Airborne Spetsnaz \n- These soldiers can call down artillery strikes
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myHelpBox.myLeftHandedDescription	Right click to set transport drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_USSR.myHelpBox.myRightHandedDescription	Left click to set transport drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myGuiName	Airdropped Transport
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myGuiName	Repair Bridge
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myGuiDescription	Repairs broken bridges
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myHelpBox.myLeftHandedDescription	Right click on a destroyed bridge to repair it. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_BridgeRepairer_USSR.myHelpBox.myRightHandedDescription	Left click on a destroyed bridge to repair it. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myGuiName	Napalm Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Napalmstrike_USSR.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myGuiName	Tank Buster
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myGuiDescription	Good against tanks and vehicles \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Tankbuster_USSR.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myGuiName	Laser Guided Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myGuiDescription	Good against bridges and buildings \n- Small area of effect
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Bunkerbuster_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myGuiName	Chemical Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myGuiDescription	Good against infantry \n- Stays in the area for a short while \n- Large circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_GasAttack_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myGuiName	Heavy Air Support
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myGuiName	Light Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myGuiDescription	Good against infantry \n- Large circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_LightArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myGuiDescription	Good against tanks, infantry, vehicles \n- Large circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyArtilleryBarrage_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myGuiName	Carpet Bombing
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myGuiName	Tactical Nuke
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myGuiDescription	Good against units and buildings \n- Huge circular area \n- Radiation stays in the area for a while
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_TacticalNuke_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myGuiName	Incendiary Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myGuiDescription	Good against infantry, tanks, vehicles and forests \n- Burns the impact area for a period of time \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myGuiName	Incendiary Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myGuiDescription	Good against infantry, tanks, vehicles and forests \n- Burns the impact area for a period of time \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_PhosphorusBomb_USSR_Norway1.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myGuiName	USS Missouri Naval Gun 1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myGuiDescription	Devastating against all ground units \n- Medium circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myHelpBox.myLeftHandedDescription	Right click to call in artillery on a position. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_1.myHelpBox.myRightHandedDescription	Left click to call in artillery on a position. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myGuiName	USS Missouri Naval Gun 2
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myGuiDescription	Devastating against all ground units \n- Medium circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myHelpBox.myLeftHandedDescription	Right click to call in artillery on a position. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_2.myHelpBox.myRightHandedDescription	Left click to call in artillery on a position. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myGuiName	USS Missouri Naval Gun 3
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myGuiDescription	Devastating against all ground units \n- Medium circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myHelpBox.myLeftHandedDescription	Right click to call in artillery on a position. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_USS_Missouri_Guns_3.myHelpBox.myRightHandedDescription	Left click to call in artillery on a position. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myGuiName	Heavy Artillery Barrage
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myGuiDescription	Good against tanks, infantry, vehicles \n- Large circular area \n- Large spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_US_SingleProjectile_SHORT_STARTHEIGHT.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myGuiName	Airborne Infantry
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myGuiDescription	Calls in some Airborne Spesialjegere \n- These soldiers can call down artillery strikes
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myHelpBox.myLeftHandedDescription	Right click to set paratrooper drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Paratrooper_NATO_NorwegianRangers.myHelpBox.myRightHandedDescription	Left click to set paratrooper drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myGuiName	Radar scan Level 1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Flare.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myGuiName	Carpet Bombing
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_US_REBALANCED.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Airstrike_US_REBALANCED.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myGuiName	Carpet Bombing
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myGuiDescription	Good against units and buildings \n- Huge rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CarpetBombing_USSR_REBALANCED.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_REBALANCED.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myGuiName	Air-to-Air Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myGuiDescription	Good against air units \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_AntiAirstrike_USSR_REBALANCED.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myGuiName	Daisy Cutter Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Fuelbomb_Explosion_USSR.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myGuiName	Napalm Strike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myGuiDescription	Good against infantry, light vehicles and forests \n- Stays burning in the area for a short while \n- Small rectangular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myHelpBox.myLeftHandedDescription	Right click to set corridor starting point and direction. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_NapalmFire.myHelpBox.myRightHandedDescription	Left click to set corridor starting point and direction. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR2.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myGuiName	Airdropped Transport
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myGuiDescription	Calls in an extra Troop Transport vehicle \n- This unit can transport and repair
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Repair_Jeep_USSR_Fast.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myGuiName	Precision Artillery
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myGuiDescription	Good against tanks, infantry, vehicles \n- Small circular area \n- Small spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Artillery_NATO_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myGuiName	Heavy Air Support
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myGuiDescription	Good against tanks, air units and vehicles \n- Large circular area \n- Only hits hostile units in the area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_HeavyAirSupport_NATO_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_1
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_1_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_2
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_2_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myGuiName	CHILD_HeavyAirSupport_NATO_AT_3
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_CHILD_HeavyAirSupport_NATO_AT_3_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myGuiName	Airdropped Light Tank
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myGuiDescription	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myHelpBox.myLeftHandedDescription	Right click to set light tank drop zone. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_Light_Tank_USSR_NoGUI.myHelpBox.myRightHandedDescription	Left click to set light tank drop zone. Right click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_NATO_Russia3.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myGuiName	Airstrike
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myGuiDescription	Good against tanks, infantry, vehicles \n- Medium circular area \n- Medium spread
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.\nRight click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_ClusterBomb_US_No_bullets_No_delay.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.\nLeft click and hold to set direction.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myGuiName	Fuel Air Bomb
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myGuiDescription	Good against infantry, vehicles, forest \n- Medium circular area
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myTauntText	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.SinglePlayer.SINGLEPLAYER_DaisyCutter_USSR_RB_Napalm.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myGuiName	Detonate explosives.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myGuiDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myTauntText	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myHelpBox.myLeftHandedDescription	Right click to place demolition charges. Left click to cancel.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Plant_Explosives.myHelpBox.myRightHandedDescription	Left click to place demolition charges. Right click to cancel.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myGuiName	Direct Artillery
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myGuiDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myTauntText	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myHelpBox.myLeftHandedDescription	Right click to call in artillery on a position. Left click to cancel.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_Direct_Artillery.myHelpBox.myRightHandedDescription	Left click to call in artillery on a position. Right click to cancel.
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myGuiName	Artillery
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myGuiDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myTauntText	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.SpecialAbilities.SPECIAL_ArtilleryMarker.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myGuiName	CINE Tactical Nuke
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myGuiName	CINE Tactical Nuke NoDamage
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_TacticalNuke_NoDamage.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myGuiName	CINE ShockWave
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_ShockWave.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myGuiName	CINE Daisy Cutter
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DaisyCutter.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myGuiName	CINE Arty single shot
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_Artillery.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myGuiName	CINE Cruise with Deto
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_CruiseWithDeto.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myGuiName	Invisible Exploder Focused
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_InvExploderFocused.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myGuiName	CINE Hemi Nuke Basic
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HemiNukeBasic.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myGuiName	CINE Direct Artillery
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.Cinematics.CINEMATICS_DirectArty.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myGuiName	CINE Small Explosion
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myGuiName	CINE Small Explosion 2
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myHelpBox.myLeftHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_SmallExplosion2.myHelpBox.myRightHandedDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myGuiName	CINE Heavy Artillery Barrage
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myGuiName	CINE Heavy Artillery Barrage
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.Cinematics.CINEMATICS_HeavyArty_NoDamage.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myGuiName	CINE Napalm Single bullet
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myGuiDescription	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myTauntTextYouHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myTauntText	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myTauntTextPlayerHitPlayer	<empty>
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myHelpBox.myLeftHandedDescription	Right click to place. Left click to cancel.
+SupportWeaponDatabase.Cinematics.CINEMATICS_NapalmSingleBullet.myHelpBox.myRightHandedDescription	Left click to place. Right click to cancel.

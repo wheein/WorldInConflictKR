@@ -1,0 +1,495 @@
+﻿WicData.myDefaultProfileName	Player
+WicData.myDefaultGameName	World in Conflict Game
+WicData.myNoProfileName	No Profile
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipTaken	Taken command point\n\nYou have captured this command point from the enemy.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipFallen	Fallen command point\n\nThis command point has been captured by the enemy.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipContested	Contested command point\n\nThis is the command point you are currently fighting for.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipFrendlyUncaptured	Uncaptured command point (friendly)\n\nYou are still in control of this command point.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipEnemyUncaptured	Uncaptured command point (enemy)\n\nThis command point is still held by the enemy.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipDisabled	Disabled in phase two\n\nThe assault in phase one was stopped before it reached this command point.
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipTimeToHold	Time to defend\n\nThe timer indicates the time in which you captured this command point in phase one.\n\n<#b22>If the enemy captures it, before the time runs out, they will win.</>
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipTimeToWin	Time to capture\n\nThe timer indicates the time you managed to hold this command point in phase one.\n\n<#2b2>Capture it, before the time runs out, to win.</>
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipInstantLoose	<#b22>Instant loss!</>\n\nYou did not manage to capture this command point in phase one.\n\nIf the enemy captures it they will win instantly!
+WicData.myPlayState.myPlayer.myTangibleUI.myAssultBar.myToolTipInstantWin	<#2b2>Instant win!</>\n\nYou successfully defended this command point in phase one.\n\nCapture it to win instantly!
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPrice	Price:
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myDeploymentTime	Deployment Time:
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myRechargeTime	Recharge Time:
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPlacementCount1	x1
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPlacementCount2	x2
+WicData.myPlayState.myPlayer.myTacticalAidMenu.myPlacementCount3	x3
+WicData.myPlayState.myPlayer.myScoreSheet.myPlayerNameString	Player
+WicData.myPlayState.myPlayer.myScoreSheet.myScoreString	Player
+WicData.myPlayState.myPlayer.myScoreSheet.myTeamVictoryLocationsString	Player
+WicData.myPlayState.myOrderPaletteIcons.myRechargeTime	Recharge Time:
+WicData.myPlayState.myOrderPaletteIcons.myDurationTime	Duration:
+WicData.myPlayState.myFirstTimeTips.myMoveCameraText	Move your camera position by using the W, A, S and D keys.
+WicData.myPlayState.myFirstTimeTips.myDeployUnitsText	Use the Reinforcement menu in the upper right corner to call down units.
+WicData.myPlayState.myFirstTimeTips.myGiveOrderText	Select your units by left-clicking on their icon. Order them around by right-clicking in the world.
+WicData.myPlayState.myFirstTimeTips.myDropTAText	Use the Tactical Aid menu in the upper left corner to call in off-map support.
+WicData.myMassgateInfo.myCountryCode	US
+WicData.myMassgateInfo.myLanguageCode	EN
+WicData.myMassgateInfo.myDistributionId	1
+WicData.myMassgateInfo.myRankDefinitions.level0.myUiName	Recruit
+WicData.myMassgateInfo.myRankDefinitions.level1.myUiName	Private
+WicData.myMassgateInfo.myRankDefinitions.level2.myUiName	Private First Class
+WicData.myMassgateInfo.myRankDefinitions.level3.myUiName	Corporal
+WicData.myMassgateInfo.myRankDefinitions.level4.myUiName	Sergeant
+WicData.myMassgateInfo.myRankDefinitions.level5.myUiName	Staff Sergeant
+WicData.myMassgateInfo.myRankDefinitions.level6.myUiName	Sergeant First Class
+WicData.myMassgateInfo.myRankDefinitions.level7.myUiName	First Sergeant
+WicData.myMassgateInfo.myRankDefinitions.level8.myUiName	Sergeant Major
+WicData.myMassgateInfo.myRankDefinitions.level9.myUiName	2nd Lieutenant
+WicData.myMassgateInfo.myRankDefinitions.level10.myUiName	1st Lieutenant
+WicData.myMassgateInfo.myRankDefinitions.level11.myUiName	Captain
+WicData.myMassgateInfo.myRankDefinitions.level12.myUiName	Major
+WicData.myMassgateInfo.myRankDefinitions.level13.myUiName	Lieutenant Colonel
+WicData.myMassgateInfo.myRankDefinitions.level14.myUiName	Colonel
+WicData.myMassgateInfo.myRankDefinitions.level15.myUiName	Brigadier General
+WicData.myMassgateInfo.myRankDefinitions.level16.myUiName	Major General
+WicData.myMassgateInfo.myRankDefinitions.level17.myUiName	Lieutenant General
+WicData.myMassgateInfo.myRankDefinitions.level18.myUiName	General
+WicData.myMassgateInfo.myMedals.myMedal1.myName	Infantry Achievement Award
+WicData.myMassgateInfo.myMedals.myMedal1.myInfo	Awarded to the highest scoring Infantry player in a match.
+WicData.myMassgateInfo.myMedals.myMedal1.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nBe the best Infantry player in a match.
+WicData.myMassgateInfo.myMedals.myMedal1.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nBe the best Infantry player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal1.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nBe the best Infantry player in 10 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal1.myStar1	Honor Star:\nBe the best Infantry player in a match.
+WicData.myMassgateInfo.myMedals.myMedal1.myStar2	Honor Star:\nBe the best Infantry player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal1.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal2.myName	Air Achievement Award
+WicData.myMassgateInfo.myMedals.myMedal2.myInfo	Awarded to the highest scoring Air player in a match.
+WicData.myMassgateInfo.myMedals.myMedal2.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nBe the best Air player in a match.
+WicData.myMassgateInfo.myMedals.myMedal2.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nBe the best Air player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal2.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nBe the best Air player in 10 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal2.myStar1	Honor Star:\nBe the best Air player in a match.
+WicData.myMassgateInfo.myMedals.myMedal2.myStar2	Honor Star:\nBe the best Air player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal2.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal3.myName	Armor Achievement Award
+WicData.myMassgateInfo.myMedals.myMedal3.myInfo	Awarded to the highest scoring Armor player in a match.
+WicData.myMassgateInfo.myMedals.myMedal3.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nBe the best Armor player in a match.
+WicData.myMassgateInfo.myMedals.myMedal3.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nBe the best Armor player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal3.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nBe the best Armor player in 10 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal3.myStar1	Honor Star:\nBe the best Armor player in a match.
+WicData.myMassgateInfo.myMedals.myMedal3.myStar2	Honor Star:\nBe the best Armor player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal3.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal4.myName	Support Achievement Award
+WicData.myMassgateInfo.myMedals.myMedal4.myInfo	Awarded to the highest scoring Support player in a match.
+WicData.myMassgateInfo.myMedals.myMedal4.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nBe the best Support player in a match.
+WicData.myMassgateInfo.myMedals.myMedal4.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nBe the best Support player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal4.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nBe the best Support player in 10 matches in row.
+WicData.myMassgateInfo.myMedals.myMedal4.myStar1	Honor Star:\nBe the best Support player in a match.
+WicData.myMassgateInfo.myMedals.myMedal4.myStar2	Honor Star:\nBe the best Support player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal4.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal5.myName	Score Achievement Award
+WicData.myMassgateInfo.myMedals.myMedal5.myInfo	Awarded to the highest scoring player in a match.
+WicData.myMassgateInfo.myMedals.myMedal5.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nBe the best highest scoring player in a match.
+WicData.myMassgateInfo.myMedals.myMedal5.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nBe the best highest scoring player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal5.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nBe the best highest scoring player in 10 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal5.myStar1	Honor Star:\nBe the best highest scoring player in a match.
+WicData.myMassgateInfo.myMedals.myMedal5.myStar2	Honor Star:\nBe the best highest scoring player in 10 matches.
+WicData.myMassgateInfo.myMedals.myMedal5.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal6.myName	Tactical Aid Specialist
+WicData.myMassgateInfo.myMedals.myMedal6.myInfo	Awarded to players that delivers a crushing "critical" Tactical Aid strike.
+WicData.myMassgateInfo.myMedals.myMedal6.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nSuccessfully land 25 critical Tactical Aid strikes.
+WicData.myMassgateInfo.myMedals.myMedal6.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nSuccessfully land 125 critical Tactical Aid strikes.
+WicData.myMassgateInfo.myMedals.myMedal6.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nSuccessfully land 15 critical Tactical Aid strikes in the same match.
+WicData.myMassgateInfo.myMedals.myMedal6.myStar1	Honor Star:\nSuccessfully land 25 critical Tactical Aid strikes.
+WicData.myMassgateInfo.myMedals.myMedal6.myStar2	Honor Star:\nSuccessfully land 125 critical Tactical Aid strikes.
+WicData.myMassgateInfo.myMedals.myMedal6.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal7.myName	Infantry Combat Excellency
+WicData.myMassgateInfo.myMedals.myMedal7.myInfo	Awarded to those who display combat excellence in the Infantry role.
+WicData.myMassgateInfo.myMedals.myMedal7.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nUse the Infantry role.\nEarn 500 points in a single round. 
+WicData.myMassgateInfo.myMedals.myMedal7.myNextForSilver	You  have the Bronze Medal.\n\nTo receive the Silver Medal:\nUse the Infantry role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal7.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nUse the Infantry role\nEarn 2000 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal7.myStar1	Honor Star:\nUse the Infantry role\nEarn 500 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal7.myStar2	Honor Star:\nUse the Infantry role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal7.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal8.myName	Air Combat Excellency
+WicData.myMassgateInfo.myMedals.myMedal8.myInfo	Awarded to those who display combat excellence in the Air role.
+WicData.myMassgateInfo.myMedals.myMedal8.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nUse the Air role.\nEarn 500 points in a single round. 
+WicData.myMassgateInfo.myMedals.myMedal8.myNextForSilver	You  have the Bronze Medal.\n\nTo receive the Silver Medal:\nUse the Air role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal8.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nUse the Air role\nEarn 2000 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal8.myStar1	Honor Star:\nUse the Air role\nEarn 500 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal8.myStar2	Honor Star:\nUse the Air role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal8.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal9.myName	Armor Combat Excellency
+WicData.myMassgateInfo.myMedals.myMedal9.myInfo	Awarded to those who display combat excellence as Armor players.
+WicData.myMassgateInfo.myMedals.myMedal9.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nUse the Armor role.\nEarn 500 points in a single round. 
+WicData.myMassgateInfo.myMedals.myMedal9.myNextForSilver	You  have the Bronze Medal.\n\nTo receive the Silver Medal:\nUse the Armor role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal9.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nUse the Armor role\nEarn 2000 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal9.myStar1	Honor Star:\nUse the Armor role\nEarn 500 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal9.myStar2	Honor Star:\nUse the Armor role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal9.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal10.myName	Support Combat Excellency
+WicData.myMassgateInfo.myMedals.myMedal10.myInfo	Awarded to those who display combat excellence as Support players.
+WicData.myMassgateInfo.myMedals.myMedal10.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nUse the Support role.\nEarn 500 points in a single round. 
+WicData.myMassgateInfo.myMedals.myMedal10.myNextForSilver	You  have the Bronze Medal.\n\nTo receive the Silver Medal:\nUse the Support role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal10.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nUse the Support role\nEarn 2000 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal10.myStar1	Honor Star:\nUse the Support role\nEarn 500 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal10.myStar2	Honor Star:\nUse the Support role\nEarn 1200 points in a single round.
+WicData.myMassgateInfo.myMedals.myMedal10.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal11.myName	Winning Streak
+WicData.myMassgateInfo.myMedals.myMedal11.myInfo	Awarded to those who manage to win several matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal11.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin five matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal11.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 10 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal11.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin 20 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal11.myStar1	Honor Star:\nWin five matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal11.myStar2	Honor Star:\nWin 10 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal11.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal12.myName	Domination Specialist Award
+WicData.myMassgateInfo.myMedals.myMedal12.myInfo	Given to players who have proven themselves masters of Domination.
+WicData.myMassgateInfo.myMedals.myMedal12.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin 10 Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal12.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 100 Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal12.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin 10 Domination matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal12.myStar1	Honor Star:\nWin 10 Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal12.myStar2	Honor Star:\nWin 100 Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal12.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal13.myName	Domination Excellency
+WicData.myMassgateInfo.myMedals.myMedal13.myInfo	Awarded to players who humiliate their opponents by the means of a Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal13.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin a Domination round by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal13.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 10 Domination rounds by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal13.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin five Domination rounds in a row by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal13.myStar1	Honor Star:\nWin a Domination round by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal13.myStar2	Honor Star:\nWin 10 Domination rounds by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal13.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal14.myName	Assault Specialist Award
+WicData.myMassgateInfo.myMedals.myMedal14.myInfo	Given to players who have proven themselves masters of Assault.
+WicData.myMassgateInfo.myMedals.myMedal14.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin 10 Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal14.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 100 Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal14.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin 10 Assault matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal14.myStar1	Honor Star:\nWin 10 Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal14.myStar2	Honor Star:\nWin 100 Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal14.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal15.myName	Assault Excellency
+WicData.myMassgateInfo.myMedals.myMedal15.myInfo	Awarded to the steadfast players who refused to give an inch to the enemy in Assault.
+WicData.myMassgateInfo.myMedals.myMedal15.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin an Assault match with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal15.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 10 Assault matches with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal15.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin five Assault matches in a row with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal15.myStar1	Honor Star:\nWin an Assault match with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal15.myStar2	Honor Star:\nWin 10 Assault matches with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal15.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal16.myName	Tug of War Specialist Award
+WicData.myMassgateInfo.myMedals.myMedal16.myInfo	Given to players who have proven themselves masters of Tug of War.
+WicData.myMassgateInfo.myMedals.myMedal16.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin 10 Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal16.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 100 Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal16.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin 10 Tug of War matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal16.myStar1	Honor Star:\nWin 10 Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal16.myStar2	Honor Star:\nWin 100 Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal16.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal17.myName	Tug of War Excellency
+WicData.myMassgateInfo.myMedals.myMedal17.myInfo	Awarded to the juggernaut players who participated in a perfect push in Tug of War.
+WicData.myMassgateInfo.myMedals.myMedal17.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin a Tug of War round with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal17.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 10 Tug of War rounds with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal17.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin five Tug of War rounds in a row with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal17.myStar1	Honor Star:\nWin a Tug of War round with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal17.myStar2	Honor Star:\nWin 10 Tug of War rounds with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal17.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal18.myName	Nuclear Specialist
+WicData.myMassgateInfo.myMedals.myMedal18.myInfo	Awarded to those players who have launched a nuclear strike.
+WicData.myMassgateInfo.myMedals.myMedal18.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nLaunch a Tactical Nuclear strike.
+WicData.myMassgateInfo.myMedals.myMedal18.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nLaunch 10 Tactical Nuclear strikes.
+WicData.myMassgateInfo.myMedals.myMedal18.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nLaunch a Tactical Nuclear strike in a match.\nDo it eight matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal18.myStar1	Honor Star:\nLaunch a Tactical Nuclear strike.
+WicData.myMassgateInfo.myMedals.myMedal18.myStar2	Honor Star:\nLaunch 10 tactical Nuclear strikes.
+WicData.myMassgateInfo.myMedals.myMedal18.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myName	Highly Decorated
+WicData.myMassgateInfo.myMedals.myMedal19.myInfo	Awarded to players that have received all other available awards.
+WicData.myMassgateInfo.myMedals.myMedal19.myNextForBronze	This award has not yet been earned.\n
+WicData.myMassgateInfo.myMedals.myMedal19.myNextForSilver	Some people climb mountains.\nSome people reach the stars\nThis Award was earned for true dedication.
+WicData.myMassgateInfo.myMedals.myMedal19.myNextForGold	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myStar1	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myStar2	<empty>
+WicData.myMassgateInfo.myMedals.myMedal19.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal20.myName	Clan Winning Streak Award
+WicData.myMassgateInfo.myMedals.myMedal20.myInfo	Awarded to clans for winning several matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal20.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin three matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal20.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin seven matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal20.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin 30 matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal20.myStar1	Honor Star:\nWin three matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal20.myStar2	Honor Star:\nWin seven matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal20.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal21.myName	Clan Domination Specialist Award
+WicData.myMassgateInfo.myMedals.myMedal21.myInfo	Awarded to clans for winning Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal21.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin five Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal21.myNextForSilver	You have the Bronze Medal yet.\n\nTo receive the Silver Medal:\nWin 50 Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal21.myNextForGold	You have the Silver Medal yet.\n\nTo receive the Gold Medal:\nWin seven Domination matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal21.myStar1	Honor Star:\nWin five Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal21.myStar2	Honor Star: Win 50 Domination matches.
+WicData.myMassgateInfo.myMedals.myMedal21.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal22.myName	Clan Domination Excellency
+WicData.myMassgateInfo.myMedals.myMedal22.myInfo	Awarded to clans for winning Domination matches by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal22.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin a Domination round by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal22.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin seven Domination rounds by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal22.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin five Domination rounds in a row by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal22.myStar1	Honor Star:\nWin a Domination round by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal22.myStar2	Honor Star:\nWin seven Domination rounds by Total Domination.
+WicData.myMassgateInfo.myMedals.myMedal22.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal23.myName	Clan Assault Specialist
+WicData.myMassgateInfo.myMedals.myMedal23.myInfo	Awarded to clans for winning Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal23.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin five Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal23.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 50 Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal23.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin seven Assault matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal23.myStar1	Honor Star:\nWin five Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal23.myStar2	Honor Star:\nWin 50 Assault matches.
+WicData.myMassgateInfo.myMedals.myMedal23.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal24.myName	Clan Assault Excellency
+WicData.myMassgateInfo.myMedals.myMedal24.myInfo	Awarded to clans for winning Assault games with a perfect defense.
+WicData.myMassgateInfo.myMedals.myMedal24.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin an Assault match with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal24.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin seven Assault matches with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal24.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin five Assault matches in a row with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal24.myStar1	Honor Star:\nWin an Assault match with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal24.myStar2	Honor Star:\nWin seven Assault matches with a Perfect Defense.
+WicData.myMassgateInfo.myMedals.myMedal24.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal25.myName	Clan Tug of War Specialist Award
+WicData.myMassgateInfo.myMedals.myMedal25.myInfo	Awarded to clans for winning Tug of War games.
+WicData.myMassgateInfo.myMedals.myMedal25.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin five Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal25.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin 50 Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal25.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin seven Tug of War matches in a row.
+WicData.myMassgateInfo.myMedals.myMedal25.myStar1	Honor Star:\nWin five Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal25.myStar2	Honor Star:\nWin 50 Tug of War matches.
+WicData.myMassgateInfo.myMedals.myMedal25.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal26.myName	Clan Tug of War Excellency
+WicData.myMassgateInfo.myMedals.myMedal26.myInfo	Awarded to clans for winning a Tug of War game with a perfect push.
+WicData.myMassgateInfo.myMedals.myMedal26.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nWin a Tug of War round with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal26.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin seven Tug of War rounds with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal26.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin five Tug of War rounds in a row with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal26.myStar1	Honor Star:\nWin a Tug of War round with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal26.myStar2	Honor Star:\nWin seven Tug of War rounds with a Perfect Push.
+WicData.myMassgateInfo.myMedals.myMedal26.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal27.myName	Clan Highscore Award
+WicData.myMassgateInfo.myMedals.myMedal27.myInfo	Awarded to clans that reaches a certain amount of points.
+WicData.myMassgateInfo.myMedals.myMedal27.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nEarn 25000 points.
+WicData.myMassgateInfo.myMedals.myMedal27.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nEarn 300000 points.
+WicData.myMassgateInfo.myMedals.myMedal27.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nEarn 2500000 points.
+WicData.myMassgateInfo.myMedals.myMedal27.myStar1	Honor Star:\n Earn another 25000 points.
+WicData.myMassgateInfo.myMedals.myMedal27.myStar2	Honor Star:\n Earn another 300000 points.
+WicData.myMassgateInfo.myMedals.myMedal27.myStar3	<empty>
+WicData.myMassgateInfo.myMedals.myMedal28.myName	Tournament Champion Award
+WicData.myMassgateInfo.myMedals.myMedal28.myInfo	Awarded to clans that participate in tournaments.
+WicData.myMassgateInfo.myMedals.myMedal28.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nParticipate in a tournament.
+WicData.myMassgateInfo.myMedals.myMedal28.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nWin a tournament.
+WicData.myMassgateInfo.myMedals.myMedal28.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nWin 50 tournaments.
+WicData.myMassgateInfo.myMedals.myMedal28.myStar1	Honor Star:\nParticipate in a tournament.
+WicData.myMassgateInfo.myMedals.myMedal28.myStar2	Honor Star:\nWin a tournament.
+WicData.myMassgateInfo.myMedals.myMedal28.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge1.myName	Infantry specialist
+WicData.myMassgateInfo.myBadges.myBadge1.myInfo	Given to players that are good with Infantry units.
+WicData.myMassgateInfo.myBadges.myBadge1.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nEarn a total of 8000 points in the Infantry role.
+WicData.myMassgateInfo.myBadges.myBadge1.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nEarn a total of 50000 points in the Infantry role.
+WicData.myMassgateInfo.myBadges.myBadge1.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nEarn a total of 400000 points in the infantry role.
+WicData.myMassgateInfo.myBadges.myBadge1.myStar1	Honor Star:\nEarn another 8000 points in the Infantry role.
+WicData.myMassgateInfo.myBadges.myBadge1.myStar2	Honor Star:\nEarn another 50000 points in the Infantry role.
+WicData.myMassgateInfo.myBadges.myBadge1.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge2.myName	Air specialist
+WicData.myMassgateInfo.myBadges.myBadge2.myInfo	Given to players that are good with Air units.
+WicData.myMassgateInfo.myBadges.myBadge2.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nEarn a total of 8000 points in the Air role.
+WicData.myMassgateInfo.myBadges.myBadge2.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nEarn a total of 50000 points in the Air role.
+WicData.myMassgateInfo.myBadges.myBadge2.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nEarn a total of 400000 points in the Air role.
+WicData.myMassgateInfo.myBadges.myBadge2.myStar1	Honor Star:\nEarn another 8000 points in the Air role.
+WicData.myMassgateInfo.myBadges.myBadge2.myStar2	Honor Star:\nEarn another 50000 points in the Air role.
+WicData.myMassgateInfo.myBadges.myBadge2.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge3.myName	Armor specialist
+WicData.myMassgateInfo.myBadges.myBadge3.myInfo	Given to players that are good with Armor units.
+WicData.myMassgateInfo.myBadges.myBadge3.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nEarn a total of 8000 points in the Armor role.
+WicData.myMassgateInfo.myBadges.myBadge3.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nEarn a total of 50000 points in the Armor role.
+WicData.myMassgateInfo.myBadges.myBadge3.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nEarn a total of 400000 points in the Armor role.
+WicData.myMassgateInfo.myBadges.myBadge3.myStar1	Honor Star:\nEarn another 8000 points in the Armor role.
+WicData.myMassgateInfo.myBadges.myBadge3.myStar2	Honor Star:\nEarn another 50000 points in the Armor role.
+WicData.myMassgateInfo.myBadges.myBadge3.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge4.myName	Support specialist
+WicData.myMassgateInfo.myBadges.myBadge4.myInfo	Given to players that are good with Support units.
+WicData.myMassgateInfo.myBadges.myBadge4.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nEarn a total of 8000 points in the Support role.
+WicData.myMassgateInfo.myBadges.myBadge4.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nEarn a total of 50000 points in the Support role.
+WicData.myMassgateInfo.myBadges.myBadge4.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nEarn a total of 400000 points in the Support role.
+WicData.myMassgateInfo.myBadges.myBadge4.myStar1	Honor Star:\nEarn another 8000 points in the Support role.
+WicData.myMassgateInfo.myBadges.myBadge4.myStar2	Honor Star:\nEarn another 50000 points in the Support role.
+WicData.myMassgateInfo.myBadges.myBadge4.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge5.myName	Score achievement
+WicData.myMassgateInfo.myBadges.myBadge5.myInfo	Given to players for reaching a certain score.
+WicData.myMassgateInfo.myBadges.myBadge5.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nEarn a total of 10000 points.
+WicData.myMassgateInfo.myBadges.myBadge5.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nEarn a total of 100000 points.
+WicData.myMassgateInfo.myBadges.myBadge5.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nEarn a total of 800000 points.
+WicData.myMassgateInfo.myBadges.myBadge5.myStar1	Honor Star:\nEarn another 10000 points.
+WicData.myMassgateInfo.myBadges.myBadge5.myStar2	Honor Star:\nEarn another 100000 points.
+WicData.myMassgateInfo.myBadges.myBadge5.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge6.myName	Command Point achievement
+WicData.myMassgateInfo.myBadges.myBadge6.myInfo	Given to players for capturing Command Points.
+WicData.myMassgateInfo.myBadges.myBadge6.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nCapture 25 Command Points.
+WicData.myMassgateInfo.myBadges.myBadge6.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nCapture 250 Command Points.
+WicData.myMassgateInfo.myBadges.myBadge6.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nCapture 1200 Command Points.
+WicData.myMassgateInfo.myBadges.myBadge6.myStar1	Honor Star:\nCapture 25 Command Points.
+WicData.myMassgateInfo.myBadges.myBadge6.myStar2	Honor Star:\nCapture 250 Command Points.
+WicData.myMassgateInfo.myBadges.myBadge6.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge7.myName	Fortification achievement
+WicData.myMassgateInfo.myBadges.myBadge7.myInfo	Given to players for fortifying Command Points.
+WicData.myMassgateInfo.myBadges.myBadge7.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nEarn 500 score by fortifying Command Points.
+WicData.myMassgateInfo.myBadges.myBadge7.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nEarn 3500 score by fortifying Command Points.
+WicData.myMassgateInfo.myBadges.myBadge7.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nEarn 15000 score by fortifying Command Points.
+WicData.myMassgateInfo.myBadges.myBadge7.myStar1	Honor Star:\nEarn 500 score by fortifying Command Points.
+WicData.myMassgateInfo.myBadges.myBadge7.myStar2	Honor Star:\nEarn 3500 score by fortifying Command Points.
+WicData.myMassgateInfo.myBadges.myBadge7.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge8.myName	Massgate achievement
+WicData.myMassgateInfo.myBadges.myBadge8.myInfo	Given to long time Massgate members.
+WicData.myMassgateInfo.myBadges.myBadge8.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nBe a Massgate Member for 30 days.
+WicData.myMassgateInfo.myBadges.myBadge8.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nBe a Massgate Member for 90 days.
+WicData.myMassgateInfo.myBadges.myBadge8.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nBe a Massgate Member for a year.
+WicData.myMassgateInfo.myBadges.myBadge8.myStar1	Honor Star:\nBe a Massgate member for another 30 days.
+WicData.myMassgateInfo.myBadges.myBadge8.myStar2	Honor Star:\nBe a Massgate member for another 90 days.
+WicData.myMassgateInfo.myBadges.myBadge8.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge9.myName	Match achievement
+WicData.myMassgateInfo.myBadges.myBadge9.myInfo	Given to players for playing matches.
+WicData.myMassgateInfo.myBadges.myBadge9.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nPlay 10 matches.
+WicData.myMassgateInfo.myBadges.myBadge9.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nPlay 200 matches.
+WicData.myMassgateInfo.myBadges.myBadge9.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nPlay 1500 matches.
+WicData.myMassgateInfo.myBadges.myBadge9.myStar1	Honor Star:\nPlay an additional 10 matches.
+WicData.myMassgateInfo.myBadges.myBadge9.myStar2	Honor Star:\nPlay an additional 200 matches.
+WicData.myMassgateInfo.myBadges.myBadge9.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge10.myName	US achievement
+WicData.myMassgateInfo.myBadges.myBadge10.myInfo	Given to faithful US commanders
+WicData.myMassgateInfo.myBadges.myBadge10.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nCommand the US forces.\nPlay a total of 1 hour.
+WicData.myMassgateInfo.myBadges.myBadge10.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nCommand the US forces.\nPlay a total of 24 hours.
+WicData.myMassgateInfo.myBadges.myBadge10.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nCommand the US forces.\nPlay a total of 100 hours.
+WicData.myMassgateInfo.myBadges.myBadge10.myStar1	Honor Star:\nPlay another 1 hour.
+WicData.myMassgateInfo.myBadges.myBadge10.myStar2	Honor Star:\nPlay another 24 hours.
+WicData.myMassgateInfo.myBadges.myBadge10.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge11.myName	USSR achievement
+WicData.myMassgateInfo.myBadges.myBadge11.myInfo	Given to faithful USSR commanders.
+WicData.myMassgateInfo.myBadges.myBadge11.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nCommand the Soviet forces.\nPlay a total of 1 hour.
+WicData.myMassgateInfo.myBadges.myBadge11.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nCommand the Soviet forces.\nPlay a total of 24 hours.
+WicData.myMassgateInfo.myBadges.myBadge11.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nCommand the Soviet forces.\nPlay a total of 100 hours.
+WicData.myMassgateInfo.myBadges.myBadge11.myStar1	Honor Star:\nPlay another 1 hour.
+WicData.myMassgateInfo.myBadges.myBadge11.myStar2	Honor Star:\nPlay another 24 hours.
+WicData.myMassgateInfo.myBadges.myBadge11.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge12.myName	NATO achievement
+WicData.myMassgateInfo.myBadges.myBadge12.myInfo	Given to faithful NATO commanders.
+WicData.myMassgateInfo.myBadges.myBadge12.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nCommand the NATO forces.\nPlay a total of 1 hour.
+WicData.myMassgateInfo.myBadges.myBadge12.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nCommand the NATO forces.\nPlay a total of 24 hours.
+WicData.myMassgateInfo.myBadges.myBadge12.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nCommand the NATO forces.\nPlay a total of 100 hours.
+WicData.myMassgateInfo.myBadges.myBadge12.myStar1	Honor Star:\nPlay another 1 hour.
+WicData.myMassgateInfo.myBadges.myBadge12.myStar2	Honor Star:\nPlay another 24 hours.
+WicData.myMassgateInfo.myBadges.myBadge12.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myName	Pre-order achievement
+WicData.myMassgateInfo.myBadges.myBadge13.myInfo	Given to World in Conflict pre-order customers.
+WicData.myMassgateInfo.myBadges.myBadge13.myNextForBronze	This award has not yet been earned.
+WicData.myMassgateInfo.myBadges.myBadge13.myNextForSilver	This award was given as a "Thank you!" from the Massive team for pre-ordering.
+WicData.myMassgateInfo.myBadges.myBadge13.myNextForGold	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myStar1	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myStar2	<empty>
+WicData.myMassgateInfo.myBadges.myBadge13.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge14.myName	Recruit-a-friend achievement.
+WicData.myMassgateInfo.myBadges.myBadge14.myInfo	Given to players for recruiting a friend to play World in Conflict.
+WicData.myMassgateInfo.myBadges.myBadge14.myNextForBronze	This award has not yet been earned.\n\nTo receive the Bronze Award:\nRecruit a friend to play World in Conflict.
+WicData.myMassgateInfo.myBadges.myBadge14.myNextForSilver	The Bronze Award.\n\nTo receive the Silver Award:\nRecruit 5 friends to World in Conflict.
+WicData.myMassgateInfo.myBadges.myBadge14.myNextForGold	The Silver Award.\n\nTo receive the Gold Award:\nRecruit 10 friends to World in Conflict.
+WicData.myMassgateInfo.myBadges.myBadge14.myStar1	<empty>
+WicData.myMassgateInfo.myBadges.myBadge14.myStar2	<empty>
+WicData.myMassgateInfo.myBadges.myBadge14.myStar3	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myName	Unknown
+WicData.myMassgateInfo.myBadges.myBadge15.myInfo	Badge 15
+WicData.myMassgateInfo.myBadges.myBadge15.myNextForBronze	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myNextForSilver	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myNextForGold	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myStar1	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myStar2	<empty>
+WicData.myMassgateInfo.myBadges.myBadge15.myStar3	<empty>
+WicData.myObjectiveGuiInfo.myTargetString	%uM
+WicData.myObjectiveGuiInfo.myCounterStringFormatting	%s (%u/%u)
+WicData.myObjectiveGuiInfo.myNewPrimaryEventStringFormatting	New primary objective: %s
+WicData.myObjectiveGuiInfo.myUpdatedPrimaryEventStringFormatting	Primary objective updated: %s
+WicData.myObjectiveGuiInfo.myCompletedPrimaryEventStringFormatting	Primary objective completed: %s
+WicData.myObjectiveGuiInfo.myFailedPrimaryEventStringFormatting	Primary objective failed: %s
+WicData.myObjectiveGuiInfo.myCanceledPrimaryEventStringFormatting	Primary objective canceled: %s
+WicData.myObjectiveGuiInfo.myNewSecondaryEventStringFormatting	New secondary objective: %s
+WicData.myObjectiveGuiInfo.myUpdatedSecondaryEventStringFormatting	Secondary objective updated: %s
+WicData.myObjectiveGuiInfo.myCompletedSecondaryEventStringFormatting	Secondary objective completed: %s
+WicData.myObjectiveGuiInfo.myFailedSecondaryEventStringFormatting	Secondary objective failed: %s
+WicData.myObjectiveGuiInfo.myCanceledSecondaryEventStringFormatting	Secondary objective canceled: %s
+WicData.myObjectiveGuiInfo.myNewAttackCPEventStringFormatting	Assault the %s
+WicData.myObjectiveGuiInfo.myUpdatedAttackCPEventStringFormatting	%s
+WicData.myObjectiveGuiInfo.myCompletedAttackCPEventStringFormatting	We captured the %s
+WicData.myObjectiveGuiInfo.myFailedAttackCPEventStringFormatting	We lost the %s
+WicData.myObjectiveGuiInfo.myCanceledAttackCPEventStringFormatting	%s
+WicData.myObjectiveGuiInfo.myNewDefendCPEventStringFormatting	Defend the %s
+WicData.myObjectiveGuiInfo.myUpdatedDefendCPEventStringFormatting	%s
+WicData.myObjectiveGuiInfo.myCompletedDefendCPEventStringFormatting	We have defended the %s
+WicData.myObjectiveGuiInfo.myFailedDefendCPEventStringFormatting	We lost the %s
+WicData.myObjectiveGuiInfo.myCanceledDefendCPEventStringFormatting	%s
+WicData.myRequestAcceptedStringAtGrid	%s (%s) accepted the request from %s. (%s at %s)
+WicData.myAlliedUnitString	Allied Unit
+WicData.myEnemyUnitString	Enemy Unit
+WicData.myRequests.REQ_IMGOINGHERE.myName	I'm going here
+WicData.myRequests.REQ_IMGOINGHERE.myInfoString	%s (%s) - I'm going here
+WicData.myRequests.REQ_IMGOINGHERE.myInfoStringAtGrid	%s (%s) - I am going here (%s)
+WicData.myRequests.REQ_IMGOINGHERE.myInfoStringAtUnit	<empty>
+WicData.myRequests.REQ_ADVANCEHERE.myName	Advance here
+WicData.myRequests.REQ_ADVANCEHERE.myInfoString	%s (%s) - Please ADVANCE here!
+WicData.myRequests.REQ_ADVANCEHERE.myInfoStringAtGrid	%s (%s) - Please ADVANCE here! (%s)
+WicData.myRequests.REQ_ADVANCEHERE.myInfoStringAtUnit	<empty>
+WicData.myRequests.REQ_DEFENDHERE.myName	Defend here
+WicData.myRequests.REQ_DEFENDHERE.myInfoString	%s (%s) - Please DEFEND here!
+WicData.myRequests.REQ_DEFENDHERE.myInfoStringAtGrid	%s (%s) - Please DEFEND here! (%s)
+WicData.myRequests.REQ_DEFENDHERE.myInfoStringAtUnit	<empty>
+WicData.myRequests.REQ_CEASEFIRE.myName	Cease fire
+WicData.myRequests.REQ_CEASEFIRE.myInfoString	%s (%s) - Cease fire!
+WicData.myRequests.REQ_CEASEFIRE.myInfoStringAtGrid	%s (%s) - Cease Fire! (%s)
+WicData.myRequests.REQ_CEASEFIRE.myInfoStringAtUnit	%s (%s) - Cease Fire! (%s at %s)
+WicData.myRequests.REQ_SORRY.myName	Sorry
+WicData.myRequests.REQ_SORRY.myInfoString	%s (%s) - Sorry!
+WicData.myRequests.REQ_SORRY.myInfoStringAtGrid	%s (%s) - Sorry!
+WicData.myRequests.REQ_SORRY.myInfoStringAtUnit	%s (%s) - Sorry! (%s at %s)
+WicData.myRequests.REQ_THANKYOU.myName	Thank you
+WicData.myRequests.REQ_THANKYOU.myInfoString	%s (%s) - Thank you!
+WicData.myRequests.REQ_THANKYOU.myInfoStringAtGrid	%s (%s) - Thank you!
+WicData.myRequests.REQ_THANKYOU.myInfoStringAtUnit	%s (%s) - Thank you! (%s at %s)
+WicData.myRequests.REQ_ATTENTION.myName	Attention
+WicData.myRequests.REQ_ATTENTION.myInfoString	%s (%s) - Attention here!
+WicData.myRequests.REQ_ATTENTION.myInfoStringAtGrid	%s (%s) - Attention here! (%s)
+WicData.myRequests.REQ_ATTENTION.myInfoStringAtUnit	%s (%s) - Attention here! (%s at %s)
+WicData.myRequests.REQ_NEEDARTILLERY.myName	Artillery
+WicData.myRequests.REQ_NEEDARTILLERY.myInfoString	%s (%s) - I need ARTILLERY!
+WicData.myRequests.REQ_NEEDARTILLERY.myInfoStringAtGrid	%s (%s) - I need ARTILLERY! (%s)
+WicData.myRequests.REQ_NEEDARTILLERY.myInfoStringAtUnit	%s (%s) - I need ARTILLERY! (%s at %s)
+WicData.myRequests.REQ_NEEDANTIAIR.myName	Antiair
+WicData.myRequests.REQ_NEEDANTIAIR.myInfoString	%s (%s) - I need ANTI-AIR!
+WicData.myRequests.REQ_NEEDANTIAIR.myInfoStringAtGrid	%s (%s) - I need ANTI-AIR! (%s)
+WicData.myRequests.REQ_NEEDANTIAIR.myInfoStringAtUnit	%s (%s) - I need ANTI-AIR! (%s at %s)
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myName	Ground support
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myInfoString	%s (%s) - I need a GROUND ASSAULT!
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myInfoStringAtGrid	%s (%s) - I need a GROUND ASSAULT! (%s)
+WicData.myRequests.REQ_NEEDGROUNDSUPPORT.myInfoStringAtUnit	%s (%s) - I need a GROUND ASSAULT! (%s at %s)
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myName	Air support
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myInfoString	%s (%s) - I need AIR SUPPORT!
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myInfoStringAtGrid	%s (%s) - I need AIR SUPPORT! (%s)
+WicData.myRequests.REQ_NEEDAIRSUPPORT.myInfoStringAtUnit	%s (%s) - I need AIR SUPPORT! (%s at %s)
+WicData.myRequests.REQ_NEEDREPAIRS.myName	Repair
+WicData.myRequests.REQ_NEEDREPAIRS.myInfoString	%s (%s) - I need REPAIRS!
+WicData.myRequests.REQ_NEEDREPAIRS.myInfoStringAtGrid	%s (%s) - I need REPAIRS! (%s)
+WicData.myRequests.REQ_NEEDREPAIRS.myInfoStringAtUnit	%s (%s) - I need REPAIRS! (%s at %s)
+WicData.myRequests.REQ_TACAID.myName	Tactical aid
+WicData.myRequests.REQ_TACAID.myInfoString	%s (%s) - Requesting: %s
+WicData.myRequests.REQ_TACAID.myInfoStringAtGrid	%s (%s) - Requesting: %s (%s)
+WicData.myRequests.REQ_TACAID.myInfoStringAtUnit	%s (%s) - Requesting: %s (%s at %s)
+WicData.myRequests.REQ_WRITETOPOS.myName	Message
+WicData.myRequests.REQ_WRITETOPOS.myInfoString	%s (%s): '%s'
+WicData.myRequests.REQ_WRITETOPOS.myInfoStringAtGrid	%s (%s) says: '%s' (%s)
+WicData.myRequests.REQ_WRITETOPOS.myInfoStringAtUnit	%s (%s) says: '%s' (%s at %s)
+WicData.myAutoSaveName	Autosave
+WicData.myNewSavedGame	New Saved Game
+WicData.myEndSplashScreenClosingInText	CLOSING IN %u SECONDS
+WicData.mySinglePlayerNames.parker	Parker
+WicData.mySinglePlayerNames.vlad	Vlad
+WicData.mySinglePlayerNames.romanov	Romanov
+WicData.myLauncherData.myNewsHeader	News
+WicData.myLauncherData.myStartGame	Start Game
+WicData.myLauncherData.myPlayOnline	Play Online
+WicData.myLauncherData.myRegisterCDKey	Enter CD Key
+WicData.myLauncherData.myPurchaseCDKey	Purchase CD Key
+WicData.myLauncherData.mySupport	Support
+WicData.myLauncherData.myVisitForums	Visit Forums
+WicData.myLauncherData.myNewsOffline	\nMassgate is currently unreachable.\n\nNews and updates are unavailable.
+WicData.myLauncherData.myDownloadingNews	\nDownloading news from Massgate, please wait...
+WicData.myLauncherData.myRegisterButton	OK
+WicData.myLauncherData.myCancelButton	Cancel
+WicData.myLauncherData.myOKButton	OK
+WicData.myLauncherData.mySuccessHeader	Success
+WicData.myLauncherData.mySuccessText	Your CD key has been successfully stored.

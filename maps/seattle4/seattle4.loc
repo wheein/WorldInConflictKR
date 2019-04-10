@@ -1,0 +1,37 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	North Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the North Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the North Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the North Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	South Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the South Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the South Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the South Hill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the Beach
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Marina
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Marina
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Marina
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Marina
+myWicedMap.myMissionStats.myName	do_Island
+myWicedMap.myMissionStats.mySPName	%02d - Before the Storm
+myWicedMap.myMissionStats.myDescription	U.S. and Soviet forces struggle for control of a small island in the Puget Sound where the hilltops, beach and marina become important strategic locations.
+myWicedMap.myMissionStats.mySPDescription	The Russians have fortified several islands in Puget Sound with anti-ship missile batteries. The islands needs to be retaken and the batteries captured intact so that they can be used against the Chinese if they should get as far as the sound. Your objective is to capture Sandfish Island.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	ISLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	ISLAND
+myWicedMap.myLocStrings.timerTakeAA	Destroy the AA-emplacements:
+myWicedMap.myLocStrings.timerTakeGuns	Secure both ASM-launchers:

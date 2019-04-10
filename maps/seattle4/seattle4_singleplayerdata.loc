@@ -1,0 +1,164 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	We were racing at full speed toward Seattle and could actually see the Space Needle when division headquarters ordered us to halt.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	They wanted to consolidate our forces and make sure that the reinforcements caught up. The Colonel argued against them, saying that we had to attack quickly or we would run out of time and Seattle would be turned to ashes.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	But HQ sent us out into Puget Sound instead, to retake a bunch of islands. The Russians had put up anti-ship defenses there, that we were to capture for use against the Chinese.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	During this, the Colonel was called away for consultations, and Webb, who was now a major, was put in charge in his place. Everyone was itching to get the main fight over and done with,
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	but first we had an island to take. We would do it as the colonel would: swift and merciless.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeOutAA.myDescription	Destroy the AA-emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeOutAA.myLongDescription	The Russians have fortified the south beach with several anti-air emplacements. These need to be destroyed before we can start flying in reinforcements.\n\nTo complete this objective you must destroy the AA-emplacements marked on the map.\n\nYou will fail the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeOutAA.myVisualisationText	Destroy the AA-emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGuns.myDescription	Capture both ASM-launchers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGuns.myLongDescription	The Soviets have set up their ASM-launchers on the hilltops. They will be well defended but you have to capture both intact. Dig in once you’ve secured the objectives.\n\nTo complete this objective you must build fortifications at both launch areas.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGuns.myVisualisationText	Capture both ASM-launchers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGunsTime.myDescription	The ASM-launchers must remain intact
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGunsTime.myLongDescription	The Russians are now aware of our intentions and they are preparing to destroy the launchers. They must be secured before this happens.\n\nTo complete this objective you must build fortifications at both launch areas before the Russians destroy the launchers.\n\nYou will fail the mission if the time expires before you have built fortifications at both launch areas.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGunsTime.myVisualisationText	The ASM-launchers must remain intact
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldGuns.myDescription	Defend the ASM-launchers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldGuns.myLongDescription	The Russians will counterattack and try to recover the ASM-launchers. You will have to defend them until you have secured the entire island.\n\nTo complete this objective you must defend the ASM-launchers until the entire island has been secured.\n\nYou will fail the mission if the Russians manage to capture and fortify one of the launch areas.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldGuns.myVisualisationText	Defend the ASM-launchers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBeach.myDescription	Secure the Russian main camp
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBeach.myLongDescription	The Russians have their main field base at the marina. It must be captured and destroyed for the Island to be secure.\n\nTo complete this objective you must build fortifications at the marina.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBeach.myVisualisationText	Secure the Russian main camp
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeOutAATime.myDescription	Destroy the AA-emplacements ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeOutAATime.myLongDescription	If you move fast when clearing the AA we might be able to retain the element of surprise.\n\nTo complete this objective you must destroy the AA-emplacements before the time expires.\n\nYou will fail the objective if the time expires before you have destroyed the AA-emplacements.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeOutAATime.myVisualisationText	Destroy the AA-emplacements ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSpetznaz.myDescription	Eliminate the Spetsnaz teams
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSpetznaz.myLongDescription	Soviet Spetsnaz commando teams are hiding out in the forests of Sandfish Island. They will continue to disrupt your operation until they are found and neutralized.\n\nTo complete this objective you must find and destroy the Spetsnaz teams.\n\nYou will fail this objective if the Spetsnaz teams are still active when the mission has been completed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSpetznaz.myVisualisationText	Eliminate the Spetsnaz teams
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BonusAA.myDescription	Destroy the AA-vehicles to the north
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BonusAA.myLongDescription	A number of Russian Anti-Aircraft vehicles have been spotted on the north side of the island. They should be eliminated if possible.\n\nTo complete this objective you must destroy the AA-vehicles in the vicinity of the position marked on the map.\n\nYou will fail the objective if the AA-vehicles remain intact when the mission has been completed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BonusAA.myVisualisationText	Destroy the AA-vehicles to the north
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneChanged.myString	Your drop zone has changed
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.newUnits.myString	You have been given command of new units
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	You have been given access to support weapons
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcments.myString	You have been given access to reinforcments
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReward.myString	You have been given a reward
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenChepCopter.myString	You have been given access to one free scout helicopter.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	Your max AP has been raised.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.addTAPoints.myString	You have been given access to reinforcments
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcmentsAndTA.myString	You have been given access to reinforcments and support weapons.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_01.myText	Alright, Parker. We’ve been tasked with capturing the Soviet anti-ship missile launchers on this island. High command, in all their wisdom, has given this a higher priority than an actual assault on Seattle. They want to use those launchers if the Chinese get into Puget Sound.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_01.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_02.myText	We only have one shot at this, captain. If you lose your Amphibious Assault Vehicles we’ll have to abort the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_02.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_03.myText	Well done, captain. The flyboys are standing by to bring in what you need.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_03.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_04.myText	Careful, Parker! Those men and vehicles are all we have until you've cleared the beach.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_04.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_05.myText	Not good, captain. Not good at all. I’m aborting the mission. The colonel won’t be pleased.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_05.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_06.myText	And Parker! Clear that LZ ASAP so that we can retain the element of surprise.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_06.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_07.myText	No holds barred, Parker! Good to see you’re as fast as always. I’m giving you command of a sniper team. Have them set up in the woods to take out hostile infantry. These guys are some of my most experienced sharpshooters. They know how to handle themselves.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_07.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_08.myText	Too bad you couldn’t move faster Parker. You might’ve cost us the initiative.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_08.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_09.myText	Ok, Parker. There are two anti-ship missile launchers on the island and you need to capture both intact. Secure them and dig in.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_09.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_10.myText	Dammit! The Russians are preparing to scuttle the launchers. Secure them before they’re destroyed!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_10.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_11.myText	You’re doing good, Parker. Now dig in so that we can defend the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_11.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_12.myText	Area secured. Now go after the second one. You might want to leave some troops behind in case the Russians decide to counterattack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_12.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_13.myText	Almost there, captain! Set up those defenses ASAP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_13.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_14.myText	You’re the man, Parker. Now make sure you protect those launchers until the entire island has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_14.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_15.myText	The launchers are lost, Parker! This mission can’t be salvaged now. Better to have the air force carpet bomb the island than risk any more lives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_15.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_16.myText	We just lost a launcher, captain! Retake it before it’s destroyed!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_16.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_17.myText	Good going, Parker. The area is secured once more. Now, get on with the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_17.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18.myText	Parker! We have reports of several Spetsnaz-teams hiding in the woods. Eliminate them if you can.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18b.myText	Update, Parker. The Spetsnaz teams have been seen in grid squares Charlie One, Charlie Three and Bravo three. Use a scout helicopter to pinpoint their positions.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_18b.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_19.myText	The Spetznaz teams are calling in artillery on your position, captain! You have to take them out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_19.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_20.myText	You’ve rid us of a real nuisance, Parker. Those were crack Soviet troopers you just took care of. Well done!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_20.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_21.myText	We’re almost there Parker. Only the main Russian camp remains. It’s located at the marina on the north side, you have to take it out before we can secure the Island.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_21.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_22.myText	Keep it up, captain. Finish this thing so we can return to Seattle and the fight that matters.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_22.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_23.myText	Great going, Parker! We’ve recaptured the Island and both missile emplacements. That’ll make the Chinese think twice before steaming in here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_23.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_24.myText	Good job, securing the marina, captain. Now see to those launchers so that we can get out of here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_24.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_25.myText	Parker! Just heard from the colonel. We’re about to launch the final assault on Seattle and we’ve been recalled to take part. I’ll meet you back at the ship and we’ll take a chopper back to the mainland.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_25.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_26.myText	Parker! We have reports of Russian AA-vehicles on the north side. Take them out if you can. I’m sure the air force would appreciate it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_26.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_27.myText	Expertly done, Parker! The air force just promised us increased support. Make good use of it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_27.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_28.myText	I just got off the horn with the air force and they’ve promised us full support. Call on them when needed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_28.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_29.myText	I’ll be in command during the colonel’s absence. This will be a two-part assault. First you have to clear the beach of anti-aircraft defenses. Then we can start flying in the main attack elements.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_29.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_30.myText	Oh, and congratulations on your promotion to captain, Parker. About time, if you ask me.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_30.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_31.myText	The Russians just captured a launcher, Parker! Retake it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_31.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_32.myText	Parker! Ivan has taken control of one of the launchers. Don’t let him keep it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_32.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_33.myText	One of the ASM launchers is back in Russian control, Parker. Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_33.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_34.myText	That’s it, Parker. The launcher is secure.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_34.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_35.myText	Good job, Parker. Don’t lose it again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_35.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_36.myText	That’s what I like to see, captain. Now get on with your next objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_36.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_37.myText	You need to deal with those Spetsnaz units, captain. Do it before they become a problem.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_37.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_38.myText	I just got word from the ship. The assault on the other islands is going as planned, and we’ve taken fewer casualties than expected. Let’s not mess up those numbers, huh, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_38.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_39.myText	Update, captain. Crabclaw Island has been secured and several of the other islands are about to fall. Things are going well for our people.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_39.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_40.myText	I hope we get recalled to Seattle after this. Latest word is that the Chinese fought off a Japanese cruiser and her escorts. They ain’t stopping for nothing. We have to retake the city before it’s too late.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_40.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_41.myText	I wonder what they are discussing at HQ. The colonel knows his way around, but he’s been brooding a lot lately. I guess I can understand that though, all things considering …
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_41.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_42.myText	The colonel’s fought in places they don’t even have a name for and I heard he helped set up the SFOD-D in the late seventies. We’re lucky to have him as our commander.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_42.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_43.myText	Be careful with those choppers, Parker! Our air assets are strained enough as it is.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea4_43.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	Parker, the enemy is gaining ground. Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	Parker, the enemy is gaining ground. Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	We have to retake that position we just lost, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The missile batteries on Sandfish Island have been secured and this will surely delay the Chinese fleet when they enter Puget Sound. The hours gained can now be used for one last assault on Seattle before it's too late.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Due to your incompetence at Sandfish Island you have been relieved of command and the Chinese fleet will be able to steam unopposed into Seattle. The president will have to order the nuclear strike.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_01.myTitle	Troop Transport
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_01.myText	To unload units from the amiphibious vehicles, aim at them and press .
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_02.myTitle	Forest Bonus
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_19_02.myText	Infantry units may seek cover in wooded areas.  on unit icons denotes Forest Bonus is in effect.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myWeCapturedText	We captured the South Gun
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myWeLostText	We lost control of the South Gun
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.SouthGun.myEnemyCapturedText	Enemy captured the South Gun
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myWeCapturedText	We captured the North Gun
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myWeLostText	We lost control of the North Gun
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.NorthGun.myEnemyCapturedText	Enemy captured the North Gun
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myWeCapturedText	We captured the AA1
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myWeLostText	We lost control of the AA1
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA1.myEnemyCapturedText	Enemy captured the AA1
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myWeCapturedText	We captured the AA3
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myWeLostText	We lost control of the AA3
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA3.myEnemyCapturedText	Enemy captured the AA3
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myWeCapturedText	We captured the AA2
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myWeLostText	We lost control of the AA2
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA2.myEnemyCapturedText	Enemy captured the AA2
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeCapturedText	We captured the Beach
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeLostText	We lost control of the Beach
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myEnemyCapturedText	Enemy captured the Beach

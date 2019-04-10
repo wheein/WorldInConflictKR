@@ -1,0 +1,45 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Space Needle
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Space Needle
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Space Needle
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Space Needle
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Tunnel Entrance
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Tunnel Entrance
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Tunnel Entrance
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Tunnel Entrance
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Union Center
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Union Center
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Union Center
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Union Center
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Soviet Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Soviet Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Soviet Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Soviet Main Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Shipping Docks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the Shipping Docks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the Shipping Docks
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the Shipping Docks
+myWicedMap.myMissionStats.myName	do_SpaceNeedle
+myWicedMap.myMissionStats.mySPName	%02d - One Last Fight
+myWicedMap.myMissionStats.myDescription	The lofty Space Needle looks down upon a city in flames as the armies of the two superpowers battle for supremacy over Seattle.
+myWicedMap.myMissionStats.mySPDescription	The final assault on Seattle has begun. If the Russians are not defeated in time the president has ordered a nuclear bomb dropped on the city when the Chinese invade. Colonel Sawyer has led the battalion deep into the city with the aim of knocking out the Russian headquarters, but the clock is ticking …
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	SPACE NEEDLE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	SPACE NEEDLE
+myWicedMap.myLocStrings.NukeTimer	Time to retreat:
+myWicedMap.myLocStrings.NukeTimer2	Nuclear detonation:

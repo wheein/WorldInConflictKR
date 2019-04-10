@@ -1,0 +1,30 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__5.myUiName	Studio Backlot
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__5.myWeCapturedText	We captured the Studio Backlot
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__5.myWeLostText	We lost control of the Studio Backlot
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__5.myEnemyCapturedText	Enemy captured the Studio Backlot
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__6.myUiName	Alien Invasion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__6.myWeCapturedText	We captured the Alien Invasion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__6.myWeLostText	We lost control of the Alien Invasion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__6.myEnemyCapturedText	Enemy captured the Alien Invasion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__8.myUiName	Dino World
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__8.myWeCapturedText	We captured the Dino World
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__8.myWeLostText	We lost control of the Dino World
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__8.myEnemyCapturedText	Enemy captured the Dino World
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__9.myUiName	Old West
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__9.myWeCapturedText	We captured the Old West
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__9.myWeLostText	We lost control of the Old West
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__9.myEnemyCapturedText	Enemy captured the Old West
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__12.myUiName	Parking Lot
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__12.myWeCapturedText	We captured the Parking Lot
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__12.myWeLostText	We lost control of the Parking Lot
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__12.myEnemyCapturedText	Enemy captured the Parking Lot
+myWicedMap.myMissionStats.myName	do_Studio
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	In an attempt to crush the morale of the hated Americans, Mother Russia has decided to attack the heart of the nation's entertainment industry!
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.a.myText	STUDIO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.b.myText	STUDIO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.c.myText	STUDIO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.d.myText	STUDIO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.e.myText	STUDIO
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.f.myText	STUDIO

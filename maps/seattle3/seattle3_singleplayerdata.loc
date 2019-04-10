@@ -1,0 +1,437 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	We fled east, with the darkening sky behind us lighted by the many fires downtown. Some have later called the retreat organized, but I think it only seemed that way because we were all running in the same direction.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	Seattle was lost the moment those ships entered the harbor, and there was never any real chance of our holding the city. I try not to think about all those we were forced to leave behind...
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	Captain Bannon kept us in a semblance of order. But I'll never know whether we were actually obeying his commands or they just happened to coincide with what we all thought best.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	We followed the freeway into the suburbs, with the war close on our heels. Some artillery had already landed in the area, and I remember seeing a broken swing set lying on its side next to a blackened crater. I think that was when it hit me: we had been invaded and nothing would ever be the same again.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortifFreeway.myDescription	Dig in at the freeway entrance
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortifFreeway.myLongDescription	The Russians are starting to move out of downtown Seattle to secure all important bridges and roads in the area. The freeway bridge is one such location. You must build fortifications there in preparation for the Soviet assault.\n\nTo complete this objective you must fortify the position marked on the map.\n\nYou will fail the mission if you lose all your units before the position has been fortified, or if the Russians manage to fortify it before you do.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortifFreeway.myVisualisationText	Dig in at the freeway entrance
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Levinson.myDescription	Save the Levinson family
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Levinson.myLongDescription	Brigadier General Levinson is a recently appointed dean at West Point and his family still lives in Seattle. The Russians seem to have gotten hold of the addresses of important persons with the intent of capturing or assassinating them. We must save the general's family.\n\nTo complete this objective you must go to the indicated house and destroy all Soviet forces in the surrounding area.\n\nYou will fail this objective if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Levinson.myVisualisationText	Save the Levinson family
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Civilians.myDescription	Rescue the civilian evacuees
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Civilians.myLongDescription	There are many evacuees in the area and they must be brought out before the war gets here. The Russians have gathered them at some houses not far from here, and now they're loading them onto school buses.\n\nTo complete this objective you must destroy all Russian forces in the area around the civilians.\n\nYou will fail this objective if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Civilians.myVisualisationText	Rescue the civilian evacuees
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Protect.myDescription	Hold the bridgehead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Protect.myLongDescription	The Russians are moving into the area in force and you must protect the evacuees until the evacuation has been completed. Hold the position until all the school buses have left.\n\nTo complete this objective you must hold the marked position until the civilians have been evacuated.\n\nYou will fail the mission if the Russians manage to capture and fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Protect.myVisualisationText	Hold the bridgehead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortifBridge.myDescription	Prepare defenses at the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortifBridge.myLongDescription	We are preparing to destroy the freeway bridge but it will be some time before that can be done. Prepare defenses at the bridgehead so you can hold against the inevitable Soviet attack. If the Soviet heavy armor is allowed to cross the bridge the Russians will quickly spread outside of Seattle and Washington State might fall.\n\nTo complete this objective you must build fortifications at the position marked on the map.\n\nYou will fail the mission if the Russians manage to fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortifBridge.myVisualisationText	Prepare defenses at the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBridge.myDescription	Defend the southeast bridgehead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBridge.myLongDescription	The Russians are finally coming in force. Hold the bridgehead until relieved.\n\nTo complete this objective you must hold your position against the Soviet attack.\n\nYou will fail the mission if the Russians manage to capture and fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBridge.myVisualisationText	Defend the southeast bridgehead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Hospital.myDescription	Evacuate the hospital
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Hospital.myLongDescription	The local hospital hasn't been emptied yet and there are a lot of patients and personnel hiding in the building. Go there at once and set up a defensive perimeter so the evacuation can be completed.\n\nTo complete this objective you must take and hold the command point at the hospital until all civilians have been evacuated.\n\nYou will fail this objective and the mission if Ivan fortifies the command point.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Hospital.myVisualisationText	Evacuate the hospital
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.AssistBannon.myDescription	Assist Bannon and Charlie Company
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.AssistBannon.myLongDescription	Bannon is under heavy attack to the northwest. Call in fire support on the Soviet attackers and help Bannon defend his position.\n\nTo complete this objective you must prevent Soviet forces from fortifying the position at the bridge.\n\nYou will fail the objective if the position is overrun and fortified by Russian forces.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.AssistBannon.myVisualisationText	Assist Bannon and Charlie Company
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RepairAA.myDescription	Repair the AA
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RepairAA.myLongDescription	Repair our anti-air defenses to help stop the Russian helo drops being made in the area.\n\nTo complete this objective you must repair all the anti-air batteries marked on the map.\n\nYou will fail the objective if you don't repair them before the Russians intensify their attacks.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RepairAA.myVisualisationText	Repair the AA
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RuPoints.myDescription	Disrupt the Soviet airborne drops
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RuPoints.myLongDescription	The Russians have started dropping airborne infantry in the area. We can't allow them to get organized. Use your fire support to disrupt and destroy their rally points.\n\nTo complete this objective you must destroy all targets marked on the map.\n\nYou will fail this objective if you don't destroy the targets before the airborne forces have dispersed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.RuPoints.myVisualisationText	Disrupt the Soviet airborne drops
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillResources.myDescription	Scorched earth
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillResources.myLongDescription	Use your fire support to destroy all strategic targets in the area.\n\nTo complete this objective you must destroy all targets marked on the map.\n\nYou will fail this objective if you fail to destroy all targets before the air force bombs the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillResources.myVisualisationText	Scorched earth
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_01.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_01.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_01.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_02.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_02.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_02.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_03.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_03.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_03.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_05.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_05.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.Helptip_03_05.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___givenReinforcments.myString	You have been given access to reinforcments
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___givenTA.myString	You have been given access to Tactial Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myHeader	COMBAT SCHOOL - Free units
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myText	Sometimes you will be rewarded with a “free” unit. These are ordered from the Reinforcements Menu as usual but no points will be deducted from your Reinforcements Points pool, and if such a unit is destroyed it will not be replaced.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myHeader	COMBAT SCHOOL – Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myText	To fortify a position you need to place units in all the connected perimeter points of that position. The more units you have there, the faster the position will be fortified and, once fortified, those fortifications will be harder to destroy when under attack by enemy units.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.NumberGrouping.myHeader	COMBAT SCHOOL – Squad Management
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.NumberGrouping.myText	To create a squad you select two or more units and press the create group buttons (default: CTRL + 0-9). You then chose the entire group by pressing the corresponding number. A double-click on the same number focuses the camera on that group.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Reinforcements.myHeader	COMBAT SCHOOL – Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Reinforcements.myText	To order down reinforcements you open up the reinforcements menu (default: B). You then pick what vehicles you want by left-clicking on them. If you want to remove any units from your order you simply right-click on them in the buy menu or left-click on them in the delivery tally.\n\nWhen you are done you press the deploy button to have your reinforcements delivered to your drop zone on the battlefield.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MoveDropZone.myHeader	COMBAT SCHOOL - Drop-zone
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MoveDropZone.myText	You can move the point where your reinforcements will be dropped. To do this you click the Drop Zone button and then left click within the marked area where you want the new drop zone to be placed. Make sure you utilize this function to shorten your supply lines whenever possible.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_0.myText	Get some defenses up by the freeway. Won’t be long before the commies get here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_0.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_1.myText	This is Eagle six! The Russians are pulling back and we've handled the first attack wave. Meet me near the bridgehead in ten. We need to get this mess sorted out before Ivan returns.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_1.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_2.myText	Come in Parker! Russian infantry has been sighted near a house belonging to General Levinson. I just talked to him. His family is still there and they must be evacuated before it’s too late. I wonder where those bastards got his address.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_2.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_3.myText	Get to that house now, dammit! I won’t be the one explaining things to the General if his family dies.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_3.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_4.myText	Parker! The Russians have gathered a lot of civilians at some houses not far from here. Now they’re putting them on school buses. We have to get to them before the commies take them away!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_4.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_5.myText	The Soviet vanguard has arrived, Parker! If you could speed up a little we would all be happier!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_5.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_6.myText	Good job, Parker. At least you can do something right.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_6.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_7.myText	We still need to get some fortifications up at the freeway, Parker. If you would be so kind and get your butt back here we could perhaps get it done before the commies run all over us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_7.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_8.myText	Understood, captain. Get those civvies across. We are moving into the area now and I can call in some fire support for you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_8.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_9.myText	You’re doing good, everyone. The buses are almost across!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_9.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_10.myText	There’s too many of them! Fall back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_10.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_11.myText	Belay that and hold your positions! I’ve called in air support!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_11.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_12.myText	Well done! We got reinforcements coming in! Get them organized and into the fight ASAP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_12.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_13.myText	Bannon, what the hell were you thinking fortifying that position?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_13.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_14.myText	Sir, it was Parker who –
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_14.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_15.myText	Nevermind. We can use a forward position there to delay the Soviet main force when it arrives. That would be the perfect job for you and your tanks Bannon. Get over there now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_15.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_16.myText	Yes, sir. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_16.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_17.myText	Webb and Parker! Ivan’s gonna come down that freeway like a cannon ball on fire and we have to delay him long enough for the bridge to be blown. If we let his heavy armor get across, the entire state will fall before we know it. Understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_17.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_18.myText	Affirmative, sir. Come on Parker. We’ll dig in on the other side.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_18.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_19.myText	Good going, Parker! Now get those shovels out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_19.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_20.myText	They’ve dropped a lot of troops behind our lines. And they’re using amphibious transports to cross the water. Keep a three-sixty watch and don’t let anything through that doesn’t identify itself.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_20.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_21.myText	This is Eagle six. Good job. Now hold them back while I see about getting that bridge below sea level.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_21.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_22.myText	This is Bannon! How long are we supposed to stay here by ourselves?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_22.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_23.myText	Until I say so, captain. You should be happy to be here considering what you have to answer for! Now focus on killing the enemy!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_23.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_24.myText	Affirmative, sir. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_24.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_25.myText	Try to flank them and hit them from behind, Parker! You’re gonna get easier kills that way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_25.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_26.myText	Lieutenant Parker! My medics are losing supplies fast. I saw a hospital nearby. Get over there and see what supplies they have. I’ll hold the line in the meantime.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_26.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_27.myText	Hurry up, Parker! They need your help!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_27.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_28.myText	Lieutenant! You were ordered to go to the hospital. The colonel told me you were dependable but I have yet to see that myself.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_28.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_29.myText	Go, Parker! I can handle things here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_29.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_30.myText	Eagle six. Eagle six. We’re under heavy attack. I got commies all over the place! Looks like the whole Soviet army! Need backup NOW!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_30.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_31.myText	Lieutenant, Parker! We have to do something about those Soviet helicopters. I just got a line on some out-of-service anti-air batteries in the area. If you could fix them up we might get rid of those choppers once and for all.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_31.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_32.myText	Those choppers need to be dealt with, Parker! Why don’t you do something about it?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_32.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_33.myText	Parker. This is Eagle six. How’s it going with those repairs?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_33.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_34.myText	You’re the man, Parker! I got an M60 tank attached to my company, but you probably need it more than we do. I’ll tell those men you’re in command instead of me.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_34.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_35.myText	Calm down, captain! Parker will call in fire support for you. Stay in place and he’ll help you deal with the attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_35.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_36.myText	Parker! Where the hell is that fire support! My people can’t handle this by themselves!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_36.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_37.myText	Lieutenant! The Russians are throwing everything they have into the attack! Call in fire support NOW!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_37.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_38.myText	This is Bannon! We’re falling back platoon-wise! Keep that fire incoming until we’re across!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_38.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_39.myText	Good. Take up positions around the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_39.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_40.myText	We should’ve left earlier – 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_40.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_41.myText	Shut up, captain. The air force is going to bomb the bridge but we have to hold it until that happens. Form a line, dig in and try to lure as many Russians onto that bridge as possible!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_41.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_42.myText	This is insane! We have to fall back faster!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_42.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_43.myText	There are thousands of civilians behind us, trying to get away. If we fall back now they’re going to be caught in the fight. Do you want that to happen?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_43.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_44.myText	But there’s too many of them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_44.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_45.myText	You’ve faced worse odds before, haven’t you?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_45.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_46.myText	He’s right Bannon. Now pull yourself together!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_46.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_47.myText	I – I will, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_47.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_48.myText	Shut up, captain! The B52s are incoming! As soon as the bridge is down we fall back to the next rally point! Button up, everyone!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_48.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_49.myText	God damn it! They’re here already! Return fire! And remember we don’t have any reinforcements to call on, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_49.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_50.myText	We're not equipped to handle an assault like this! They're going to tear us apart if we don't get some support!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_50.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_51.myText	Eagle six to Captain Bannon! Give me a SITREP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_51.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_52.myText	Colonel Sawyer, sir! We're under heavy attack at the bridge. Trying to protect civilian evacuees!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_52.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_53.myText	I've got some reinforcements inbound for you. Hang tight! Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_53.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_54.myText	Looks like the commies have caught up with us, people. Some Russian scouts have been spotted not far from here. Nothing to be worried about yet, but I get the feeling more are on the way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_54.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_55.myText	The enemy is building up their forces to the southwest. They must be massing for an attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_55.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_56.myText	Ok, people. This is how we’ll do it. Parker, you deal with the ground forces as best you can. Bannon, if you see any units that Parker can't handle, radio their position to me and I'll relay it to the artillery.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_56.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_57.myText	I have infantry in the woods to the north!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_57.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_58.myText	I read you, Captain. Target marked.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_58.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_59.myText	Eagle six! Heavy armor to the south!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_59.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_60.myText	Message received. Good call, Captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_60.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_61.myText	Armor approaching from the northwest!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_61.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_62.myText	I got your target coordinates. Fire support incoming. Stay low.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_62.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_63.myText	Lieutenant Parker! I’ve set you up with direct access to our fire support. Don’t make me regret that decision.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_63.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_64.myText	Russian airborne infantry spotted, Parker! They dropped behind our position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_64.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_65.myText	Roger that, sir!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_65.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_66.myText	Wow, that’s a lot of people. They better get a move on or the commies will pound them to pieces. I guess it falls on us to protect them. Damn civvies …
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_66.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_67.myText	Wonder when Colonel Sawyer will get here. We need the reinforcements but I could do without him … Continue toward the bridgehead, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_67.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_68.myText	Parker!? Come in, lieutenant! Come in, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_68.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_69.myText	And Parker! I can’t reinforce you as before. We’re stretched thin as it is, and you will have to make do with what you’ve got until we’ve established new supply lines. So be careful, you hear!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_69.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_70.myText	The school buses carrying the evacuees have started moving across the bridge, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_70.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_71.myText	Good. Don’t let the Russians through. They’re using helicopters to drop troops on our side, but we’ll make sure the road is clear. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_71.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_72.myText	Stay in place, lieutenant! We have things covered here. Your orders are to protect that bridgehead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_72.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_73.myText	Damn it, Parker! I told you to stay with Bannon! Get back there now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_73.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_74.myText	Your reinforcements are on the way, Parker! They’ll be landing shortly. Stay clear of the area!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_74.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_75.myText	Hang in there, Lieutenant Parker! I’m sending you some extra reinforcements! But you have to take better care of your people!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_75.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_76.myText	The commies are so damn fast! They must’ve dropped airborne units all over the city!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_76.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_77.myText	We’ll be cut off if we stay here much longer! Can’t we drop that bridge now!?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_77.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_78.myText	I’m seeing to that, captain. Stay in place and calm down!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_78.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_79.myText	Looks like they’re cutting us some slack, Parker. But stay focused! I bet more of them are coming our way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_79.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_80.myText	Parker! Ivan is dropping airborne troops at several different locations, but our scouts have pinpointed their rally-points. Put some shells on those targets, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_80.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_81.myText	Use artillery or whatever you have, Parker, but make sure Ivan doesn’t get organized or we’ll be hard put to defend this bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_81.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_82.myText	You got them running, Parker! Move on to the next target!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_82.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_83.myText	That’s another rally-point they won’t be gathering at. Well done, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_83.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_84.myText	Bang on target, Parker! Good job.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_84.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_85.myText	They won’t be getting organized there, Parker! Impressive.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_85.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_86.myText	Good job, lieutenant. You just bought us some precious time. It’ll take hours before those airborne troops get organized.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_86.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_87.myText	We finally got some air defenses up. See if you can fix the rest of them, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_87.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_88.myText	Good to see those AA guns back into action, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_88.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_89.myText	You’re doing a good job, Parker. Keep it up.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_89.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_90.myText	Our air defenses are fully functional again and Ivan has ceased sending his choppers into the area. All thanks to you, Parker. Excellent job!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_90.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_91.myText	Parker! Webb will take temporary command of your forces while you focus on using all available fire support to halt Ivan’s attack. The air force will bomb the bridge but we have to hold until they get here! 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_91.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_92.myText	This is Bannon! We’re being overrun and we can’t [cut off by static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_92.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_93.myText	Dammit! We lost him and the bridge! Parker, you’re relieved! I need officers I can trust.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_93.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_94.myText	Hell yeah! Take that you commie bastards!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_94.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_95.myText	On target, lieutenant. Keep it coming!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_95.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_96.myText	Taste some American lead you son-of-a-bitch!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_96.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_97.myText	Call in the fire danger close, Parker! We can take it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_97.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_98.myText	There’s so god damn many of them! We need all the fire support we can get, Parker! MORE, you hear!? Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_98.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_99.myText	Cease fire! CEASE FIRE! What coordinates are you sending, Parker! You’re hitting us instead of the enemy!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_99.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_100.myText	Check those coordinates, lieutenant. Don’t let it happen again or I’ll relieve you of command.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_100.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_101.myText	Check your fire! CHECK YOUR FIRE! What’s wrong with you, Parker!?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_101.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_102.myText	You’re relieved, Parker! Webb will take command of your units. Let’s see if we can salvage this mess you just made.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_102.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_103.myText	First platoon clear! Second platoon, start moving!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_103.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_104.myText	Second platoon has made it across! I’m sending third now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_104.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_105.myText	This is Bannon. All my people have made it across!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_105.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_106.myText	This is Bannon! We just took a direct hit and … FIRE! GET OUT! GET [cut of by static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_106.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_107.myText	Bannon! Come in Charlie six! Damn it, Parker! We’ve lost them because of you. And now we’ll lose the bridge as well!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_107.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_108.myText	Parker! I want you to destroy all strategic targets in the area. Oil tanks, gas stations, electrical substations and the like. Ivan might’ve taken Seattle but we won’t make it easy for him.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_108.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_109.myText	Woah! That’s some explosion.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_109.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_110.myText	That’s what I want to see, Parker. Scorched earth.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_110.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_111.myText	Excellent, Parker! We’ve denied Ivan a lot of important resources.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_111.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_112.myText	Parker, do you read me? Come in, Parker! Repeat, acknowledge! Dammit!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_112.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_113.myText	Parker, what are you doing? You've just destroyed a hospital full of innocent civilians! You’re relieved, effective immediately!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_113.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_114.myText	Parker! Your incompetence just cost Bannon his life!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_114.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_115.myText	We can’t finish the evacuation while the Russians hold the hospital! Take it back immediately!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_115.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_116.myText	Get a move on, Parker! We need to get these positions up ASAP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_116.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_117.myText	That’s the spirit, Parker! Get ‘em!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_117.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_118.myText	Kill all of them so we can get those civvies out of there!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_118.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_119.myText	Bannon here! We’re engaged at the bridge and we’re trying to get a bunch of civilians out of the area before the Russians come in force!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_119.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_120.myText	Good, you got them out. I’ll let the general know that his family is safe. Now see to the rest of the evacuees!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_120.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_121.myText	Roger that, sir. Parker, we have to hold the bridgehead while the buses move across. Don’t let any Russians through!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_121.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_122.myText	I’m airlifting reinforcements to your position, Parker. Make good use of them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_122.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_123.myText	The evacuees are safe. Now we can focus on killing Russians. We’ve handled the first wave, but there will be more coming. Meet me near the bridgehead in ten.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_123.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_124.myText	Parker! Ivan is sending a large amphibious force across the lake. Be prepared.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_124.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_125.myText	Parker! I’m leaving some of our reserves to you. Call in what reinforcements you need.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_125.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_126.myText	This is Eagle six! It looks like we’re going to be here for a while. I’ve contacted the air force to see if they can help us blow the bridge but they’ve failed to respond so far.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_126.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_127.myText	Sir, can’t we just leave that bridge and get out of here?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_127.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_128.myText	If we do, Washington State is lost, Bannon. I thought I made that clear? You are to hold until told otherwise, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_128.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_129.myText	Understood, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_129.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_130.myText	Damn it, Parker! Ivan just knocked out those AA guns for good and he’s started to fly in infantry. This won’t make things easier.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_130.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_131.myText	Parker! The local hospital hasn’t been evacuated yet and Ivan is closing in. Get over there and set up a perimeter while they finish the evacuation. Webb will have to hold the bridgehead by himself in the meantime.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_131.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_132.myText	Not a problem, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_132.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_133.myText	A lot of civilians won’t get out of the city in time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_133.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_134.myText	I think those civvies are in for some rough times, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_134.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_135.myText	Yeah, we must try to evacuate as many as possible.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_135.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_136.myText	Good, the evacuation is under way. Secure the position and hold until it’s complete.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_136.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_137.myText	Keep them away, Parker! The evacuation won’t take much longer. As soon as those buses leave, you should go back to the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_137.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_138.myText	Not many left, Parker! You’re doing well!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_138.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_139.myText	That was the last of them! Well done, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_139.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_140.myText	Parker! The evacuation is in jeopardy! Secure that hospital now, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_140.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_141.myText	Parker! Secure that hospital at once!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_141.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_142.myText	Too late, Parker. The Russians have gained a foothold at the hospital and those civilians will be herded back to Seattle. I thought I could depend on you, lieutenant. Guess I was wrong.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_142.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_143.myText	Parker! Don’t bother with knocking out those rally-points now. The Russians have already dispersed. We can expect a lot of ambushes from here on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_143.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_144.myText	I have Russian forces inside the perimeter! Get some shells on them before they dig in, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_144.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_145.myText	What the hell are you doing, Parker! We’ll lose the bridge if you don’t start putting some shells on Ivan!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_145.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_146.myText	Parker! We’ve got Russians inside the perimeter! Kill them before they get a foothold!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_146.myPortraitText	Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_147.myText	Secure that bridgehead, Parker. Now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_147.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_148.myText	Damn it! We lost the bridgehead! There’s nothing more we can do here. All units retreat!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_148.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_149.myText	We can’t lose that bridgehead, Parker! Kill those enemies!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_149.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_150.myText	I told you to secure that bridgehead, damn it! And now we’ve lost everything. Fall back, people. The day is lost.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_150.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_151.myText	Parker! We have to push them back before they dig in! Hit them hard!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_151.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_152.myText	We’re losing the bridgehead, Parker! Secure the area before it’s too late!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_152.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_153.myText	Eagle six. We lost the bridge. I repeat: We lost the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_153.myPortraitText	Webb
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_154.myText	Roger that Webb. All units retreat. We have to set up defenses farther out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.seattle3_154.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myText	What the hell, Parker! The Commies are fortifying that position! Stop them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myText	The Russians are digging in, Parker! Use those skills of yours and fight them off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myText	Don't let the commies get defenses up at that position or it'll all be over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myText	Parker! We'll lose everything if the Russians fortify that position! Attack them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myText	Get a move on, Parker! If the Russians get their defenses up we'll lose this battle!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myText	The Russians are getting a foothold, Parker! Stop them before they fortify!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myText	Parker you klutz! We just lost a position! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myText	The Russians have overthrown our position, Parker! Reclaim it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myText	Don't you know any tactics at all, Parker! Retake that position, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	Parker, the enemy is gaining ground. Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	We're losing ground, lieutenant Parker! Retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	We have to retake that position we just lost, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	More civilians have been evacuated and the Russian invasion contained for the time being, all thanks to your efforts, lieutenant. By holding the bridge for as long as you did you ensured that no Soviet heavy armor made it across. Now our units will have more time to organize defenses.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	You failed to destroy the I-90 Bridge and hundreds of Soviet tanks are now driving across to pursue and destroy unprepared and scattered defenders. As a direct result, the entire Pacific Northwest will soon be under Soviet control.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_01.myTitle	Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_01.myText	Fortifications provide additional defenses to a Command Point. Keep units within the circles to construct them.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_02.myTitle	Forest Bonus
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_02.myText	Infantry units may seek cover in wooded areas.  on unit icons denotes Forest Bonus is in effect.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_03.myTitle	Drop Location
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_03.myText	To change your drop location, press  on the drop location marker.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_04.myTitle	Drop Location
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_04.myText	Confirm the new location with .
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_05.myTitle	Command Points
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_05.myText	To control a Command Point, you need to control all the connected Perimeter Points (circles).
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_06.myTitle	Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_03_06.myText	To repair damaged fortifications keep one or more units inside the Perimeter Point (circles).
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_DoubleClick.myTitle	Unit Selection
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_DoubleClick.myText	Double tap  to select units of same type.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hospital.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hospital.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hospital.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hospital.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Freeway.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Freeway.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Freeway.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Freeway.myEnemyCapturedText	<empty>

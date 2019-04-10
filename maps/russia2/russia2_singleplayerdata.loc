@@ -1,0 +1,240 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	Bannon was never officially reprimanded for the death of Commandant Sabatier.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	Instead the Colonel took him aside just before we boarded the plane to Norway. Bannon seemed chastened when they returned, but it was hard to say whether the colonel's words had any lasting
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	effect. Our mission was top secret. We got our briefing when we arrived in Kirkenes in Norway. We were going to be
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	dropped near Murmansk inside the Soviet Union where we were to locate a crashed prototype stealth bomber.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	It supposedly carried some sensitive information so it was imperative that we reached the crash site before the Russians did. Several teams of Norwegian Rangers would be assisting us.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	Their commander, Major Johannessen, was a hard-set man who'd already led four missions across the Soviet border. He didn't talk much, but his competence was clear, and we all felt good having him as a guide in that cold and hostile country.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CrashSite.myDescription	Secure the crash site
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CrashSite.myLongDescription	We need to establish a perimeter around the crash site ASAP. Lead the rangers there, clear out any Russian forces and set up defensive positions. Remember to use the woods to your advantage as you infiltrate into the area.\n\nTo complete this objective you must secure the crash site.\n\nYou will fail this objective if you lose all your units before you have secured the crash site.\n\nRemember that there are no reinforcements to be had yet.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CrashSite.myVisualisationText	Secure the crash site
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myDescription	Destroy the AA
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myLongDescription	Those AA guns must be destroyed before we can fly in the engineers and reinforcements. We recommend you use the rangers to call in artillery on the Russian units.\n\nTo complete this objective you must destroy the anti-air batteries marked on the map.\n\nYou will fail the mission if you lose all your units before the AA has been destroyed.\n\nRemember that there are no reinforcements to be had yet.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myVisualisationText	Destroy the AA
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldCrashSite.myDescription	Hold the crash site
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldCrashSite.myLongDescription	Now that you’ve secured the area you need to hold it until the engineers can complete their tasks. They will search through the wreckage for the camera and its film and then prepare what remains for demolition.\n\nTo complete this objective you must hold the crash site until the engineers have finished their job.\n\nYou will fail the mission if the Russians manage to build fortifications around the crash site.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldCrashSite.myVisualisationText	Hold the crash site
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Extraction.myDescription	Clear the extraction route
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Extraction.myLongDescription	The pilots have been retrieved and now we are going to extract from the area. But the pre-planned route has been blocked by a Soviet combat group. Clear it out and secure the extraction route and do it before the larger rapid response force catches up with you.\n\nTo complete this objective you must build fortifications at the marked bottleneck along the extractions route.\n\nYou will fail the mission if you do not complete the objective within the allotted time.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Extraction.myVisualisationText	Clear the extraction route
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart1.myDescription	Search the train station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart1.myLongDescription	We have information that the downed pilots are being held somewhere close by. Search the train station first. Time is becoming an issue though, since a large enemy rapid response force is on its way from the nearby city.\n\nTo complete this objective you must secure the train station.\n\nYou will fail the mission if you do not capture the train station before the time runs out.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart1.myVisualisationText	Search the train station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart2.myDescription	Search the apartment complex
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart2.myLongDescription	The pilots are believed to be held somewhere in this apartment complex. The buildings need to be searched one by one until the pilots are located and rescued. The Russian rapid response force is not far out. We must finish the search before it arrives.\n\nTo complete this objective you must hold each position until the adjacent houses have been searched and the pilots found. This must be done before the time runs out.\n\nYou will fail the mission if the pilots have not been found within the allotted time.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RescuePOWSPart2.myVisualisationText	Search the apartment complex
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myDescription	Assist Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myLongDescription	Bannon needs help fighting off the Russian choppers. Send any AA you have to his position and clear the skies.\n\nTo complete this objective you must destroy the helicopters attacking Captain Bannon.\n\nYou will fail this objective if you do not destroy those helicopters before they return to base.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myVisualisationText	Assist Bannon
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyPowerPlant.myDescription	Destroy the power plant
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyPowerPlant.myLongDescription	The power plant constitutes an excellent strategic target. Its destruction would cause power shortages in the entire region and be a severe blow to the Soviet infrastructure.\n\nTo complete this objective you must destroy the marked buildings at the power plant.\n\nYou will fail this objective if you do not destroy the marked buildings before the colonel decides to report the target location to the air force.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyPowerPlant.myVisualisationText	Destroy the power plant
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SecureTrainStation.myDescription	Retake the train station
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SecureTrainStation.myLongDescription	Retake the train station to ensure that you can drop reinforcements there.\n\nTo complete this objective you must retake the train station.\n\nYou will fail the objective if the Russians are in control of the train station when the apartment complex has been searched.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SecureTrainStation.myVisualisationText	Retake the train station
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HoldTrainStation.myDescription	Hold the train station
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HoldTrainStation.myLongDescription	Hold the train station to ensure that you can drop reinforcements there. If the Russians take control of the area you will have to reinforce at the crash site until you recapture the train station.\n\nTo complete this objective you must hold the train station when the mission ends.\n\nYou will fail the objective if the Russians are in control of the train station when the apartment complex has been searched.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HoldTrainStation.myVisualisationText	Hold the train station
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneReduce.myString	Your drop zone has reduce.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcmentsAndTA.myString	You have been given access to reinforcments and support weapons.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenMoreAP.myString	You have been given more AP.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.trucksGiven.myString	You can now order down trucks.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcments.myString	You have been given access to reinforcments.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	You have been given access to Tactial Aid.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenMoreTA.myString	You have been given access to more Tactial Aid.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_01.myText	Parker. The crash site should be nearby. Lead the rangers to the objective and eliminate any opposition you encounter.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_01.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_02.myText	Those rangers are all we have until reinforcements can be brought in. Don’t take any unnecessary risks.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_02.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_03.myText	This is Delta six. There is a large enemy response force at an army base 25 klicks away. They are not yet alerted to our presence but that could happen at any moment.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_03.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_04.myText	So let’s be quick, people.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_04.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_05.myText	Enemy contact! Deal with them, Parker! And don’t forget that your rangers can call in fire support!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_05.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_06.myText	Area secured, Parker. Now establish defensive positions.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_06.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_07.myText	Alright. We have control of the crash site. Now we need to hold it until the engineers have done their job.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_07.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_08.myText	We’ve lost contact with the rangers and Ivan has been alerted. I’m aborting this mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_08.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_09.myText	Parker! Re-secure the crash site before it’s too late. The engineers need more time!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_09.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_10.myText	The engineers have retrieved the camera and its film and prepped the wreck for demolition. Good job everyone! Stand clear of the blast.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_11.myText	We’ve lost the crash site and the aircraft has fallen into Russian hands. This mission is aborted.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_11.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_12.myText	Parker! Russian AA-units have been positioned near the crash site. They must be destroyed before we can start flying in the engineers and reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_12.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_13.myText	One more to go. Then I’ll bring in the birds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_13.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_14.myText	The area is clear and reinforcements are on the way. Bannon, as soon as you arrive I want you to take up positions to the north. Your tanks will be needed on the open ground there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_14.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_15.myText	Yes, sir. They won’t get past us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_15.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_16.myText	They better not. As soon as the engineers have landed they’ll start retrieving the film we came here for. Then they’ll destroy what’s left of the aircraft. Everyone stay alert. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_16.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_17.myText	Eagle six! This is Bannon! We’re being hit by Soviet attack helicopters, over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_17.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_18.myText	Parker! Bannon lacks air defense assets. Assist him if you can. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_18.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_19.myText	Parker! I need help over here damn it! What’s taking you?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_19.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_20.myText	Where’s that air defense, Parker?! I’m losing good people thanks to you!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_20.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_21.myText	That took you long enough, Parker. Glad you could spare some of your precious time to help out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_21.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_22.myText	Don’t bother with the help, Parker. The choppers have left and a lot of guys are dead because you couldn’t get your thumb out of your butt!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_22.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_23.myText	Eagle six, this is Delta six. My scouts tell me your pilots have been captured by the Russians but are still in the area, waiting to be transported out by train. I also got word that the Russian response force has been alerted. It will be here soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_23.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_24.myText	Roger that, but we’re not leaving here without those pilots. Head out for the train station.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_24.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_25.myText	I’m calling in a napalm strike to burn a path through the forest. Stay clear. Then move quickly! We need to be out of the area before the response force gets here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_25.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_26.myText	Alright. Parker! You’re in charge of the search party. Bannon, you stay behind and keep the crash site secure. It will be our rally point until we’ve found the pilots.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_26.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_27.myText	But sir, I –
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_27.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_28.myText	No god damn buts, captain! You have your orders!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_28.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_29.myText	Yes, sir. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_29.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_30.myText	No activity at the train station.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_30.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_31.myText	Delta six here. The pilots have been spotted near the apartment complex.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_31.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_32.myText	You heard him, Parker. Move on and search those apartment buildings. And fast!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_32.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_33.myText	We have to extract, Parker! The response force is here. Your dilly-dallying might have cost those pilots their lives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_33.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_34.myText	Parker! That power plant is an excellent strategic target. Try to take it out with a small strike team.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_35.myText	The lights are going out all over the province, Parker. That should mess things up for Ivan. Well done!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_35.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_36.myText	That was a missed opportunity, Parker. But the location has been noted and sent to the air force. Hopefully they’ll deal with it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_37.myText	Delta six, here. The response force is not far out now. We going to have to extract soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_37.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_38.myText	He’s right, Parker. Secure the area while Johannessen’s people search the buildings!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_38.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_39.myText	One building searched. Move on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_39.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_40.myText	Second building searched. We need to do this faster!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_40.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_41.myText	Third building searched. We don’t have much time left!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_41.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_42.myText	The pilots have been located and they’re shaken but alive! I knew I could count on you Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_42.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_43.myText	This is Delta six. The Soviet response force has deployed outside of the city. We count at least three companies worth of tanks and APCs.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_43.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_44.myText	Damn it! They moved faster than expected! Parker, you retreat with the pilots. We can’t afford to get locked down in a fight with a superior force!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_44.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_45.myText	Bannon here! I could take my company and hit the Russians in the flank!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_45.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_46.myText	That actually might delay them, Bannon. Do it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_46.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_47.myText	Hell yeah, sir! Full speed ahead! Move into wedge formation and shoot everything that moves!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_47.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_48.myText	Time’s up, Parker! We have to abort the search and extract. We can only hope that those pilots will make it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_48.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_49.myText	Parker! Your extraction route is blocked by the Russians. You’re going to have to fight your way out before the response force catches up with you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_49.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_50.myText	Captain Bannon! Come in! You need to get back on the horse and hit Ivan in the flank as planned! Parker needs all the help he can get!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_50.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_51.myText	Yes, sir. I just wanted to explain--
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_51.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_52.myText	Later, Bannon! I won’t forget what you did, but right now we have a battle to win!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_52.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_53.myText	Parker! You’ll be caught between a rock and a hard place if you don’t clear the way soon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_53.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_54.myText	That route needs to be cleared ASAP, Parker! Or you’ll be surrounded and cut off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_54.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_55.myText	The route is clear! Extract to the south. That film we retrieved has revealed some very interesting intelligence and we have a new mission up by the coast. Everyone rally at grid seven-three for debrief. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_55.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_56.myText	Parker! Parker, come in! Damn it Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_56.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_57.myText	That was too close, Parker! Don’t let anymore Russians through!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_57.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_58.myText	Three more minutes, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_58.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_59.myText	The engineers say they’ll be finished within one minute!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_59.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_60.myText	Damn it, Parker! We can handle this fight ourselves! Focus on your objective!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_60.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_61.myText	Parker! You don’t have time for fooling around! Clear that route!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_61.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_62.myText	Entering building now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_62.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_63.myText	First sweep completed. No signs of the pilots.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_63.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_64.myText	Entering building!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_64.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_65.myText	No pilots here! Moving on the next building!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_65.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_66.myText	Eagle six! We found them. I repeat we found them! Let’s get these men home.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_66.myPortraitText	JOHANNESEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_67.myText	Make sure you hold that train station, Parker! As long as you do, we can drop reinforcements there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_67.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_68.myText	Parker! The LZ at the train station is too hot to land reinforcements. You should resecure the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_68.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_69.myText	And good job holding the train station, lieutenant. That LZ will be put to good use.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_69.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_70.myText	Too bad you couldn’t hold on to the train station. We could’ve used that LZ during the extraction, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_70.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_71.myText	Parker. We have lost control over the train station
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.r2_71.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	Overcoming intense enemy pressure, you managed to retrieve both the camera film and the downed pilots. That film contains some highly interesting intelligence regarding the Russian Navy. In all probability you will soon take part in another attack in the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	You failed to secure the aircraft and the pilots. The entire operation has been aborted and you will have to return to Norway empty-handed.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.DamagePrinter	Destroy %d more powerplant buildings
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.ApartmentSearchedPrinter1	Apartments searched: %d of %d
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.ApartmentSearchedPrinter2	Apartments searched: %d of %d\nYou have to stay inside the CommandPoint!
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.ApartmentSearchedPrinter3	Apartments searched: %d of %d
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_01.myTitle	Offensive Special Ability
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_01.myText	To call in Direct Artillery at a target location, select your Rangers and press .
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_02.myTitle	Offensive Special Ability
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_02.myText	Engineers may place demolition charges inside structures. Press  to place a charge at target building.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_03.myTitle	Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_12_03.myText	To search the apartment building, keep units inside the circle by the building.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_CrashSite.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_HoldCrashSite.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TrainStation.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Pow3.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myWeCapturedText	We captured the Suburb
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myWeLostText	We lost control of the Suburb
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Extraction.myEnemyCapturedText	Enemy captured the Suburb

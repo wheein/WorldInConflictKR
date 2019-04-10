@@ -1,0 +1,159 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myUiName	Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeCapturedText	We captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeLostText	We lost control of the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myEnemyCapturedText	Enemy captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myUiName	Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeCapturedText	We captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeLostText	We lost control of the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myEnemyCapturedText	Enemy captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myUiName	Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myWeCapturedText	We captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myWeLostText	We lost control of the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__9.myEnemyCapturedText	Enemy captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myUiName	Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myWeCapturedText	We captured the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myWeLostText	We lost control of the Frontline
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__10.myEnemyCapturedText	Enemy captured the Frontline
+myWicedMap.myMissionStats.myName	tw_Highway
+myWicedMap.myMissionStats.mySPName	%02d - Fratricide 
+myWicedMap.myMissionStats.myDescription	The mist lies thick below an overcast sky as U.S. and Soviet forces struggle for control of an important stretch of freeway not far from Seattle.
+myWicedMap.myMissionStats.mySPDescription	Soviet forces are in complete disarray following the nuclear disaster at Cascade Falls. The battle group led by Orlovsky is slowly making its way north toward Seattle but they are harried from all sides by American forces. At the same time they must protect a convoy filled with comrades wounded in battle.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HIGHWAY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HIGHWAY
+myWicedMap.myMissionStats.myPrimaryObjectives.PrimaryObjectiv.myDescription	Secure the area around the highway and protect the F15s while they land and repair.
+myWicedMap.myMissionStats.myPrimaryObjectives.PrimaryObjectiv.myLongDescription	The two F15s are en route and will arrive soon. Your mission is to secure the area so that they can land.
+myWicedMap.myMissionStats.myPrimaryObjectives.PrimaryObjectiv.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__7.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__8.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__9.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__10.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__10.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__10.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Radio.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Radio.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Radio.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_LastStand.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_LastStand.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_LastStand.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Final.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Final.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Final.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Base.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Base.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_Base.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_1.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_1.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_1.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_4.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_4.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_4.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_3.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_3.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_3.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_2.myDescription	Frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_2.myLongDescription	Capture the frontline
+myWicedMap.myMissionStats.myAttackCPObjectives.CP_AA_2.myVisualisationText	Capture the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__7.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__8.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__9.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__10.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__10.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__10.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Radio.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Radio.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Radio.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_LastStand.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_LastStand.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_LastStand.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Final.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Final.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Final.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Base.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Base.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_Base.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_1.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_1.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_1.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_4.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_4.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_4.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_3.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_3.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_3.myVisualisationText	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_2.myDescription	Frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_2.myLongDescription	Defend the frontline
+myWicedMap.myMissionStats.myDefendCPObjectives.CP_AA_2.myVisualisationText	Defend the frontline
+myWicedMap.myLocStrings.PrimaryObjectiv_Dialog1	MSG SAWYER: Mission accomplished, lieutenant. Time for us to withdraw.
+myWicedMap.myLocStrings.PrimarySubObj_1_Dialog1	MSG SAWYER: There's the highway, lieutenant. The FARP-team should be waiting for us near the mall to the south. We should move there as quickly as we can and then assess the situation.
+myWicedMap.myLocStrings.PrimarySubObj_1_Dialog2	FARP SERGEANT: Good to see you lieutenant. My guys have cleared the highway of debris and I've got two squads in positions further north as well. The F15s should be here soon. I hear they're in pretty bad shape.
+myWicedMap.myLocStrings.PrimarySubObj_2_Dialog1	MSG SAWYER: Sir, we should check on the other positions along the highway as well. Then we can call in our reinforcements. The Soviets will probably be here soon.
+myWicedMap.myLocStrings.PrimarySubObj_2_Dialog2	MSG SAWYER: They’ve established good fighting positions, but we should reinforce them later. Let’s move on.
+myWicedMap.myLocStrings.PrimarySubObj_2_Dialog3	MSG SAWYER: Everyone seems to be ready and we’ve gotten a good view of the area, LT. Time to call in the reinforcements. I figure the Soviets will be here soon...
+myWicedMap.myLocStrings.PrimarySubObj_3_Tips1	You must take and hold more command points than your enemy and then hold these until the F15s arrive. On top of this you must make sure that the command point located at the FARP isn’t taken by the enemy.
+myWicedMap.myLocStrings.PrimarySubObj_3_Tips2	Use the reinforcement menu to call in reinforcements. By pushing the Drop Zone button and then right clicking on the map you can choose where you want your units to land. If you don’t do this they will use the default Drop Zone.
+myWicedMap.myLocStrings.PrimarySubObj_3_Tips3	LT. Webb is one of your teammates. He will manage his own units but you can give him general directions by placing Requests anywhere on the map. He will then try to fulfil these to the best of his ability.
+myWicedMap.myLocStrings.PrimarySubObj_3_Tips4	If no requests are placed LT. Webb will try to help by conquering and holding command points.
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog1	LT. WEBB: LT. Webb reporting, sir! Where do you want my guys?
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog2	MSG SAWYER: You could order Lt. Webb to secure the northern part of the highway, sir
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog3	MSG SAWYER: I can hear the Soviets, LT. Remember to keep them away from the FARP-guys.
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog4	FARP SERGEANT: Sierra, we are surrounded by Soviet units. Cannot hold for much longer!
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog5	FARP SERGEANT: Dammit! I have Soviet units within the perimeter!
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog6	FARP SERGEANT: Soviet units have breached our defences! 
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog7	MSG SAWYER: Sir, the area has been secured and the Soviets seem to be withdrawing their forces. Now where the hell are those aircraft?
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog8	F15 PILOT: To all ground units, this is Oddball. Me and my wingman are [x] minutes out. Is the area secure?
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog9	MSG SAWYER: Oddball, this is Sierra Seven, the area is secure and the highway has been cleared of debris. You are free to land.
+myWicedMap.myLocStrings.PrimarySubObj_3_Dialog10	MSG SAWYER: Sir, the FARP has been overrun. The pilots will have to eject now. We should withdraw and review our losses.
+myWicedMap.myLocStrings.PrimarySubObj_4_Dialog1	F15 PILOT: Roger that, Sierra, We’re … Wait! … I have multiple ground threats on my RWR, make that … three of them. Radar signature corresponds to Soviet Shilkas. They’ll cut us to pieces.
+myWicedMap.myLocStrings.PrimarySubObj_4_Dialog2	MSG SAWYER: We’re on it Oddball. Sierra out.
+myWicedMap.myLocStrings.PrimarySubObj_4_Dialog3	MSG SAWYER: We should search the area to the north-east, sir. And be quick about it. Those planes won’t be able to stay in the air for much longer
+myWicedMap.myLocStrings.PrimarySubObj_4_Dialog4	MSG SAWYER: Well done, sir! Two more to go. Keep on looking!
+myWicedMap.myLocStrings.PrimarySubObj_4_Dialog5	F15 PILOT: This is Oddball. You must have done something right, Sierra. My RWR is clear. Coming in for landing now.
+myWicedMap.myLocStrings.PrimarySubObj_4_Dialog6	MSG SAWER: Roger that. The mechanics are standing by. Sierra out.
+myWicedMap.myLocStrings.PrimarySubObj_5_Dialog1	FARP SERGEANT: We’re starting repairs now. Make sure you keep the Soviets off our back, Serra.
+myWicedMap.myLocStrings.PrimarySubObj_5_Dialog2	MSG SAWYER: Lieutenant! The Soviets are renewing their attack! We’ll have to beat them off!
+myWicedMap.myLocStrings.PrimarySubObj_5_Dialog3	FARP SERGEANT: The repairs are almost finished. We just need a few more minutes.
+myWicedMap.myLocStrings.PrimarySubObj_5_Dialog4	FARP SERGEANT: Sierra, we have finished repairing the aircrafts. Turning them around now.
+myWicedMap.myLocStrings.PrimarySubObj_5_Dialog5	F15 PILOT: This is Oddball, if feels damn good to be back in the air. Next time we meet the beers are on us, Sierra.
+myWicedMap.myLocStrings.PrimarySubObj_5_Dialog6	MSG SAWYER: Sounds good to us, Oddball. We’re glad we could help. Sierra out.
+myWicedMap.myLocStrings.SecondaryObj_Tips1	You have received command of new units.
+myWicedMap.myLocStrings.SecondaryObj_Dialog1	MSG SAWYER: Sir, I’ve got a call from the cavalry unit! Patching them through.
+myWicedMap.myLocStrings.SecondaryObj_Dialog2	CAVALRY SERGEANT [agitated]: This is Zulu-Three. We’re on our way to your position and under heavy pursuit by the Soviets! Our CO:s track just got hit and … [short pause, distant bang] dammit, the XO’s gone. Please assist, over!
+myWicedMap.myLocStrings.SecondaryObj_Dialog3	MSG SAWYER: Sir, if we meet up with them they might be able to help us secure the area.
+myWicedMap.myLocStrings.SecondaryObj_Dialog4	CAVALRY SERGEANT: This is Zulu-Three. The Soviets are right on our tail. My unit is falling apart and … [static]
+myWicedMap.myLocStrings.SecondaryObj_Dialog5	MSG SAWYER: He went of the net, lieutenant. I guess they’re gone.
+myWicedMap.myLocStrings.SecondaryObj_Dialog6	CAVALRY SERGEANT: This is Zulu-Three! We rally here and help these guys out! Let’s turn the table on those damn Russians!

@@ -1,0 +1,43 @@
+﻿myErrors.Header	Failed to start World in Conflict
+myErrors.InitCheckFailed	CRITICAL ERROR: DirectX9.0b or higher must be installed to run World in Conflict.
+myErrors.UnsupportedWinVersion	ERROR: This version of Windows is not supported by World in Conflict.
+myErrors.MoreRamRequired	ERROR: Minimum 128Mb RAM memory is required to play World in Conflict.
+myErrors.MoreRamDesired	Warning: Minimum 128Mb RAM memory is required to play World in Conflict.
+myErrors.TooMuchMemoryOnWin95	Warning: Windows 98 and Windows ME does not properly support 1Gb (or more) of memory. The system can be very unstable.
+myErrors.NotEnoughMemory	ERROR: There is not enough free RAM memory to run World in Conflict. Please close all other applications or restart Windows.
+myErrors.LowOnMemory	Warning: Low on memory. Game performance may suffer.
+myErrors.DX9BRequired	ERROR: DirectX9.0b or higher is required to run World in Conflict.
+myErrors.DebugDXUsed	Warning: A debug version of DirectX is currently in use. Game performance may suffer.
+myErrors.MustUpdateDriver	ERROR: You must update your graphics card drivers to run World in Conflict.
+myErrors.ShouldUpdateDriver	Warning: It is highly recommended that you update your graphics card driver to play World in Conflict.
+myErrors.No3DCardThatCanRunWic	ERROR: No appropriate 3D graphics card detected. Unable to run World in Conflict.
+myErrors.AGPDisabled	Warning: AGP acceleration is not enabled. It is highly recommended that you update your motherboard drivers or game performance may suffer.
+myErrors.NotEnoughGFXMemory	ERROR: Your graphics card does not have enough memory to run World in Conflict. Minimum 32Mb is required.
+myErrors.CPUTooSlow	Warning: A slow CPU is detected. Game performance may suffer.
+myErrors.FailedToAccessProfiles	ERROR: An error occurred while accessing the profiles directory. No write access.
+myErrors.WicAlreadyRunning	World in Conflict is already running.
+myErrors.WicAlreadyRunningExclusive	World in Conflict is already running on this computer.
+myErrors.RemoteSessionNotSupported	World in Conflict can not be played using Remote Desktop Connection.
+myErrors.FailedGeneralInit	General initialization error.
+myErrors.FailedInitDebug	Failed to initialize debug system.
+myErrors.FailedLoadDirectory	Failed to load directory file.
+myErrors.CDKeyNotFound	CD Key not found.
+myErrors.CDKeyInvalid	Invalid CD Key.
+myErrors.FailedInitInput	Failed to initialize input system.
+myErrors.FailedLoadProfiles	Failed to load user profile.
+myErrors.FailedLoadMPMissions	Failed to load multiplayer missions.
+myErrors.FailedInitMassGate	Failed to initialize Massgate(TM).
+myErrors.FailedLoadInitGui	Failed to load or initialize GUI.
+myErrors.FailedStartState	Failed to initialize game state.
+myErrors.DX9NotInstalled	DirectX9.0b not installed.
+myErrors.DX9NotWorking	DirectX9.0b does not work properly. Please try reinstalling DirectX.
+myErrors.NoWorking3dCard	The detected graphics card is not working with World in Conflict.
+myErrors.DX9FailedInit	Failed to initialize DirectX9.0b.
+myErrors.NotEnoughGfxMemory	The detected graphics card does not have enough memory (mimimum 32Mb required).
+myErrors.Unknown3dEngineError	Unspecified error when trying to initialize the 3D engine.
+myErrors.FailedToStartGame	Failed to start game.
+myErrors.ErrorHeader	Serious problems found when starting World in Conflict
+myErrors.ErrorBody	It is highly recommended that you try to fix these problems before running the game.\nPress OK to quit or press Cancel to try to start the game anyway.
+myErrors.WarningHeader	Potential problems found when starting World in Conflict
+myErrors.WarningBody	<empty>
+myErrors.WrongDesktopBpp	ERROR: World in Conflict must be run on a desktop with 32bit color quality. Please adjust your Windows display properties and restart the game.

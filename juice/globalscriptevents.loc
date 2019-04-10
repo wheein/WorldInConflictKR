@@ -1,0 +1,46 @@
+﻿myGlobalScriptEvents.NameOfEvent.myString	Test event
+myGlobalScriptEvents.BuildingDestroyed.myString	A Building was destroyed
+myGlobalScriptEvents.myGlobalRequestAcceptedEvent.myString	<empty>
+myGlobalScriptEvents.mySorryEvent.myString	<empty>
+myGlobalScriptEvents.myReqImGoingHereEvent.myString	<empty>
+myGlobalScriptEvents.myReqAdvanceHereEvent.myString	<empty>
+myGlobalScriptEvents.myReqDefendHereEvent.myString	<empty>
+myGlobalScriptEvents.myReqCeaseFireEvent.myString	<empty>
+myGlobalScriptEvents.myReqThankYouEvent.myString	<empty>
+myGlobalScriptEvents.myReqAttentionEvent.myString	<empty>
+myGlobalScriptEvents.myReqNeedArtilleryEvent.myString	<empty>
+myGlobalScriptEvents.myReqNeedAntiairEvent.myString	<empty>
+myGlobalScriptEvents.myReqNeedGroundSupportEvent.myString	<empty>
+myGlobalScriptEvents.myReqNeedAirSupportEvent.myString	<empty>
+myGlobalScriptEvents.myReqNeedRepairsEvent.myString	<empty>
+myGlobalScriptEvents.myReqTacAidEvent.myString	<empty>
+myGlobalScriptEvents.myReqWriteToPosEvent.myString	<empty>
+myGlobalScriptEvents.myObjectivePrimaryNew.myString	<empty>
+myGlobalScriptEvents.myObjectiveSecondaryNew.myString	<empty>
+myGlobalScriptEvents.myObjectiveAttackCpNew.myString	<empty>
+myGlobalScriptEvents.myObjectiveDefendCpNew.myString	<empty>
+myGlobalScriptEvents.myObjectivePrimaryUpdated.myString	<empty>
+myGlobalScriptEvents.myObjectiveSecondaryUpdated.myString	<empty>
+myGlobalScriptEvents.myObjectivePrimaryCompleted.myString	<empty>
+myGlobalScriptEvents.myObjectiveSecondaryCompleted.myString	<empty>
+myGlobalScriptEvents.myObjectiveAttackCPCompleted.myString	<empty>
+myGlobalScriptEvents.myObjectiveDefendCPCompleted.myString	<empty>
+myGlobalScriptEvents.myObjectivePrimaryFailed.myString	<empty>
+myGlobalScriptEvents.myObjectiveSecondaryFailed.myString	<empty>
+myGlobalScriptEvents.myObjectiveAttackCPFailed.myString	<empty>
+myGlobalScriptEvents.myObjectiveDefendCPFailed.myString	<empty>
+myGlobalScriptEvents.myObjectivePrimaryCanceled.myString	<empty>
+myGlobalScriptEvents.myObjectiveSecondaryCanceled.myString	<empty>
+myGlobalScriptEvents.myTAMenu.myString	You can now use tactical aid.
+myGlobalScriptEvents.myNewTA.myString	New tactical aid added.
+myGlobalScriptEvents.myTACapRaised.myString	Your maximum amount of tactical aid points has been raised.
+myGlobalScriptEvents.myTADisabled.myString	Your tactical aid menu has been disabled.
+myGlobalScriptEvents.myReinforcementMenu.myString	You can now use the reinforcement menu.
+myGlobalScriptEvents.myReinforcementCapRaised.myString	You have received more reinforcement points.
+myGlobalScriptEvents.myNewUnits.myString	New units have been added to your reinforcement menu.
+myGlobalScriptEvents.myReinforcementDisabled.myString	Your reinforcement menu has been disabled.
+myGlobalScriptEvents.myDropZoneExpanded.myString	Your drop zone has expanded.
+myGlobalScriptEvents.myDropzoneChanged.myString	Your drop zone has changed.
+myGlobalScriptEvents.myUnitReward.myString	You have been given control over new units.
+myGlobalScriptEvents.myMedalAwarded.myString	You have been awarded with a medal.
+myGlobalScriptEvents.myInstantMessageRecieved.myString	Someone wants to speak with you.

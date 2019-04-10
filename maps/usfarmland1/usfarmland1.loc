@@ -1,0 +1,36 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Bridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Bridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Bridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Bridge
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Airstrip
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Airstrip
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Airstrip
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Airstrip
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	North Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the North Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the North Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the North Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Crop Refinery
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Crop Refinery
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Crop Refinery
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Crop Refinery
+myWicedMap.myMissionStats.myName	do_Farmland
+myWicedMap.myMissionStats.mySPName	%02d - Harvest 
+myWicedMap.myMissionStats.myDescription	This peaceful countryside is ploughed into muddy morass as U.S. and Soviet tanks grind their way across the ripening wheat fields.
+myWicedMap.myMissionStats.mySPDescription	The Russians have moved out of Seattle and are now expanding their perimeter throughout Washington State. The battle group led by Colonel Orlovsky initially has it easy, but soon enough they encounter the first group of hard-headed American defenders.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FARMLAND
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FARMLAND
+myWicedMap.myLocStrings.EnemyIncomming	U.S. attack:

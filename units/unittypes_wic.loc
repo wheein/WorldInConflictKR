@@ -1,0 +1,510 @@
+﻿UnitTypes.-------Normal-Units-------.myUIName	-------Normal-Units-------
+UnitTypes.-------Normal-Units-------.myToolTipInfo	<empty>
+UnitTypes.F1_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.F1_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.F1_Marine.myUIName	US - Rifleman
+UnitTypes.F1_Marine.myToolTipInfo	Standard infantry rifleman
+UnitTypes.F1_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.F1_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.F1_Marine_Copy_NoScore.myUIName	US - Airborne Infantry
+UnitTypes.F1_Marine_Copy_NoScore.myToolTipInfo	Airborne rifleman
+UnitTypes.US_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Machine_Gunner.myUIName	US - Machine gunner
+UnitTypes.US_Machine_Gunner.myToolTipInfo	US Machine gunner. Armed with an M249 SAW.
+UnitTypes.US_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Medic.myUIName	US - Medic
+UnitTypes.US_Medic.myToolTipInfo	US Medic. Capable of healing units within his squad. 
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	Grenade Launcher Barrage
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	Riflemen equipped with M203 grenade launchers fire a volley of high-explosive 40mm grenades. Very deadly to enemy infantry; less effective against armored units.
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Medic_w_Special.myUIName	US - Medic
+UnitTypes.US_Medic_w_Special.myToolTipInfo	US Medic. Capable of healing units within his squad. 
+UnitTypes.US_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_AntiTank.myUIName	US - Anti-tank soldier
+UnitTypes.US_AntiTank.myToolTipInfo	US Anti-tank infantry. Armed with a powerful recoilless rifle.
+UnitTypes.US_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_AA_Infantry.myUIName	US - Anti-air soldier
+UnitTypes.US_AA_Infantry.myToolTipInfo	US Anti-air infantry. Armed with a handheld Stinger missile launcher.
+UnitTypes.US_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Squad_Mechanized.myUIName	US - Anti-tank Infantry
+UnitTypes.US_Squad_Mechanized.myToolTipInfo	Good Against: \n- Tanks \n- Vehicles \n\n <#4a3>Characteristics: \n- Specialized anti-tank squad \n- Can not target air units</>
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	Grenade Launcher Barrage
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	Riflemen equipped with M203 grenade launchers fire a volley of high-explosive 40mm grenades. Very deadly to enemy infantry; less effective against armored units.
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Squad_Infantry.myUIName	US - Infantry
+UnitTypes.US_Squad_Infantry.myToolTipInfo	Good Against: \n- Infantry \n- Helicopters \n- Vehicles \n\n <#4a3>Characteristics: \n- Multi-purpose infantry squad \n- Equipped with grenade launchers</>
+UnitTypes.US_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Sniper.myUIName	US - Sniper
+UnitTypes.US_Sniper.myToolTipInfo	Good Against: \n- Infantry \n\n <#4a3>Characteristics: \n- Very vulnerable outside of cover \n- Powerless against vehicles \n- More stealthy than other infantry units</>
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myName	Direct Artillery
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myInfo	Directs artillery support onto the location designated by the Airborne squad.
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Squad_Airborne.myUIName	US - Airborne Infantry
+UnitTypes.US_Squad_Airborne.myToolTipInfo	Good Against: \n- Infantry \n- Fortifications \n\n <#4a3>Characteristics: \n- Can call in artillery strikes \n- Very vulnerable outside of cover \n- Powerless against vehicles</>
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.M1A1_HEAT.myVisualRep.myName	HEAT shell
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.M1A1_HEAT.myVisualRep.myInfo	Fires a HEAT shell. Powerful against light vehicles, but useless against heavy armor.
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.US_Tank_Abrahms.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.US_Tank_Abrahms.myUIName	US - Heavy Tank
+UnitTypes.US_Tank_Abrahms.myToolTipInfo	<#888><i>M1A1 Abrams</></>\n\nGood Against: \n- Tanks \n- Vehicles \n\n <#4a3>Characteristics: \n- Best choice against heavy tanks \n- Ineffective against infantry \n- Very strong armor, low speed</>
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.M60A3_WP.myVisualRep.myName	WP shell
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.M60A3_WP.myVisualRep.myInfo	Fires a White Phosphorous shell. Deadly against infantry.
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.US_M60A3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.US_M60A3.myUIName	US - Medium Tank
+UnitTypes.US_M60A3.myToolTipInfo	<#888><i>M60A3 Patton</></>\n\nGood Against: \n- Vehicles \n- Infantry \n- Tanks \n\n <#4a3>Characteristics: \n- Decent against tanks \n- Strong against infantry \n- Strong armor, medium speed</>
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Shillelagh_ATGM.myVisualRep.myName	Shillelagh Anti-tank missile
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Shillelagh_ATGM.myVisualRep.myInfo	Launches an IR-guided MGM-51 Shillelagh anti-tank missile. Designed to give the Sheridan some defense against heavy tanks.
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.US_Sheridan.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.US_Sheridan.myUIName	US - Light Tank
+UnitTypes.US_Sheridan.myToolTipInfo	<#888><i>M551 Sheridan</></>\n\nGood Against: \n- Vehicles \n- Tanks \n\n <#4a3>Characteristics: \n- Cost-efficient against light armored vehicles \n- Needs to flank enemy tanks to be effective \n- Medium armor, medium speed</>
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_TOW_missile.myVisualRep.myName	TOW Missile
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_TOW_missile.myVisualRep.myInfo	Launches a wire-guided BGM-71 TOW missile. Best used against tanks, but effective against all ground vehicles.
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.US_Bradley_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.US_Bradley_APC.myUIName	US - Armored Transport
+UnitTypes.US_Bradley_APC.myToolTipInfo	<#888><i>M2A2 Bradley</></>\n\nGood Against: \n- Infantry \n- Vehicles \n- Helicopters \n\n <#4a3>Characteristics: \n- Can transport infantry \n- Strong against infantry \n- Medium armor, medium speed</>
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_mk19.myVisualRep.myName	Mk-19 Grenade Launcher Barrage
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_mk19.myVisualRep.myInfo	The Mk-19 belt-fed automatic grenade launcher can fire 40mm grenades at a cyclic rate of 300 to 400 rounds per minute.
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.US_AAVP7A1.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.US_AAVP7A1.myUIName	US - Amphibious Transport
+UnitTypes.US_AAVP7A1.myToolTipInfo	<#888><i>AAVP7A1</></>\n\nGood Against: \n- Infantry \n- Helicopters \n\n <#4a3>Characteristics: \n- Amphibious infantry transport \n- Strong against infantry \n- Medium armor, low speed</>
+UnitTypes.US_M270.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myName	Deliver Smoke Screen
+UnitTypes.US_M270.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myInfo	Fires an artillery rocket filled with a screening agent to the target area, creating a thick smoke cloud that hides units from view.
+UnitTypes.US_M270.myUIName	US - Heavy Artillery
+UnitTypes.US_M270.myToolTipInfo	<#888><i>M270 MLRS</></>\n\nGood Against: \n- All ground units \n- Buildings \n- Forests \n\n <#4a3>Characteristics: \n- Very long fire range \n- Can deliver smoke screens \n- Medium armor, low speed</>
+UnitTypes.US_M125_Mortar.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myName	White Phosphorus round
+UnitTypes.US_M125_Mortar.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myInfo	Launches a WP mortar shell at the target area, which will be instantly ignited on impact. A thick cloud of white smoke will engulf the area as long as it's burning.
+UnitTypes.US_M125_Mortar.myUIName	US - Medium Artillery
+UnitTypes.US_M125_Mortar.myToolTipInfo	<#888><i>M125 MCV</></>\n\nGood Against: \n- Infantry \n- Light vehicles \n- Buildings \n\n <#4a3>Characteristics: \n- Long fire range \n- Can fire White Phosphorous rounds \n- Medium armor, medium speed</>
+UnitTypes.US_M730A2_AA.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.US_M730A2_AA.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.US_M730A2_AA.myUIName	US - Heavy Anti-Air Vehicle
+UnitTypes.US_M730A2_AA.myToolTipInfo	<#888><i>M48 Chaparral</></>\n\nGood Against: \n- Helicopters \n\n <#4a3>Characteristics: \n- Long range anti-air missile defense \n- Defenseless against ground units \n- Medium armor, medium speed</>
+UnitTypes.US_M163.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myName	Ground Support
+UnitTypes.US_M163.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myInfo	Directs the unit to target enemy ground forces. Less effective against heavy armor.
+UnitTypes.US_M163.myUIName	US - Medium Anti-Air Vehicle
+UnitTypes.US_M163.myToolTipInfo	<#888><i>M163 VADS</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Medium range anti-air cannon defense \n- Can provide Ground Support \n- Medium armor, medium speed</>
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	Demolition Charge
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	Orders the combat engineer to place a large amount of explosives at the target location. The charge can be triggered remotely by the engineer and is powerful enough to bring down most smaller buildings.
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.US_Engineer.myUIName	US - Demolition Engineer
+UnitTypes.US_Engineer.myToolTipInfo	Good Against: \n- Buildings \n- Bridges \n\n <#4a3>Characteristics: \n- Can use demolition charges on structures \n- Very vulnerable to all enemy units</>
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myName	Emergency Repairs
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myInfo	Orders the repair crew to perform emergency repairs on a friendly vehicle, immediately reversing a great deal of damage.
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myName	Field Repairs
+UnitTypes.US_M88A1_Arv.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myInfo	Allows the crew to perform field repairs on their own vehicle. Repairs will take some time and be aborted if the unit is attacked or given new orders.
+UnitTypes.US_M88A1_Arv.myUIName	US - Repair Tank
+UnitTypes.US_M88A1_Arv.myToolTipInfo	<#888><i>M88A1 MRV</></>\n\n<#4a3>Characteristics: \n- Powerful repair unit \n- Unarmed \n- Strong armor, medium speed</>
+UnitTypes.US_HUMWEE.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	Armor-piercing Bullets
+UnitTypes.US_HUMWEE.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	Loads the M2 machinegun with armor-piercing bullets. Slightly more effective against armoured vehicles.
+UnitTypes.US_HUMWEE.myUIName	US - Troop Transport
+UnitTypes.US_HUMWEE.myToolTipInfo	<#888><i>M1025 HMMWV</></>\n\nGood Against: \n- Infantry \n\n <#4a3>Characteristics: \n- Can transport infantry \n- Can repair friendly vehicles \n- Weak armor, high speed</>
+UnitTypes.US_M-939_Truck.myUIName	US - Transport Truck
+UnitTypes.US_M-939_Truck.myToolTipInfo	<#888><i>M939 5-Ton Truck</></>\n\n<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Hellfire.myVisualRep.myName	Hellfire Missile
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Hellfire.myVisualRep.myInfo	Launches a Hellfire anti-tank missile, capable of defeating any tank armor in the world. Best used to disable important enemy vehicles from a safe distance.
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.US_AH_Apache.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.US_AH_Apache.myUIName	US - Heavy Attack Helicopter
+UnitTypes.US_AH_Apache.myToolTipInfo	<#888><i>AH-64A Apache</></>\n\nGood Against: \n- Tanks \n- Vehicles \n- Infantry \n\n <#4a3>Characteristics: \n- Very strong against ground vehicles \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myName	Sidewinder Missile
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myInfo	Launches a AIM-9 Sidewinder missile at an enemy helicopter.
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.US_AH1_Super_Cobra.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.US_AH1_Super_Cobra.myUIName	US - Medium Attack Helicopter
+UnitTypes.US_AH1_Super_Cobra.myToolTipInfo	<#888><i>AH-1W Super Cobra</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Effective against both air and ground targets \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.US_Blackhawk_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.US_Blackhawk_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.US_Blackhawk_UH.myUIName	US - Transport Helicopter
+UnitTypes.US_Blackhawk_UH.myToolTipInfo	<#888><i>UH-60 Black Hawk</></>\n\n<#4a3>Characteristics: \n- Airborne infantry transport \n- Unarmed \n- Medium armor, very high speed</>
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	IR Scan
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	Detects enemy units hidden in smoke clouds, forests and buildings.
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.US_OH_6A_Cayuse.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.US_OH_6A_Cayuse.myUIName	US - Scout Helicopter
+UnitTypes.US_OH_6A_Cayuse.myToolTipInfo	<#888><i>OH-6A Cayuse</></>\n\nGood Against: \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Reveals hidden units with its IR Scan \n- Vulnerable to Anti-Air units \n- Low armor, very high speed</>
+UnitTypes.US_fortification_machinegun.myUIName	US - Machine Gun Fortification
+UnitTypes.US_fortification_machinegun.myToolTipInfo	<empty>
+UnitTypes.US_fortification_antitank.myUIName	US - Anti-Tank Fortification
+UnitTypes.US_fortification_antitank.myToolTipInfo	<empty>
+UnitTypes.US_fortification_antiair.myUIName	US - Anti-Air Fortification
+UnitTypes.US_fortification_antiair.myToolTipInfo	<empty>
+UnitTypes.NATO_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Marine.myUIName	NATO - Rifleman
+UnitTypes.NATO_Marine.myToolTipInfo	Standard Infantry Rifleman
+UnitTypes.NATO_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Marine_Copy_NoScore.myUIName	NATO - Airborne Infantry
+UnitTypes.NATO_Marine_Copy_NoScore.myToolTipInfo	Airborne Rifleman
+UnitTypes.NATO_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Machine_Gunner.myUIName	NATO - Machine gunner
+UnitTypes.NATO_Machine_Gunner.myToolTipInfo	NATO machine gunner. Armed with a light machine gun.
+UnitTypes.NATO_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Medic.myUIName	NATO - Medic
+UnitTypes.NATO_Medic.myToolTipInfo	NATO Medic. Capable of healing units within his squad. 
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	Grenade Launcher Barrage
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	Riflemen equipped with rifle grenades fire a volley of high-explosive grenades at the target location. Very deadly to enemy infantry; less effective against armored units.
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Medic_w_Special.myUIName	NATO - Medic
+UnitTypes.NATO_Medic_w_Special.myToolTipInfo	NATO Medic. Capable of healing units within his squad. 
+UnitTypes.NATO_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_AntiTank.myUIName	NATO - Anti-tank soldier
+UnitTypes.NATO_AntiTank.myToolTipInfo	NATO Anti-tank infantry. Armed with a powerful recoilless rifle.
+UnitTypes.NATO_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_AA_Infantry.myUIName	NATO - Anti-air soldier
+UnitTypes.NATO_AA_Infantry.myToolTipInfo	NATO Anti-air infantry. Armed with a handheld Stinger missile launcher.
+UnitTypes.NATO_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Squad_Mechanized.myUIName	NATO - Anti-tank Infantry
+UnitTypes.NATO_Squad_Mechanized.myToolTipInfo	Good Against: \n- Tanks \n- Vehicles \n\n <#4a3>Characteristics: \n- Specialized anti-tank squad \n- Can not target air units</>
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	Grenade Launcher Barrage
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	Riflemen equipped with rifle grenades fire a volley of high-explosive grenades at the target location. Very deadly to enemy infantry; less effective against armored units.
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Squad_Infantry.myUIName	NATO - Infantry
+UnitTypes.NATO_Squad_Infantry.myToolTipInfo	Good Against: \n- Infantry \n- Helicopters \n- Vehicles \n\n <#4a3>Characteristics: \n- Multi-purpose infantry squad \n- Equipped with grenade launchers</>
+UnitTypes.NATO_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Sniper.myUIName	NATO - Sniper
+UnitTypes.NATO_Sniper.myToolTipInfo	Good Against: \n- Infantry \n\n <#4a3>Characteristics: \n- Very vulnerable outside of cover \n- Powerless against vehicles \n- More stealthy than other infantry units</>
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myName	Direct Artillery
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myInfo	Directs artillery support onto the location designated by the Airborne squad.
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Squad_Airborne.myUIName	NATO - Airborne Infantry
+UnitTypes.NATO_Squad_Airborne.myToolTipInfo	Good Against: \n- Infantry \n- Fortifications \n\n <#4a3>Characteristics: \n- Can call in artillery strikes \n- Very vulnerable outside of cover \n- Powerless against vehicles</>
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Leopard2_HEAT_round.myVisualRep.myName	HEAT shell
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Leopard2_HEAT_round.myVisualRep.myInfo	Fires a HEAT shell. Powerful against light vehicles, but useless against heavy armor.
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.NATO_Tank_Leopard2.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.NATO_Tank_Leopard2.myUIName	NATO - Heavy Tank
+UnitTypes.NATO_Tank_Leopard2.myToolTipInfo	<#888><i>Leopard 2A4</></>\n\nGood Against: \n- Tanks \n- Vehicles \n\n <#4a3>Characteristics: \n- Best choice against heavy tanks \n- Ineffective against infantry \n- Very strong armor, low speed</>
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Chieftain_WP.myVisualRep.myName	WP shell
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Chieftain_WP.myVisualRep.myInfo	Fires a White Phosphorous shell. Deadly against infantry.
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.NATO_Chieftain_MkV.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.NATO_Chieftain_MkV.myUIName	NATO - Medium Tank
+UnitTypes.NATO_Chieftain_MkV.myToolTipInfo	<#888><i>Chieftain Mk 5</></>\n\nGood Against: \n- Vehicles \n- Infantry \n- Tanks \n\n <#4a3>Characteristics: \n- Decent against tanks \n- Strong against infantry \n- Strong armor, medium speed</>
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Hesh_round.myVisualRep.myName	HESH round
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Hesh_round.myVisualRep.myInfo	Fires a HESH (High Explosive Squash Head) shell. This plastic explosive round is the Scorpion's best weapon against heavy tanks.
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.NATO_AMX30.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.NATO_AMX30.myUIName	NATO - Light Tank
+UnitTypes.NATO_AMX30.myToolTipInfo	<#888><i>FV101 Scorpion</></>\n\nGood Against: \n- Vehicles \n- Tanks \n\n <#4a3>Characteristics: \n- Cost-efficient against light armored vehicles \n- Needs to flank enemy tanks to be effective \n- Medium armor, medium speed</>
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.APDS_bullets.myVisualRep.myName	Sabot ammunition
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.APDS_bullets.myVisualRep.myInfo	Loads the 30mm cannon with APDS bullets, improving its ability to penetrate heavy armor.
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.NATO_Warrior_APC.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.NATO_Warrior_APC.myUIName	NATO - Armored Transport
+UnitTypes.NATO_Warrior_APC.myToolTipInfo	<#888><i>FV510 Warrior</></>\n\nGood Against: \n- Infantry \n- Vehicles \n- Helicopters \n\n <#4a3>Characteristics: \n- Can transport infantry \n- Strong against infantry \n- Medium armor, medium speed</>
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myName	Incendiary Ammunition
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myInfo	Loads the cannon with high explosive-incendiary ammunition. Lethal against infantry.
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.NATO_Recon_Luchs.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.NATO_Recon_Luchs.myUIName	NATO - Amphibious Transport
+UnitTypes.NATO_Recon_Luchs.myToolTipInfo	<#888><i>Spähpanzer Luchs</></>\n\nGood Against: \n- Infantry \n- Helicopters \n\n <#4a3>Characteristics: \n- Amphibious infantry transport \n- Strong against infantry \n- Medium armor, low speed</>
+UnitTypes.NATO_LARS_SF_2.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myName	Deliver Smoke Screen
+UnitTypes.NATO_LARS_SF_2.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myInfo	Fires an artillery rocket filled with a screening agent to the target area, creating a thick smoke cloud that hides units from view.
+UnitTypes.NATO_LARS_SF_2.myUIName	NATO - Heavy Artillery
+UnitTypes.NATO_LARS_SF_2.myToolTipInfo	<#888><i>LARS 110 SF 2</></>\n\nGood Against: \n- All ground units \n- Buildings \n- Forests \n\n <#4a3>Characteristics: \n- Very long fire range \n- Can deliver smoke screens \n- Medium armor, low speed</>
+UnitTypes.NATO_Mortar_Weasel.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myName	White Phosphorus round
+UnitTypes.NATO_Mortar_Weasel.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myInfo	Launches a WP mortar shell at the target area, which will be instantly ignited on impact. A thick cloud of white smoke will engulf the area as long as it's burning.
+UnitTypes.NATO_Mortar_Weasel.myUIName	NATO - Medium Artillery
+UnitTypes.NATO_Mortar_Weasel.myToolTipInfo	<#888><i>FV432 Mortar Carrier</></>\n\nGood Against: \n- Infantry \n- Light vehicles \n- Buildings \n\n <#4a3>Characteristics: \n- Long fire range \n- Can fire White Phosphorous rounds \n- Medium armor, medium speed</>
+UnitTypes.NATO_Marder_Roland.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.NATO_Marder_Roland.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.NATO_Marder_Roland.myUIName	NATO - Heavy Anti-Air Vehicle
+UnitTypes.NATO_Marder_Roland.myToolTipInfo	<#888><i>Roland FRK</></>\n\nGood Against: \n- Helicopters \n\n <#4a3>Characteristics: \n- Long range anti-air missile defense \n- Defenseless against ground units \n- Medium armor, medium speed</>
+UnitTypes.NATO_Gepard_AA.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myName	Ground Support
+UnitTypes.NATO_Gepard_AA.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myInfo	Directs the unit to target enemy ground forces. Less effective against heavy armor.
+UnitTypes.NATO_Gepard_AA.myUIName	NATO - Medium Anti-Air Vehicle
+UnitTypes.NATO_Gepard_AA.myToolTipInfo	<#888><i>Flakpanzer Gepard</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Medium range anti-air cannon defense \n- Can provide Ground Support \n- Medium armor, medium speed</>
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	Demolition Charge
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	Orders the combat engineer to place a large amount of explosives at the target location. The charge can be triggered remotely by the engineer and is powerful enough to bring down most smaller buildings.
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.NATO_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.NATO_Engineer.myUIName	NATO - Demolition Engineer
+UnitTypes.NATO_Engineer.myToolTipInfo	Good Against: \n- Buildings \n- Bridges \n\n <#4a3>Characteristics: \n- Can use demolition charges on structures \n- Very vulnerable to all enemy units</>
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myName	Emergency Repairs
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myInfo	Orders the repair crew to perform emergency repairs on a friendly vehicle, immediately reversing a great deal of damage.
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myName	Field Repairs
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myInfo	Allows the crew to perform field repairs on their own vehicle. Repairs will take some time and be aborted if the unit is attacked or given new orders.
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myUIName	NATO - Repair Tank
+UnitTypes.NATO_Chieftain_AAVR_CHAARV.myToolTipInfo	<#888><i>Chieftain AAVR</></>\n\n<#4a3>Characteristics: \n- Powerful repair unit \n- Unarmed \n- Strong armor, medium speed</>
+UnitTypes.NATO_LandRover.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	Armor-piercing Bullets
+UnitTypes.NATO_LandRover.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	Loads the machinegun with armor-piercing bullets. Slightly more effective against armoured vehicles.
+UnitTypes.NATO_LandRover.myUIName	NATO - Troop Transport
+UnitTypes.NATO_LandRover.myToolTipInfo	<#888><i>D90</></>\n\nGood Against: \n- Infantry \n\n <#4a3>Characteristics: \n- Can transport infantry \n- Can repair friendly vehicles \n- Weak armor, high speed</>
+UnitTypes.NATO_Renault_4000.myUIName	NATO - Transport Truck
+UnitTypes.NATO_Renault_4000.myToolTipInfo	<#888><i>TRM-4000</></>\n\n<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HOT_missile.myVisualRep.myName	HOT Missile
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HOT_missile.myVisualRep.myInfo	Launches a HOT anti-tank missile, capable of defeating any tank armor in the world. Best used to disable important enemy vehicles from a safe distance.
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.NATO_Mangusta.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.NATO_Mangusta.myUIName	NATO - Heavy Attack Helicopter
+UnitTypes.NATO_Mangusta.myToolTipInfo	<#888><i>A129 Mangusta</></>\n\nGood Against: \n- Tanks \n- Vehicles \n- Infantry \n\n <#4a3>Characteristics: \n- Very strong against ground vehicles \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Mistral.myVisualRep.myName	Mistral Missile
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Mistral.myVisualRep.myInfo	Launches a Mistral missile at an enemy helicopter.
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.NATO_Gazelle_341.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.NATO_Gazelle_341.myUIName	NATO - Medium Attack Helicopter
+UnitTypes.NATO_Gazelle_341.myToolTipInfo	<#888><i>SA-341 Gazelle</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Effective against both air and ground targets \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.NATO_Superpuma_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.NATO_Superpuma_UH.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.NATO_Superpuma_UH.myUIName	NATO - Transport Helicopter
+UnitTypes.NATO_Superpuma_UH.myToolTipInfo	<#888><i>SA-330 Super Puma</></>\n\n<#4a3>Characteristics: \n- Airborne infantry transport \n- Unarmed \n- Medium armor, very high speed</>
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	IR Scan
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	Detects enemy units hidden in smoke clouds, forests and buildings.
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.NATO_PAH_1_Bo105.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.NATO_PAH_1_Bo105.myUIName	NATO - Scout Helicopter
+UnitTypes.NATO_PAH_1_Bo105.myToolTipInfo	<#888><i>PAH-1</></>\n\nGood Against: \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Reveals hidden units with its IR Scan \n- Vulnerable to Anti-Air units \n- Low armor, very high speed</>
+UnitTypes.NATO_fortification_machinegun.myUIName	NATO - Machine Gun Fortification
+UnitTypes.NATO_fortification_machinegun.myToolTipInfo	<empty>
+UnitTypes.NATO_fortification_antitank.myUIName	NATO - Anti-Tank Fortification
+UnitTypes.NATO_fortification_antitank.myToolTipInfo	<empty>
+UnitTypes.NATO_fortification_antiair.myUIName	NATO - Anti-Air Fortification
+UnitTypes.NATO_fortification_antiair.myToolTipInfo	<empty>
+UnitTypes.USSR_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Marine.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Marine.myUIName	USSR - Rifleman
+UnitTypes.USSR_Marine.myToolTipInfo	Standard infantry rifleman
+UnitTypes.USSR_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Marine_Copy_NoScore.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Marine_Copy_NoScore.myUIName	USSR - Airborne Infantry
+UnitTypes.USSR_Marine_Copy_NoScore.myToolTipInfo	Airborne rifleman
+UnitTypes.USSR_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Machine_Gunner.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Machine_Gunner.myUIName	USSR - Machine gunner
+UnitTypes.USSR_Machine_Gunner.myToolTipInfo	USSR Machine gunner. Armed with a PKM machine gun.
+UnitTypes.USSR_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Medic.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Medic.myUIName	USSR - Medic
+UnitTypes.USSR_Medic.myToolTipInfo	USSR Medic. Capable of healing units within his squad. 
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	Grenade Launcher Barrage
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	Riflemen equipped with the GP-25 grenade launcher fires a volley of high-explosive 40mm grenades. Very deadly to enemy infantry; less effective against armored units.
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Medic_w_Special.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Medic_w_Special.myUIName	USSR - Medic
+UnitTypes.USSR_Medic_w_Special.myToolTipInfo	USSR Medic. Capable of healing units within his squad. 
+UnitTypes.USSR_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_AntiTank.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_AntiTank.myUIName	USSR - Anti-tank soldier
+UnitTypes.USSR_AntiTank.myToolTipInfo	USSR Anti-tank infantry. Armed with a powerful recoilless rifle.
+UnitTypes.USSR_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_AA_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_AA_Infantry.myUIName	USSR - Anti-air soldier
+UnitTypes.USSR_AA_Infantry.myToolTipInfo	USSR Anti-air infantry. Armed with a handheld Grouse missile launcher.
+UnitTypes.USSR_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Squad_Mechanized.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Squad_Mechanized.myUIName	USSR - Anti-tank Infantry
+UnitTypes.USSR_Squad_Mechanized.myToolTipInfo	Good Against: \n- Tanks \n- Vehicles \n\n <#4a3>Characteristics: \n- Specialized anti-tank squad \n- Can not target air units</>
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myName	Grenade Launcher Barrage
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Grenade_launcher.myVisualRep.myInfo	Riflemen equipped with the GP-25 grenade launcher fires a volley of high-explosive 40mm grenades. Very deadly to enemy infantry; less effective against armored units.
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Squad_Infantry.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Squad_Infantry.myUIName	USSR - Infantry
+UnitTypes.USSR_Squad_Infantry.myToolTipInfo	Good Against: \n- Infantry \n- Helicopters \n- Vehicles \n\n <#4a3>Characteristics: \n- Multi-purpose infantry squad \n- Equipped with grenade launchers</>
+UnitTypes.USSR_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Sniper.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Sniper.myUIName	USSR - Sniper
+UnitTypes.USSR_Sniper.myToolTipInfo	Good Against: \n- Infantry \n\n <#4a3>Characteristics: \n- Very vulnerable outside of cover \n- Powerless against vehicles \n- More stealthy than other infantry units</>
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myName	Direct Artillery
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Call_artillery.myVisualRep.myInfo	Directs artillery support onto the location designated by the Airborne squad.
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Squad_Airborne.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Squad_Airborne.myUIName	USSR - Airborne Infantry Squad
+UnitTypes.USSR_Squad_Airborne.myToolTipInfo	Good Against: \n- Infantry \n- Fortifications \n\n <#4a3>Characteristics: \n- Can call in artillery strikes \n- Very vulnerable outside of cover \n- Powerless against vehicles</>
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.T80_HEAT.myVisualRep.myName	HEAT shell
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.T80_HEAT.myVisualRep.myInfo	Fires a HEAT shell. Powerful against light vehicles, but useless against heavy armor.
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.USSR_T80U.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.USSR_T80U.myUIName	USSR - Heavy Tank
+UnitTypes.USSR_T80U.myToolTipInfo	<#888><i>T-80U</></>\n\nGood Against: \n- Tanks \n- Vehicles \n\n <#4a3>Characteristics: \n- Best choice against heavy tanks \n- Ineffective against infantry \n- Very strong armor, low speed</>
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.T62_Frag-HE.myVisualRep.myName	Frag-HE shell
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.T62_Frag-HE.myVisualRep.myInfo	Fires a fragmenting, heavy explosive tank shell. Deadly against infantry; useless against heavy armor.
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.USSR_T62.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.USSR_T62.myUIName	USSR - Medium Tank
+UnitTypes.USSR_T62.myToolTipInfo	<#888><i>T-62</></>\n\nGood Against: \n- Vehicles \n- Infantry \n- Tanks \n\n <#4a3>Characteristics: \n- Decent against tanks \n- Strong against infantry \n- Strong armor, medium speed</>
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.AT4_Spigot_ATGM.myVisualRep.myName	AT-4 Spigot Anti-tank missile
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.AT4_Spigot_ATGM.myVisualRep.myInfo	Launches a wire-guided AT-4 Spigot anti-tank missile. Primarily intended against heavy tanks.
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.USSR_Bmp_R.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.USSR_Bmp_R.myUIName	USSR - Light Tank
+UnitTypes.USSR_Bmp_R.myToolTipInfo	<#888><i>PT-76</></>\n\nGood Against: \n- Vehicles \n- Tanks \n\n <#4a3>Characteristics: \n- Cost-efficient against light armored vehicles \n- Needs to flank enemy tanks to be effective \n- Medium armor, medium speed</>
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_AT5_missile.myVisualRep.myName	AT-5 missile
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_-_AT5_missile.myVisualRep.myInfo	Launches a wire-guided AT-5 Spandrel missile. Best used against tanks, but effective against all ground vehicles.
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.USSR_Bmp_3.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.USSR_Bmp_3.myUIName	USSR - Armored Transport
+UnitTypes.USSR_Bmp_3.myToolTipInfo	<#888><i>BMP-2</></>\n\nGood Against: \n- Infantry \n- Vehicles \n- Helicopters \n\n <#4a3>Characteristics: \n- Can transport infantry \n- Strong against infantry \n- Medium armor, medium speed</>
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myName	Incendiary Ammunition
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_HEI_bullets.myVisualRep.myInfo	Loads the cannon with high explosive-incendiary ammunition. Lethal against infantry.
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.USSR_Btr80.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.USSR_Btr80.myUIName	USSR - Amphibious Transport
+UnitTypes.USSR_Btr80.myToolTipInfo	<#888><i>BTR-80</></>\n\nGood Against: \n- Infantry \n- Helicopters \n\n <#4a3>Characteristics: \n- Amphibious infantry transport \n- Strong against infantry \n- Medium armor, low speed</>
+UnitTypes.USSR_2S7_Pion.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myName	Deliver Smoke Screen
+UnitTypes.USSR_2S7_Pion.myParasites.SpecialAbility(0).mySpecialAbilities.Deliver_smoke.myVisualRep.myInfo	Fires an artillery shell filled with a screening agent to the target area, creating a thick smoke cloud that hides units from view.
+UnitTypes.USSR_2S7_Pion.myUIName	USSR - Heavy Artillery
+UnitTypes.USSR_2S7_Pion.myToolTipInfo	<#888><i>2S7 Pion</></>\n\nGood Against: \n- All ground units \n- Buildings \n- Forests \n\n <#4a3>Characteristics: \n- Very long fire range \n- Can deliver smoke screens \n- Medium armor, low speed</>
+UnitTypes.USSR_2S9_Anona.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myName	Incendiary round
+UnitTypes.USSR_2S9_Anona.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive.myVisualRep.myInfo	Launches an incendiary mortar shell that explodes into flames on impact. Very effective against infantry and forests.
+UnitTypes.USSR_2S9_Anona.myUIName	USSR - Medium Artillery
+UnitTypes.USSR_2S9_Anona.myToolTipInfo	<#888><i>2S1 Gvozdika</></>\n\nGood Against: \n- Infantry \n- Light vehicles \n- Buildings \n\n <#4a3>Characteristics: \n- Long fire range \n- Can fire Incendiary rounds \n- Medium armor, medium speed</>
+UnitTypes.USSR_SA13_Gopher.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myName	Smoke Screen
+UnitTypes.USSR_SA13_Gopher.myParasites.SpecialAbility(0).mySpecialAbilities.Smoke.myVisualRep.myInfo	Launches smoke mortars that hide the vehicle from view.
+UnitTypes.USSR_SA13_Gopher.myUIName	USSR - Heavy Anti-Air Vehicle
+UnitTypes.USSR_SA13_Gopher.myToolTipInfo	<#888><i>9K35 Strela-10</></>\n\nGood Against: \n- Helicopters \n\n <#4a3>Characteristics: \n- Long range anti-air missile defense \n- Defenseless against ground units \n- Medium armor, medium speed</>
+UnitTypes.USSR_ZSU_Shilka.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myName	Ground Support
+UnitTypes.USSR_ZSU_Shilka.myParasites.SpecialAbility(0).mySpecialAbilities.GroundSupport.myVisualRep.myInfo	Directs the unit to target enemy ground forces. Less effective against heavy armor.
+UnitTypes.USSR_ZSU_Shilka.myUIName	USSR - Medium Anti-Air Vehicle
+UnitTypes.USSR_ZSU_Shilka.myToolTipInfo	<#888><i>ZSU-23-4 Shilka</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Medium range anti-air cannon defense \n- Can provide Ground Support \n- Medium armor, medium speed</>
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	Demolition Charge
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	Orders the combat engineer to place a large amount of explosives at the target location. The charge can be triggered remotely by the engineer and is powerful enough to bring down most smaller buildings.
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.USSR_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.USSR_Engineer.myUIName	USSR - Demolition Engineer
+UnitTypes.USSR_Engineer.myToolTipInfo	Good Against: \n- Buildings \n- Bridges \n\n <#4a3>Characteristics: \n- Can use demolition charges on structures \n- Very vulnerable to all enemy units</>
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myName	Emergency Repairs
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Emergency_repairs.myVisualRep.myInfo	Orders the repair crew to perform emergency repairs on a friendly vehicle, immediately reversing a great deal of damage.
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myName	Field Repairs
+UnitTypes.USSR_VT55.myParasites.SpecialAbility(0).mySpecialAbilities.Field_repairs.myVisualRep.myInfo	Allows the crew to perform field repairs on their own vehicle. Repairs will take some time and be aborted if the unit is attacked or given new orders.
+UnitTypes.USSR_VT55.myUIName	USSR - Repair Tank
+UnitTypes.USSR_VT55.myToolTipInfo	<#888><i>VT-55</></>\n\n<#4a3>Characteristics: \n- Powerful repair unit \n- Unarmed \n- Strong armor, medium speed</>
+UnitTypes.USSR_UAZ469.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	Armor-piercing Bullets
+UnitTypes.USSR_UAZ469.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	Loads the PKM machinegun with armor-piercing bullets. Slightly more effective against armoured vehicles.
+UnitTypes.USSR_UAZ469.myUIName	USSR - Troop Transport
+UnitTypes.USSR_UAZ469.myToolTipInfo	<#888><i>UAZ-469</></>\n\nGood Against: \n- Infantry \n\n <#4a3>Characteristics: \n- Can transport infantry \n- Can repair friendly vehicles \n- Weak armor, high speed</>
+UnitTypes.USSR_Ural_4320.myUIName	USSR - Transport Truck
+UnitTypes.USSR_Ural_4320.myToolTipInfo	<#888><i>Ural-4320</></>\n\n<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_AT6Spiral.myVisualRep.myName	AT-6 Spiral Missile
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_AT6Spiral.myVisualRep.myInfo	Launches an AT-6 Spiral anti-tank missile, capable of defeating any tank armor in the world. Best used to disable important enemy vehicles from a safe distance.
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.USSR_AH_MI24.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.USSR_AH_MI24.myUIName	USSR - Heavy Attack Helicopter
+UnitTypes.USSR_AH_MI24.myToolTipInfo	<#888><i>Mi-24V</></>\n\nGood Against: \n- Tanks \n- Vehicles \n- Infantry \n\n <#4a3>Characteristics: \n- Very strong against ground vehicles \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Vympel.myVisualRep.myName	R-73 Missile
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_Vympel.myVisualRep.myInfo	Launches a Vympel R-73 missile at an enemy helicopter.
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.USSR_Mi28_Havoc.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.USSR_Mi28_Havoc.myUIName	USSR - Medium Attack Helicopter
+UnitTypes.USSR_Mi28_Havoc.myToolTipInfo	<#888><i>Mi-28</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Effective against both air and ground targets \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.USSR_Mi8_Hip.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.USSR_Mi8_Hip.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.USSR_Mi8_Hip.myUIName	USSR - Transport Helicopter
+UnitTypes.USSR_Mi8_Hip.myToolTipInfo	<#888><i>Mi-8</></>\n\n<#4a3>Characteristics: \n- Airborne infantry transport \n- Unarmed \n- Medium armor, very high speed</>
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	IR Scan
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	Detects enemy units hidden in smoke clouds, forests and buildings.
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.USSR_Ka-25_Hormone.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.USSR_Ka-25_Hormone.myUIName	USSR - Scout Helicopter
+UnitTypes.USSR_Ka-25_Hormone.myToolTipInfo	<#888><i>Ka-25</></>\n\nGood Against: \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Reveals hidden units with its IR Scan \n- Vulnerable to Anti-Air units \n- Low armor, very high speed</>
+UnitTypes.USSR_fortification_machinegun.myUIName	USSR - Machine Gun Fortification
+UnitTypes.USSR_fortification_machinegun.myToolTipInfo	<empty>
+UnitTypes.USSR_fortification_antitank.myUIName	USSR - Anti-Tank Fortification
+UnitTypes.USSR_fortification_antitank.myToolTipInfo	<empty>
+UnitTypes.USSR_fortification_antiair.myUIName	USSR - Anti-Air Fortification
+UnitTypes.USSR_fortification_antiair.myToolTipInfo	<empty>
+UnitTypes.-------Special-Units-------.myUIName	-------Special-Units-------
+UnitTypes.-------Special-Units-------.myToolTipInfo	<empty>
+UnitTypes.Null_Unit.myUIName	DO NOT USE
+UnitTypes.Null_Unit.myToolTipInfo	<empty>
+UnitTypes.Spotter_Unit.myUIName	DO NOT USE
+UnitTypes.Spotter_Unit.myToolTipInfo	<empty>
+UnitTypes.Neutral_RedPickUp.myUIName	Neutral - Pickup Truck
+UnitTypes.Neutral_RedPickUp.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_Icecream_truck.myUIName	Neutral - Ice Cream Truck
+UnitTypes.Neutral_Icecream_truck.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_Schoolbus.myUIName	Neutral - School Bus
+UnitTypes.Neutral_Schoolbus.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neurtal_SeattleCityBus.myUIName	Neutral - City Bus
+UnitTypes.Neurtal_SeattleCityBus.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_SeattleCityBus_v2.myUIName	Neutral - City Bus
+UnitTypes.Neutral_SeattleCityBus_v2.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_SeattleCityBus_v3.myUIName	Neutral - City Bus
+UnitTypes.Neutral_SeattleCityBus_v3.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_US_FireTruck.myUIName	Neutral - Firetruck
+UnitTypes.Neutral_US_FireTruck.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_US_Ambulance.myUIName	Neutral - Ambulance
+UnitTypes.Neutral_US_Ambulance.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_DeliveryVan.myUIName	Neutral - Delivery Van
+UnitTypes.Neutral_DeliveryVan.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_DeliveryVan_v2.myUIName	Neutral - Delivery Van
+UnitTypes.Neutral_DeliveryVan_v2.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_MilitaryTruck.myUIName	Neutral - Military Truck
+UnitTypes.Neutral_MilitaryTruck.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.Neutral_TankTruck.myUIName	Neutral - Tank Truck
+UnitTypes.Neutral_TankTruck.myToolTipInfo	<#4a3>Characteristics: \n- Can transport infantry \n- Unarmed \n- Weak armor, high speed</>
+UnitTypes.SP_Tutorial_OPFOR_Inf.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.SP_Tutorial_OPFOR_Inf.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.SP_Tutorial_OPFOR_Inf.myUIName	OPFOR - Rifleman
+UnitTypes.SP_Tutorial_OPFOR_Inf.myToolTipInfo	Standard infantry rifleman
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myName	Armor-piercing Bullets
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myParasites.SpecialAbility(0).mySpecialAbilities.AP_bullets.myVisualRep.myInfo	Loads the PKM machinegun with armor-piercing bullets. Slightly more effective against armoured vehicles.
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myUIName	OPFOR - Troop Transport
+UnitTypes.SP_Tutorial_OPFOR_Jeep.myToolTipInfo	<#888><i>UAZ-469</></>\n\nGood Against: \n- Infantry \n\n <#4a3>Characteristics: \n- Can transport infantry \n- Can repair friendly vehicles \n- Weak armor, high speed</>
+UnitTypes.SP_US_Ambulance.myUIName	Ambulance
+UnitTypes.SP_US_Ambulance.myToolTipInfo	Need Info
+UnitTypes.SP_US_HarpoonMissileEmplacement.myUIName	Captured Harpoon Anti-Ship Missile Launcher
+UnitTypes.SP_US_HarpoonMissileEmplacement.myToolTipInfo	*Shwoosh* BOOOM
+UnitTypes.SP_USSR_4K51_Rubezh.myUIName	4K51 Rubezh Anti-Ship Missile Launcher
+UnitTypes.SP_USSR_4K51_Rubezh.myToolTipInfo	*Shwoosh* BOOOM
+UnitTypes.SP_USSR_Mi_8_Hip_On_Ground.myUIName	USSR - Transport Helicopter
+UnitTypes.SP_USSR_Mi_8_Hip_On_Ground.myToolTipInfo	<#888><i>Mi-8</></>\n\n<#4a3>Characteristics: \n- Airborne infantry transport \n- Unarmed \n- Medium armor, very high speed</>
+UnitTypes.VIPCar.myUIName	USSR - VIP Car
+UnitTypes.VIPCar.myToolTipInfo	I am VIP car! Blow me up!
+UnitTypes.CINEMATICS_BlackHawk.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.CINEMATICS_BlackHawk.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.CINEMATICS_BlackHawk.myUIName	US - Transport Helicopter
+UnitTypes.CINEMATICS_BlackHawk.myToolTipInfo	<#888><i>UH-60 Black Hawk</></>\n\n<#4a3>Characteristics: \n- Airborne infantry transport \n- Unarmed \n- Medium armor, very high speed</>
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myName	Sidewinder Missiles
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myInfo	Launches AIM-92 Sidewinder missiles at an enemy helicopter. This salvo of two missiles is likely to down any aircraft.
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.CINEMATICS_Cobra25.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.CINEMATICS_Cobra25.myUIName	US - Medium Attack Helicopter
+UnitTypes.CINEMATICS_Cobra25.myToolTipInfo	<#888><i>AH-1W Super Cobra</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Effective against both air and ground targets \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myName	Sidewinder Missiles
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Offensive_sidewinder.myVisualRep.myInfo	Launches AIM-92 Sidewinder missiles at an enemy helicopter. This salvo of two missiles is likely to down any aircraft.
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.CINEMATICS_Cobra40.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.CINEMATICS_Cobra40.myUIName	US - Medium Attack Helicopter
+UnitTypes.CINEMATICS_Cobra40.myToolTipInfo	<#888><i>AH-1W Super Cobra</></>\n\nGood Against: \n- Helicopters \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Effective against both air and ground targets \n- Vulnerable to Anti-Air units \n- Medium armor, very high speed</>
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	IR Scan
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	Detects enemy units hidden in smoke clouds, forests and buildings.
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.CINEMATICS_Hormone70.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.CINEMATICS_Hormone70.myUIName	USSR - Scout Helicopter
+UnitTypes.CINEMATICS_Hormone70.myToolTipInfo	<#888><i>Ka-25</></>\n\nGood Against: \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Reveals hidden units with its IR Scan \n- Vulnerable to Anti-Air units \n- Low armor, very high speed</>
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myName	IR Scan
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.IRScan.myVisualRep.myInfo	Detects enemy units hidden in smoke clouds, forests and buildings.
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myName	Drop Flares
+UnitTypes.CINEMATICS_Hormone100.myParasites.SpecialAbility(0).mySpecialAbilities.Flares.myVisualRep.myInfo	Ejects burning hot flares that can, with luck, divert heatseeking missiles. Only effective against missiles approaching from behind.
+UnitTypes.CINEMATICS_Hormone100.myUIName	USSR - Scout Helicopter
+UnitTypes.CINEMATICS_Hormone100.myToolTipInfo	<#888><i>Ka-25</></>\n\nGood Against: \n- Infantry \n- Vehicles \n\n <#4a3>Characteristics: \n- Reveals hidden units with its IR Scan \n- Vulnerable to Anti-Air units \n- Low armor, very high speed</>
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myName	Demolition Charge
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Explosives.myVisualRep.myInfo	Orders the combat engineer to place a large amount of explosives at the target location. The charge can be triggered remotely by the engineer and is powerful enough to bring down most smaller buildings.
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myName	Sprint
+UnitTypes.CINEMATICS_US_Engineer.myParasites.SpecialAbility(0).mySpecialAbilities.Sprint.myVisualRep.myInfo	The infantry squad moves at double speed, but cannot engage enemies for the duration of the ability.
+UnitTypes.CINEMATICS_US_Engineer.myUIName	US - Demolition Engineer
+UnitTypes.CINEMATICS_US_Engineer.myToolTipInfo	Good Against: \n- Buildings \n- Bridges \n\n <#4a3>Characteristics: \n- Can use demolition charges on structures \n- Very vulnerable to all enemy units</>

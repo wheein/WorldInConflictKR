@@ -1,0 +1,384 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	In his address to the Party Congress, 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	the General Secretary spoke of sacrifices made and sacrifices yet to come. But he emphasized that there is no doubt that we are winning this war and that the end is in sight --
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	It was a rout. Our scattered forces headed for Seattle and the relief we hoped we would find there. To use a nuclear bomb on one's own 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	country ... It was insanity on a scale unmatched even by our own generals. It also destroyed what dreams we had left of ever achieving victory in America. If it hadn't been for the Colonel we wouldn't have known about Cascade Falls at all. Based on the communiques from Moscow, all was as fine as could be. And now that 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	the Chinese had declared themselves our allies, victory was supposedly within reach -- again. But we knew better ...
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectConvoy.myDescription	Protect the Convoy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectConvoy.myLongDescription	Our Battle Group has been ordered to Seattle and we are moving there with the greatest possible speed. However, we have many wounded and several platoons of infantry riding in unarmored trucks. This convoy must be protected at all costs as we move to Seattle.\n\nTo complete this objective you must ensure the survival of the convoy.\n\nYou will fail this objective if fewer than 6 trucks survive.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectConvoy.myVisualisationText	Protect the Convoy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectConvoy2.myDescription	Protect the Convoy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectConvoy2.myLongDescription	Our comrades in the convoy have taken unexpected casualties from the artillery barrage. Do your best to protect the remaining trucks.\n\nTo complete this objective you must ensure the survival of the convoy.\n\nYou will fail this objective if fewer than 4 trucks survive.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectConvoy2.myVisualisationText	Protect the Convoy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureRelay.myDescription	Secure the relay station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureRelay.myLongDescription	The Americans have taken control of one of our radio relay stations and we need to reclaim it to set up a base of operations.\n\nTo complete this objective you must help Captain Malashenko secure the relay station.\n\nYou will fail this objective and the mission if you lose all your units before the radio relay station has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureRelay.myVisualisationText	Secure the relay station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DeflectAttack.myDescription	Deflect the enemy attack
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DeflectAttack.myLongDescription	The convoy has come under attack. Use your helicopters to neutralize the enemy and protect the convoy.\n\nTo complete this objective you must help neutralize the American attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DeflectAttack.myVisualisationText	Deflect the enemy attack
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SearchDestroy.myDescription	Search and destroy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SearchDestroy.myLongDescription	The Americans are massing troops and vehicles in preparation for an attack on the convoy. We must locate them and use preemptive strikes to destroy them before they get too close. Use your helicopters to locate and destroy the enemy.\n\nTo complete this objective you must move to the positions marked on your map and destroy any enemies encountered there.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SearchDestroy.myVisualisationText	Search and destroy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout1Kill.myDescription	Kill all the attackers.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout1Kill.myLongDescription	The Americans are massing troops and vehicles in preparation for an attack on the convoy. We must locate them and use preemptive strikes to destroy them before they get to close. Use your helicopters to locate and destroy the enemy.\n\nTo complete this objective you must move to the positions marked on your map and destroy any enemies encountered there.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout1Kill.myVisualisationText	Kill all the attackers.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout2.myDescription	Search and destroy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout2.myLongDescription	The Americans are massing troops and vehicles in preparation for an attack on the convoy. We must locate them and use preemptive strikes to destroy them before they get too close. Use your helicopters to locate and destroy the enemy.\n\nTo complete this objective you must move to the positions marked on your map and destroy any enemies encountered there.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout2.myVisualisationText	Search and destroy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout3.myDescription	Search and destroy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout3.myLongDescription	The Americans are massing troops and vehicles in preparation for an attack on the convoy. We must locate them and use preemptive strikes to destroy them before they get too close. Use your helicopters to locate and destroy the enemy.\n\nTo complete this objective you must move to the positions marked on your map and destroy any enemies encountered there.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Scout3.myVisualisationText	Search and destroy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyArty.myDescription	Destroy the Artillery
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyArty.myLongDescription	The Americans are using MLRS to bombard the convoy. They must be destroyed before the convoy takes too much damage.\n\nTo complete this objective you must locate and destroy all enemy MLRS batteries.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyArty.myVisualisationText	Destroy the Artillery
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.AIAttack.myDescription	Assist Mr Pink.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.AIAttack.myLongDescription	Assist Mr Pink.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.AIAttack.myVisualisationText	Assist Mr Pink.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearFortifications.myDescription	Clear the weapon emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearFortifications.myLongDescription	The Americans have dug several fixed positions in and around the hills. These must be neutralized.\n\nTo complete this objective you must destroy all enemy positions marked on your map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearFortifications.myVisualisationText	Clear the weapon emplacements
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureCommand.myDescription	Secure the command post
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureCommand.myLongDescription	Captain Malashenko will lead Second Company in an assault on the command post while you support him from the air. Speed is of the essence. We need to have the area secured before the pursuing U.S. National Guard forces catch up with us.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureCommand.myVisualisationText	Secure the command post
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RearGuard.myDescription	Rearguard
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RearGuard.myLongDescription	Colonel Orlovsky has been killed in action and Major Lebedjev is now in command. Captain Malashenko is leading Second Company to Seattle but we must hold the rear to ensure that the convoy stays protected.\n\nTo complete this objective you must prevent the Americans from capturing your position.\n\nYou will fail this objective and the mission if the Americans capture and fortify your position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.RearGuard.myVisualisationText	Rearguard
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Withdraw.myDescription	Withdraw
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Withdraw.myLongDescription	There is incoming hostile artillery. Withdraw to safety.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Withdraw.myVisualisationText	Withdraw
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.LastStand.myDescription	Last stand
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.LastStand.myLongDescription	You bravely fought off the first American attack but now they are preparing to assault your position again. Ural-5 is not yet safe, so we must hold the Americans back for a while longer. Do your utmost to protect your comrades.\n\nTo complete this objective you must hold your position against the American onslaught.\n\nYou will fail this mission if the Americans capture and fortify your position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.LastStand.myVisualisationText	Last stand
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.MinimizeLosses.myDescription	Save as many trucks as possible
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.MinimizeLosses.myLongDescription	The Americans will attack us from all directions. You must try to save as many of the convoy trucks as possible. Our valorous wounded comrades deserve all the protection they can get.\n\nTo complete this objective you must ensure the survival of at least 7 trucks.\n\nYou will fail this objective if you lose too many trucks to enemy fire.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.MinimizeLosses.myVisualisationText	Save as many trucks as possible
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_4.myText	ånej
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_4.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_01.myText	Ja, Sokol-1. The Americans are trying to surround us but they will not succeed. They needed a nuclear bomb to stop our brave comrades at Cascade Falls. And they will need another one to stop us now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_01.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_02.myText	Ural-5. What is the status of the convoy?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_02.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_03.myText	The wounded are in good shape and we are ready to continue forward.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_03.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_04.myText	Good. Romanov! You will command our frontal aviation assets and protect the convoy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_04.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_05.myText	Govorit Malashenko. We do not have time for these delays. We should leave the wounded to the Americans.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_05.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_06.myText	I will not surrender our comrades to the enemy, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_06.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_07.myText	But, they will slow us down!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_07.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_08.myText	As will you, if you do not get a move on! Advance and secure the radio relay station as planned.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_08.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_09.myText	Romanov! The convoy is taking heavy losses. Your mission is to protect them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_09.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_10.myText	The Americans are everywhere! We need assistance urgently or we will perish. Ural-5 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_10.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_11.myText	This is Ural-5! We just lost another truck filled with wounded. I thought you would protect us! Please ensure that we --
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_11.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_12.myText	Those trucks carry our infantry and our wounded, Romanov. Do your utmost to protect them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_12.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_13.myText	This is Ural-5. We have only suffered light losses so far. Please ensure that it stays this way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_13.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_14.myText	We ran the gauntlet with only minimal losses! Thank you for your excellent support, comrade lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_14.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_15.myText	Another truck lost. Many comrades are dead because of your inefficiency, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_15.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_16.myText	Malashenko will capture the radio relay station ahead and you must support him, Romanov. We can bring in reinforcements as soon as it is secure.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_16.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_17.myText	Malashenko na svjazi. Advancing at this time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_17.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_18.myText	Ural-5 here. I have ordered the convoy to continue north along the main highway.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_18.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_19.myText	Excellent. We are moving. The Americans will not be able to hold us back. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_19.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_20.myText	Govorit Malashenko. Relay station secure.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_20.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_21.myText	Good, captain. You are now responsible for protecting the convoy flanks.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_21.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_22.myText	Understood. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_22.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_23.myText	Sokol-1 to all battle group elements. We have established contact with Army Command. Reinforcements are now available.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_23.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_24.myText	Sokol-1 to Romanov. Sokol-1 to Romanov. Come in! Chyort!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_24.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_25.myText	Ural-5 here, we are taking losses!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_25.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_26.myText	Help them, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_26.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_27.myText	Ural-5 here. We've cleared the ambush. Moving at this time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_27.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_28.myText	Ubljudki Amerikanski! We will clear the surrounding area of enemy troops so that they don't surprise us again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_28.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_29.myText	Romanov, use your helicopters to scout our flanks. Destroy all enemies you find.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_29.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_30.myText	Malashenko! Report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_30.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_31.myText	Govorit Malashenko. The flanks are secure at the moment, but we will have a hard time getting to Seattle at this pace. The Americans are everywhere!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_31.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_32.myText	Da, it's a fine mess we have landed ourselves in. Such dreams. Such a disaster.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_32.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_33.myText	What?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_33.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_34.myText	Never mind.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_34.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_35.myText	As I thought. The Americans are moving more troops into the area. Destroy them, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_35.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_36.myText	More enemy vehicles. Wipe them out, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_36.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_37.myText	Ural-5 here. We have incoming artillery! Spreading out now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_37.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_38.myText	Chyort! Those artillery batteries must be dealt with.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_38.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_39.myText	Romanov, I have a change of mission for you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_39.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_40.myText	You are to neutralize the American rocket launchers. We have their approximate locations marked for you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_40.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_41.myText	This is Ural-5. We have several casualties from the barrage.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_41.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_42.myText	Chyort! This was unexpected. Try to protect what's left of the convoy, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_42.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_43.myText	Govorit Malashenko. Shouldn't we concentrate on moving forward?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_43.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_44.myText	If we do so without clearing the area first, we will take heavy casualties.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_44.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_45.myText	I protest this entire plan, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_45.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_46.myText	Noted. Now, get moving. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_46.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_47.myText	Excellent, Romanov. Now find the other ones.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_47.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_48.myText	One launcher remaining, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_48.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_49.myText	This is Ural-5. The artillery barrage has stopped. We are regrouping.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_49.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_50.myText	Well done, lieutenant. But we still have much to do.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_50.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_51.myText	The Americans have set up dug-in positions in and around the hills. These must be destroyed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_51.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_52.myText	Lebedjev na svjazi. Communications intercepts indicate an American command post to the north.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_52.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_53.myText	Then we will destroy it as well. That should cripple them long enough for the convoy to escape.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_53.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_54.myText	Da, then we can concentrate on the National Guard forces coming up from the south.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_54.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_55.myText	Very good, Romanov. But watch for enemy air defenses.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_55.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_56.myText	Their defenses are collapsing.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_56.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_57.myText	Ja, Sokol-1. Prepare to assault the command post. The outer defenses will soon be eradicated.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_57.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_58.myText	Ja, Sokol-1. All strong points have been cleared. Malashenko are you in position?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_58.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_59.myText	Malashenko slushajet. We are ready.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_59.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_60.myText	Ural-5 here. We are holding until further notice.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_60.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_61.myText	Romanov, you will provide air support to Second Company while they assault the command post.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_61.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_62.myText	Govorit Malashenko. You have yet to let me down, Romanov. Don't do so now. Advance!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_62.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_63.myText	This is Lebedjev. The pursuing U.S. forces are now less than two kilometers away.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_63.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_64.myText	I have been busy with the battle. Any word from Army Command on what the overall plan is?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_64.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_65.myText	None since the last call to rally at Seattle. We are getting sporadic transmissions from other battle groups but nothing concrete.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_65.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_66.myText	It is all falling apart.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_66.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_67.myText	No! We will go to Seattle and let the Americans destroy themselves by attacking us!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_67.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_68.myText	Yes, of course, captain. Now secure that command post.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_68.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_69.myText	It will soon be accomplished. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_69.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_70.myText	Malashenko here. Area secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_70.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_71.myText	Good. Ural-5 you are free to move ahead to the next rendezvous point. The road is clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_71.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_72.myText	Acknowledged, Sokol-1. See you there. Ural-5 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_72.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_73.myText	You protected the convoy and the wounded to the best of your abilities, Romanov. Well done.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_73.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_74.myText	Now we must see to defending our rear while the convoy continues on. I have a plan for how we will proceed. Briefing in five minutes. Captain Malashenko and Major Lebedjev, you will attend. The rest of you hold in place and stand guard.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_74.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_75.myText	Captain Malashenko and Second Company has moved ahead to Seattle. We must organize the rear guard. Romanov! Establish a perimeter and hold off all American attacks.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_75.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_76.myText	You will have to command some of the ground elements as well, Romanov. Do not let the Americans through!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_76.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_77.myText	We are switching communications to alternate frequency four. Do so now. Ural-5, acknowledge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_77.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_78.myText	Ural-5 here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_78.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_79.myText	Ural-5, you have new orders. The convoy is to proceed to the coordinates I am about to send you. We will fight off the Americans here and then follow you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_79.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_80.myText	Understood.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_80.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_81.myText	Malashenko, acknowledge. This is Lebedjev calling Captain Malashenko, priyom. They must have missed the frequency switch. Too bad, but we will manage without them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_81.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_82.myText	Romanov! You must hold for a little while longer. Then we will fall back to the next line of defense.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_82.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_83.myText	The Americans are renewing the attack. Take up alternate defensive positions now, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_83.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_84.myText	Retake your position, lieutenant. Do not let the Americans get a foothold.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_84.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_85.myText	Everyone fall back. Ural-5, disperse and prepare to surrender. The Americans just broke through our defenses.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_85.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_86.myText	We must resist them with all we have. This is it, Romanov. We will break their attack and then retreat.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_86.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_87.myText	Ja, Lebedjev. The Americans are renewing their attack. This is it, Romanov. We will break their attack and then retreat.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_87.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_88.myText	Ural-5 report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_88.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_89.myText	Ural-5 here. All is well. We can see fighting in the distance but we haven't seen any Americans for a while now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_89.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_90.myText	Excellent. Did you get the coordinates I sent you?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_90.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_91.myText	Yes, but there must be some mistake. I thought we were going to Seattle.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_91.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_92.myText	Njet. The coordinates are correct. The road should be clear. We will meet you there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_92.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_93.myText	Ah, understood. Estimated arrival in three hours at present speed. Ural-5, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_93.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_94.myText	The Americans are giving up. I can see why the Colonel put so much trust in you, Comrade Romanov. You have saved all our lives here today.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_94.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_95.myText	This is Major Lebedjev to all remaining units. The time has come for us to retreat. We will not go to Seattle, but to an industrial harbor further north where a transport ship is waiting to take us home. This order comes directly from Army Command. Captain Malashenko and second company will not be joining us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_95.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_96.myText	The Americans have a saying: "Live to fight another day", and that is exactly what we will do, comrades. And then we will honor the Colonel's memory by winning this war. Lebedjev out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_96.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_97.myText	Retake that position at once, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_97.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_98.myText	Fall back and disperse, Romanov. The enemy has overwhelmed us. It's every man for himself. Lebedjev, signing off.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_98.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_99.myText	We are under attack! Dispersing. Ural-5 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_99.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_100.myText	Ural-5 here. The Americans are attacking us! Taking up defensive positions!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_100.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_101.myText	This is Ural-5. We have incoming fire! Spreading out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_101.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_102.myText	Ural-5 here. We just lost a truck!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_102.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_103.myText	Ural-5 here. We are taking losses!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_103.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_104.myText	This is Ural-5. We are losing trucks in battle!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_104.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_105.myText	Another truck lost. Ural-5 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_105.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_106.myText	Ural-5. We are taking casualties!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_106.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_107.myText	Ural-5 here. We are moving at this time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_107.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_108.myText	Ural-5, here. Continuing ahead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_108.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_109.myText	This is Ural-5. We are moving out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_109.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_110.myText	The artillery is closing in! Pull back or you will be destroyed, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_110.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_111.myText	Romanov! Pull back or you will be destroyed!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_111.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_112.myText	Incoming artillery. Time to fall back to alternate defense positions, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_112.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_113.myText	We have captured the relay station. Securing the area now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_113.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_114.myText	Area clear. Move on to the next waypoint, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_114.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_115.myText	I'm sending you a platoon. We'll destroy the Americans together.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_115.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_116.myText	Well done, Romanov. Move on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_116.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_117.myText	Ja, Ural-5! We have incoming American fighters! They are Warthogs! Take cover!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_117.myPortraitText	URAL-5
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_118.myText	Good. Make sure the radios remain functional.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_118.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_119.myText	Of course, colonel. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_119.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_120.myText	Tovarisj polkovnik, we should be counter-attacking! This scampering about the country-side will lead us nowhere!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_120.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_121.myText	Njet, captain. To counter-attack now would be foolish and rash. We will follow the plan.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_121.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_122.myText	It is unfortunate that we didn't succeed in Cascade Falls. Things would have been … different.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_122.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_123.myText	Da, but not necessarily better, comrade.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_123.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_124.myText	Maybe not.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_124.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_125.myText	Check your fire, lieutenant! You are firing at your own people!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_125.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_126.myText	Call of that attack, Romanov! You're hitting the convoy!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_126.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_127.myText	You are obviously unfit for command, lieutenant. Consider yourself relieved. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_127.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_128.myText	And watch for stray enemies attacking the convoy, Romanov. Protection of the trucks is still your main priority.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_128.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_129.myText	Set up defensive positions by the highway. I will see to the flanks. Frontal Aviation will continue to fly sorties for us. Call them for air support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_129.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_130.myText	American ground forces approaching. And they have anti-air units. Be careful, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_130.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_131.myText	Romanov! We just lost our grip on the western approach! The Americans will come at you from several directions now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_131.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_132.myText	We were forced back to the west. Maintain your position, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_132.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_133.myText	Eto, Lebedjev. The western approach has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_133.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_134.myText	The enemy has breached our defenses to the east! Watch your flanks, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_134.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_135.myText	Enemy breakthrough to the east. Watch out, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_135.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_136.myText	Lebedjev here. The eastern approach is safe.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_136.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_137.myText	The convoy will soon have reached a safe distance. It won't be much longer now, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_137.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_138.myText	The Americans will break soon. They won't be able to sustain these losses forever.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_138.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_139.myText	We have a squadron of Tu-95s on call, Romanov! They should be able to break the American attack completely with their bombing runs! Call them in, now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_139.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_140.myText	The Colonel was right. This whole operation was doomed from the beginning. Why didn't we see it?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_140.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_141.myText	We are sane men you and I, Romanov. The state will need us when the time comes.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_141.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_142.myText	We have established contact with some fire support elements, Romanov. Call on them when needed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_142.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_143.myText	The convoy is under attack, Romanov. Help them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_143.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_144.myText	The Americans are targeting the convoy, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_144.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_145.myText	Protect the convoy, Romanov! They are taking fire!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_145.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_146.myText	American units are assaulting the convoy! Deal with them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_146.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_666.myText	Well done, you have broken their moral and they are on retreat. There is an incomming bomber, you can call down the strike, make sure you hit as many as possible.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf4_666.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The convoy came through with only marginal losses and is now safely on its way to the harbor north of Seattle where a ship is waiting to take our battle group home. Your excellent use of air support and equally impressive command of ground forces helped ensure the survival of many comrades who will now live to see the Motherland again.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	You were unable to protect the convoy and the lives of hundreds of your comrades must now weigh on your conscience. You might want to contemplate this loss while you spend the remainder of your days in an American prisoner of war camp.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radio.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radio.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radio.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radio.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_LastStand.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_LastStand.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_LastStand.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_LastStand.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Final.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Final.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Final.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Final.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_4.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_4.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_4.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_4.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_3.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_AA_2.myEnemyCapturedText	<empty>

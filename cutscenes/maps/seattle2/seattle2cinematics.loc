@@ -1,0 +1,28 @@
+﻿Cine1.myPresentation.Blank.myEvents.PresentationEvent(0).myLocalizedText	Downtown Seattle\\1100 Hours\\Invasion day
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(0)	[001.8-005.5] Yes, this is Captain Bannon! I'm trying to reach the major.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(1)	[006.5-009.5] What!? Who's in command then?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(2)	[010.5-012.5] What do you mean I am?!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(3)	[017.0-018.5] What?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(4)	[019.5-023.0] How the hell should I know?! We have to fall back and regroup!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(5)	[023.5-027.0] Come in, Zulu-Five! Come in!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(6)	[050.5-054.0] Who's in charge here!?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(15)	[051.5-054.0] \nLieutenant Parker! He's over there!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(7)	[061.5-064.0] Guess your R and R came through, huh, Parker? 
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(8)	[064.5-067.0] I was hoping I'd seen the last of you in New York.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(16)	[067.7-069.7] You two! Where are you headed?
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(9)	[069.8-075.0] We're trying to find our unit. 
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(10)	[071.1-075.0] \nI'm Mike and this is Anton, sir. Washington National Guard.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(11)	[075.1-080.3] Well, you're with us now. Grab a rifle and get organized. We have to get out of here.
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(12)	[078.5-080.6] \nBut we can't just run away, sir!
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(13)	[080.7-084.5] Seattle is lost. All we can do is stay alive. 
+Cine1.myPresentation.M01F01.mySubTitles.LOCTEXT(14)	[085.0-088.0] Parker! Call the retreat!
+Cine1.myPresentation.M01F01.myEvents.Farplane1.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.ToggleShadows1.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Shadows.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.CineShadowsM01F01.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane2.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane3.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane4.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane5.myLocalizedText	<empty>
+Cine1.myPresentation.M01F01.myEvents.Farplane6.myLocalizedText	<empty>
+Cine2.myPresentation.Blank.myEvents.text.myLocalizedText	25 Minutes later

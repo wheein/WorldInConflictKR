@@ -1,0 +1,321 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ThisIsObjectiveBrowser.myDescription	The Objectives Browser
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ThisIsObjectiveBrowser.myLongDescription	This is the Objectives Browser. Here, you can review objectives given to you. This will be explained further later on in the tutorial.\n\nTo close it, click the "CLOSE" button.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ThisIsObjectiveBrowser.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveOne.myDescription	Capture the Command Point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveOne.myLongDescription	Capture the Command Point by placing a unit in each of the connected circles (Perimeter Points).
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveOne.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveTwo.myDescription	Capture the Command Point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveTwo.myLongDescription	Capture the Command Point by placing a unit in each of the connected circles (Perimeter Points).
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_PrimaryObjectiveTwo.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_OpenObjectiveBrowser.myDescription	Open the Objectives Browser
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_OpenObjectiveBrowser.myLongDescription	This is the Objectives Browser.\nHere you can review all your active and completed objectives, both primary and secondary.\nTo close the Objectives Browser, simply click the "CLOSE" button.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lesson3_OpenObjectiveBrowser.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Lesson3_SecondaryObjective.myDescription	Neutralize the enemy Infantry Squad
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Lesson3_SecondaryObjective.myLongDescription	Neutralize the enemy Infantry Squad.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Lesson3_SecondaryObjective.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM1.myString	Reminder: Use the WASD-keys to move the camera.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM2.myString	Reminder: Move the mouse cursor to the edges of the screen to pan the camera.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM3.myString	Reminder: Use the mouse scroll wheel to move the camera closer or further away from the ground.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM4.myString	Reminder: Left click on the mini-map in the bottom left corner of the screen to move the camera to that location.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON1_REM5.myString	Reminder: Use the WASD-keys to move the camera. Move the mouse cursor to the edges of the screen to pan the camera.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM1.myString	Reminder: To select a unit, left click on it. To select several units at the same time, click and hold down the left mouse button and drag a selection box around them.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM2.myString	Reminder: To order a unit around, start by selecting it and then right click where you want it to go.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM3.myString	Reminder: To load Infantry into a transport, select the Infantry and then right click on the transport.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM4.myString	Reminder: To unload Infantry from a transport, select the transport and then click on the Unload button in the order palette.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM5.myString	Reminder: To attack an enemy unit, select your unit and then right click on the enemy unit.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM6.myString	Reminder: To tell your units to enter a building, select the Infantry and then right click on the building.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM7.myString	Reminder: To unload Infantry from a building, select the building and right click outside of the building.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM8.myString	Reminder: To select a unit, left click on it. To select several units at the same time, click and hold down the left mouse button and drag a selection box around them.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM9.myString	Reminder: Left click on the offensive Special Ability button.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON2_REM10.myString	Reminder: With the offensive Special Ability selected, left click on a hostile target to execute it.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM1.myString	Reminder: To capture a Command Point, place a unit inside each of the connected circles (Perimeter Points).
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM2.myString	Reminder: Review your objectives by opening the Objectives Browser by the mini-map.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM3.myString	Reminder: To capture a Command Point, place a unit inside each of the connected circles (Perimeter Points).
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON3_REM4.myString	Reminder: To capture a Command Point, place a unit in each of the connected circles (Perimeter Points).
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON4_REM1.myString	Reminder: To order in reinforcements, open the Reinforcement Menu in the top right of the screen.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON4_REM2.myString	Reminder: To change your Drop Zone, click the change Drop Zone button in the Reinforcement Menu.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON4_REM3.myString	Reminder: When you have selected the desired units, click the Deploy button in the Reinforcement Menu.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON5_REM1.myString	Reminder: Open the Tactical Aid menu by left clicking on the Tactical Aid button in the top left corner of the screen.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON5_REM2.myString	Reminder: To place Tactical Aid, left click on the desired Tactical Aid and then left click on the ground where you want it deployed.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.LESSON5_REM3.myString	Reminder: To place Tactical Aid, left click on the desired Tactical Aid and then left click on the ground where you want it deployed.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool_UnitFactionColoring.myHeader	COMBAT SCHOOL - Unit Markers
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.CombatSchool_UnitFactionColoring.myText	All units have markers to help you spot them on the battlefield and they are colored differently depending on whom the unit belongs to.\n\nA green marker indicates that the unit belongs to you.\n\nA blue marker indicates that the unit belongs to an allied player or character.\n\nA red marker indicates that you are looking at an enemy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG1.myText	Well, well if it isn't our latest West Point prodigy. I'm Master Sergeant Watson and I'll be in charge of your training.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG1.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG2.myText	This is the National Training Center, where you will be finalizing your officer training. At West Point they taught you how to be an officer. Here we're gonna teach you how to fight!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG2.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG3.myText	We'll start out with control of the battlefield camera. You use the WASD-keys to move the camera. So why don't you show me some of those West Point skills by moving the camera around for a bit? Press the A-key to move the camera to the left.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG3.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG4.myText	Good. Now, press the W-key to move the camera forward.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG4.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG5.myText	Good work. Press the D-key to move the camera to the right.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG5.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG6.myText	Excellent. Now, press the S-key to move the camera backwards.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG6.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG7.myText	Well, waddaya know! Seems they DO teach you some useful stuff at West Point after all. Next up is camera panning and tilting. You do this by moving the mouse cursor to the edge of the screen. Let's start by panning the camera to the left. Do this now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG7.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG8.myText	Good job. Now, move the mouse cursor to the top edge of the screen to pan upwards.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG8.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG9.myText	Excellent. Go ahead and move the mouse cursor to the right edge of the screen to pan to the right.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG9.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG10.myText	Great. Last but not least, move the mouse cursor to the bottom edge of the screen to pan downwards.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG10.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG11.myText	If you want to really stretch your legs we have a function called Mouse Look that allows you to look freely around the battlefield. To activate this you press and hold the middle mouse button.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG11.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG12.myText	Well done. Sir. Now let's go down for a closer look at the terrain. You can move the camera closer to the ground by using the mouse scroll wheel. Try this now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG12.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG13.myText	Good. Now try moving the camera away from the ground.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG13.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG14.myText	Excellent. Complete mastery of the battlefield camera is one of the key skills of a combat officer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG14.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG15.myText	Now, I'll show you something my platoon sergeant in the A Shau Valley taught me many years ago: the minimap. This gives you an excellent top-down view of the battlefield, allowing you to quickly move to a specific position.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG15.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG16.myText	By clicking the left mouse button on the minimap, you can instantly move the camera to that location.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG16.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG17.myText	Impressive. We have just one more thing and then we're done for the day. See that red circle? Show me what you've learned by moving the camera through it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG17.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG18.myText	Good, now move on to the next one.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG18.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG19.myText	Keep this up and we'll get you shipped to Europe in no time. I hear they have a real shortage of junior officers there. 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON1_MSG19.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG1.myText	You got more spunk than most of the West Point pukes we get sent out here, I'll give you that. Let's see how you handle this next lesson.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG1.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG2.myText	I'm going to give you command of a Humvee. To issue orders to it, you have to select it first, and to do that, you left-click on it with your mouse. If you want to select multiple units at the same time, you can create a selection box by clicking and holding the left mouse button and then drag the box around the units you want to select.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG2.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG3.myText	Good. Now, with the Humvee selected you can start ordering it around. To issue a move order; select the Humvee, and then right click in the world where you want it to go.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG3.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG4.myText	Good. Now I'm going to teach you about transports. For this part of the exercise I'll give you command of an Infantry squad along with the Humvee.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG4.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG5.myText	Select the Infantry squad and order the soldiers to enter the Humvee by right clicking on the Humvee.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG5.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG6.myText	Good. Now, since the Infantry squad is inside the Humvee you can no longer issue orders to them. However, you can move the Humvee around as usual. To unload the Infantry squad, simply select the humvee and click the "Unload" button on the order palette. Try that now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG6.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG7.myText	Well done. Now let's move on to combat. Not for real though. This is a simulated exercise and the OPFOR will be your enemy. I hope you didn't wet your pants there ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG7.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG8.myText	To tell a unit to attack, select the unit you want to use and then right click on an enemy unit.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG8.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG9.myText	See those units there? They don't seem too friendly, do they? Well, what are you waiting for? Light them up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG9.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG10.myText	Hooah! That's the spirit, sir. They'll fear you in Germany.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG10.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG11.myText	To really be all you can be in urban warfare, you need to make good use of the surrounding terrain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG11.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG12.myText	See that building over there? You can move your Infantry squads inside to give them extra protection against enemy fire. Select your Infantry squad and move the mouse cursor over to that building.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG12.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG13.myText	The cursor changes to indicate that you can order your Infantry squad inside, To do this you select your Infantry squad and right click on the building. Do so now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG13.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG14.myText	Good. With your Infantry squad inside the building it becomes much harder for the enemy to spot you, and your men will also take less damage from incoming fire because of the cover that the building provides.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG14.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG15.myText	Let's see what happens when this enemy vehicle tries to speed past your Infantry squad.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG15.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG16.myText	Did you see that? OPFOR barely got a shot off. Well done, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG16.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG17.myText	To order your squad to leave the building, select the building and then right click anywhere outside.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG17.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG18.myText	Good job, sir. Remember to seek cover with your Infantry whenever possible since they're a lot more exposed than other units.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG18.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG19.myText	Now, let's talk a little about unit special abilities. They will undoubtedly save your life one day, so pay attention!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG19.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG20.myText	For this next exercise I'm giving you command of a Bradley Infantry Vehicle.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG20.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG21.myText	Start by selecting the Bradley.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG21.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG22.myText	Good. On your order palette you can now see that the Bradley has two special abilities.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG22.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG23.myText	One offensive ability ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG23.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG24.myText	... and one defensive ability.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG24.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG25.myText	The offensive ability will help you kill hostiles faster, and the defensive ability will help you increase your unit's survivability.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG25.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG26.myText	All special abilities have a cooldown timer - this is the time it takes for the unit to reload the required munitions or catch their collective breaths. This means you will have to use that thinkbox of yours to decide when to use each ability.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG26.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG27.myText	This Humvee will only take damage from your offensive ability so don't bother shooting at it with the chain gun.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG27.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG28.myText	To use an offensive special ability you left click the corresponding button. Do that now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG28.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG29.myText	Good. Now left click on the Humvee to launch a TOW missile at it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG29.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG30.myText	Not bad at all, sir. As you can see, that ability is now cooling down and you will have to wait a certain time before a new missile can be fired.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG30.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG31.myText	Some units also come with a defensive special ability. Your Bradley, for example, has a smoke screen that it can deploy to hide from other hostiles. It's deployed immediately when you left click the corresponding button so don't fire it prematurely.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG31.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG32.myText	Most units have unique special abilities so make sure that you learn how each one works. They are one of the main keys to gaining the upper hand on the battlefield.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG32.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG33.myText	That's basically all you need to know about movement and combat. Keep this up and you'll be graduating from here top of your class. Then you'll face the harsh school of real combat … I'll see you tomorrow when we'll talk about Command Points and Objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON2_MSG33.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG1.myText	So you haven't quit on us yet? Today I'm gonna teach you about Command Points and Objectives. A complete understanding of these concepts is crucial if you plan to succeed as a combat officer so listen up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG1.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG2.myText	What you see here is a Command Point. Control of these points is the deciding factor when you struggle for mastery of a battlefield. Often, capturing a Command Point will give you access to additional reinforcements as well as shifting the battle in your favor.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG2.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3.myText	A Command Points is colored differently depending on its state.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3a.myText	A Command Points is colored differently depending on its state.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3a.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3b.myText	White means it's neutral, that no-one is controlling it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3b.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3c.myText	Red means that it's under enemy control.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3c.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3d.myText	And green means the good guys, which means us, are in control.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG3d.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG4.myText	To capture a command point, you need to place your units inside each of the connected circles, or Perimeter Points, and when you have done this, the Command Point will be yours.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG4.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG5.myText	Well done, sir. That Command Points belongs to Uncle Sam. Now we move on to Objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG5.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG6.myText	When you are on a mission, your commanding officer will provide you with a string of objectives which you have to fulfill in order to complete the mission. These objectives come in two different kinds: Primary Objectives and Secondary Objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG6.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG7.myText	Primary Objectives are crucial for mission success. Fail one of these and you WILL fail the mission. See that Command Point there? Your new Primary Objective is to secure it, just like you did in the previous exercise.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG7.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG8.myText	To review your objectives, simply open the Objectives log by clicking on the objectives button near the mini-map. Do that now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG8.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG9.myText	Good! Now go capture that Command Point, sir!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG9.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG10.myText	Well done. Primary Objective completed. But you're not done yet. As I mentioned before you will be given both Primary AND Secondary Objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG10.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG11.myText	Secondary Objectives are optional but you should still try to complete them. You won't fail the mission if you ignore them, but promotions and other rewards might be slow in coming.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG11.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG12.myText	When you complete a Secondary Objective you will often be rewarded, and trust me; you will need whatever edge you can get if you're hoping to get by when the shooting starts.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG12.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG13.myText	Now, for the actual exercise. Your Primary Objective is to capture that Command Point, and your Secondary Objective is to eliminate that Infantry squad. Get moving! Sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG13.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG14.myText	Capture that Command Point and eliminate those soldiers!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG14.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG15.myText	Primary and Secondary Objectives completed. You're starting to shape up, sir. I'll see you here tomorrow for your next lesson.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON3_MSG15.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG1.myText	Seems you're determined to make it through to the end, sir. I guess you're eager to get to Europe and do some good.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG1.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG2.myText	Today I'll teach you about reinforcements. It's the inevitable rule of war that men get hurt and die. But as a commander you must stay focused on the big picture and complete your objectives. And for you to be able to do this, your commander will give you access to reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG2.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG3.myText	First off, you'll need to activate the Reinforcement menu. Press the "Reinforcements" button now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG3.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG4.myText	Good. Your available reinforcements are shown as points. In the left hand column you can see the amount available and the right hand column show you the amount incoming.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG4.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG5.myText	The available points are ready for you to use. You can spend them on units and then have these units delivered to the battlefield. The incoming points will be added to your pool of available points over time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG5.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG6.myText	Each unit has a point value tied to it. This is the amount it would cost you to order down one such unit.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG6.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG7.myText	That Bradley IFV for example costs 750 reinforcement points -and about three million tax-payer dollars. If you should lose one in action, those 750 points well be reimbursed to your incoming points pool and after a while they will be available to spend again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG7.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG8.myText	To start ordering units you need to place a drop zone marker. The marker indicates where the transport aircrafts will drop your units. Click the "Drop Zone" button.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG8.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG9.myText	You're looking at the Mega-map. From here, you get a detailed overview of the entire battlefield, but it also removes you from the tactical situation on the ground. Right now, the only thing you can do in the mega-map is to place your drop zone marker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG9.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG10.myText	Well done, sir. I knew you'd have no trouble with this. With the drop zone marker placed, you are ready to order in reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG10.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG11.myText	You now have 2000 reinforcement points to spend as you see fit. To order in some units you start by left clicking the "Reinforcements" button.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG11.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG12.myText	Left click on a unit that you wish to purchase. Clicking on a unit multiple times will add multiple units of that kind. To remove a unit, simply right click on its icon or left click on the unit icon in the Order Box below.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG12.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG13.myText	You can see your current order in the Order Box along with the total cost of your order. This amount can never exceed the amount of available reinforcement points, so choose wisely.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG13.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG14.myText	When you have completed your order you click the "Deploy" button. Do so now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG14.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG15.myText	It will take some time for your reinforcements to arrive since they're being brought in by air. Plan your reinforcement orders accordingly.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG15.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG16.myText	Superb job, sir. Only one more day until graduation. I'll see you back here tomorrow.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON4_MSG16.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG1.myText	Welcome back to the final lesson, sir. Seems you're made of sterner stuff than I first thought.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG1.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG2.myText	Today I will teach you about the most powerful weapon an officer has in his arsenal. No, I'm not talking about what's between your legs, sir. I'm talking about the radio.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG2.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG3.myText	With the radio you can call in Tactical Aids. They encompass everything from reconnaissance flights to artillery barrages and air strikes, and they'll provide you with a real advantage in a tight spot. As you succeed on the battlefield by killing the enemy and capturing command points, you will receive tactical aid points. These can then be used to call in Tactical Aids.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG3.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG4.myText	Today is your lucky day though, because you will be provided with a steady stream of Tactical Aid points regardless of your battlefield performance. And to spice things up a bit, I've ordered the OPFOR to place some hostile targets for you to practice on. I know you're itching to get started so don't let me hold you back. Get to it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG4.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG5.myText	Good. To deploy a Tactical Aid simply left-click the weapon or aid you want and then left-click in the world where you want it deployed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG5.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG6.myText	Hooah! Opfor targets destroyed! Superb job!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG6.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG7.myText	As you might've noticed, it took some time before the Tactical Aid was deployed. This time varies depending on the Tactical Aid in question, so you need to plan ahead and analyze the movement of your enemies in order to hit them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG7.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG8.myText	Now, those targets you just annihilated were stationary, and even a Marine could do that. To be really effective you need to learn how to hit moving targets. So let's try it again. But this time you'll have moving targets to practice on. Get to it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG8.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG9.myText	Hooah, sir! All OPFOR targets destroyed. That was an excellent performance by all standards. Congratulations on completing this course. Only actual combat can teach you the rest of the skills you need. But I'm sure you will make a fine combat officer, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.LESSON5_MSG9.myPortraitText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS1.myText	So I've seen you've found the Disband Unit button. Good for you. Did I tell you to click that button? Do you have trouble following instructions, sir?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS1.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS2.myText	Now we'll have to go through this lesson again. I need to make sure that what I'm telling you gets through that thick skull of yours. And stay away from that disband-button, sir or we'll be here all day.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.PLAYER_DISBANDED_UNITS2.myPortraitText	Watson
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.TEST	PICK A LESSON WITH  CTRL + SHIFT + (1-5) \n Or wait 10 seconds for lesson1 to start. \n #THIS IS ONLY FOR DEBUG AND WILL BE REMOVED#
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT1	Lesson #1 - The Camera
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT2	Press the A-key to move the camera to the left.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT3	Press the W-key to move the camera forward.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT4	Press the D-key to move the camera to the right.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT5	Press the S-key to move the camera backward.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT6	Move the mouse cursor to the left edge of the screen.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT7	Move the mouse cursor to the top edge of the screen.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT8	Move the mouse cursor to the right edge of the screen.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT9	Move the mouse cursor to the bottom edge of the screen.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT10	Press and hold the middle mouse button and move the mouse to freely pan and tilt the camera.\nAlternatively, move the mouse cursor to the edges of the screen to pan and tilt the camera.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT11	Use the mouse scroll wheel to move the camera closer to the ground.\nNote: If your mouse lacks a scroll wheel, you will have to re-bind the zoom functionality in the Options menu.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT12	Use the mouse scroll wheel to move the camera further from the ground.\nNote: If your mouse lacks a scroll wheel, you will have to re-bind the zoom functionality in the Options menu.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT13	Left click on the mini-map to move the camera.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT14	Move the camera through the red circle.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON1_TUT_TEXT15	Feel free to play around with the camera for a while.\nWhen you feel ready, click the Next Lesson button to continue the tutorial.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT1	Lesson #2 - Moving and Attacking
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT2	Select the Humvee by clicking on it with the left mouse button.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT3	Left click to select your Humvee, and then right click inside the circle to move it there.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT4	Select your Infantry Squad by left clicking on them, and then right click on the Humvee to enter it.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT5	Select your Humvee and unload your Infantry Squad by clicking on the Unload button.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT6	Eliminate the enemy Infantry Squad.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT7	Order your Infantry Squad to enter the building.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT8	Order your Infantry Squad to exit the building.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT9	Select the Bradley by left clicking on it.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT10	Left click on the offensive Special Ability.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT11	With the offensive Special Ability selected, left click on a hostile unit to execute it.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON2_TUT_TEXT12	Click the Next Lesson button to continue the Tutorial.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT1	Lesson #3 - Command Points and Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT2	Capture the Command Point by placing units inside each of the connected Perimeter Points (circles) at the same time.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT3	Open the Objectives Browser to review your objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT4	Capture the Command Point by placing units inside each of the connected Perimeter Points (circles) at the same time.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT5	Capture the Command Point and eliminate the enemy Infantry Squad.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON3_TUT_TEXT6	Click the Next Lesson button to continue the Tutorial.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT1	Lesson #4 - Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT2	Open the Reinforcement Menu.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT3	Click the Drop Zone button in the Reinforcement Menu
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT4	Place your Drop Zone marker by left clicking anywhere within the designated area.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT5	Left click on a unit you wish to purchase. When you have completed your order you click the Deploy button.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON4_TUT_TEXT6	Click the Next Lesson button to continue the Tutorial.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT1	Lesson #5 - Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT2	Left click on the Tactical Aid button.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT3	Eliminate all hostile forces by ordering in Tactical Aid.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT4	Eliminate all hostile forces by ordering in Tactical Aid.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.LESSON5_TUT_TEXT5	Click the Leave Tutorial button to leave the Tutorial.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.TUT_TEXT_RESTART	Click the Restart button to restart the lesson.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson2_CP1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP1b.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.Lesson3_CP3.myEnemyCapturedText	<empty>

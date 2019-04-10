@@ -1,0 +1,266 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	In the face of great adversity
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	our courageous comrades in America fight on, winning battle after battle against an increasingly desperate enemy. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	Our troops now occupy most of the American west coast and soon we will have complete victory -- 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	Nobody had counted on the American civilians putting up such resistance. Everywhere we went we were greeted with bullets. And our battalion had it easy. We had been tasked with pacifying the countryside, 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	while four other regiments pushed into the mountains. They were headed toward a town called Cascade Falls, where there was some grand objective not even Colonel Orlovsky knew the details about. All we knew was that it might mean an end to the war. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	I remember thinking about  those comrades, struggling through the cold and the snow, facing death at every turn. And I was ashamed, for I was happy that I wasn't with them.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide8.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myDescription	Destroy the AA-defenses
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myLongDescription	Our comrades in the air force will bomb the buildings hiding military equipment and contraband. But before they can fly you must destroy all anti-air defenses in the vicinity.\n\nTo complete this objective you must destroy all the targets listed.\n\nYou will fail the objective and the mission if you lose all your troops before the objective has been completed.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAA.myVisualisationText	Destroy the AA-defenses
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Rendezvous.myDescription	Rendezvous at the landing zone
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Rendezvous.myLongDescription	The first objective has been accomplished. We must prepare for the attack on the enemy camp. Meet up with the transport helicopters at the location marked on your map.\n\nTo complete this objective you must move your troops to the area marked on your map.\n\nYou will fail the objective and the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Rendezvous.myVisualisationText	Rendezvous at the landing zone
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureHill.myDescription	Secure Hill 48
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureHill.myLongDescription	This hill is infested with enemy insurgents and it must be cleared and secured before we can attack the main guerrilla camp. Move swiftly.\n\nTo complete this objective you must clear and capture the marked area on the top of the hill.\n\nYou will fail the objective and the mission if you lose all your units before the objective has been completed.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureHill.myVisualisationText	Secure Hill 48
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendHill.myDescription	Defend Hill 48
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendHill.myLongDescription	The Americans are counter-attacking. You must hold the hill until they give up.\n\nTo complete this objective you must fight off the American counter-attack.\n\nYou will fail the objective and the mission if the Americans gain control of Hill 48.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendHill.myVisualisationText	Defend Hill 48
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureCamp.myDescription	Secure the main camp
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureCamp.myLongDescription	The time has come to end the guerrilla presence in this area. You are to assault and secure the enemy main camp located by the river. You will then hold in place until we've located the guerrilla leader and a helicopter can be brought in to extract him.\n\nTo complete this objective you must capture, secure and fortify the main guerrilla camp.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureCamp.myVisualisationText	Secure the main camp
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendCamp.myDescription	Defend the main camp
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendCamp.myLongDescription	The guerilla camp has been secured and the leader has been captured. A helicopter has been called on to transport him out but it will be some time before it arrives. We must hold the base against the inevitable American counter-attack until the guerilla leader has been flown out of there.\n\nTo complete this objective you must prevent the enemy from capturing the guerilla camp.\n\nYou will fail the objective and the mission if the enemy manages to capture and fortify the camp.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendCamp.myVisualisationText	Defend the main camp
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyGasStation.myDescription	Destroy the gas station
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyGasStation.myLongDescription	The insurgents are using an abandoned gas station as a supply cache. The underground tanks alone are estimated to contain thousands of liters of fuel. We would capture this cache for ourselves but in all probability it has been booby-trapped by the Americans. We will destroy it instead.\n\nTo complete this objective you must use any means necessary to destroy the gas station.\n\nYou will fail the objective if the target has not been destroyed when the attack on the main camp has been concluded.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyGasStation.myVisualisationText	Destroy the gas station
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillOfficers.myDescription	Neutralize the U.S. Army officers
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillOfficers.myLongDescription	A group of regular U.S. Army officers are trying to flee the camp. Neutralizing them would strike a hard blow against the U.S. military in the region.\n\nTo complete this objective, you must use whatever means necessary to locate and neutralize the fleeing enemy officers.\n\nYou will fail this objective if the officers get away.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillOfficers.myVisualisationText	Kill the US army officers
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.PreventBridgeDestruction.myDescription	Protect the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.PreventBridgeDestruction.myLongDescription	Captain Malashenko and second company will aid you in the defense of the guerrilla camp. But they will be unable to cross the river and do so if the bridge is destroyed by the insurgents. You must stop this if possible.\n\nTo complete this objective you must destroy the American engineers on and around the bridge.\n\nYou will fail this objective if the bridge is destroyed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.PreventBridgeDestruction.myVisualisationText	Protect the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ObjTutorialResupply.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ObjTutorialResupply.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ObjTutorialResupply.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.InfantryReinforcements.myHeader	COMBAT SCHOOL - Reinforce Squad
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.InfantryReinforcements.myText	To replace casualties taken in an infantry squad you can press the Resupply Squad button. This will replace any losses taken by the squad, but will not restore the health of soldiers that are still alive.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_01.myText	Romanov. The local guerrilla leader is present at the camp with a group of regular army officers. The capture of this leader is our mission today.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_01.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_02.myText	The insurgents are using the surrounding farms to hide weapons and heavy equipment. Your first objective is to clear the immediate area of all anti-air defenses so that the air force can bomb these buildings.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_02.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_03.myText	You should be aware that we are short on reinforcements, Romanov. The main effort is being put into the drive against Fort Teller. We will have to make do with what we have. Good luck. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_03.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_04.myText	This mission has become too costly due to your negligence, Romanov. I am aborting. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_04.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_05.myText	Well done, Romanov. Our comrades in the air force will strike soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_05.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_06.myText	Get out of the area and move to the landing zone. Helicopters have been dispatched to transport you to your next objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_06.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_07.myText	Good. Here come our comrades in the sky. Stay low. Second company will move into blocking positions once the strike has been completed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_07.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_08.myText	Hill 48 commands a wide view of the surrounding area. It has to be secured before we attack the main camp. I'm sending you additional reinforcements, Romanov. We need that hill within the hour.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_08.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_09.myText	Make sure you take good care of your men, lieutenant. I trust you not to lead them only to death.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_09.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_10.myText	Sokol-1 here. They are falling back. Hold in place, Romanov. I'm airlifting some vehicle support to you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_10.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_11.myText	The Americans are using an old gas station as a supply depot. Destroy it if you get the opportunity.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_11.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_12.myText	Excellent, lieutenant. That will be a sore blow against the insurgents.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_12.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_13.myText	The Americans managed to siphon off quite a large amount of fuel from the gas station before they fled. You should've destroyed it when you had the chance, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_13.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_14.myText	The Americans are preparing a counter-attack against the hill. You must hold, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_14.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_15.myText	I suggest you fortify the hilltop and place your infantry in the woods for protection. Remember that not all approaches can be accessed by vehicles.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_15.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_16.myText	Sokol-1 here. You make me proud, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_16.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_17.myText	We now have the perfect opportunity to start the attack on the main camp. Captain Malashenko and second company will continue to act as a blocking force and prevent escape in that direction.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_17.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_18.myText	Romanov. Launch the assault. Secure that camp and get me the guerrilla leader. I have sent you further reinforcements and you now have access to vehicle support as well.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_18.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_19.myText	Sokol-1 to Romanov. Come in Lieutenant! Vot chyort! We lost him.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_19.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_20.myText	I want them hunted down, Romanov. If we can incapacitate their command structure the Americans will have a hard time organizing operations against us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_20.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_21.myText	Good. The Americans will feel the loss.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_21.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_22.myText	The enemy officers got away. You can give up trying, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_22.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_23.myText	Sokol-1 here. The camp has been secured. Hold in place and fight off any counter-attacks. Now we just need to find the guerrilla leader.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_23.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_24.myText	Expect a heavy counter-attack, lieutenant. Several heavy artillery batteries are on call. I'm giving you fire support priority.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_24.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_25.myText	Ja, Sokol-1. The helicopter is moving in now. Have the guerrilla leader ready for transport.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_25.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_26.myText	This is Troika. I don't want to loiter here too long. It's crawling with enemies down there!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_26.myPortraitText	TROIKA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_27.myText	Sokol-1 to Troika. You can leave as soon as the prisoner has been brought aboard.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_27.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_28.myText	Malashenko here. It's too late. Enemy tanks are blocking my advance and I see people moving on the bridge. It looks like they are preparing it for destruction.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_28.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_29.myText	Ubljudki! Romanov, it falls on you to stop them. The bridge must stay intact if Captain Malashenko is to aid you in defense of the camp. Otherwise he will be forced to take the long way around.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_29.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_30.myText	This is Malashenko. The bridge is clear. Moving across now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_30.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_31.myText	Chyort proberi! The bridge is down! Taking the alternate route.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_31.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_32.myText	Major Lebedjev will be available on the battalion net to advise us on the guerrillas and provide us with additional intelligence.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_32.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_33.myText	It is my pleasure to be of service, comrade colonel. As far as we know, we are dealing with a relatively small and disorganized group of civilians with light regular army support. They should not prove difficult to pacify.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_33.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_34.myText	Ja, Sokol-1. These guerrillas are heavily armed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_34.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_35.myText	Yes, those vehicles belong to the National Guard. They must've moved into the area quite recently.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_35.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_36.myText	Chyort! That explains the advanced air defenses. We weren't counting on this kind of opposition.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_36.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_37.myText	Will you abort?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_37.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_38.myText	No. The mission stands. We still have surprise and potential air superiority on our side. But proceed with caution, Romanov. Make sure you maximize your fighting potential.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_38.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_39.myText	Well done, Romanov. First kill.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_39.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_40.myText	Ja, Sokol-1. The farm must be a major arms cache or they wouldn't have defenses this heavy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_40.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_41.myText	The GRU estimates were nowhere near this.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_41.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_42.myText	In my experience they never are, comrade colonel. But if we can capture the guerrilla leader and destroy their camp, we will demonstrate to the civilian population that we are strong.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_42.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_43.myText	Da. And we will need the leader if we are to locate all the other camps in the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_43.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_44.myText	Almost done, Romanov. Our fighter-bombers are standing by.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_44.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_45.myText	You are losing a lot of men, Romanov. You have to be more careful if we are to accomplish this mission with the assets we have available.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_45.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_46.myText	Sokol-1 to Malashenko. The area is clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_46.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_47.myText	About bloody time. We are ready to move into position. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_47.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_48.myText	This is Serp. Dropping payload.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_48.myPortraitText	SERP
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_49.myText	Govorit Malashenko. We're taking up blocking positions now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_49.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_50.myText	Very well, captain. Remember the rules of engagement.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_50.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_51.myText	I remember, colonel. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_51.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_52.myText	We have some fire support available, Romanov. Mainly anti-infantry assets, but they should be useful.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_52.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_53.myText	Lieutenant Romanov. The National Guard and guerrillas you are fighting all hail from this area. They are defending their own homesteads.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_53.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_54.myText	So they will fight that much harder, lieutenant. Count on fierce resistance.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_54.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_55.myText	Yes, that is probably an accurate assessment. It will also be hard to sort the non-combatants from the actual fighters.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_55.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_56.myText	No distinction should be made. They are all enemies.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_56.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_57.myText	If we want your opinion on this matter we will ask for it, captain. Until then you will observe radio discipline. I will not tell you again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_57.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_58.myText	Whatever you say, colonel. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_58.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_59.myText	Sokol-1, here. Use your fire support assets to deal with the infantry.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_59.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_60.myText	The Americans are moving more light armor into the area. We also have reports of regular army units from the U.S. 4th Armored Cavalry Regiment heading this way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_60.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_61.myText	We are obviously not facing a small under-equipped guerrilla force as the GRU would have us believe. I will demand more reinforcements and support assets from Army Command.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_61.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_62.myText	Intelligence update. The enemy camp has now been reinforced and it looks like they are preparing to assault the hill.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_62.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_63.myText	Focus on securing the hill, Romanov. We will deal with the main camp in due time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_63.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_64.myText	Sokol-1 here. Don't forget to deal with that gas station, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_64.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_65.myText	Destroy the gas station if you can, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_65.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_66.myText	Govorit Lebedjev. Expect an infantry heavy assault, lieutenant. They have moved some armored vehicles into the area, but the main battle group has not arrived yet.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_66.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_67.myText	I have asked Frontal Aviation for support, but everything we have is being used in the drive against Fort Teller. We can only count on limited air support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_67.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_68.myText	Our comrades in the mountains need that support more then we do. All our hopes rest with them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_68.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_69.myText	Yes. We will manage.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_69.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_70.myText	They are coming at you from all directions, Romanov. Watch your perimeter.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_70.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_71.myText	Lebedjev here. The Americans seem fond of using the forest for cover.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_71.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_72.myText	Not for much longer. The air force has agreed to fly another sortie with napalm. They will be here soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_72.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_73.myText	This is Serp. We are inbound at this time. Locking target coordinates.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_73.myPortraitText	SERP
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_74.myText	Sokol-1 to Romanov. Make sure your people are clear of the forests.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_74.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_75.myText	Serp here. Payload delivery initiated.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_75.myPortraitText	SERP
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_76.myText	I say again, Romanov. Clear the forest!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_76.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_77.myText	This is Serp. Payload delivery complete. We are returning to base. Good luck, comrades. Serp, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_77.myPortraitText	SERP
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_78.myText	Ja, Sokol-1. Now they have nowhere to hide. Use all available firepower to drive them back, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_78.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_79.myText	Lebedjev na svjazi. The air force reports that American reinforcements are close. They are sending amphibious transports up the river.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_79.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_80.myText	Sokol-1 here. You are making good progress, Romanov. Get your troops into the camp and secure it before those reinforcements arrive.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_80.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_81.myText	Malashenko here. My men can move across the river and support Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_81.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_82.myText	Not yet, captain. You will be needed for the final push. I don't want to risk any Americans slipping through the net by having you attacking now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_82.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_83.myText	But, we've probably missed some already! All they have to do is to hide their rifles, pull on a civilian jacket and walk away!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_83.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_84.myText	I will not authorize your plan. I will say no more on this matter. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_84.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_85.myText	Several regular army officers are trying to get away from the camp.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_85.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_86.myText	Lebedjev here. The American officers are about to leave the area. This is our last chance to get them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_86.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_87.myText	Do what you can to stop them, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_87.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_88.myText	Govorit Lebedjev. A large contingent of regular army troops is now moving into the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_88.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_89.myText	Lebedjev here. The insurgent leader has been found. He is wounded but alive.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_89.myPortraitText	LEBEDJEV
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_90.myText	Excellent. I'm sending in a helicopter to bring the prisoner out. You must defend until he is safely away, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_90.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_91.myText	This is Malashenko. My troops are in place at the camp.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_91.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_92.myText	Understood, captain. Find good defensive positions and hold.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_92.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_93.myText	Sokol-1 here. The helicopter is not far out. We only have to hold for a little while longer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_93.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_94.myText	Understood, Sokol-1. Just be quick about it. Troika out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_94.myPortraitText	TROIKA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_95.myText	Sokol-1 to Malashenko. Come in captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_95.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_96.myText	Comrade Colonel, the Captain is unavailable at this time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_96.myPortraitText	AIDE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_97.myText	What? Where is he?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_97.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_98.myText	Comrade Colonel, he went to investigate suspected insurgent activity at a farm nearby.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_98.myPortraitText	AIDE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_99.myText	He did what?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_99.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_100.myText	This is Troika. We are ready to leave.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_100.myPortraitText	TROIKA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_101.myText	You are free to leave, Troika. I have a captain to find ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_101.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_102.myText	Sokol-1 to Malashenko. Now is the time. Move across the bridge toward the camp.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_102.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_103.myText	Malashenko na svjazi! I thought you would deal with the engineers on the bridge, Romanov. They are just about finished.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_103.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_104.myText	The Americans just tried to destroy the bridge but they must've botched the demolitions. We can't count on them failing again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf5_104.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The capture of the guerrilla leader has speeded the pacification of the entire region, and the number of attacks against our forces has dropped dramatically. Your skill in maneuvering a small force against a superior enemy ensured this success.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Your failure to capture the guerrilla leader and destroy the camp has emboldened the insurgents to a level where they are now attacking us at all hours and locations. We have been seriously hampered by this and sterner measures against the civilian population must now be considered. To prove your devotion to the State you can expect to be put in command of a firing squad when the alternate pacification plan is put in motion.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.AAUnitsLeft	Mobile AA units left: %d/%d
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.AAFortsLeft	AA Fortifications left: %d/%d
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_07_01.myTitle	Limited Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_07_01.myText	In addition to the unit cost, you will only have a limited supply of units.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_07_02.myTitle	Forest Bonus
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_07_02.myText	Infantry units may seek cover in wooded areas.  on unit icons denotes Forest Bonus is in effect.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_07_03.myTitle	Resupply Squad
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_07_03.myText	Infantry units may be resupplied by pressing  on its unit icon.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureDZCP1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureDZCP1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureDZCP1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SecureDZCP1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_MainBaseAttackCP1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_MainBaseAttackCP1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_MainBaseAttackCP1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_MainBaseAttackCP1.myEnemyCapturedText	<empty>

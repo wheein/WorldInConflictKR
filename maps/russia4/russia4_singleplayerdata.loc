@@ -1,0 +1,208 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	We had barely gotten out of the area when we got orders to head north to a Soviet naval yard on the coast. The information we'd retrieved from the plane-wreck indicated that
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	several nuclear submarines were tied up there. A greater number than usual, as if they were preparing for something special. It was decided by the higher ups that, since we were already in the vicinity,
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	we would go in and destroy as many subs as possible before the Soviets had a chance to react. I think the Colonel had something to do with that plan as well. It was just his kind of mission in so many ways.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	Take the enemy by surprise, wreak havoc and then get the hell out of there before they understand what's happening. Again we would be operating behind enemy lines, on our own and without backup. It was almost getting to be... 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	routine.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBoat1.myDescription	Secure submarine one
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBoat1.myLongDescription	The Submarines have almost finished the refueling process and they’re about to leave port. This must not be allowed to happen. Secure those docks and fortify them with utmost speed.\n\nTo complete this objective you must build fortifications at the dock marked on the map before the time expires.\n\nYou will fail the mission if the time expires before you have completed this objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBoat1.myVisualisationText	Secure submarine one
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBoat3.myDescription	Secure submarine three before it leaves
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBoat3.myLongDescription	The subs have finished refueling and one has already left. You must secure the last one before it casts off as well.\n\nTo complete this objective you must capture and fortify the position marked on the map.\n\nIf you fail to secure the area before the submarine leaves you will fail the mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeBoat3.myVisualisationText	Secure submarine three before it leaves
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BlowBoat3.myDescription	Hold submarine three
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BlowBoat3.myLongDescription	The engineers are on their way. They will search the sub for any important documents and then destroy it.\n\nTo complete this objective you must hold position until the submarine has been destroyed.\n\nYou will fail the mission if the Russians capture and fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BlowBoat3.myVisualisationText	Hold submarine three
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BlowBoat1.myDescription	Hold submarine one
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BlowBoat1.myLongDescription	The Russians can’t be allowed to recapture submarine one. Move to that area and defend it until the sub has been destroyed.\n\nTo complete this objective you must hold position against the Russians.\n\nYou will fail the mission if the Russians manage to capture and fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BlowBoat1.myVisualisationText	Hold submarine one
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRes.myDescription	Secure the residential area
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRes.myLongDescription	The Soviet response force is now attacking from two directions. The residential area constitutes a main avenue of approach and you must defend it until further notice.\n\nTo complete this objective you must capture and fortify the position marked on the map.\n\nYou will fail if the Russians manage to capture and fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeRes.myVisualisationText	Secure the residential area
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myDescription	Destroy the helicopters
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myLongDescription	The Russians are using transport helicopters to land ambush troops around us. Locate the base and destroy those choppers to put a stop to this activity.\n\nTo complete this objective you must locate the Soviet air base and destroy all helicopters on the ground.\n\nYou will fail the objective if you fail to destroy those helicopters within a reasonable amount of time.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Copter.myVisualisationText	Destroy the helicopters
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Arty.myDescription	Destroy the Soviet artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Arty.myLongDescription	The Russians have placed several heavy artillery pieces in the area and they’re bombarding our troops. Destroy them if possible.\n\nTo complete this objective you must locate and destroy all artillery pieces in the vicinity of the position marked on the map.\n\nYou will fail this objective if you do not destroy the artillery within a reasonable amount of time.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Arty.myVisualisationText	Destroy the Soviet artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Boat2.myDescription	Go to the pier and check out the view.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Boat2.myLongDescription	I hear the view at the pier is spectacular at this time of year.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Boat2.myVisualisationText	Go to the pier and check out the view.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_201.myText	Eagle six, to all units. Every second counts. Secure those subs before they leave port. Parker, you go for the closest one. We want to search them for any important documentation and then destroy them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_201.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_202.myText	Captain Bannon! You have the second submarine. Fight your way through and make sure it doesn’t leave.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_202.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_203.myText	Yes, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_203.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_204.myText	And don’t screw up again, Captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_204.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_205.myText	Understood, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_205.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_206.myText	Well done, Parker. Dig in while we wait for the engineers.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_206.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_207.myText	As secure as can be, Parker. Good job. The engineers have been held up, but they report they’ll be here soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_207.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_255.myText	Eagle six, Eagle six! I have Russian choppers dropping infantry all over the place! Their RPGs will wreak havoc with my vehicles!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_255.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_208.myText	Eagle six here. Where the hell did they come from!?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_208.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_209.myText	This is Delta Six. My men report activity at a helicopter base located to the east. They’re loading people onto transport helicopters.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_209.myPortraitText	JOHANNESSEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_210.myText	They’re going to keep harassing us until we neutralize them. Parker! Locate the base and destroy those choppers.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_210.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_211.myText	Well done, lieutenant. You’ve saved us a lot of grief.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_211.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_212.myText	Delta six here! The choppers are taking off. I repeat: The choppers are in the air.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_212.myPortraitText	JOHANNESSEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_213.myText	It’s unfortunate that you didn’t handle the chopper problem, Parker. It might have saved quite a few lives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_213.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_214.myText	Bannon, report!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_214.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_215.myText	We’re trying to break through, sir! But resistance is heavier than expected.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_215.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_216.myText	I don’t want to hear about you trying, Bannon. Fight your way through and do it now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_216.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_217.myText	This is Delta six. The second submarine is leaving. I repeat: The second submarine is leaving.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_217.myPortraitText	JOHANNESSEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_218.myText	Damn you and your incompetence, Bannon! There’s only one sub left.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_218.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_219.myText	Parker! Your objective is to secure that final sub before it leaves. Bypass Bannon and stop at nothing. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_219.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_220.myText	You were too slow, Parker, and the submarine’s gone. Now we’ll never now what their mission was until they carry it out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_220.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_221.myText	Parker! For some, yet unknown, reason I want you to take a detour to that pier. Go there, check out the view and report back to me.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_221.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_222.myText	Ah, there's nothing like the sun shining on the Barents Sea at this time of year. Thank you, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_222.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_223.myText	That was below par, Parker. I expected you to do some sightseeing and you failed me. Not good.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_223.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_224.myText	This is Delta Six. My men report a large column of Soviet tanks headed toward the shipyard.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_224.myPortraitText	JOHANNESSEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_225.myText	They’ll probably come at us through the residential area. Bannon! I have new orders for you. Bannon, come in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_225.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_226.myText	Bannon here! We just finished off the last defenders.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_226.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_227.myText	About god damn time. Now go to the residential area and set up defenses there. Ivan must not be allowed through until we’ve blown the subs. Understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_227.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_228.myText	Understood, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_228.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_229.myText	I say again. Ivan must not be allowed through. Hold at all cost. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_229.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_230.myText	I knew I could count on you, Parker. Well done. I’m sending the engineers in now. Hold in place until they’ve searched and destroyed the sub.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_230.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_231.myText	Excellent job, Parker! We found some interesting documents and sea charts in that sub. We’re trying to make sense of them now. The engineers will blow the charges any second. Stay clear!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_231.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_232.myText	What part of your order didn’t you understand, Parker? You were to hold that sub dammit! Now we’ve lost everything!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_232.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_233.myText	Bannon to Eagle six. We’re catching hell here! There’s too many of them and we’ve got incoming artillery! We have to pull back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_233.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_234.myText	I told you to hold at all cost, Bannon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_234.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_235.myText	Delta six here! My men just spotted a second group of tanks approaching from the east. We believe they’re aiming for the first submarine.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_235.myPortraitText	JOHANNESSEN
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_236.myText	Alright, people! This is what we’ll do. Bannon! Withdraw to the first submarine and set up defenses there. Acknowledge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_236.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_237.myText	Got it, sir! We’re withdrawing.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_237.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_238.myText	Parker, we have to plug that hole at the residential area. I want you to retake Bannon’s former position and then hold. We only need a little more time. Eagle six, out
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_238.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_239.myText	Well done, Parker. Hold until relieved. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_239.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_240.myText	You failed to secure that area, Parker. Now Ivan is coming in full force and we have to pull back. This mission is aborted.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_240.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_241.myText	Parker! If you could take out Ivan’s artillery you’d make our day a lot easier.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_241.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_242.myText	The artillery has been destroyed. Well done, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_242.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_243.myText	I was just forced to allocate some damn scarce fire-support to deal with that artillery, Parker. That was supposed to be your job, remember?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_243.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_244.myText	Bannon here! I’ve got Soviet tanks all over the place! I’m not sure we can hold! Over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_244.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_245.myText	Damn it! Seems Ivan’s going for broke!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_245.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_246.myText	Parker! Move your team toward submarine number one and assist Bannon. We’re not leaving until that sub’s been destroyed. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_246.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_2461.myText	This is Bannon! We’re in deep shit here! If I don’t get some fire support my flank will fall! We won’t be able to stop them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_2461.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_247.myText	Get it together, captain! I’m calling in fire support danger close. Keep your heads low!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_247.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_2471.myText	Yeah! Take that you bastards!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_2471.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_2472.myText	Parker! A path has been cleared for you! Use it and get to Bannon before Ivan closes the gap!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_2472.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_248.myText	That was exceptional, people! But I’ve got some bad news. Sea charts found in the second submarine point to a planned attack against several East Coast ports back home. I just spoke to SACEUR and we’re being recalled to help defend them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_248.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_249.myText	We’re going home, sir?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_249.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_250.myText	We are. And you have a few things to answer for when we get there, captain. Don’t think I’ve forgotten.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_250.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_251.myText	Sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_251.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_252.myText	Alright. Time to withdraw, everyone. Today we made a difference. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_252.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_253.myText	The last submarine just got away. That was not acceptable people. We’ve failed our mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_253.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_254.myText	This is Eagle six to all units. We’ve expanded our perimeter and advanced our positions. Keep the pressure up. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_254.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_256.myText	Bannon here! This is insane! Everyone and their grandmother are shooting at us with RPGs!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_256.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_257.myText	Then set up some perimeter protection! Act like the captain you’re supposed to be, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_257.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_258.myText	Screw you, damn commies!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_258.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_259.myText	Cut the chatter, Bannon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_259.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_260.myText	Bannon here! If we don’t pull back soon we’ll be completely surrounded! Request permission to retreat!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_260.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_261.myText	Denied, captain. Hold in place!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_261.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_262.myText	You need to hold a little longer, Parker! The engineers are still searching through the sub.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_262.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_263.myText	Parker! The engineers are setting the C4 in place now. It won’t be much longer before that sub is destroyed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_263.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_264.myText	Parker! Have your men dig in close to the sub! My guys will hold the forward position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_264.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_265.myText	This is Bannon! We’re being overrun! Need support!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_265.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_266.myText	Parker! You support Bannon! Wrestle Ivan away from there!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_266.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_267.myText	We won’t make it out of here, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_267.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_268.myText	Yes, we will, captain. Just focus on killing the enemy!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_268.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_269.myText	Sir! There’s just too many of them! We have to pull back now or we’ll be annihilated.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_269.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_270.myText	Understood Bannon. Retreat to Parker’s position and hold in place. The engineers are putting the last charges in place as we speak.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_270.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_271.myText	Parker! NATO has provided us with some combat air support and they have laser guided bombs well suited to take out those bunkers. You can contact them on the fire support channel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_271.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_272.myText	Everyone hold position and stay clear of the railroad tracks! We have NATO bombers inbound with a little present for Ivan.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_272.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_273.myText	That’s what I like to see, Parker! Keep strengthening those positions. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_273.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_274.myText	Not good, Parker! It’s too late to secure the sub now. I’m aborting this mission. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_274.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_gen_snipers.myText	Parker, tell your men to look out for snipers.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus4_gen_snipers.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	A few submarines managed to leave port before you could destroy them, but the damage you inflicted will be felt by the Soviet Navy when they try to carry out their mission. If not for your daring exploits the plan to attack the U.S. east coast would never have been discovered.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Multiple submarines escaped your grasp and are now free to carry out whatever operation they were planning. We can only hope that we will be able to defend ourselves when they attack.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Res.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Res.myWeCapturedText	We captured The Apartment Blocks
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Res.myWeLostText	We lost control of The Apartment Blocks
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Res.myEnemyCapturedText	Enemy captured The Apartment Blocks
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat3.myWeCapturedText	We captured Submarine 3
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat3.myWeLostText	We lost control of Submarine 3
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat3.myEnemyCapturedText	Enemy captured Submarine 3
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat1.myWeCapturedText	We captured Submarine 1
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat1.myWeLostText	We lost control of Submarine 1
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__Boat1.myEnemyCapturedText	Enemy captured Submarine 1
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bannon.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bannon.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bannon.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bannon.myEnemyCapturedText	<empty>

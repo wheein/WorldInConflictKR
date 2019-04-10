@@ -1,0 +1,69 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Outer Perimeter
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Outer Perimeter
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Outer Perimeter
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Outer Perimeter
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Main Gate
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Main Gate
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Main Gate
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Main Gate
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the Radar
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Airfield
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myUiName	Housing Area
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myWeCapturedText	We captured the Housing Area
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myWeLostText	We lost control of the Housing Area
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0v.myEnemyCapturedText	Enemy captured the Housing Area
+myWicedMap.myMissionStats.myName	as_AirBase
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	Under a scorching desert sun, Soviet and U.S. forces battle for control of an important airbase in the Nevada Desert.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	AIRBASE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	AIRBASE
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	Outer Perimeter
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	Capture the Outer Perimeter
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	Capture the Outer Perimeter
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	Main Gate
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	Capture the Main Gate
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	Capture the Main Gate
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	Radar
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	Capture the Radar
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	Capture the Radar
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	Airfield
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	Capture the Airfield
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	Capture the Airfield
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0v.myDescription	Housing Area
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0v.myLongDescription	Capture the Housing Area
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0v.myVisualisationText	Capture the Housing Area
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	Outer Perimeter
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	Defend the Outer Perimeter
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	Defend the Outer Perimeter
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	Main Gate
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	Defend the Main Gate
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	Defend the Main Gate
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	Radar
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	Defend the Radar
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	Defend the Radar
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	Airfield
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	Defend the Airfield
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	Defend the Airfield
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0v.myDescription	Housing Area
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0v.myLongDescription	Defend the Housing Area
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0v.myVisualisationText	Defend the Housing Area

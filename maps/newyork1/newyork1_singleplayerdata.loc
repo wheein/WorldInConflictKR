@@ -1,0 +1,253 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	Just as the plans we found indicated, the Russians hit our naval yards at Little Creek and Norfolk a few days later.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	But they had to do it with a reduced number of subs, and since our people had been warned, the attacks didn't cause much damage.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	Of course, we didn't know back then that they were going to invade Seattle... a week later. No, back then it felt like we had succeeded, and it was time for us to go home on leave. We'd been fighting 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	continuously for weeks on end with little to no sleep, and most of us were at the end of our ropes. Bannon didn't talk much on the flight back. There were rumors that he was responsible for the deaths of several Russian civilians and the colonel was having him transferred out.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	But nothing was confirmed until we were approaching New York. Where several ranger chalks had just been lost in fierce fighting, against an incursion of Spetsnaz commandoes.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthEllis.myDescription	Assist in securing Ellis Island South
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthEllis.myLongDescription	The Russians have gathered the VIP prisoners in a basement on Ellis Island. We need to rescue them and then use the island as a base of operations for the remainder of the mission. Bear in mind that you won’t be able to call in any reinforcements until the Island has been completely secured.\n\nTo complete this objective you must help Vance capture and fortify Ellis Island South.\n\nYou will fail the mission if you lose all your units before the southern part of the island has been captured.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthEllis.myVisualisationText	Assist in securing Ellis Island South
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthEllis.myDescription	Assist in securing Ellis Island North
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthEllis.myLongDescription	The northern part of Ellis Island must be secured before you can bring in reinforcements. Continue supporting the rangers until it’s done.\n\nTo complete this objective you must help Vance capture Ellis Island north.\n\nYou will fail the mission if you lose all your units before the northern part of the island has been captured.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthEllis.myVisualisationText	Assist in Securing Ellis Island North.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.GovBeach.myDescription	Help secure a beachhead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.GovBeach.myLongDescription	The assault on Governors Island will commence immediately. The south tip seems to lack AA-defenses so that’s where we’ll establish our beachhead. Provide air support for Vance’s rangers as they land on the island.\n\nTo complete this objective you must help Vance secure a beachhead on Governors Island.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.GovBeach.myVisualisationText	Help secure a beachhead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.M270.myDescription	Destroy the Harpoon launchers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.M270.myLongDescription	You must locate and destroy all captured Harpoon launchers to stop them from causing any more damage to the surrounding city.\n\nTo complete this objective you must locate and destroy the Harpoon launchers.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.M270.myVisualisationText	Destroy the Harpoon launchers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Liberty.myDescription	Destroy all hostiles on Liberty Island
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Liberty.myLongDescription	A large number of Russian soldiers have fortified themselves on Liberty Island. They’re demanding a complete US withdrawal from Europe, or they will release a chemical agent over the city which would cause innumerable deaths. Colonel Sawyer has ordered an air strike on the Island but by bombarding the Statue of Liberty we will also be destroying one of our most important national icons. You must prevent this from happening.\n\nTo complete this objective you must destroy all hostiles on Liberty Island.\n\nYou will fail the mission if you fail to destroy all hostiles before the time runs out.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Liberty.myVisualisationText	Destroy all hostiles on Liberty Island
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortJay.myDescription	Assist in securing Fort Jay
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortJay.myLongDescription	Fort Jay is the remaining Russian stronghold. Capture it to ensure victory in the area.\n\nTo complete this objective you assist Vance in capturing and fortifying Fort Jay.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FortJay.myVisualisationText	Assist in securing Fort Jay
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldFortJay.myDescription	Help defend Fort Jay
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldFortJay.myLongDescription	We’ve taken the fort but the Russians are counterattacking. Fight them off and secure the remainder of Governor’s Island.\n\nTo complete this objective you must help Vance defend Fort Jay.\n\nYou will fail the mission if the Russians manage to capture and fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldFortJay.myVisualisationText	Help defend Fort Jay
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myDescription	Locate and destroy the artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myLongDescription	The Russians are using captured US artillery against you. Locate and destroy those launchers before they cause too much damage.\n\nTo complete this objective you must locate and destroy the artillery on Governors Island.\n\nYou will fail the objective if you fail to destroy the artillery within a reasonable amount of time.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myVisualisationText	Locate and destroy the artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KeepUnitsAlive.myDescription	Conserve your forces
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KeepUnitsAlive.myLongDescription	Your helicopters are in short supply and you should be careful with those you have. Demonstrate your command abilities by keeping your men alive and helicopters flying.\n\nTo complete this objective you must not lose too many helicopters.\n\nYou will fail the objective if your losses exceed the amount allocated.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KeepUnitsAlive.myVisualisationText	Don't lose more than 10 Helicopters.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ARVMarker.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ARVMarker.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ARVMarker.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.accessToReinforecements.myString	You now have access to reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.accessToNewTA.myString	You have been given access to a new TA.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.AccesToSupport.myString	You have been given access to support weapons
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_01.myText	Parker! You're up against at least two companies' worth of Spetsnaz commandos, and they've taken over Ellis, Liberty and Governors Islands. They've also captured a lot of our equipment so you'll be facing US marked vehicles. The vehicle crews are being held hostage together with some VIP dignitaries on Ellis. Getting them out is one of your top priorities.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_01.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_02.myText	This is Captain Vance! Glad to have you with us, lieutenant! We lost several chalks in the first assault attempt. This time, with your air support and my rangers, we'll show those Russians the true meaning of war.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_02.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_03.myText	Is that clear, Parker? Captain Vance will handle the fighting on the ground and you will back him up from the air.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_03.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_04.myText	Alright, let's get this show on the road.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_04.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_05.myText	Parker! We can't bring in any reinforcements until Ellis has been completely secured. Be careful. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_05.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_06.myText	This is Vance. We have enemy contact. Light 'em up.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_06.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_07.myText	Vance to Parker. We've cleared the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_07.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_08.myText	Alright! We've secured the position and the prisoners have been freed. The choppers will be bringing them out soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_08.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_09.myText	Vance, come in! Come in! You were supposed to support them, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_09.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_10.myText	Parker! They're using our own captured launchers against us! Locate and destroy them before they become a problem! But watch out for AA-defense.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_11.myText	Well done, Parker! Now, get back to your main objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_11.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_12.myText	Damn it Parker! I had to call in an air strike to silence those launchers and it caused a lot of collateral damage.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_12.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_13.myText	Well done, Captain. Secure the entire Island so we can start sending in reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_13.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_14.myText	Hooah, Colonel. You with us, Parker? Let's hit 'em while they're down.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_14.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_15.myText	We've secured the north end, and my men are digging fighting positions.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_15.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_16.myText	Vance here. Ellis Island has been cleared of the enemy. You can start sending reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_16.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_17.myText	Roger that, Captain. Excellent job so far. And that goes for you too, Parker. Bannon! I'm leaving Ellis Island to you. Set up a Forward Area Rearm and Refuel Point for Parker to use, he's going to need the support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_17.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_18.myText	Yes, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_18.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_19.myText	What the hell are you doing Parker?! This mission is a wash!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_19.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_20.myText	Parker! We have to establish a beachhead on Governors Island. My men will move in and set up a perimeter. Then we'll advance inland and smoke out those Russians. Tell your chopper jocks to stay close and we'll do just fine.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_20.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_21.myText	According to the prisoners we rescued the southern tip is clear of anti-air defenses. Our soldiers manning the guns managed to destroy them before they fell into enemy hands. My kind of people.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_21.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_22.myText	Eagle six here. Time is becoming an issue. If we don't stop them, the Russians will be able to use the harpoon launchers to cause serious damage to our Naval Yards in the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_22.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_23.myText	Understood, colonel. But if we rush into this, we're gonna be slaughtered like the men before us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_23.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_24.myText	We don't want that to happen, Captain. Carry on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_24.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_25.myText	Vance here! My rangers have landed on Governors Island. Moving on to secure a beachhead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_25.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_26.myText	Parker! Don't forget to repair and rearm at Ellis. Bannon should have that FARP up and running by now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_26.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_27.myText	We're in control of the area. Keep those Russians off us until we've got some sandbags in place, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_27.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_28.myText	Hooah! Vance here, the beachhead has been secured. We can start bringing in more troops.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_28.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_29.myText	Understood, captain. Reinforcements are on the way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_29.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_30.myText	Ok, now we'll take care of those Harpoon launchers. I'll start moving my men north. Stay close, Parker, take out as many launchers as you can, and watch out for any AA-batteries.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_30.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_31.myText	One launcher history.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_31.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_32.myText	Hooah, Parker! Kicking butt and taking names. That's another launcher down.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_32.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_33.myText	Mission update, Parker! Russian soldiers have fortified themselves on Liberty Island and they're preparing to release a chemical agent over Manhattan within the hour. I've already ordered a massive air strike on them. But we must try to save the statue. I want you to root out those Spetsnaz vermin before it's too late.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_33.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_34.myText	The Russians are demanding that we withdraw all our forces from Europe and of course that won't happen. If we have to choose between the statue and saving civilian lives, we'll choose civilian lives. But I don't want to have to make that choice. Don't let me down, Parker. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_35.myText	Three minutes left before the planes get here, Parker! I know you can do this!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_35.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_36.myText	Parker! Get a god damn move on! You know what the Statue means to the public!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_37.myText	Too late, Parker! The planes are coming in for the strike! Pull back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_37.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_38.myText	That was above and beyond the call, lieutenant! We should carve your name on the base for what you've done. Now let's finish this thing.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_38.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_39.myText	We're coming up on Fort Jay and could really use some air support, over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_39.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_40.myText	You heard him, Parker. Get on with it. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_40.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_41.myText	We've got the upper hand! Keep it up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_41.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_42.myText	They won't be attacking New York again, once we're done with them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_42.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_43.myText	Only a few enemies left! Keep firing!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_43.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_44.myText	Hooah, people! Hit them hard!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_44.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_45.myText	The fort is ours! My men will start digging in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_45.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_46.myText	Fort Jay has been secured. Well done, everyone.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_46.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_47.myText	Damn it! The Russians are coming at us again! Give it to them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_47.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_48.myText	They're counterattacking?! Ok Parker, you know what to do.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_48.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_49.myText	We're under heavy attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_49.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_50.myText	We won't be able to hold for long without you, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_50.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_51.myText	How many god damn Russians are there!? They must have been reinforced by sea just before they took control of these Islands.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_51.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_52.myText	We only need to hold for a little while longer to wear them out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_52.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_53.myText	That was the last of them! We've secured all the islands! Thanks for your help, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_53.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_54.myText	You've definitely earned your leave, Parker! As soon as we mop up, go home to Seattle. I'll see you in Fort Bragg in a week. And Bannon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_54.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_55.myText	Yes, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_55.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_56.myText	You. You're going to Seattle, too. Transferred to the Fifth Supply Battalion there. With a little luck, I'll never have to see your face again. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_56.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_57.myText	This is Vance! We're being overrun! Please, tell [cut off by static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_57.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_58.myText	Damn it! We lost the fort. I'm calling in the B52s. And you can consider yourself relieved, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_58.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_59.myText	Parker! Cover our back while we take care of those AA-positions.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_59.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_60.myText	This is Eagle six. All prisoners have been accounted for and sent on to the mainland. Good job, people. Carry on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_60.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_61.myText	Eagle six, here. You were too slow and now Ivan's got defenses in place on the south tip of Governors. If we continue the assault we're going to lose a lot of men. I'm aborting this mission. HQ will have to find another way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_61.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_62.myText	Keep it up, lieutenant! Without those launchers Ivan will be completely crippled.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_62.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_63.myText	Hooah! Another Harpoon launcher has been put out of business.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_63.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_64.myText	What the hell are you doing, lieutenant. Your objective is on Liberty Island, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_64.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_65.myText	Go to Liberty Island, Parker! We can handle our own here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_65.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_66.myText	This is Bannon! I have several amphibious vehicles moving toward my position from Liberty Island. They look like ours!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_66.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_67.myText	We don't have any presence on Liberty, Bannon. Are you sure they're ours?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_67.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_68.myText	Trying to get a clear identification … Yes they're definitely ours!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_68.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_69.myText	Captain Vance! Do we have any units on Liberty Island?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_69.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_70.myText	Not that I know of, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_70.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_71.myText	Should I engage? They're getting close!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_71.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_72.myText	The Russians are using captured equipment but you have to be sure, Bannon. Do not fire until fired upon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_72.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_73.myText	Understood, sir. They're not far out now. Wait, they're shooting at us!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_73.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_74.myText	Roger that. Engage. I'll find out what's happening on Liberty. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_74.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_75.myText	You'll work with units from the army rangers as they retake the islands. They're commanded by Captain Vance. We saw action together on Grenada and he's a good man.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_75.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_76.myText	First of all, we need to establish a base of operations on Ellis and get those hostages out of there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_76.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_77.myText	Way to go captain! Another launcher down and we're putting the fear of god in those Spetsnaz bastards.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_77.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_78.myText	How many vehicles did we have stationed here!? This is insane! They must've planned to defend against the whole Red Army! The Russians are having a field trip with our stuff!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_78.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_79.myText	We'll defeat them all the same, Captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_79.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_80.myText	They were oversupplied and undermanned here. It sure is making our job a lot harder.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_80.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_81.myText	Very true. But this is the situation and we have to deal with it. No matter how hard it is
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_81.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_82.myText	My men are under heavy fire! Cover them, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_82.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_83.myText	Damn it! Parker! Where the hell is that air support! I'm losing a lot of people!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_83.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_84.myText	Get your choppers over to my pos and pump some rockets into those Spetsnaz sons of bitches!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_84.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_85.myText	If I lose any more men I'll have to abort the mission, Parker! Where are you at?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_85.myPortraitText	VANCE
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_86.myText	Parker! We don't have an endless supply of choppers! Take good care of those you have.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_86.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_87.myText	Careful, Parker!  Don't throw your units carelessly into combat or you'll lose them before you know it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_87.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_88.myText	Parker! I thought I informed you about our supply problem. You're throwing men and machines into the fray like a reckless child. I thought better of you, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_88.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_89.myText	Parker! Go to Ellis if you need to make field repairs. Bannon should've set up shop there by now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_89.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_90.myText	Don't forget to repair your choppers at Ellis island, lieutenant. Give Bannon something to do.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_90.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_91.myText	Bannon! I want you to airlift a repair vehicle to Governors Island.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_91.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_92.myText	Will do, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_92.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_93.myText	Parker! We now have a repair vehicle stationed on Governor's Island. Make good use of it. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_93.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_94.myText	Don't forget that you can make quick repairs at Governors Island, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_94.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_95.myText	Parker! Radar is picking up several enemy helicopters moving toward Liberty Island. Wipe them out. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ny1_95.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	Ellis, Liberty and Governors Islands are back in U.S. control due to the joint effort of your air assets and army rangers on the ground. The hostages are safe, and you also managed to thwart the Spetznaz plan to mount chemical weapons inside the Statue of Liberty. Well done.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	New York remains a city under siege and you face serious charges of negligence and cowardice due to your failure to handle the Spetsnaz incursion.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_01.myTitle	Defensive Special Abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_01.myText	Helicopters can drop flares to evade missiles. Press  to deploy flares.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_02.myTitle	Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_15_02.myText	To repair your units, move them close to Bannon's repair tanks.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_South_Ellis.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_North_Ellis.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Gov_Beach.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_FortJay.myEnemyCapturedText	<empty>

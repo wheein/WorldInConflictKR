@@ -1,0 +1,12 @@
+﻿GameModes.Domination.myName	DOMINATION
+GameModes.Domination.myGameExtendedText	Game is extended
+GameModes.Domination.myDescription	Capture Command Points by controlling all circles (Perimeter Points). If you control more than the enemy your flag will start to dominate (visible in the Domination bar at the top of the screen).
+GameModes.Assault.myName	ASSAULT
+GameModes.Assault.myGameExtendedText	<empty>
+GameModes.Assault.myDescription	In the Assault mode there is one defending team and one attacking. Both teams get to defend and attack during one half of the match each. You only fight over one Command Point at a time.
+GameModes.TugOfWar.myName	TUG OF WAR
+GameModes.TugOfWar.myGameExtendedText	<empty>
+GameModes.TugOfWar.myDescription	In Tug of War one extended Command Point acts as a frontline. Your team needs to control all Perimeter Points (circles) to push the frontline forward.
+GameModes.TeamDeathmatch.myName	TEAM DEATHMATCH
+GameModes.TeamDeathmatch.myGameExtendedText	<empty>
+GameModes.TeamDeathmatch.myDescription	Kill. Other. Team.

@@ -1,0 +1,39 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	Winery
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the Winery
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the Winery
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the Winery
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Chateau
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Chateau
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Chateau
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Chateau
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Bunker Complex
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Bunker Complex
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Bunker Complex
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Bunker Complex
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	Hamlet
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	We captured the Hamlet
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	We lost control of the Hamlet
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	Enemy captured the Hamlet
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Golf Course
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the Golf Course
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the Golf Course
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the Golf Course
+myWicedMap.myMissionStats.myName	do_Vineyard
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	NATO forces offer battle as the Soviet invaders reach a picturesque French valley filled with ripening vines and a well groomed golf course.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	VINEYARD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	VINEYARD

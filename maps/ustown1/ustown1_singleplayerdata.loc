@@ -1,0 +1,225 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	As we were catching our collective breath and trying to reorganize, word came down that China had finally entered the war, as an ally of the Soviet Union.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	A Chinese invasion fleet was steaming toward Seattle, planning to use the Russian beachhead to get ashore. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	The USS Missouri had been sunk a week earlier off the coast of British Columbia, and there wasn't much left of our Pacific Fleet to stop the Chinese.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	So we moved west, toward Seattle and the main Soviet defense perimeter. Webb said the men needed to rest for at least a day,
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	but the Colonel pushed us on, saying we had to see this thing to the end before it was too late. Later, when we learned about the President's backup plan,  we understood why.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Church.myDescription	Secure the Soviet outpost
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Church.myLongDescription	As you flank around to the south you need to secure the Soviet positions around the old church to make sure our supply lines remain intact.\n\nTo complete this objective you must build fortifications around the church.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Church.myVisualisationText	Secure the Soviet outpost
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthTown.myDescription	Secure the southern part of town
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthTown.myLongDescription	The first phase of the assault is over and now it’s time to secure the town proper. Start by retaking the southern part of town.\n\nTo complete this objective you must raise fortifications in the southern part of town.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SouthTown.myVisualisationText	Secure the southern part of town
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SawMill.myDescription	Secure the saw mill
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SawMill.myLongDescription	The Russians have destroyed the central bridge and you have been forced to go around to the east. The saw mill there needs to be secured and then you can move on from there. \n\nTo complete this objective you must build fortifications around the saw mill.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SawMill.myVisualisationText	Secure the saw mill
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendSawMill.myDescription	Defend the saw mill
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendSawMill.myLongDescription	The Russians are counter-attacking the saw mill. Defend the area at all costs.\n\nTo complete this objective you must defend the saw mill against the Soviet counter-attack.\n\nYou will fail the mission if the Russians manage to capture and fortify the saw mill.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendSawMill.myVisualisationText	Defend the saw mill
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthTown.myDescription	Secure the town square
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthTown.myLongDescription	Remaining Soviet forces are holding out around the town square. Move in, destroy them and secure the area.\n\nTo complete this objective you must build fortifications at the position marked on the map before the Russians manage to regroup.\n\nYou will fail the mission if the time expires before you accomplish the objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.NorthTown.myVisualisationText	Secure the town square
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearArea.myDescription	Deal with all remaining Soviet forces
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearArea.myLongDescription	Remaining Soviet forces are scattered and disorganized, but they will have to be dealt with before the battalion can move on. This is now your task\n\nTo complete this objective and win the day you must destroy all remaining Soviet forces.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ClearArea.myVisualisationText	Deal with all remaining Soviet forces
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BreakLine.myDescription	Break through the Soviet lines
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BreakLine.myLongDescription	The Soviet defenders have dug in around the town square. Force a break through so that we can secure the town and move on.\n\nTo complete this objective you must continue attacking the Soviet positions until you’ve broken through.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BreakLine.myVisualisationText	Break through the Soviet lines
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SawmillTime.myDescription	Secure the saw mill ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SawmillTime.myLongDescription	The Colonel is impatient with the progress of the attack and all possible speed should be used as you approach the saw mill.\n\nTo complete this objective you have to secure the saw mill before the time expires.\n\nYou will fail the objective if the time expires before you’ve secured the saw mill.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SawmillTime.myVisualisationText	Secure the saw mill ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillVIP.myDescription	Eliminate the Soviet CO
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillVIP.myLongDescription	The Soviet commanding officer has decided to leave town and he is doing so in a civilian car. Eliminating him will constitute a severe blow to both Soviet morale and combat coordination.\n\nTo complete this objective you must destroy the vehicle carrying the Soviet officer.\n\nYou will fail the objective if the vehicle carrying the officer manages to get away.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillVIP.myVisualisationText	Eliminate the Soviet CO
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneChanged.myString	Your drop zone has changed
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.newUnits.myString	You have been given command of new units
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	You have been given access to support weapons
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenRe.myString	You have been given access to reinforcments
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReward.myString	You have been given a reward
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	Your max AP has been raised.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.addTAPoints.myString	You have been given more TA points.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.SawmillTimeAward.myString	Heavy artillery available!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief1.myText	Webb, I want you to make a frontal assault while Parker flanks around to the south. This town is the key to breaking through the Soviet defense perimeter and we're taking it today, come hell or high water.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief2.myText	Sir, I'm gonna lose a lot of men on a frontal attack. Maybe if I flanked around to the north-
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief3.myText	No time for that now, Webb! Commence the attack at once!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief4.myText	Sir … I'll send second platoon across to secure the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_Brief4.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_01.myText	Parker! Move to the south and secure the Soviet outpost at the church. Expect heavy resistance. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_01.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_02.myText	Eagle six, this is Webb. I just lost second platoon and the bridge collapsed in the artillery barrage. Please advise over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_02.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_03.myText	Take the initiative, dammit! Move your company north and flank around from there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_03.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_04.myText	Ah, roger that, sir. Webb out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_04.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05.myText	What's holding you, Parker?! Secure that church and do it now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05a.myText	The church is ours. Now dig in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_05a.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_06.myText	Finally, Parker. Webb, what's your status?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_06.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_07.myText	We're heavily engaged, Colonel! I'll get back to you!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_07.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_08.myText	Dammit! Parker, Soviet bombers are inbound to your position. Pull back now! Get the hell away from that church and move toward the river! The river, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_08.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_09.myText	Seems Ivan is calling in everything he has. It won't help him.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_09.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_10.myText	Parker! Move your people to the southern part of town and secure it. Webb will continue the assault from the north.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_11.myText	This is Webb! We're taking heavy losses, over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_11.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_12.myText	I’m sending you more support Webb. Don’t fall back. We need that bridge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_12.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_13.myText	Understood, Eagle six. We'll get it. Webb out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_13.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_14.myText	We've established a foothold in town. Make sure we don't lose it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_14.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_15.myText	We have them now, Parker! Move your company north across the town bridge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_15.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_16.myText	Parker! The local Russian commander has decided to turn tail and run! He’s moving south in a civilian car. Kill him if you get the chance. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_16.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_17.myText	Well done, Parker! Without their commander they'll be a lot less organized. That's gotta help. 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_17.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_18.myText	That was a priority target you just missed, Parker. I expected better from you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_18.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_19.myText	Dammit! Another bridge down. You'll have to find another route, Parker. Move East by the saw mill.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_19.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_20.myText	This is Eagle Six. I've dispatched a helicopter squadron to aid you. They will provide fire support. Out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_20.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_21.myText	You crushed the defenders, Parker! Now secure the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_21.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_22.myText	Swift and deadly, Parker! I’m giving you direct access to our MLRS battery.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_22.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_23.myText	Secure the saw mill.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_23.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_24.myText	Finally Parker! What took you so long? We need to end this thing and get moving to Seattle!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_24.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_25.myText	And Parker! We've been delayed enough. I want you to use all possible speed as you approach the saw mill.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_25.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_26.myText	Parker might run into infantry hidden in those woods. We should be wary of ambushes, Colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_26.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_27.myText	He'll run them over if necessary. You hear me, Parker? Stop at nothing! Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_27.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_28.myText	Parker, what's the delay?! Get your people moving, dammit!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_28.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_29.myText	This is Webb. The dam has been secured. I'm moving my people across now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_29.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_30.myText	About god damn time! Parker! We have them surrounded. Smash through their lines and move into town. Webb will support you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_30.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_31.myText	I'm sending in air support as well. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_31.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_32.myText	Their defenses are failing! Don't let up now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_32.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_33.myText	This is Eagle six. We've breached their defenses!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_33.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_34.myText	Move in and secure the rest of the town while they’re still disorganized. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_35.myText	But watch for any infantry hidden in those buildings, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_35.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_36.myText	Almost there, Parker! Now fill those sandbags!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_37.myText	This is Eagle six. The town square has been secured!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_37.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_38.myText	Ivan's people are scattered all over. Deal with them, Parker. If they don't give up, you wipe them out, understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_38.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_39.myText	Alright people. Listen up ! Next stop is a division rally point 150 klicks west. So, we'll have to march through the night and eat on the move. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_39.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_40.myText	Eagle six, this is Webb. The north bridge has been destroyed. I'm moving my company east towards the dam.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_40.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_41.myText	Roger that, Webb. I'm counting on you. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_41.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_42.myText	Ivan is putting up a hell of a defense here. But we'll break him.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_42.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_43.myText	Watch out for Soviet strike jets. And keep your eyes peeled for incoming artillery.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_43.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_44.myText	You need to push harder, Parker! We have to take this town and move on to Seattle tonight!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_44.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_45.myText	Move away towards the river NOW, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_45.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_46.myText	Webb here! The assault is not going well! If I push harder I'll lose my command, colonel!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_46.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_47.myText	You've never failed me before, James and you won't fail me now. I know you can do this.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_47.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_48.myText	Parker! Ivan is calling in a heavy artillery barrage on your position! Get out of the impact area ASAP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_48.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_49.myText	Dammit! Ivan just destroyed the central bridge! You will have to take the long way around, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_49.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_50.myText	Parker, remember to flank their armor and hit them from the rear!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_50.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_51.myText	The Russians sure didn't send any green draftees over here. These units fight like veterans.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_51.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_52.myText	Yeah, you're right, captain. You have to respect the enemy. The minute we stop doing that we lose this war.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_52.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_53.myText	This is Webb. I'm facing tank heavy Russian forces to the north.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_53.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_54.myText	Are you advancing?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_54.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_55.myText	We're doing our best to break through, but they're putting up a stiff defense, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_55.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_56.myText	Understood, captain. I'll see if I can get you some air support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_56.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_57.myText	Webb here! We're breaking through the first defensive line. The Russians are regrouping to the east. I'm pursuing now, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_57.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_58.myText	Webb to Eagle six. We just ran into another sizeable force. I'm trying to set up a base of fire but there's a lot of them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_58.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_59.myText	I trust you to handle it, captain. The only way is forward. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_59.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_60.myText	Get a move on! Seattle is lost if we don’t break through today. I will not accept another Cascade Falls!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_60.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_61.myText	Why are we not making any progress, people? Get this god damn show on the road!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_61.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_62.myText	Eagle six here. I just talked to Colonel Wilkins. His battalion is too far to the south and can't help us here. We're on our own and we cannot fail. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_62.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_63.myText	We beat them in France and we beat them in their own back yard. I’ll be damned if I let Ivan beat us on our home turf!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_63.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_64.myText	You're doing good, people! Keep it up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_64.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_92.myText	Parker. You just lost our position at the saw mill. This will delay the entire offensive and that means Seattle is lost. Do you understand?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_92.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_93.myText	PlaceHolder!!!: Parker, since the bridge in to NorthTown is destroyed we'll have to take the route passing the sawmill instead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_93.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_94.myText	Eagle six, this is Webb. The Russians are sending a light cavalry force toward the saw mill.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_94.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_95.myText	Did you get that Parker!? Don't let Ivan take the saw mill. Dig in and fight them off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_95.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_96.myText	Seems you've destroyed that attack group, Parker. The saw mill is secure.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.USTown1_96.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	You smashed through Soviet defenses and now the road to Seattle lies open. Other battalions have only met with limited success, however, so HQ has been forced to postpone the attack on Seattle for a few precious days.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Your failure to break through Soviet lines has delayed the entire offensive and now the Chinese will be able to sail unopposed into Seattle.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myWeCapturedText	We captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myWeLostText	We lost control of the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Church.myEnemyCapturedText	Enemy captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myWeCapturedText	We captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myWeLostText	We lost control of the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_SouthTown.myEnemyCapturedText	Enemy captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myWeCapturedText	We captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myWeLostText	We lost control of the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Sawmill.myEnemyCapturedText	Enemy captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myWeCapturedText	We captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myWeLostText	We lost control of the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTown.myEnemyCapturedText	Enemy captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myWeCapturedText	We captured the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myWeLostText	We lost control of the Town Square
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_NorthTownWebb.myEnemyCapturedText	Enemy captured the Town Square

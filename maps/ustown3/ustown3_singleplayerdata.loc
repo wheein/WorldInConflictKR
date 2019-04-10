@@ -1,0 +1,296 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	We met Colonel Wilkins at a small town called Cascade Falls, not far from Fort Teller itself.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	The town had been evacuated not long before, and it was decided that we would hold the area, while Wilkins dug in at a narrow mountain pass to the south.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	Colonel Sawyer planned on luring the Russians into the center of the town, where we could concentrate our defenses, but there were a lot of Russians coming, and not that many of us left.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	Unlike before, we could not retreat. Because if we did, Fort Teller would fall, and Armageddon would follow in its wake. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	We all knew what that meant and were determined to hold no matter what. Even Bannon seemed to have finally found his way. He was quieter than usual and I remember wondering what was going on in his mind.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTakeEastBridge.myDescription	Secure and hold the east bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTakeEastBridge.myLongDescription	If the Russians reach Fort Teller, and realize that our ballistic missile defenses are non-functional, we might end up with a full-blown nuclear war. Our only chance is to stop them here, and we will do it by holding the bridges and luring them down the center where we can concentrate our fire on them.\n\nTo complete this objective you must raise fortifications around the bridge and hold the area until told to do otherwise.\n\nYou will fail the mission if Soviet forces manage to build fortifications around the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTakeEastBridge.myVisualisationText	Secure and hold the east bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objAssistBannon.myDescription	Secure and hold the west bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objAssistBannon.myLongDescription	Captain Bannon is having trouble holding the west bridge. Move there at once and assist him in securing the area. Then withstand the enemy assault until the Russians reform down the center.\n\nTo complete this objective you must raise fortifications around the bridge and hold the area until told to do otherwise.\n\nYou will fail the mission if Soviet forces manage to build fortifications around the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objAssistBannon.myVisualisationText	Secure and hold the west bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objRetreatNorth.myDescription	Secure and fortify the north bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objRetreatNorth.myLongDescription	The Russians have finally taken the bait and are focusing their attack down the center of town. You must secure the one remaining bridge while Captains Bannon and Webb bear the brunt of the attack. Be wary of Russian vanguard and scout units. They have already sent several amphibious transports across the rivers and are using helicopters to land infantry units behind our lines.\n\nTo complete this objective you must raise fortifications around the bridge.\n\nYou will fail the mission if Soviet forces manage to build fortifications around the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objRetreatNorth.myVisualisationText	Secure and fortify the north bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objHoldBridge.myDescription	Hold the north bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objHoldBridge.myLongDescription	The bridge has been secured and now you must hold it against the Russian onslaught. If they take the bridge you will be surrounded and cut off, and all will be lost.\n\nTo complete this objective you must hold the bridge until told to do otherwise.\n\nYou will fail the mission if Soviet forces manage to build fortifications around the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objHoldBridge.myVisualisationText	Hold the north bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTownCenter.myDescription	Retake the town center
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTownCenter.myLongDescription	The B52 strike broke the Soviet advance and now is the time to counterattack. Assist Webb and Bannon in pushing back the remaining enemy forces, and retake the town center before the enemy regroups.\n\nTo complete this objective you must capture the town center, build fortifications there and then hold until told to do otherwise.\n\nYou will fail the mission if Soviet forces manage to build fortifications in the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objTownCenter.myVisualisationText	Retake the town center
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objEscape.myDescription	Regroup at the high school
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objEscape.myLongDescription	Regroup at the high school before calling in the nuclear strike.\n\nTo complete this objective you must regroup with friendly forces at the position near the High School.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objEscape.myVisualisationText	Regroup at the high school
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objNuke.myDescription	Call in the nuclear strike
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objNuke.myLongDescription	Call in Bannon's strike coordinates to missile command. Designate a point in the area where you want the nuclear weapon to hit.\n\nTo complete this objective you must place a nuclear strike from the tactical aid menu on the position indicated by the objectives marker.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.objNuke.myVisualisationText	Call in the nuclear strike
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.objWaterBradleyEscape.myDescription	Eliminate the Soviet recon squad
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.objWaterBradleyEscape.myLongDescription	A Soviet recon squad is trying to sneak through our lines. Destroy them before they leave the area or the Colonel will have to divert much needed fire support to handle the matter himself. If they manage to get through they will be able to scout out the defenses around Fort Teller itself and we cannot allow this to happen.\n\nTo complete this objective you must destroy all Soviet units in the indicated group before it gets too far.\n\nYou will fail the objective if Colonel Sawyer is forced to use fire support to destroy the group.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.objWaterBradleyEscape.myVisualisationText	Eliminate the Soviet recon squad
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.MaxAPRaised.myString	Your AP cap has been raised!
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.RussiansTakeEastBridge.myString	The russians are taking the East Bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.RussiansTakeWestBridge.myString	The russians are taking the West Bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.CanCallNuke.myString	You can now call in the tactical nuclear missile.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.DropZoneChanged.myString	Your deploymentarea has been changed.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.TARefilled.myString	Maximum Tactical Aid restored.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myHeader	COMBAT SCHOOL - Display Health
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myText	By pressing and holding the Display Health button (default: ALT) you can view the health bars of all friendly units at the same time. It is a quick and efficient way of assessing unit health in battle.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MegaMap.myHeader	COMBAT SCHOOL - Strategic Map
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MegaMap.myText	By pressing the Mega-map button (default: M) you can access the Mega-map. This gives you a top-down overview of the entire battlefield and can be a great aid to your tactical decision making. To return to the battlefield camera, you press the Strategic Map button again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_010.myText	Ok, everyone. This one’s going to be tight. We’ll hold the bridges until Ivan regroups down the center, and then we destroy them and pull back. Webb, you have the East Bridge and Bannon, you take the west. Parker, you’ll support Webb. This is it, gentlemen.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_010.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_020.myText	Roger that, Eagle six.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_020.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_030.myText	Understood, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_030.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_040.myText	Parker, I’ll hold them off! You concentrate on the bridge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_040.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_050.myText	Command! I have a large number of Russians massing. Need fire support!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_050.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_060.myText	Eagle six! This is Webb. We have Russian troop transports incoming.  It looks like they’re going to deploy near the tree line by the bridge.  Can you do something about this?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_060.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_070.myText	Roger that Webb. I got you covered.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_070.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_080.myText	We have the east bridge. Now dig in.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_080.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_090.myText	Eagle six! The bridge has been secured!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_090.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_100.myText	Excellent. Hold until relieved. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_100.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_110.myText	Parker! Retake that bridge, or this flank will fall!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_110.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_120.myText	Parker! The Russians are making a determined attack on the west bridge. Relocate there ASAP! But leave some of your people behind. We must hold both bridges for just a little while longer!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_120.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_130.myText	We’re being overrun! The bridge is lost!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_130.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_140.myText	Damn it, Parker! You just lost us Fort Teller and possibly the war!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_140.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_150.myText	We’ll manage, sir! Parker can stay where he is.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_150.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_160.myText	Negative, Bannon. Parker will be reinforcing you. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_160.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_170.myText	Dig in while I keep them at a distance, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_170.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_180.myText	Eagle, six. The west bridge has been secured!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_180.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_190.myText	Good. Now hold. It looks like Ivan is taking the bait.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_190.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_200.myText	Eagle six! I have enemy personnel in the open by the green houses. Could use some artillery support, over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_200.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_210.myText	Roger that, Bannon. Fire mission sent. Stay clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_210.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_220.myText	This is Eagle six! Ivan is regrouping in the center! Blow the bridges and pull back. We rally at the north bridge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_220.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_230.myText	This is Bannon! We’re pulling back now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_230.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_240.myText	Webb here. Moving toward the rally point.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_240.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_250.myText	Eagle six, Eagle six! The west bridge has fallen into enemy hands!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_250.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_260.myText	Damn it! It’s too soon! We won’t be able to reform our defense in time! Fort Teller is lost thanks to you, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_260.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_270.myText	This is Eagle six! We are blowing the bridges!  Make sure all of your units make it across or they will be cut off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_270.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_280.myText	Parker! Webb and Bannon will defend against Ivan in town while you secure the north bridge! This bridge is our only remaining crossing!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_280.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_290.myText	Watch out for Russian choppers, Parker.  They’ll make your life difficult if you don’t take them out quickly.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_290.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_300.myText	Good point Bannon. Parker, I’m giving you priority on the anti-air support. Call on them if needed. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_300.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_310.myText	Good, Parker. Now dig in and get some MGs up and ready!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_310.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_320.myText	Well done, Parker! The bridge has been secured!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_320.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_330.myText	Eagle six, this is Webb! The Russians are renewing their attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_330.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_340.myText	Roger that, Webb. You and Bannon stay in place while Parker holds the bridge! If we can withstand this attack we might just win the day!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_340.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_350.myText	Parker! Parker, come in! The north bridge is lost! Everyone rally at the [cut off by static].
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_350.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_360.myText	We’re losing the north bridge! Counter-attack at once, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_360.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_370.myText	Eagle six! This is Webb! We’re under heavy attack by the Russian main force. We won’t be able to hold much longer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_370.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_380.myText	Bannon here! He’s right, sir! There’s just too many of them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_380.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_390.myText	Pull back to the bridge, both of you! Regroup around Parker! I have a little surprise coming Ivan’s way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_390.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_400.myText	This is Sixpack! We’re dropping our payload. Take cover down there!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_400.myPortraitText	B52-PILOT
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_410.myText	Yeah! Take that, you red sons-of-bitches!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_410.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_420.myText	Everyone, stay low!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_420.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_430.myText	The north bridge is lost and Webb and Bannon have been cut-off! We’ve failed because of you, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_430.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_440.myText	Now it’s our turn! Everyone counter-attack south and retake the town center before Ivan has a chance to regroup! There’s not much time!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_440.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_450.myText	We’ve reestablished forward positions. Now dig in, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_450.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_460.myText	This is Eagle six. I have grave news. Our scouts report that Ivan is moving at least three fresh armored battalions into the area. We cannot hold against that many.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_460.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_470.myText	But we can’t fall back! We’ll lose everything!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_470.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_480.myText	You’re right, Captain. I’ve been authorized to call in a tactical nuclear strike on the Soviet formations.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_480.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_490.myText	A nuclear strike, sir?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_490.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_500.myText	Roger that, Webb. It should break them once and for all. It’s our only remaining option. We regroup at the high school, call in the strike and get the hell out of the blast area.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_500.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_510.myText	We were too slow! And now Ivan is coming at us in force! We’ve failed damn it! 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_510.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_520.myText	Sir, if we all fall back at once they’ll understand that something’s up. Someone needs to stay behind to lure them in.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_520.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_530.myText	He’s right. But whoever stays behind will be in the blast zone. It’s a suicide mission.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_530.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_540.myText	I’ve talked to the men, sir. We’ll do it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_540.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_550.myText	Are you sure, Bannon? I cannot order you to do this.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_550.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_560.myText	I understand, sir. We’ll do it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_560.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_570.myText	Roger that, captain. Parker, Webb, continue toward the high school!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_570.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_580.myText	Alright, everyone. Bannon! You call in the coordinates and Parker will relay them to missile command.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_580.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_590.myText	I’m sending you the coordinates now, Parker! Don’t screw this up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_590.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_600.myText	Damn you, Parker! Call in that strike and get this over with! We can't hold them back for much longer!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_600.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_601.myText	Civilians have a clear path and are heading for the bridge now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_601.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_602.myText	You failed to clear a path for those civilians.  An evac helicoper is on its way to make the emergency pick-up.  I am disapointed Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_602.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_610.myText	Parker! We only have a few minutes before the Russians get here. Get some fortifications up around the bridge ASAP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_610.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_620.myText	Not much time left, Parker! Are your people digging yet?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_620.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_630.myText	This is Webb, I've got enemy armor at my pos!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_630.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_640.myText	Roger that, Webb! It's crucial that we hold out until they regroup! 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_640.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_650.myText	Parker! The commies are about to secure the bridge! Fight them off before we lose it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_650.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_660.myText	Ivan is falling right into our trap! Now we have to make sure they keep massing down the center.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_660.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_670.myText	Parker! Don't fall behind! Keep moving!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_670.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_680.myText	Move it, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_680.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_690.myText	Parker! We're being overrun! Get this thing done before it's too late, damn you!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_690.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_700.myText	Command reports the missile has been launched. God help us all.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_700.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_710.myText	Parker! A squad of Soviet amphibious vehicles is trying to sneak across the river on the east side! Take them out! If they get through our lines they’ll be able to report back intelligence about our defenses around Fort Teller.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_710.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_720.myText	Parker! That recon squad is getting away! Handle it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_720.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_730.myText	Dammit, lieutenant! The recon squad has almost left the area. If you don't deal with them I will have to divert fire support away from the town to take them out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_730.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_740.myText	Those units won't be scouting much of anything now. I'm giving you access to additional fire support. Well done, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_740.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_750.myText	I’m diverting air support from the battle area to deal with those Soviet scouts. That was your job, Parker. Remember? Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_750.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_790.myText	Webb! Bannon! Give me a SITREP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_790.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_800.myText	We're holding the eastern bridge but the Russians are intensifying their attack! We'll be forced to pull back soon if they keep this up.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_800.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_810.myText	I hear you, captain. But we cannot retreat until they send the bulk of their troops down the center.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_810.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_820.myText	Bannon here! We're still holding the west bridge. The commies are throwing a lot of crap at us but we're handling it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_820.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_830.myText	Good to hear, captain. Hold in place until they slack off and regroup.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_830.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_840.myText	Will do, sir. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_840.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_850.myText	Eagle six! Several Russian squads are pulling back and regrouping.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_850.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_860.myText	Roger that, Bannon. They're swallowing the bait. We just need to hold a little longer and they'll funnel their attack down the center.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_860.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_890.myText	We can do it, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_890.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_900.myText	We HAVE to do it, Bannon. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_900.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_910.myText	Eagle six! What is the situation to the west?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_910.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_920.myText	Wilkins says some Russians are attacking through the mountain pass, but they're holding them back so far. Ivan is concentrating his forces here at Cascade Falls.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_920.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_930.myText	All the better for us, sir. We get to kill more of those bastards.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_930.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_940.myText	You're right, captain. But we can't afford to get too self-assured. Ivan's main force hasn't arrived yet.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_940.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_950.myText	Eagle six. This is Webb. That must be the main force coming at us now, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_950.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_960.myText	Bannon here. They're definitely stepping up their attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_960.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_970.myText	Roger that. Call out when the main force enters the attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_970.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_980.myText	Will do, colonel. Webb out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_980.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_990.myText	Yeah! We're beating them back! We can do this!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_990.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1000.myText	Don't lose focus, captain. I don't think we've seen all of them yet.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1000.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1010.myText	What!? There can't be many more of them, sir! I've lost count of the number of vehicles we've destroyed!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1010.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1020.myText	The colonel's right, Bannon. There might be more coming.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1020.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1030.myText	Well, we’ll kill every last one of them if that’s what it takes.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1030.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1040.myText	Just hold. They’ll break eventually. They have to … Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1040.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1050.myText	Here they come. Don't call in any fire support on them just yet. Wait until I give the word!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1050.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1060.myText	I thought I’d be forced to sit this one out. I got my knee broken in Nicaragua and they stuck me as an instructor at Ranger School in Fort Benning. It sure feels good to make a difference.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ustown3_1060.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myText	Parker you klutz! We just lost a position! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myText	The Russians have overthrown our position, Parker! Reclaim it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myText	Don't you know any tactics at all, Parker! Retake that position, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	Parker, the enemy is gaining ground. Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	We're losing ground, lieutenant Parker! Retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	We have to retake that position we just lost, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The Soviet offensive has been halted and their forces in the area around Cascade Falls annihilated. Your successful defense of the town ensured that the secret of Fort Teller will remain undisclosed. It remains to be seen how the Politburo will react to the nuclear explosion but it is believed that they will show restraint since the detonation happened in our own country. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	You were unable to stop the Russians at Cascade Falls and now they are on their way to Fort Teller. We can only hope that they won't gain entry to the base, but in all probability they will. And then it will all be over.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.msgTimeUntilNukeFail	Nuke must be dropped within:
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.msgInitialRussianAttack	Time before soviet attack
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.Time	until Soviet attack
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_01.myTitle	Camera Control
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_01.myText	To quickly move the camera to a specific location, aim at the location, hold [[LT]] and press [[RT]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_02.myTitle	Unit Pane
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_02.myText	All units' status are shown in the Unit Pane. Press [[RT]] to toggle it.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_03.myTitle	Troop Transport
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_03.myText	To load an infantry unit into a transport vehicle, select it and press [[Y]] on the vehicle.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_04.myTitle	Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_08_04.myText	To repair damaged fortifications keep one or more units inside the Perimeter Circle.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_2.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_2.myText	To access the Tactical Aid menu using voice commands, hold [[LB]] and name the Tactical Aid you require then release the button.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__8.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__9.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__10.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__11.myEnemyCapturedText	<empty>

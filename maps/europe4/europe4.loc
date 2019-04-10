@@ -1,0 +1,45 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Farm
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Fire Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Fire Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Fire Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Fire Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	Wind Mill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	We captured the Wind Mill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	We lost control of the Wind Mill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	Enemy captured the Wind Mill
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	West Town
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured West Town
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of West Town
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured West Town
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myUiName	Church
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeCapturedText	We captured the Church
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeLostText	We lost control of the Church
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myEnemyCapturedText	Enemy captured the Church
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myUiName	Mansion
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeCapturedText	We captured the Mansion
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myWeLostText	We lost control of the Mansion
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__8.myEnemyCapturedText	Enemy captured the Mansion
+myWicedMap.myMissionStats.myName	do_Riviera
+myWicedMap.myMissionStats.mySPName	%02d - Seeing the Elephant
+myWicedMap.myMissionStats.myDescription	A NATO offensive is launched with the aim to free Southern France from Soviet occupation and the high intensity fighting turns the lush countryside into a pockmarked battlefield littered with the debris of war.
+myWicedMap.myMissionStats.mySPDescription	It is two months after the breakout of the war in Europe and the Russians have launched an amphibious invasion near Marseille. With the help of recently arrived US troops under the command of Colonel Sawyer it is hoped that a counter-offensive will be successful in pushing the Russians back into the sea.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVIERA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVIERA
+myWicedMap.myLocStrings.FortificationDeadline	ETA of the Soviet main force:
+myWicedMap.myLocStrings.SecureLighthouseTimer	Secure the Soviet firebase:

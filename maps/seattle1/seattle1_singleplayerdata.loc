@@ -1,0 +1,345 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide0.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	We returned to the outskirts of Seattle where the final assault group was being assembled. The colonel reassumed command, the orders to retake the city no matter the cost.  We all knew the price of failure.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	And so, early on a Monday morning, with artillery rumbling in the distance, the attack was launched.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	Even with our reinforcements we were way under strength, but what we lacked in manpower we made up for in determination.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	We managed to force a breach pretty quickly, and the colonel led us through it into the center of town, near the main Soviet base.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	As usual, we found ourselves behind enemy lines, overextended, and without reserves. And when the colonel finally called us together for a final briefing Major Webb took me aside: "He might've led us too far this time, Parker." he said. "Just... be careful, okay?
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Time.myDescription	Save Seattle
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Time.myLongDescription	The Chinese are close and Division HQ has only allowed a limited amount of time to try and save Seattle. If we don’t win the city back before it’s too late, we’ll have to retreat and the nuclear bomb option will be used instead.\n\nTo complete this objective you have to complete the other objectives given to you and destroy the enemy HQ before the time expires.\n\nYou will fail the mission if the time expires before you have completed this objective.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Time.myVisualisationText	Save Seattle
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Burger.myDescription	Destroy the Soviet guard post
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Burger.myLongDescription	We need to expand our perimeter and create a safe zone. Destroy the Soviet guard post to clear the immediate surroundings.\n\nTo complete this objective you must destroy all Soviet units at the position marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Burger.myVisualisationText	Destroy the Soviet guard post
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Diner.myDescription	Protect the diner
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Diner.myLongDescription	The Battalion command post had been set up at the diner and you must protect it from any Soviet attacks. The Colonel and remaining staff are coordinating the battle from there and if they are lost command and coordination will fall apart.\n\nTo complete this objective you must hold the position at the diner.\n\nYou will fail the mission if the Russians manage to fortify the position at the diner.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Diner.myVisualisationText	Protect the diner
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Gauntlet.myDescription	Clear the way to the harbor
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Gauntlet.myLongDescription	Before we attack the main base we want to cut off any possibility of retreat for the Russians. Fight your way to the harbor and clear any defensive positions along the way.\n\nTo complete this objective you must destroy all enemy positions marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Gauntlet.myVisualisationText	Clear the way to the harbor
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Harbour.myDescription	Secure the harbor
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Harbour.myLongDescription	We must secure the harbor before moving on to ensure that our flank is protected.\n\nTo complete this objective you must build fortifications at the harbor.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Harbour.myVisualisationText	Secure the harbor
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BigBase.myDescription	Secure the Soviet main base
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BigBase.myLongDescription	Only the Soviet main base remains. If we can destroy it we will destroy the Soviet HQ. Any remaining Russian units will be easy to defeat after that.\n\nTo complete this objective you must secure the main base and destroy the Soviet defenders.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.BigBase.myVisualisationText	Secure the Soviet main base
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Survival.myDescription	Survive the Soviet counter-attack
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Survival.myLongDescription	The Russians have managed to stage one final counterattack and we must hold out until Colonel Wilkins arrives with reinforcements. If we die here the city will be lost.\n\nTo complete this objective you must keep at least one unit alive and defend your position against the Russians.\n\nYou will fail the mission if you lose all your units or if the Russians manage to fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Survival.myVisualisationText	Survive the Soviet counter-attack
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Revenge.myDescription	Destroy all remaining enemy forces
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Revenge.myLongDescription	Colonel Wilkins has arrived and all that remains is to destroy the remnants of the Soviet forces. When this has been done Seattle will finally be safe.\n\nTo complete this objective you must destroy all remaining enemy forces.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Revenge.myVisualisationText	Destroy all remaining enemy forces
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Rescue.myDescription	Destroy the Soviet helicopters
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Rescue.myLongDescription	Soviet helicopters are airlifting in units behind our lines. They must be dealt with in order to ensure force security.\n\nTo complete this objective you must destroy the Soviet helicopters.\n\nYou will fail the objective if you don’t deal with the helicopters within a reasonable amount of time.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Rescue.myVisualisationText	Destroy the Soviet helicopters
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Ships.myDescription	Destroy the Soviet ships
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Ships.myLongDescription	We are being bombarded by Soviet destroyers anchored in the harbor. Sink them to ensure the safety of our troops.\n\nTo complete this objective you must destroy the Soviet warships.\n\nYou will fail this objective if you haven’t dealt with the ships by the time you attack the Soviet HQ.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Ships.myVisualisationText	Destroy the Soviet ships
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneChanged.myString	Your drop zone has changed
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.newUnits.myString	You have been given command of new units
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	You have been given access to support weapons
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenRe.myString	You have been given access to reinforcments
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReward.myString	You have been given a reward
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	Your max AP has been raised.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.addTAPoints.myString	You have been given more TA points.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenNewTA.myString	You have been given access to a new support weapon
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.RemovedTA.myString	You have lost access to a support weapon
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_1.myText	Gentlemen! We have to drive Ivan back into the ocean before it's too late. Wilkins has been held up by stiff opposition so everything depends on us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_2.myText	Colonel, we're deep inside enemy territory. We have to stay cautious or we'll be completely cut off.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_3.myText	The time for caution is past, major. If we don't break the Soviet occupation within the hour we'll be forced to retreat and Seattle will be lost.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_4.myText	We have half an hour, gentlemen. The Chinese have entered Puget Sound and are now being engaged by our ASM-emplacements on the islands. But that won't stop them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_4.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_5.myText	This is Eagle six! We only have twenty minutes left! Get a god damn move on!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_5.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_6.myText	Parker! You do understand that the president will order a nuclear bomb dropped on this city if we don't succeed within the next ten minutes? Concentrate on your objective and do not fail or we will all die here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_6.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_7.myText	Five minutes! Make an effort damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_7.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_8.myText	This is Eagle six. Colonel Wilkins just called in. We've delivered a decisive blow. The nuclear strike has been called off. The remaining Soviet forces are falling apart and the air force is sinking their remaining ships in the harbor. Rally on me and we'll see about organizing the mop-up. Well done, everyone. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_8.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_10.myText	Parker! First we need to secure the immediate surroundings. You take out that guard post while Webb sets up a perimeter around the diner.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_11.myText	Maybe we should wait for Wilkins, sir. If we draw too much attention to ourselves the Russians will be all over us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_11.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_12.myText	Damn it, Major! What part of my briefing didn't you get?! We don't have time to fool around. We don't have time to wait for Wilkins! Understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_12.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_13.myText	Yes, sir. Just be careful, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_13.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_14.myText	Well done, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_14.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_15.myText	Eagle six! We have enemy armor approaching from the west!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_15.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_16.myText	Parker! We need you back at the diner at once! Looks like Ivan is gearing up for an attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_16.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_17.myText	Ivan's attack is underway! They will surround us if we can't fight them off. Get to it, captain!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_17.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_18.myText	They're coming at us again!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_18.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_19.myText	Try to flank them, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_19.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_20.myText	Ivan is getting it now. They'll think twice before attacking again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_20.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_21.myText	This is Eagle six. The battalion CP is safe. Good job everyone.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_21.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_22.myText	Parker! Where the hell are you! We're being overrun and can't [cut of by static].
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_22.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_23.myText	Sir, if we move southwest toward the harbor we could approach the main base from there and cut off the Soviet retreat at the same time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_23.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_24.myText	Good call, Webb. Parker, your company has the point. Lead us to the harbor. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_24.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_25.myText	I gave you an order, Parker! Get your butt moving toward the harbor now, dammit!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_25.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_26.myText	Parker! What's your situation? I want you on the move and attacking!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_26.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_27.myText	We are waiting for your people to clear the way, Parker. What's keeping you?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_27.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_28.myText	Keep it up, Parker. Ivan is hurting.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_28.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_29.myText	This is Eagle six. We've cleared the major part of a route to the harbor. Everyone funnel into the attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_29.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_30.myText	Almost there, Parker. Smash through any defenses they have left!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_30.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_31.myText	Heads up, Parker! Enemy choppers inbound on your position.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_31.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_32.myText	This is Eagle six. The harbor route is cleared. I repeat the harbor route is cleared.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_32.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_33.myText	Those ships are a problem, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_33.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_34.myText	He's right, Parker. Do what you can to sink those destroyers. Their cannons and missiles will harass us until we're rid of them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_35.myText	Those ships have your coordinates locked down, Parker. Keep moving so you don't get hit.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_35.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_36.myText	This is Eagle six. I'm glad to see Ivan meeting up with Davy Jones, Parker. Excellent job.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_37.myText	Now, secure that harbor. We have to make sure Ivan doesn't hit us in the back when we move on. Latest word is that the Chinese just cleared our island defenses. They took some losses but they haven't turned around.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_37.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_38.myText	Position taken. Now make sure it's secured as well. We move on when you're finished. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_38.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_39.myText	The harbor is ours and Ivan has been cut off. Now we go for the heart.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_39.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_40.myText	That base will be well defended, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_40.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_41.myText	I have no doubt of that, Major. Parker you'll attack from the waterfront. Webb! You will hold your ground and protect his back. Understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_41.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_42.myText	Yes, sir. I got you covered, Parker. Get on with it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_42.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_43.myText	Webb, report!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_43.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_44.myText	This is Webb. They're coming at us hard, but we're holding. I'd feel better if Parker and his people were inside that base though.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_44.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_45.myText	You heard the major, Parker. If we don't destroy that base soon it'll be too late.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_45.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_46.myText	You've entered the lions den, Parker! Clear those Russians out and finish it! Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_46.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_47.myText	God damn them all to hell! They're counterattacking! Parker, gather your company! We'll make our stand here at the Space Needle!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_47.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_48.myText	Wilkins has broken through and he's on his way, Parker! But Ivan must be jamming our radios because I'm having a hard time getting through to the air force. We might lose contact with them any minute and be cut off. Call in what reinforcements you can before it's too late.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_48.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_49.myText	Parker! I've lost contact with the air force, and that means no more reinforcements. We're on our own. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_49.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_50.myText	This is it, Parker! We stand here or we die.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_50.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_51.myText	Show the Russian bastards what they're up against! Surrender is not an option!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_51.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_52.myText	Major Webb is still conscious, but he's lost a lot of blood! Where the hell is Wilkins?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_52.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_53.myText	This is Yankee Six. We're coming up on your left. Keep those Russians busy and we'll hit them from behind, over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_53.myPortraitText	WILKINS
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_54.myText	And that was none too soon, Wilkins!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_54.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_55.myText	Parker! Parker, come in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_55.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_56.myText	Just keep those Russians occupied, Sawyer, and this will be over in no time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_56.myPortraitText	WILKINS
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_57.myText	We're gonna do just that. Parker! Move into the attack! It's time for some payback. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_57.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_58.myText	This is Eagle six. That was the last of them. I need a medevac for one of my officers. He's been wounded in the shoulder.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_58.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_59.myText	Roger that, I'll send one of my ambulances.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_59.myPortraitText	WILKINS
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_60.myText	Thank you, colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_60.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_61.myText	Well, Parker, we actually did it. Seattle is safe and HQ says the Chinese fleet is turning around. The war isn't over, but at least our homeland is secure once more. And it's due in no small part to you, Parker. I'm proud to have served with you. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_61.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_62.myText	Parker, you deal with them. Use whatever anti-air defenses you have, and clear the air of those choppers! Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_62.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_63.myText	Those airlifts just keep coming and I can't do a damn thing about it. Can you help out, Parker? That infantry is making a mess of my rearguard.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_63.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_64.myText	The sky is clear. Thanks a lot, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_64.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_65.myText	Eagle six here. I shouldn't have to remind you people that time is precious. Get a move on, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_65.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_66.myText	It was lucky I finally got hold of some anti-air assets, Parker, since you couldn't handle it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_66.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_67.myText	I understand sir. I'm just saying … Be careful, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_67.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_68.myText	The captain knows perfectly well when to be audacious and when to be careful, major. Now get on with the attack, both of you!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_68.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_69.myText	Half an hour until we have to retreat?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_69.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_70.myText	Half an hour until detonation, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_70.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_71.myText	Detonation?! But how will we get away in time?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_71.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_72.myText	We won't, James. We either free Seattle or perish here. Retreat was never an option.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_72.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_73.myText	But I thought ... Okay, if that's the way it is ... Come on, Parker. We can do this. We have to do this.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_73.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_74.myText	Sir, have we heard anything more from Wilkins?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_74.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_75.myText	Last I heard they were still moving through the suburbs. He might've chosen to pull back though.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_75.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_76.myText	And we'll stay here until the end?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_76.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_77.myText	That's right major. But it won't come to that. If I didn't think we had a fighting chance we wouldn't be here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_77.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_78.myText	I'm with you, colonel. It's just ... I think you should have consulted with us first.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_78.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_79.myText	You're right, major. I understand that now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_79.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_80.myText	I've said my piece, colonel. Now let's retake this damn city!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_80.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_83.myText	Parker! We have enemy troops inside the wire again. Do your job and kill them before it's too late, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_83.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_84.myText	That was too close, captain! Get some fortifications up and ready. We don't know when they'll come at us again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_84.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_85.myText	You sure like to push the envelope, Parker. Have your people dig in before Ivan returns.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_85.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_86.myText	The Russians have been busy. This city is in ruins.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_86.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_87.myText	I believe we're as much to blame as them, major. The air force has been flying sorties day and night since the invasion began.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_87.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_88.myText	Keep going, Parker! You know what's at stake here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_88.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_89.myText	I told you to sink those ships, Captain Parker. What are you waiting for?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_89.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_90.myText	One ship sunk! Give it to them, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_90.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_91.myText	The second Soviet ship is headed to the bottom. Well done, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_91.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_92.myText	Since you didn't sink those ships we'll have to relay their positions to the air force instead. It'll be their headache now, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_92.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_93.myText	When can you call off the strike, colonel?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_93.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_94.myText	When we've destroyed the Soviet main base. High Command won't accept anything less. As long as there's an organized Soviet presence in Seattle, the Chinese will be able to land their troops here unopposed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_94.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_95.myText	But what if we get rid of the Russians and they try to invade anyway?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_95.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_96.myText	They won't, major. For all their strength in manpower they don't have the equipment to make an amphibious assault. Their only option is to land troops using the Seattle harbor. If they try that with us holding the city they'll be slaughtered, and they know it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_96.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_97.myText	Understood colonel. How much time do we have left?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_97.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_98.myText	Almost none.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_98.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_99.myText	And Parker, Ivan will have his most elite units protecting that base. Take that into account when you attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_99.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_101.myText	Webb here! The Russians are using choppers to airlift units into the battle zone.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_101.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_102.myText	Parker! Some help with those choppers would be appreciated!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_102.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_103.myText	One bird down!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_103.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_104.myText	Yeah, crash and burn, baby. Keep it up, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_104.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_105.myText	Another bird bites the dust. We'll soon be rid of them for good, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_105.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_106.myText	Parker! We have Soviet troops inside our perimeter. Don't let them dig in or we'll be royally screwed, you hear!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_106.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_107.myText	This is Eagle six to all units. The missile has been launched and all we can do now is wait. I thank you for your trust and your bravery. God bless you all. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_107.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_108.myText	Now proceed to - wait ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_108.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_109.myText	Give it to them, Parker! All units fire at will!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_109.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_110.myText	Mount bayonets if you're low on ammo! I'll be damned if we'll let Ivan win this one!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_110.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_111.myText	Wilkins better get here soon or Webb won't make it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_111.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_112.myText	I'm calling in an artillery strike on the Russian positions up ahead. Stay clear until the Russian barrage has been lifted!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_112.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_113.myText	Sir, those coordinates aren't …
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_113.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_114.myText	No time, Webb! Parker! Be ready to attack as soon as the strike is over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_114.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_115.myText	Sir, the Space Needle just collapsed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_115.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_116.myText	What the hell are those retards in the rear doing!? They must've messed up the coordinates!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_116.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_117.myText	I tried to tell you, colonel. The coordinates you sent …
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_117.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_118.myText	Well, it's a sore loss but we have to focus on the mission at hand. That nuke will be inbound soon if we don't get our act together. Parker, push the attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_118.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_119.myText	Eagle six, here! I've reestablished contact with the air force and they're standing by! Bring in what reinforcements you need, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_119.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_120.myText	And Parker! Take command of Major Webb's men. Make him proud!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.sea1_120.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myText	What the hell, Parker! The Commies are fortifying that position! Stop them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myText	The Russians are digging in, Parker! Use those skills of yours and fight them off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_2.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myText	Don't let the commies get defenses up at that position or it'll all be over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_bannon_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myText	Parker! We'll lose everything if the Russians fortify that position! Attack them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myText	Get a move on, Parker! If the Russians get their defenses up we'll lose this battle!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myText	The Russians are getting a foothold, Parker! Stop them before they fortify!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myText	Parker you klutz! We just lost a position! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_1.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myText	The Russians have overthrown our position, Parker! Reclaim it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_2.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myText	Don't you know any tactics at all, Parker! Retake that position, damn it!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_bannon_3.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myText	Parker, the enemy is gaining ground. Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_1.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myText	Parker, the enemy is gaining ground. Fight them back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_2.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myText	We have to retake that position we just lost, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_webb_3.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The Russians have been defeated, the Chinese fleet has turned around, and Seattle is finally safe, all because of your sacrifice and daring. Your accomplishments in the battle against a numerically superior force will be studied for years to come. But the war is not yet won. The battle for Europe still rages and elsewhere in the world fresh conflicts are brewing. You might be called upon again.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Sometime in the early months of 1990 the city of Seattle was completely eradicated by a strategic nuclear bomb. The Russians, fearing the United States' newfound willingness to use such weapons, resolved to launch a preventive nuclear attack of their own. And the rest, as they say, is history …
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet1_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet1_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet1_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet1_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet2_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet2_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet2_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet2_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet3_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet3_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet3_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.gauntlet3_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.harbour_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.harbour_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.harbour_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.harbour_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.russianbase_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.russianbase_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.russianbase_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.russianbase_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.spaceneedle_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.spaceneedle_CP.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.spaceneedle_CP.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.spaceneedle_CP.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.diner_CP.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.diner_CP.myWeCapturedText	We captured the CP_Diner
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.diner_CP.myWeLostText	We lost control of the CP_Diner
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.diner_CP.myEnemyCapturedText	Enemy captured the CP_Diner

@@ -1,0 +1,27 @@
+﻿Roles.Army.myUIName	INFANTRY
+Roles.Army.myDescription	The Infantry Role is slow and vulnerable in the open, but deadly when transported to houses and forests. 
+Roles.Engineer.myUIName	SUPPORT
+Roles.Engineer.myDescription	The Support Role provides repairs, artillery support and anti-air cover, but is very weak in close combat.
+Roles.Armor.myUIName	ARMOR
+Roles.Armor.myDescription	The Armor Role is the main provider of ground power, but vulnerable to helicopters and hidden infantry.
+Roles.Air.myUIName	AIR
+Roles.Air.myDescription	The Air Role provides extreme and mobile firepower, but cannot easily capture Command Points. 
+Roles.FPM.myUIName	<empty>
+Roles.FPM.myDescription	<empty>
+Roles.SINGLEPLAYER.myUIName	<empty>
+Roles.SINGLEPLAYER.myDescription	<empty>
+Roles.SINGLEPLAYER_USSR.myUIName	<empty>
+Roles.SINGLEPLAYER_USSR.myDescription	<empty>
+RebateColors.RebateColor(0).myRoleName	Unique
+RebateColors.RebateColor(1).myRoleName	Rebated
+RebateColors.RebateColor(2).myRoleName	Normal
+RebateColors.RebateColor(3).myRoleName	Premium
+RebateColors.RebateColor(4).myRoleName	Limited
+AIRoleDescriptions.Balanced.myUISelectionName	Balanced
+AIRoleDescriptions.Balanced.myDescription	This is a well balanced AI.
+AIRoleDescriptions.Aggressive.myUISelectionName	Aggressive
+AIRoleDescriptions.Aggressive.myDescription	This AI is aggressive.
+AIRoleDescriptions.Defensive.myUISelectionName	Defensive
+AIRoleDescriptions.Defensive.myDescription	This AI is defensive.
+AIRoleDescriptions.Obedient.myUISelectionName	Obedient
+AIRoleDescriptions.Obedient.myDescription	This AI is very obedient.

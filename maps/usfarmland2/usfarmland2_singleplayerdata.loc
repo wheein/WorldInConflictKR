@@ -1,0 +1,226 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	As the mushroom cloud above Cascade Falls slowly dissipated behind us, we fought on in a blasted wasteland with trees singed black by the wave of searing heat. But at least we were alive. Bannon and the men in his company were not. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	Their sacrifice had been the key to stopping the Russians and now Fort Teller was safe. We had to destroy the town in order to save it, but back then I think the irony of that was lost upon us.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	The EMP from the nuclear blast had effectively silenced the radios, and what was left of our battalion was scattered over the surrounding countryside.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	We lost contact with the Colonel early on. It soon became every man for himself as we tried to get reorganized and fight off Russian stragglers at the same time.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	The blast had been more powerful than anyone could've imagined.  We thought the worst thing that could possibly have happened, just had. Little did we know what was to come...
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MeetWebb.myDescription	Rendezvous with Webb at the ford
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MeetWebb.myLongDescription	US units have become scattered and communications have broken down due to the EMP from the nuclear detonation. Meet up with Webb and start rallying your forces.\n\nTo complete this objective you must move to the position marked on the map.\n\nYou will fail the mission if you lose all your units
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MeetWebb.myVisualisationText	Rendezvous with Webb at the ford
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1CleanUp.myDescription	Support Webb with repairs.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1CleanUp.myLongDescription	Contact with Colonel Sawyer has been lost and Webb is leading the remnants of the battalion south to look for him. Do what you can to keep all units in the group alive and in good repair. Reinforcements are not available so make sure that your own units stay alive as well.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1CleanUp.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1HealUp.myDescription	Repair all units at the rally point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1HealUp.myLongDescription	A number of friendly vehicles have gathered at a hasty rally point. Get them up and running and make sure that you repair the abandoned Russian vehicles as well.\n\nTo complete this objective you must repair all damaged units in the area.\n\nYou will fail the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon1HealUp.myVisualisationText	Repair all units at the rally point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2CleanUp.myDescription	Support Webb with repairs.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2CleanUp.myLongDescription	Make sure Webb’s units stay functional as you move towards the next rally point.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2CleanUp.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2HealUp.myDescription	Repair all units at the rally point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2HealUp.myLongDescription	You have reached a second rally point filled with friendly vehicles and a few abandoned Russian tanks. Get them working ASAP.\n\nTo complete this objective you must repair all damaged units in the area.\n\nYou will fail the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2HealUp.myVisualisationText	Repair all units at the rally point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FakeEscape.myDescription	Follow Webb to the rally point
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FakeEscape.myLongDescription	Colonel Sawyer has finally established contact and declared a rally point at grid square Kilo-Two-Niner which is located eight kilometers further to the south-west. Support Webb with repairs as you move towards the rally point.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FakeEscape.myVisualisationText	Flee the area. Support Webb with repairs.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Retreat.myDescription	Follow Webb to a safe location
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Retreat.myLongDescription	Colonel Sawyer has finally established contact and declared a rally point at grid square Kilo-Two-Niner which is located eight kilometers further to the south-west. Support Webb with repairs as you move towards the rally point.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Retreat.myVisualisationText	Follow Webb to a safe location
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Advance.myDescription	Clear the riverbank of enemies
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Advance.myLongDescription	Colonel Sawyer has given you access to artillery and air support. Use them to destroy the Russian forces gathered on the riverbank.\n\nTo complete this objective you must destroy a sufficient amount of enemies at the riverbank.\n\nYou will fail the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Advance.myVisualisationText	Clear the riverbank of enemies
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FinalBattle.myDescription	Fight off the Soviet counter-attack
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FinalBattle.myLongDescription	Remaining Soviet forces from the battle of Cascade Falls have rallied and are now counter-attacking your position. Use all available weapons to wipe them out. Also make sure to keep Webb's units repaired.\n\nTo complete this objective you must fight off the Soviet counter-attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.FinalBattle.myVisualisationText	Fight off the Soviet counter-attack
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HealWebb.myDescription	Support Webb with repairs
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HealWebb.myLongDescription	Contact with Colonel Sawyer has been lost and Webb is leading the remnants of the battalion south to look for him. Do what you can to keep all units in the group alive and in good repair. Reinforcements are not available so make sure that your own units stay alive as well.\n\nTo complete this objective you must make sure that Webb's units remain in good repair.\n\nYou will fail the mission if Webb loses all his units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HealWebb.myVisualisationText	Support Webb with repairs
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.UnitHunt.myDescription	Repair the abandoned vehicles
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.UnitHunt.myLongDescription	An abandoned Russian artillery unit and one repair vehicle have been spotted in the area. If they could be found and repaired, they would make a much needed addition to our growing force.\n\nTo complete this objective you must locate and repair the abandoned Soviet vehicles marked on the map.\n\nYou will fail the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.UnitHunt.myVisualisationText	Repair the abandoned vehicles
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.OneUnitMustSurvive.myDescription	Keep your units alive
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.OneUnitMustSurvive.myLongDescription	Reinforcements won't be available during the mission and you will have to scavenge what you can from the battlefield. If you lose all your units the mission is over.\n\nTo complete this objective you must ensure that at least one of your units remains alive throughout the mission.\n\nYou will fail the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.OneUnitMustSurvive.myVisualisationText	Keep your units alive
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded1.myDescription	Destroy the Soviet flanking force
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded1.myLongDescription	Soviet units on your side of the river are attacking your flanks. Destroy them to ensure force security.\n\nTo complete this objective you must destroy all enemy forces that are trying to flank you.\n\nYou will fail this objective if you fail to destroy the flanking enemy forces.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded1.myVisualisationText	Destroy the Soviet flanking force
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded2.myDescription	Destroy the Soviet flanking units.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded2.myLongDescription	More Soviet units are attacking your flanks and from behind. Call in fire missions to destroy them.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded2.myVisualisationText	Destroy the Soviet flanking units.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded3.myDescription	Destroy the Soviet flanking units.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded3.myLongDescription	More Soviet units are attacking your flanks and from behind. Call in fire missions to destroy them.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded3.myVisualisationText	Destroy the Soviet flanking units.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded4.myDescription	Destroy the Soviet flanking units.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded4.myLongDescription	More Soviet units are attacking your flanks and from behind. Call in fire missions to destroy them.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Surrounded4.myVisualisationText	Destroy the Soviet flanking units.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	Your max AP has been raised.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	You have been given access to support weapons
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.updatedTA.myString	Your support weapons list has been updated!
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myHeader	COMBAT SCHOOL - Display Health
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AltButton.myText	By pressing and holding the Display Health button (default: ALT) you can view the health bars of all friendly units at the same time. It is a quick and efficient way of assessing unit health in battle.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_010.myText	This is Alpha six to Bravo six! Webb to Parker, come in! If you're getting this I want you to rendezvous with me at the ford by the old mill. Gather your people and get over here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_010.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_020.myText	And Parker, watch out for any Russian stragglers. They're scattered all over the place and they'd love to ambush you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_020.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_030.myText	Good to see you, Parker Most of my radios have broken down and I wasn't sure I was getting through. And you brought some repair vehicles as well! Those are godsend! See what you can do to patch up my vehicles.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_030.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_040.myText	Contact north and south! All units open fire!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_040.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_050.myText	We need to gather what troops we can find and then reestablish contact with the colonel. I haven't been able to reach him since we split up.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_050.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_060.myText	We're moving south. Do what you can to keep us all in good repair. And try to avoid the enemy. Your vehicles won't last long in a firefight.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_060.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_070.myText	By the way, you did well at Cascade Falls, Parker. Too bad we lost Bannon and Charlie Company. Guess he turned out alright in the end...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_070.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_080.myText	More Russians! Stay low and take them out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_080.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_090.myText	My scouts spotted some abandoned Russian vehicles not far from here, Parker. Should be some artillery and a repair vehicle. Locate them and see if you can get them running again. But please leave someone behind to keep up with the repairs here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_090.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_100.myText	Good, you found them. Fix them up and take command.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_100.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_110.myText	Great job, Parker! Every vehicle counts. Now get back here ASAP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_110.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_120.myText	Clear out those Russians!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_120.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_130.myText	These tanks must belong to Wilkins battalion. I wonder where his main force is … Anyway, seems you have your work cut out for you Parker. Get those vehicles moving and don't forget those abandoned Russian tanks. We need all the firepower we can get.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_130.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_140.myText	We're under attack! Stay out of harm's way, Parker! And get those vehicles running!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_140.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_150.myText	Stop fooling around and see to those repairs, Parker. We don't want to stay here any longer than necessary.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_150.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_160.myText	Alright, that was the last one! I just learned about another gathering further south. Let's get moving! Stay close, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_160.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_170.myText	Parker, I've established contact with some fire support. Don't hesitate to put those guys to work.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_170.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_180.myText	Those damn Russians are everywhere! We're lucky they're uncoordinated. Fire at will!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_180.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_190.myText	Glad to have you with us, Parker. You're doing a fine job. Now we need to get this sorry bunch up and running.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_190.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_200.myText	Don't they know when to give up?! Fight them off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_200.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_210.myText	See to those vehicles now, Parker. We need to get out of here.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_210.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_220.myText	[static] Eagle six, to all units. Anyone out there, over!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_220.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_230.myText	Colonel Sawyer, sir! This is Webb!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_230.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_240.myText	[static] Six, to all units! The rally point is set at grid square Kilo-Two-Niner. All Eagle elements must [static]
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_240.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_250.myText	Eagle Six! Come in! Eagle Six! Well you heard him, Parker. We need to go back across the river and continue south. Pack it up everyone!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_250.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_260.myText	Damn it! They must be what's left from the attack on Cascade Falls! There's too many of them! Pull back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_260.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_270.myText	[static tuning into clear voice] Six to Webb! Do you read me?! I need a SITREP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_270.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_280.myText	I read you loud and clear colonel! I have Parker with me and we're about eight klicks from the rally-point. It looks like we've encountered the main remnants of the Soviet attack force, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_280.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_290.myText	Roger that. Hold tight while I call in some additional support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_290.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_300.myText	Will do, Colonel. Webb out. 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_300.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_310.myText	Parker, try to repair as much as you can while we wait.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_310.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_320.myText	Eagle six here. I've managed to scrounge up some artillery and air support for you. Make good use of it. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_320.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_330.myText	You heard the man, Parker. You designate the targets and I'll keep our people together. Clear out the riverbank first.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_330.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_340.myText	You should've been an artillery spotter, Parker. Now let's get this show on the road.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_340.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_350.myText	There's the rest of them, Parker! And damn if they aren't counterattacking! Hit 'em hard!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_350.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_355.myText	We are surrounded!  The Russians must have crossed up the river and are now attacking us from all sides! We need all of the support we can get.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_355.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_360.myText	This is Eagle Six. You now have full artillery and air support. Wipe those bastards out for me!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_360.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_370.myText	I'm leaving it to you, Parker! Keep those strikes coming!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_370.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_380.myText	I'm losing a lot of good men here, Parker! We need help with repairs!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_380.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_390.myText	Contact in all sectors! They're flanking us! Call in the strikes danger close, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_390.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_400.myText	What a wasteland. Who would have thought the blast effect could reach this far? We were lucky to get into cover when we did.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_400.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_410.myText	Cascade Falls didn't decide anything. This thing won't be over until we've thrown the Russians out of Seattle. And then there's Europe ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_410.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_420.myText	God, I hope we won't ever be forced to use a nuke again. One time is once too many ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_420.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_430.myText	I wonder what went on in Bannon's head, you know, before he made his decision to sacrifice himself. And all those who went with him; heroes in my book ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_430.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_440.myText	Parker! Come in Parker! Damn it, I can't reach him. We have to move on...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_440.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_450.myText	Parker! I'm losing transmission and the main gun has failed. We need...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_450.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_460.myText	Parker! Come in Parker! We lost him.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_460.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_470.myText	Close call, Parker, but we made it! You sure know how to call in that fire support. Now we need to see about moving to the rally point.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_470.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_480.myText	Excellent job, gentlemen. Fort Teller is finally safe. Now let's push Ivan back to the ocean.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_480.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_490.myText	Close call Parker! We missed the ones flanking us but we handled the main force. Wilkins people will take care of the rest. Now we need to get to the rally point.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_490.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_500.myText	Excellent job, gentlemen. Fort Teller is finally safe. Time to start pushing Ivan back to the ocean.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_500.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_510.myText	Eagle Six to Webb! Come in, damn it! Come in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_510.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_520.myText	Parker! I need repairs damn it! Where are you! Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_520.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_530.myText	We'll handle it, Parker! Just make sure my tanks stay functional.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_530.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_540.myText	Persistent bastards aren't they. You got to respect their tenacity!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_540.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_550.myText	I wonder how things are going in Seattle ... And in the war for that matter. I haven't heard any real news in weeks. Europe might be totally overrun by now for all we know ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_550.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_560.myText	Stay together and put some fire on those targets, people!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_560.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_570.myText	Why don't they just give up? We already dropped a nuclear bomb on them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_570.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_580.myText	Flank them damn it! Fire and maneuver, people! Fire and maneuver!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_580.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_590.myText	We're damn lucky you found that recovery vehicle, Parker. I don't know what we'd do without you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_590.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_770.myText	Fix my vehicles, will you Parker! We're taking a lot of damage here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_770.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_780.myText	Parker! We need some repairs!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_780.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_790.myText	See if you can patch us up, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_790.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_800.myText	Thanks for fixing us up, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_800.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_600.myText	How are those repairs coming, Parker?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_600.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_610.myText	I didn't know you could read Cyrillic, Parker! Or maybe you just have a way with machines. Impressive either way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_610.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_620.myText	Lay down suppressive fire! And stay low, damn it! Don't force me to write letters to your loved ones because you were stupid!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_620.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_630.myText	Did you know the Colonel speaks Russian fluently? I guess he picked it up before he went to Vietnam.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_630.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_640.myText	Target the heavy vehicles first!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_640.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_650.myText	They must've lost contact with their command as well or they would act a lot more coordinated. Still I'm surprised at these attacks. Soviet doctrine doesn't really encourage any individual initiative.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_650.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_660.myText	That's a sizeable enemy force, Parker. But I believe we can handle them! Everyone, pick your targets and open fire!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_660.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_670.myText	Parker! That chopper must be an artillery spotter. We can probably expect incoming fire any second. Move your troops to another location or follow me.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_670.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_680.myText	Don't just stand there, Parker! Get out of the area!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_680.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_690.myText	You got some real skill, Parker! Did you ever go to artillery school?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_690.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_700.myText	That was a really good hit, Parker! They're hurting!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_700.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_710.myText	Parker! A bunch of Russians are trying to flank us! You handle them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_710.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_720.myText	They're coming at us again! Hold that flank, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_720.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_730.myText	Damn it! More Russians inbound and they're going for a flanking maneuver. Light them up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_730.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_740.myText	Sweet job, Parker! You annihilated that flanking force!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_740.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_810.myText	The guy with the wrench does it again. You're a good guy to have around, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usfarm2_810.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The last remnants of the Soviet attack force have been destroyed and the safety of Fort Teller has been ensured for the time being. Now we focus on the struggle to break through the Soviet lines and retake Seattle.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	You failed to rally remaining US forces around Cascade Falls and they remain leaderless and scattered in a hostile landscape.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.WebbPercentageLeft	Webb's repair status: %d%%
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.WebbUnitsLeft	Number of Webb's units remaining: %d/%d
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_16_01.myTitle	Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_16_01.myText	Repair tanks are able to rapidly repair other vehicles. Press [[X]] to repair Webb's tanks.

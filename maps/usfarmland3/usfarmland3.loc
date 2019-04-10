@@ -1,0 +1,126 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Power Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Power Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Power Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Power Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myUiName	North Rally Point
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myWeCapturedText	We captured the North Rally Point
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myWeLostText	We lost control of the North Rally Point
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0z.myEnemyCapturedText	Enemy captured the North Rally Point
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Hill 81
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured Hill 81
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of Hill 81
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured Hill 81
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Hill 95
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured Hill 95
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of Hill 95
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured Hill 95
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myUiName	Road
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeCapturedText	We captured the Road
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myWeLostText	We lost control of the Road
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__7.myEnemyCapturedText	Enemy captured the Road
+myWicedMap.myMissionStats.myName	do_Riverbed
+myWicedMap.myMissionStats.mySPName	%02d - Into the Mountains
+myWicedMap.myMissionStats.myDescription	The fighting spreads into the Cascade Range foothills where U.S. forces try to stem the tide of the Soviet invasion.
+myWicedMap.myMissionStats.mySPDescription	Your battalion must fight a delaying battle against the Soviet task force in the foothills of the Cascade Range. Your objective is to slow down the Soviet advance so that the defenders around Fort Teller will have some time to dig in.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	RIVERBED
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	RIVERBED
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myDescription	Secure the two river crossings
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myLongDescription	If we can prevent Ivan from crossing the river at the two first fords he will head for the bridge, and there we can hold off his attack better.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeRiver.myVisualisationText	Secure the two river crossings
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myDescription	Capture the Bridge CP.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myLongDescription	Capture the Bridge CP.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridge.myVisualisationText	Capture the Bridge CP.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myDescription	Hold the Bridge CP.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myLongDescription	Hold the Bridge CP.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeBridgeHold.myVisualisationText	Hold the Bridge CP.
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myDescription	Capture River CPs in x time!
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myLongDescription	Capture River CPs in x time!
+myWicedMap.myMissionStats.mySecondaryObjectives.TakeRiverOnTime.myVisualisationText	<empty>
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myDescription	KillHQ
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myLongDescription	KillHQ
+myWicedMap.myMissionStats.mySecondaryObjectives.KillHQ.myVisualisationText	KillHQ
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myDescription	Kill all Inf revealed by Webb.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myLongDescription	Kill all Inf revealed by Webb.
+myWicedMap.myMissionStats.mySecondaryObjectives.KillInf.myVisualisationText	Kill all Inf revealed by Webb.
+myWicedMap.myMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised6500.myString	Your max AP has been raised to 6500.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised7000.myString	Your max AP has been raised to 7000.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised7500.myString	Your max AP has been raised to 7500.
+myWicedMap.myMissionStats.myScriptEvents.maxAPRaised.myString	Your max AP has been raised.
+myWicedMap.myMissionStats.myScriptEvents.RiverOnTimeAward.myString	You can now order down two free Medium tanks.
+myWicedMap.myMissionStats.myScriptEvents.KillInfAward.myString	Your TA-cap has been raised.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_01.myText	Parker, the russians are moving fast towards Coca Cola Town. If we can hold them on that side of the river we will stop them for at least 4 hours. You need to take this ford and this one.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_01.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_02.myText	The russians only have their advance force in the area. If you can take it quickly before Ivan's heavy's show up you will increase your chances of success.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_02.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_03.myText	Captain Webb got special forces in the woods for recon so use their intel. Now get going Parker, every second counts!
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_03.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_04.myText	Well done Parker, now get the 2nd river crossing quickly. Webb will hold this point
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_04.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_05.myText	My men spotted some hostile infantry moving in the woods, who might be spetznas. They will pin-point the locations and co-ordinate strikes.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_05.myPortraitText	WEBB
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_06.myText	You heard the man parker. Use your artillery or whatever you got available, but try to take out those troops before they dig in.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_06.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_07.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_07.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_08.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_08.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_09.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_09.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_10.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_10.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_11.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_11.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_12.myText	Good work Parker. Webb will hold this point as well while you move on to the bridge.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_12.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_13.myText	Bannon is on the other side to blow up a bridge further down the road and he will need this bridge to join up with us later. You need to hold it until he is back, do you hear me Parker?
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_13.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_14.myText	YOU LOSE
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_14.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_15.myText	Fantastic Parker! Ivan didn't even have time to bring his main force here so fortify and move on quickly! Webb will hold this point as well while you move on to the bridge.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_15.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_16.myText	Recon spotted Ivan's main forces coming up fast, you need to move ASAP Parker and that is NOW.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_16.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_17.myText	The weather is getting worse. The flyboys tell me that they will be unable to do anything soon so call down all the reinforcement you need to hold that bridge, you will not be able to get any new units when the shit hits the fan.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_17.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_18.myText	If we lose that bridge we're toast but without Bannon's tanks we're toast anyways so you need to hold it and can't blow it up until he arrives. It's the choise between shit and even more shit, it's the life of a soldier. Stand fast Parker.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_18.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_19.myText	Open up Parker, I'm going through!
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_19.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_20.myText	That was the last tank over, now blow the bridge!
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_20.myPortraitText	BANNON
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_21.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_21.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_22.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_22.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_23.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_23.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_24.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_24.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_25.myText	Somewhere in this area the russians are hiding a group of artillery units. Search and destroy, Parker.
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_25.myPortraitText	SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_26.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_26.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_27.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_27.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_28.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_28.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_29.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_29.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_30.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.usfarm3_30.myPortraitText	<empty>
+myWicedMap.myLocStrings.RiverTimer	Time left on secondary:
+myWicedMap.myLocStrings.RemoveReinforcementTimer	Losing Reinforcement air drops:

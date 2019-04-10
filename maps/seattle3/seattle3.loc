@@ -1,0 +1,265 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	South Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the South Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the South Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the South Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Harbor
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Harbor
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Harbor
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Harbor
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	North Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the North Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the North Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the North Bridgehead
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Midsection
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Midsection
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Midsection
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Midsection
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Hospital
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Hospital
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Hospital
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Hospital
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	Suburbs
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	We captured the Suburbs
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	We lost control of the Suburbs
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	Enemy captured the Suburbs
+myWicedMap.myMissionStats.myName	as_Bridge
+myWicedMap.myMissionStats.mySPName	%02d - Reunion 
+myWicedMap.myMissionStats.myDescription	The sun rises over the Seattle suburbs as Soviet and U.S. troops try to assault and defend the important I-90 Bridge.
+myWicedMap.myMissionStats.mySPDescription	After the retreat from downtown Seattle, US forces led by Captain Bannon continue east through the suburbs. You must rally with Colonel Sawyer near the highway bridge, help evacuate the civilians from the area and then blow the bridge to slow the Soviet advance.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	BRIDGE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	BRIDGE
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myDescription	At least one infantry unit must survive.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myLongDescription	If you loose all your units the mission cannot be completed.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myDescription	Destroy Soviet attackers at 45-7.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myLongDescription	A fellow infantry unit is under attack by Soviet forces. You must locate and neutralize the enemy.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj2.myVisualisationText	Destroy Soviet attackers at 45-7.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myDescription	Cross the I-98 Bridge.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myLongDescription	The I-98 Bridge is one of the few highway bridges still standing in the Seattle city area. You will need to cross it in order to continue moving downtown.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj3.myVisualisationText	Cross the I-98 Bridge.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj4.myDescription	Neutralize the Soviet check-point.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj4.myLongDescription	Soviet forces have set up a check-point nearby. You must neutralize it before you can move on. You should approach the checkpoint through the wooded area nearby. Forests offer good protection for infantry.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj4.myVisualisationText	Neutralize the Soviet check-point.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj5.myDescription	Relieve Romeo Five at grid 32-4.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj5.myLongDescription	Romeo Five, an allied unit, is under heavy attack. Move to their location and help them to defend the area.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj5.myVisualisationText	Relieve Romeo Five at grid 32-4.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj6.myDescription	Repair the friendly vehicles and avoid enemy fire. At least one Bradley must survive.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj6.myLongDescription	The Bradleys offer good protection against enemy helicopters but they are in urgent need of repairs. Use your HMMWVs to repair them but watch for enemy fire and pull back when the helicopters strafe the area.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj6.myVisualisationText	Repair the friendly vehicles and avoid enemy fire.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7.myDescription	Repair friendly vehicles and help repel the Soviet attack. At least one M60A3 Tank must survive.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7.myLongDescription	The Soviets are making determined attack at this check point and your assistance is needed. Repair all friendly tanks and try to keep them alive until the enemy attack has been spent.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7.myVisualisationText	Repair friendly vehicles and help repel the Soviet attack.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj8.myDescription	Get your infantry into the humvees.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj8.myLongDescription	By loading your infantry squads into transports you can travel a lot faster. Transports also offer added protection. But make sure that your squad abandon the vehicle if it's about to be destroyed.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj8.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7_2.myDescription	Keep the M60 tanks in good repair. At least one tank must survive.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7_2.myLongDescription	The Soviets are making determined attack at this check point and your assistance is needed. Repair all friendly tanks and try to keep them alive until the enemy attack has been spent.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj7_2.myVisualisationText	Keep the M60 tanks in good repair. At least one tank must survive.
+myWicedMap.myMissionStats.mySecondaryObjectives.SecObj1.myDescription	All M60 tanks must survive.
+myWicedMap.myMissionStats.mySecondaryObjectives.SecObj1.myLongDescription	Make sure that all M60 tanks survive the upcoming engagement.
+myWicedMap.myMissionStats.mySecondaryObjectives.SecObj1.myVisualisationText	All M60 tanks must survive.
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	South Bridgehead
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	Capture the South Bridgehead
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	Capture the South Bridgehead
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	Harbor
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	Capture the Harbor
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	Capture the Harbor
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	North Bridgehead
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	Capture the North Bridgehead
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	Capture the North Bridgehead
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	Midsection
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	Capture the Midsection
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	Capture the Midsection
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	Hospital
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	Capture the Hospital
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	Capture the Hospital
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myDescription	Suburbs
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myLongDescription	Capture the Suburbs
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myVisualisationText	Capture the Suburbs
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	South Bridgehead
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	Defend the South Bridgehead
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	Defend the South Bridgehead
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	Harbor
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	Defend the Harbor
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	Defend the Harbor
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	North Bridgehead
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	Defend the North Bridgehead
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	Defend the North Bridgehead
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	Midsection
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	Defend the Midsection
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	Defend the Midsection
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	Hospital
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	Defend the Hospital
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	Defend the Hospital
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myDescription	Suburbs
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myLongDescription	Defend the Suburbs
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myVisualisationText	Defend the Suburbs
+myWicedMap.myMissionStats.myScriptEvents.ScriptEventNewReinforcements.myString	You have been given command of new units.
+myWicedMap.myMissionStats.myTipTexts.Tip01.myHeader	COMBAT SCHOOL LESSON 1
+myWicedMap.myMissionStats.myTipTexts.Tip01.myText	You select a unit by left clicking on it. When you want that unit to move or fire you right-click on the desired location or unit.
+myWicedMap.myMissionStats.myTipTexts.Tip02.myHeader	COMBAT SCHOOL LESSON 2
+myWicedMap.myMissionStats.myTipTexts.Tip02.myText	Objectives are marked in the world with circular markers. Primary objectives must be completed or you will fail the mission. Secondary objectives are optional. You can review your objectives at any time by pressing the objectives button.
+myWicedMap.myMissionStats.myTipTexts.Tip03.myHeader	COMBAT SCHOOL LESSON 3
+myWicedMap.myMissionStats.myTipTexts.Tip03.myText	In the Objectives screen you can select different objectives by clicking on them and further information will be shown in the information window. All objectives are marked according to status, such as failed or completed.
+myWicedMap.myMissionStats.myTipTexts.Tip04.myHeader	COMBAT SCHOOL LESSON 4
+myWicedMap.myMissionStats.myTipTexts.Tip04.myText	When infantry units move through wooded areas they cannot be seen by enemy vehicles. You should use this to your advantage whenever possible.
+myWicedMap.myMissionStats.myTipTexts.Tip05.myHeader	COMBAT SCHOOL LESSON 5
+myWicedMap.myMissionStats.myTipTexts.Tip05.myText	You enter a building by right-clicking it. And you exit a building by selecting it and right-clicking anywhere on the ground outside.
+myWicedMap.myMissionStats.myTipTexts.Tip06.myHeader	COMBAT SCHOOL LESSON 6
+myWicedMap.myMissionStats.myTipTexts.Tip06.myText	To transport infantry you select an infantry unit and then right-click a transport unit. When you wish to unload your infantry you select the transport and then push the unload button.
+myWicedMap.myMissionStats.myTipTexts.Tip07.myHeader	COMBAT SCHOOL LESSON 7
+myWicedMap.myMissionStats.myTipTexts.Tip07.myText	You can use your HMMWV to repair any friendly vehicle by just moving in close to them. Do this now before the enemy helicopters return. Friendly units can also be repaired by selecting a repair-capable unit and then right-clicking on the unit to be repaired.
+myWicedMap.myMissionStats.myMessageBoxList.01_01.myText	God damn it! We'll have to continue on foot. Be careful!
+myWicedMap.myMissionStats.myMessageBoxList.01_01.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_02.myText	[shouting] This is Kilo-eight! We're under attack and need immediate reinforcements. I repeat: immediate reinforcements needed. We're catching hell over here!
+myWicedMap.myMissionStats.myMessageBoxList.01_02.myPortraitText	2nd LT WEBB
+myWicedMap.myMissionStats.myMessageBoxList.01_03.myText	Kilo-eight, this is Sierra seven. Calm down son and give us your position, over.
+myWicedMap.myMissionStats.myMessageBoxList.01_03.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_04.myText	We're holed up in a house near grid 45-7. Over.
+myWicedMap.myMissionStats.myMessageBoxList.01_04.myPortraitText	2nd LT WEBB
+myWicedMap.myMissionStats.myMessageBoxList.01_05.myText	Roger that Kilo-eight. Stay tight. We're on our way. Sierra out.
+myWicedMap.myMissionStats.myMessageBoxList.01_05.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_06.myText	45-7 is nearby. We should help them out, sir.
+myWicedMap.myMissionStats.myMessageBoxList.01_06.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_07.myText	There aren't many left. Fire at will!
+myWicedMap.myMissionStats.myMessageBoxList.01_07.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_08.myText	Thank god you heard us, Sierra. We've been fighting for five hours straight and my men are exhausted.
+myWicedMap.myMissionStats.myMessageBoxList.01_08.myPortraitText	2nd LT WEBB
+myWicedMap.myMissionStats.myMessageBoxList.01_09.myText	Our defenses are breaking down all over and we're moving downtown to link up with brigade. I suggest you join us.
+myWicedMap.myMissionStats.myMessageBoxList.01_09.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_10.myText	Roger that sergeant. I've gotten reports about a Soviet check-point nearby, though. We'll have to deal them or we won't get anywhere.
+myWicedMap.myMissionStats.myMessageBoxList.01_10.myPortraitText	2nd LT WEBB
+myWicedMap.myMissionStats.myMessageBoxList.01_11.myText	The I-98 Bridge is nearby. We could cross there and then continue downtown. The brigade CP should be located there.
+myWicedMap.myMissionStats.myMessageBoxList.01_11.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_12.myText	I see the check-point! Take up positions in the woods. We'll ambush them from there.
+myWicedMap.myMissionStats.myMessageBoxList.01_12.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_13.myText	Well done, sir.
+myWicedMap.myMissionStats.myMessageBoxList.01_13.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_14.myText	[shouting]: To anyone who's listening, this is Romeo Five! We cannot hold for much longer! The Russians are all over and … [Cut short by intense static.]
+myWicedMap.myMissionStats.myMessageBoxList.01_14.myPortraitText	ROMEO FIVE
+myWicedMap.myMissionStats.myMessageBoxList.01_15.myText	Romeo five! Come in Romeo five! 
+myWicedMap.myMissionStats.myMessageBoxList.01_15.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_16.myText	[Static] … at 32-4, engaging multiple … [static].
+myWicedMap.myMissionStats.myMessageBoxList.01_16.myPortraitText	ROMEO FIVE
+myWicedMap.myMissionStats.myMessageBoxList.01_17.myText	32-4. It’s not too far. We have to help them lieutenant. Leave no one behind.
+myWicedMap.myMissionStats.myMessageBoxList.01_17.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_18.myText	More Soviet infantry! Take cover inside the houses and lay it on them!
+myWicedMap.myMissionStats.myMessageBoxList.01_18.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_19.myText	You sure came at the last minute, sierra. Our CO got shot two hours ago and I can't reach battalion.
+myWicedMap.myMissionStats.myMessageBoxList.01_19.myPortraitText	ROMEO FIVE
+myWicedMap.myMissionStats.myMessageBoxList.01_20.myText	The battalion net is down and we're pulling back to the brigade CP. I suggest you come with us.
+myWicedMap.myMissionStats.myMessageBoxList.01_20.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_21.myText	Roger, sergeant. I got two humvees with me as well.
+myWicedMap.myMissionStats.myMessageBoxList.01_21.myPortraitText	ROMEO FIVE
+myWicedMap.myMissionStats.myMessageBoxList.01_22.myText	Great. The I-98 Bridge is nearby. We could cross there and then continue downtown. The brigade CP should be located there.
+myWicedMap.myMissionStats.myMessageBoxList.01_22.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_23.myText	Sir! The bridge won't stand forever. We have to cross while there's still time.
+myWicedMap.myMissionStats.myMessageBoxList.01_23.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_24.myText	You guys with fifth battalion?
+myWicedMap.myMissionStats.myMessageBoxList.01_24.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_25.myText	No, we're Washington National Guard.
+myWicedMap.myMissionStats.myMessageBoxList.01_25.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_26.myText	Ah, shit. Fifth battalion was supposed to be here two hours ago. Could you help us with repairs? Those damn Havocs are shooting up my Bradleys and I've got to hold this spot until the engineers have finished planting the demo charges.
+myWicedMap.myMissionStats.myMessageBoxList.01_26.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_27.myText	Don't worry, son. We'll help you out.
+myWicedMap.myMissionStats.myMessageBoxList.01_27.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_28.myText	So you're going to blow the bridge?
+myWicedMap.myMissionStats.myMessageBoxList.01_28.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_29.myText	That was the order I got before the CP went off the horn. We've been prepping the...INCOMING!
+myWicedMap.myMissionStats.myMessageBoxList.01_29.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_30.myText	Don't forget to repair the Bradleys, sir. And stay out of the line of fire.
+myWicedMap.myMissionStats.myMessageBoxList.01_30.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_31.myText	Brace yourselves! They're coming in for another run!
+myWicedMap.myMissionStats.myMessageBoxList.01_31.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_32.myText	That was the last of them.
+myWicedMap.myMissionStats.myMessageBoxList.01_32.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_33.myText	My engineers have planted all the charges. We're leaving. You guys better tag along.
+myWicedMap.myMissionStats.myMessageBoxList.01_33.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_34.myText	Dammit! I just lost one of my tracks!
+myWicedMap.myMissionStats.myMessageBoxList.01_34.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_35.myText	How about those repairs, Sierra! The choppers are killing us!
+myWicedMap.myMissionStats.myMessageBoxList.01_35.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_36.myText	If we loose the last Bradley the Havocs will make short work of us, lieutenant!
+myWicedMap.myMissionStats.myMessageBoxList.01_36.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_37.myText	We should stay with the Bradleys, or the helicopters will shoot us to pieces.
+myWicedMap.myMissionStats.myMessageBoxList.01_37.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_38.myText	We have to get off this bridge before they blow it. Better get a move on, sir.
+myWicedMap.myMissionStats.myMessageBoxList.01_38.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_39.myText	All friendly forces clear the area. Blowing bridge in ten, nine, eight...
+myWicedMap.myMissionStats.myMessageBoxList.01_39.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_40.myText	Look, sir! More Soviet units! Looks like an entire battalion.
+myWicedMap.myMissionStats.myMessageBoxList.01_40.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_41.myText	...two, one. Fire in the hole!
+myWicedMap.myMissionStats.myMessageBoxList.01_41.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_42.myText	That should keep 'em busy for a while.
+myWicedMap.myMissionStats.myMessageBoxList.01_42.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_43.myText	We're not out of the woods just yet, lieutenant. I suggest we stick with the Bradleys.
+myWicedMap.myMissionStats.myMessageBoxList.01_43.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_44.myText	This is Tango Four! Does anyone know who's in charge?!
+myWicedMap.myMissionStats.myMessageBoxList.01_44.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_45.myText	This is Sierra seven. The battalion net is down. You need a hand?
+myWicedMap.myMissionStats.myMessageBoxList.01_45.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_46.myText	Any help would be appreciated. I've lost two tanks already and there is a Soviet company headed in our direction. We're making a stand here.
+myWicedMap.myMissionStats.myMessageBoxList.01_46.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_47.myText	We should help these tanks out with repairs as well.
+myWicedMap.myMissionStats.myMessageBoxList.01_47.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_48.myText	Have you heard anything from brigade?
+myWicedMap.myMissionStats.myMessageBoxList.01_48.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_49.myText	Nothing. Communications have broken down completely. We're going downtown to look for the brigade CP.
+myWicedMap.myMissionStats.myMessageBoxList.01_49.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_50.myText	Don't forget to put our infantry behind cover, lieutenant. Or they won't stand a chance.
+myWicedMap.myMissionStats.myMessageBoxList.01_50.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_51.myText	Dig in people! And call out your targets!
+myWicedMap.myMissionStats.myMessageBoxList.01_51.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_52.myText	If I loose any more tracks this entire flank will collapse!
+myWicedMap.myMissionStats.myMessageBoxList.01_52.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_53.myText	They don't seem very prone to giving up do they? Here we go...
+myWicedMap.myMissionStats.myMessageBoxList.01_53.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_54.myText	We owe you one, Sierra. I thought we were done for, for sure.
+myWicedMap.myMissionStats.myMessageBoxList.01_54.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_55.myText	We've done good sir, but now we have to get a move on. Only a few klicks left to go.
+myWicedMap.myMissionStats.myMessageBoxList.01_55.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_56.myText	This is Romeo Five, I just lost my RTO and ...[static] ... dead!
+myWicedMap.myMissionStats.myMessageBoxList.01_56.myPortraitText	ROMEO FIVE
+myWicedMap.myMissionStats.myMessageBoxList.01_57.myText	Sir, we can't leave them to die. Move to their position at once.
+myWicedMap.myMissionStats.myMessageBoxList.01_57.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_58.myText	This is Romeo Five, we are being overrun and...[gunshot]...[static].
+myWicedMap.myMissionStats.myMessageBoxList.01_58.myPortraitText	ROMEO FIVE
+myWicedMap.myMissionStats.myMessageBoxList.01_59.myText	He's gone lieutenant. Didn't I teach you to leave no one behind?
+myWicedMap.myMissionStats.myMessageBoxList.01_59.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_60.myText	We just lost the last tank, lieutenant. The Soviets will break through our lines any minute now. We've failed.
+myWicedMap.myMissionStats.myMessageBoxList.01_60.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_61.myText	This is Yankee four. I confirm numerous hostiles in the area. There are scattered National Guard units on the ground but they seem uncoordinated. It's chaos down there
+myWicedMap.myMissionStats.myMessageBoxList.01_61.myPortraitText	HELICOPTER PILOT
+myWicedMap.myMissionStats.myMessageBoxList.01_62.myText	Sierra six! Come in, sierra six! I can't reach the captain anymore, LT. We're on our own.
+myWicedMap.myMissionStats.myMessageBoxList.01_62.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_63.myText	We should be able to handle a single check-point. Lead the way, lieutenant.
+myWicedMap.myMissionStats.myMessageBoxList.01_63.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_64.myText	We should ride in the humvee, sir. It'll take us there a lot faster.
+myWicedMap.myMissionStats.myMessageBoxList.01_64.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.01_65.myText	They're back! Button up and make sure you lead them enough!
+myWicedMap.myMissionStats.myMessageBoxList.01_65.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_66.myText	Can't be many left now!
+myWicedMap.myMissionStats.myMessageBoxList.01_66.myPortraitText	BRADLEY
+myWicedMap.myMissionStats.myMessageBoxList.01_67.myText	Target, tank! Load Sabot! Watch those APCs!
+myWicedMap.myMissionStats.myMessageBoxList.01_67.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_68.myText	They’re retreating. Keep the pressure up! And stay in formation!
+myWicedMap.myMissionStats.myMessageBoxList.01_68.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_69.myText	First and second platoon on me! Let’s finish them off!
+myWicedMap.myMissionStats.myMessageBoxList.01_69.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.01_70.myText	Well, I hope you find them. Our orders were to stay here until 1400 hours. Thanks again.
+myWicedMap.myMissionStats.myMessageBoxList.01_70.myPortraitText	M60 TANK COMMANDER
+myWicedMap.myLocStrings.AssistBannon	Assist Bannon:

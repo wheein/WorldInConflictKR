@@ -1,0 +1,39 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myUiName	Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myWeCapturedText	We captured the Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myWeLostText	We lost control of the Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myEnemyCapturedText	Enemy captured the Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myUiName	POW Camp
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myWeCapturedText	We captured the the POW Camp
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myWeLostText	We lost control of the POW Camp
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myEnemyCapturedText	Enemy captured the POW Camp
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myUiName	Airfield
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myWeCapturedText	We captured the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myWeLostText	We lost control of the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myEnemyCapturedText	Enemy captured the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myUiName	Temple
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myWeCapturedText	We captured the Temple
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myWeLostText	We lost control of the Temple
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myEnemyCapturedText	Enemy captured the Temple
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myUiName	Crash Site
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myWeCapturedText	We captured the Crash Site
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myWeLostText	We lost control of the Crash Site
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myEnemyCapturedText	Enemy captured the Crash Site
+myWicedMap.myMissionStats.myName	do_Apocalypse
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	Deep in the jungles of the Mekong, Soviet and U.S. forces struggle for possession of a vital intelligence dispatch.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(3).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(4).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(5).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(6).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(7).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(8).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(9).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(10).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(11).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(12).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(13).myText	APOCALYPSE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(14).myText	APOCALYPSE

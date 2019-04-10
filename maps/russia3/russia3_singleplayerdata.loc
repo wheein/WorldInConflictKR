@@ -1,0 +1,312 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	Yesterday, the southern factory collectives reported production levels 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	far exceeding the quotas set for the period. The General Secretary conveyed his heartfelt pride to be the leader of such an industrious people.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	Yesterday also brought news of a minor skirmish involving NATO infiltrators.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	They were swiftly hunted down by our -- We were still in
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	Norway when we heard the news. Several NATO battalions had been airdropped
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	inside our country and I think many of us were shaken to the core that day. Our image of the invulnerable motherland cracked in a way that could not be easily mended.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	Captain Malashenko loudly proclaimed that he would smear the ground red with the blood of the NATO bastards who had dared to enter our homeland. The Colonel tried to calm us, saying that there would be blood shed soon enough. But we didn't
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide8.myText	settle down until we had boarded the planes back home - our fiery rage doused with cold determination, and vengeance foremost on our mind.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide9.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.KillScouts.myDescription	Destroy the NATO scouts
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.KillScouts.myLongDescription	NATO has sent several long range reconnaissance teams into the area and now they are hiding like vermin in the forests around the camp. We have sent out helicopters to locate them and you are to fire upon all enemy units they find.\n\nTo complete this objective you must destroy all enemy units found by our helicopters.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.KillScouts.myVisualisationText	Destroy the NATO scouts
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldNorth.myDescription	Hold the northern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldNorth.myLongDescription	Captain Malashenko will hold the outer perimeter while you support him with artillery fire. Each NATO attack will be indicated by a signal flare. Be observant and make sure you provide all fire support that is needed.\n\nTo complete this objective you must prevent NATO from capturing and fortifying the position marked on the map.\n\nYou will fail the mission if NATO captures and fortifies the position, or if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldNorth.myVisualisationText	Hold the northern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldSouth.myDescription	Hold the southern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldSouth.myLongDescription	Captain Malashenko will hold the outer perimeter while you support him with artillery fire. Each NATO attack will be indicated by a signal flare. Be observant and make sure you provide all fire support that is needed.\n\nTo complete this objective you must prevent NATO from capturing and fortifying the position marked on the map. \n\nYou will fail the mission if NATO captures and fortifies the position, or if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldSouth.myVisualisationText	Hold the southern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldBoth.myDescription	Hold the entire perimeter
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldBoth.myLongDescription	Captain Malashenko will hold the outer perimeter while you support him with artillery fire. Each NATO attack will be indicated by a signal flare. Be observant and make sure you provide all fire support that is needed.\n\nTo complete this objective you must prevent NATO from capturing and fortifying the position marked on the map.\n\nYou will fail the mission if NATO is allowed to capture and fortify any of the two perimeter defenses, or if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldBoth.myVisualisationText	Hold the entire perimeter
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldQuarry.myDescription	Hold the quarry
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldQuarry.myLongDescription	The relentless enemy attacks have forced us to tighten the perimeter around the quarry. You must continue to use your artillery to deny NATO access to the quarry proper.\n\nTo complete this objective you must prevent NATO from capturing and fortifying the point marked on your map.\n\nYou will fail the mission if NATO is allowed a foothold.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldQuarry.myVisualisationText	Hold the quarry
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Rendezvous.myDescription	Rendezvous with the helicopters
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Rendezvous.myLongDescription	We finally have some helicopter support and you are to command them, lieutenant. Move your heavy guns to the position indicated on the map and take command of the helicopters stationed there. The artillery will then be commanded by the Colonel.\n\nTo complete this objective you must move to the position marked on your map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Rendezvous.myVisualisationText	Rendezvous with the helicopters
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectPOW.myDescription	Protect the POW camp
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectPOW.myLongDescription	The final NATO assault is at hand. They've broken through both our defense screens and now they're moving against the actual POW camp. Destroy them until the assault is broken.\n\nTo complete this objective you must prevent NATO from capturing and fortifying the POW camp.\n\nYou will fail the mission if NATO manages to capture the camp.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ProtectPOW.myVisualisationText	Protect the POW camp
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldApproaches.myDescription	Hold the approaches
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldApproaches.myLongDescription	Captain Malashenko will hold the outer perimeter while you support him with artillery fire. Each NATO attack will be indicated by a signal flare. Be observant and make sure you provide all fire support that is needed.\n\nTo complete this objective you must prevent NATO from capturing and fortifying the position marked on the map.\n\nYou will fail the mission if NATO is allowed to capture and fortify any of the two perimeter defenses, or if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldApproaches.myVisualisationText	Hold the approaches
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.ArtilleryAlive.myDescription	Keep your units intact
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.ArtilleryAlive.myLongDescription	Those Pions have exceptional firepower and therefore constitute the most important part of our defense. Make sure you keep them well protected.\n\nTo complete this objective you must ensure that no artillery units are destroyed.\n\nYou will fail this objective if any artillery units are destroyed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.ArtilleryAlive.myVisualisationText	Keep your units intact
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyArtillery.myDescription	Destroy the enemy artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyArtillery.myLongDescription	NATO has brought in long range rocket launchers and they are now targeting our positions. Use your helicopters to locate and destroy them before they become a real nuisance.\n\nTo complete this objective you must locate and destroy all enemy artillery pieces on the map.\n\nYou will fail this objective if you haven't destroyed them before they pull back.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyArtillery.myVisualisationText	Destroy the enemy artillery
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.TutorialObjective_14_06.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.TutorialObjective_14_06.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.TutorialObjective_14_06.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AttackGround.myHeader	COMBAT SCHOOL - Attack Ground
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AttackGround.myText	To attack unoccupied buildings or ground areas, you press and hold the attack ground button (default: F) and then left-click on your chosen target area. Artillery must always be targeted this way.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_01.myText	Good. You're finally here. What kept you, Romanov?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_01.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_02.myText	Lieutenant Romanov. I want you to command the artillery section. We have spotted several enemy scout teams hiding in the forest and our helicopters are looking for them now. 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_02.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_03.myText	Well done. We've destroyed their eyes and ears.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_03.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_04.myText	Malashenko! You are responsible for the outer defenses. We'll try to hold them there for as long as we can.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_04.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_05.myText	The NATO attack is imminent. Captain Malashenko will hold the outer perimeter but you must support him with artillery fire, Romanov. We cannot lose here today.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_05.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_06.myText	We will fire signal flares to signal an impending attack, lieutenant. Several flares indicate a heavy attack. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_06.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_07.myText	This is Malashenko. NATO units are attacking from the north! I need fire support at once!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_07.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_08.myText	They are attacking again! Keep those shells coming, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_08.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_09.myText	Romanov! NATO helicopters just offloaded infantry units to our rear. They will target your artillery battery.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_09.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_10.myText	NATO will also use counter-artillery to destroy you. Stay on the move to avoid those barrages.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_10.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_11.myText	More NATO troops just landed in our rear. Protect your artillery, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_11.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_12.myText	They're giving up for now. Don't let them get away, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_12.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_13.myText	When the assault begins they will target your artillery, Romanov. Make sure you keep it well protected. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_13.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_14.myText	I told you to protect that artillery, Romanov! Make sure you don't lose any more of them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_14.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_15.myText	You kept all your cannons intact, lieutenant. Excellent.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_15.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_16.myText	They will attack again. You must hold for as long as possible.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_16.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_17.myText	NATO units attacking from the south! I need fire support, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_17.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_18.myText	They are sending helicopters to take out your artillery, Romanov. Use your Shilkas to fight them off.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_18.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_19.myText	Mind your people, lieutenant. You have another incoming attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_19.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_20.myText	Here they come again, Romanov. We're depending on you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_20.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_21.myText	They're pulling back. Thank you, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_21.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_22.myText	They haven't given up yet. Expect renewed attacks any minute now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_22.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_23.myText	Work those guns, Romanov! We have enemies all over the perimeter! They are coming at us from both the north and the south.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_23.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_24.myText	Protect your units, lieutenant. NATO is still making probes to our rear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_24.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_25.myText	They are renewing their attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_25.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_26.myText	Pour it into them, Romanov! I won't let them pass!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_26.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_27.myText	Incoming NATO bombers! Pull back Malashenko! Pull back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_27.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_28.myText	Sokol-1 here. Move your units to the quarry entrances. We'll defend from there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_28.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_29.myText	I am engaging NATO units all along the perimeter. Request fire support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_29.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_30.myText	I need more fire support! NATO is making a renewed assault!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_30.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_31.myText	They must breed like flies, these NATO soldiers. How many of them are there?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_31.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_32.myText	They are attacking all along the perimeter. Use any means necessary to keep them at bay, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_32.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_33.myText	The prisoners are being evacuated to the woods nearby until we can get some transports to pick them up.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_33.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_34.myText	Sokol-1 here. I have some good news. Our Frontal Aviation comrades have finally deigned to send us some helicopter support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_34.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_35.myText	Romanov! I want you to command these helicopters while I direct the artillery fire. Move your units to the rendezvous point.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_35.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_36.myText	You did a commendable job leading that artillery battery, lieutenant. Now show me the same sound tactical sense when commanding the helicopters.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_36.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_37.myText	Govorit Malashenko. We're moving toward the barracks.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_37.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_38.myText	Good, captain. There we must make our last stand.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_38.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_39.myText	They are coming. Use all available fire support assets to destroy them, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_39.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_40.myText	More NATO troops are arriving!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_40.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_41.myText	NATO assault incoming!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_41.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_42.myText	They're coming at us again!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_42.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_43.myText	They can't have much strength left, Romanov. Crush this assault and we'll force them to retreat.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_43.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_44.myText	Finally. NATO is retreating. Do not pursue.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_44.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_45.myText	But, uncle! We must -
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_45.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_46.myText	We have been declared combat ineffective, captain. Fifth battalion will pursue. I want a casualty count as soon as possible. The camp is safe for now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_46.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_47.myText	Romanov. Seek out and destroy the NATO artillery before they cause too much damage.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_47.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_48.myText	Well done, Romanov. Well done indeed. That should give us some respite. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_48.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_49.myText	You failed to destroy that artillery, and now they are wreaking havoc to our rear. Next time I expect you to do better. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_49.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_50.myText	Malashenko here. What is happening up north?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_50.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_51.myText	Last word was that NATO intruders were moving against our naval base near Polyarnyy. The attack on this camp seems to be in support of that move.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_51.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_52.myText	Ubljudki! We will root them out wherever they attack. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_52.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_53.myText	The helicopters will mark the enemy positions. Fire on all enemy units they find. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_53.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_54.myText	That was a good hit, lieutenant. But there are more scouts out there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_54.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_55.myText	You know what to do, Romanov. Give Captain Malashenko all the support he needs.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_55.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_56.myText	Romanov! Between your artillery guns and my tanks we will kill these NATO infiltrators to the last man!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_56.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_57.myText	Good. If we pin them down here we might aid our comrades at Polyarnyy. If it's not too late already.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_57.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_58.myText	Malashenko here. I will hold you personally accountable for any friendly fire, Romanov. Make sure you fire on the enemy, not us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_58.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_59.myText	The lieutenant knows what he is doing, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_59.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_60.myText	I hope so. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_60.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_61.myText	Incoming fire, Romanov! Change your position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_61.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_62.myText	I have ordered the prisoners to be taken to the bomb shelters. We will keep them there until the battle is over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_62.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_63.myText	Malashenko here. Why don't we just execute the prisoners and be done with it?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_63.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_64.myText	Because we are better than the enemy and we will prove it by keeping the prisoners alive.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_64.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_65.myText	Don't worry, Sokol-1. The more they send, the more we will kill.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_65.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_66.myText	Ja, Sokol-1. I just got a report saying that our comrades won a crushing victory near Polyarnyy this morning. The NATO intruders were destroyed to the last man and the naval base was saved.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_66.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_67.myText	Then we will finish the job here, and teach NATO once and for all not to violate our motherland!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_67.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_68.myText	I wouldn't trust those reports to be completely accurate, captain -
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_68.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_69.myText	It does not matter. Every NATO soldier here will die today. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_69.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_70.myText	You have incoming rounds, Romanov! Reposition your people at once!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_70.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_71.myText	Malashenko to Sokol-1. Do we have any estimate of enemy strength?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_71.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_72.myText	The GRU estimated a battalions worth.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_72.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_73.myText	Kozli prokljatie! Those damn dilettantes should be shot for providing such faulty intelligence. I'm fighting an entire regiment of troops here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_73.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_74.myText	Mind what you are saying, captain. This is an open channel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_74.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_75.myText	I don't care. How can we fight a war when we can't even trust our own people?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_75.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_76.myText	Enough. See to the battle at hand. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_76.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_77.myText	Sokol-1 here. NATO has breached the outer perimeter! Push them back, Malashenko! Romanov will aid you with artillery fire.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_77.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_78.myText	Ja, Sokol-1. The perimeter has been breached! Don't let them get a foothold!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_78.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_79.myText	This is Sokol-1. NATO has breached the perimeter and our defenses are collapsing. We will pull back and rally at point two-four.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_79.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_80.myText	We have NATO troops approaching from the north. And my men to the south have spotted more enemy troops on the move!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_80.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_81.myText	They will attack from both directions at once. Hold for as long as possible and then move to alternate defense positions when I give the word.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_81.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_82.myText	Sokol-1 to Malashenko. What is your situation?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_82.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_83.myText	We are destroying NATO vehicles by the dozen. Yet, I'm not sure if it is enough.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_83.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_84.myText	Try to hold on for a while longer. Reinforcements have been sent.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_84.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_85.myText	The only way NATO will come through here is if I am dead. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_85.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_86.myText	You have incoming artillery again, Romanov! Move your units out of the impact area!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_86.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_87.myText	More NATO helicopters have been spotted. Position your Shilkas so that your artillery is protected.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_87.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_88.myText	They are sending a second helicopter squadron against you, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_88.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_89.myText	Govorit Malashenko. We are moving to the alternate defensive positions now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_89.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_90.myText	Understood. I am repositioning my units. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_90.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_91.myText	Govorit Malashenko! I have incoming artillery fire on all my positions!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_91.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_92.myText	Pull back to the barracks area! I will send Romanov after the artillery.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_92.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_93.myText	Ja, Sokol-1. NATO are digging in down in the quarry. Destroy them before it's too late!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_93.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_94.myText	This is Sokol-1! The enemy has broken through our defenses and they now hold the quarry. We have to retreat. Rally at point two-four. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_94.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_95.myText	What are you waiting for, Romanov! Get your butt to the rendezvous point now!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_95.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_96.myText	Sokol-1 here! We are losing the camp! I want everyone to push the enemy back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_96.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_97.myText	Sokol-1 to all elements. We have lost the camp. All units retreat. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_97.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_98.myText	Well done, lieutenant. Continue to search and destroy. But watch out for enemy anti-air defenses.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_98.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_99.myText	Excellent, Romanov. Another artillery unit put out of action.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_99.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_101.myText	Govorit Malashenko! I have incoming mortars! There must be NATO spotters with those scouts.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_101.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_102.myText	More incoming shells! Kill those scouts!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_102.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_103.myText	Romanov, my men are taking fire because of your worthlessness. Wipe those bloody scouts out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_103.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_104.myText	Get a hold of yourself, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_104.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_105.myText	Ja, Troika. We have movement in the treeline.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_105.myPortraitText	TROIKA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_106.myText	Govorit Troika. Enemy scouts spotted.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_106.myPortraitText	TROIKA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_107.myText	Troika here. NATO scouts have been located.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_107.myPortraitText	TROIKA
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_108.myText	Remember that your Shilkas can level their guns against ground attacks.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_108.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_109.myText	I'm also giving you fire support priority to help defend the camp.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_109.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_110.myText	Romanov! Lieutenant Romanov, come in! Come in! Chyort!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.rus3_110.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	Your masterful use of artillery and air support helped protect the camp and the valuable prisoners held there. Together with the decisive victory won by our forces near Polyarnyy, your achievements have taught NATO not to risk another raid into our homeland.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	The camp has been lost and the prisoners with it. We will now have a hard time bargaining for the return of our officers held prisoner by NATO. You have been deemed unfit for command and will be sent to a corrective labor colony in Siberia where it is hoped you will learn discipline and proper moral values.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_01.myTitle	Attack Ground
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_01.myText	To attack a specific location, hold [[LT]] and press [[X]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_02.myTitle	Unit Pane
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_02.myText	To select units out of view, hold [[RT]] and use [[LS]] and [[A]] mark units.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_03.myTitle	Hold Fire
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_03.myText	To have units hold fire, hold [[LT]] and press [[B]]. Press again to resume fire.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_04.myTitle	Offensive Special Ability
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_04.myText	To have Medium Anti-Air fire upon ground units, use its special ability by pressing [[B]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_05.myTitle	Companies
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_05.myText	To move the camera directly to a company, double-tap the corresponding direction on the [[DP]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_06.myTitle	Repairing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_14_06.myText	Damaged helicopters may be repaired by moving them close to the repair tank.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP4.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP4.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP4.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP4.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP3.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_ProtectPOWCP1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Chasm.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Chasm.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Chasm.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Chasm.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_RailyardEntrance.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_RailyardEntrance.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_RailyardEntrance.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_RailyardEntrance.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Crossing.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radar.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radar.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radar.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Radar.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Quarry.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Quarry.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Quarry.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Quarry.myEnemyCapturedText	<empty>

@@ -1,0 +1,38 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Suburb
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Suburb
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Suburb
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Suburb
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Power Plant
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Power Plant
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Power Plant
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Power Plant
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Crash Site
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Crash Site
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Crash Site
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Crash Site
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	Train Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the Train Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the Train Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the Train Station
+myWicedMap.myMissionStats.myName	do_Powerplant
+myWicedMap.myMissionStats.mySPName	%02d - Beyond the Iron Curtain
+myWicedMap.myMissionStats.myDescription	A snow covered power plant constitutes one of several strategic targets when a NATO task force makes a foray into the Soviet Union.
+myWicedMap.myMissionStats.mySPDescription	A prototype stealth plane has crash-landed on the Kola Peninsula not far from Murmansk. It is carrying vital intelligence information and the wreckage must not fall into enemy hands. Your mission is to infiltrate into Russia to retrieve the intelligence package, rescue the pilots and destroy what remains of the aircraft.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	POWERPLANT
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	POWERPLANT
+myWicedMap.myLocStrings.PowerTimer	Destroy the Power Plant: 
+myWicedMap.myLocStrings.HoldCrashTimer	Secure and hold the crash site: 
+myWicedMap.myLocStrings.Ru_ETA_Zero	Russian Main Forces Arrive In: 

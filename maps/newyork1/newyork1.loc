@@ -1,0 +1,39 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myUiName	Barracks
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myWeCapturedText	We captured the Barracks
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myWeLostText	We lost control of the Barracks
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovEast.myEnemyCapturedText	Enemy captured the Barracks
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myUiName	Craig Road
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myWeCapturedText	We captured Craig Road
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myWeLostText	We lost control of Craig Road
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovWest.myEnemyCapturedText	Enemy captured Craig Road
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myUiName	South Beachhead
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myWeCapturedText	We captured the South Beachhead
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myWeLostText	We lost control of the South Beachhead
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovSouth.myEnemyCapturedText	Enemy captured the South Beachhead
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myUiName	Fort
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myWeCapturedText	We captured the Fort
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myWeLostText	We lost control of the Fort
+myWicedMap.myInstanceData.myAreaInstances.CP_MP_GovNorth.myEnemyCapturedText	Enemy captured the Fort
+myWicedMap.myMissionStats.myName	do_Liberty
+myWicedMap.myMissionStats.mySPName	%02d - Liberty Lost
+myWicedMap.myMissionStats.myDescription	The Statue of Liberty bears witness to a pitched battle between U.S. and Soviet forces in the New York Upper Bay.
+myWicedMap.myMissionStats.mySPDescription	Soviet Spetsnaz commandos have infiltrated and taken control of Ellis and Governors Island. In the process they captured a lot of U.S. equipment and took several soldiers and VIPs prisoner. You will work in conjunction with a company of army rangers to rescue the prisoners and clear the islands.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	LIBERTY
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	LIBERTY
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1Primary.myDescription	Neutralize the Soviet incursion of the Upper New York Bay.
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1Primary.myLongDescription	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.Obj1Primary.myVisualisationText	<empty>
+myWicedMap.myLocStrings.TimeToNuke	Incoming Airstrike in: 

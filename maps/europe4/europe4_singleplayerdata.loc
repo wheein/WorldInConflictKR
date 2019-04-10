@@ -1,0 +1,291 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	The small band of ragged defenders fleeing the nuclear explosion in Cascade Falls
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	had come a long way from the proud battalion landing in France in the early fall of 1989. It was months before the invasion of Seattle and the Third World War had already been raging in Europe for several weeks.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	The outbreak had been sudden if not unexpected. High level diplomatic talks were still going on when Russian tanks started rolling through the Fulda Gap and on into West Germany. The diplomats had failed and the armies had taken over.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	The US Sixth Fleet was destroyed during the initial fight, and the Russians followed their success 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	with an amphibious landing near Marseille. The French army was pushed back hard,
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	but US reinforcements soon arrived to join a counterattack aimed at throwing the Russians
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	back into the Mediterranean. We were all part of that endeavor; the unproven warriors of our generation, spoiling for a fight and happy that our time had finally come.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide8.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lighthouse.myDescription	Secure the Soviet fire base
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lighthouse.myLongDescription	The Russians have placed a remote firebase near the light house. You are to strike deep into enemy territory and destroy this fire base before the artillery there can cause any more damage. Then you must secure the area.\n\nTo complete this objective you must capture the hill and build fortifications there before the time expires.\n\nYou will fail the mission if you do not complete the objective within the allotted time.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Lighthouse.myVisualisationText	Secure the Soviet fire base
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myDescription	Clear out the village defenders
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myLongDescription	The Russians have built numerous fortifications in the village. Clear these out to secure the area. And watch for infantry hiding in the buildings. They should be handled as well.\n\nTo complete this objective you must destroy all Soviet fortifications in the village.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myVisualisationText	Clear out the village defenders
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myDescription	Hold the village
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myLongDescription	The Russians are mounting a large counter-attack against the village. Hold out for as long as it takes.\n\nTo complete this objective you must hold your position until the Soviet attack has been spent.\n\nYou will fail the mission if the Russians manage to capture and fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.CounterAttack.myVisualisationText	Hold the village
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Vineyard.myDescription	Clear the vineyard
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Vineyard.myLongDescription	On your way to the light house you should clear the vineyard of Russian forces. That will allow us to expand our front and lessen the strain on our supply lines.\n\nTo complete this objective you must destroy all Soviet units located at the vineyard.\n\nYou will fail this objective if you haven’t captured the vineyard before the next phase of the attack is begun.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.Vineyard.myVisualisationText	Clear the vineyard
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.AA.myDescription	Save the AA
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.AA.myLongDescription	The Russians are using our own anti-air defense against us. Recapture these units if possible.\n\nTo complete this objective you must secure the fire base without destroying the AA-units.\n\nYou will fail this objective if all AA-units are destroyed
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.AA.myVisualisationText	Save the AA
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillInf.myDescription	Kill the hidden infantry
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillInf.myLongDescription	Soviet infantry units hiding in the forest are ambushing you. Use any means necessary to kill them.\n\nTo complete this objective you must kill all the infantry units marked on the map.\n\nYou will fail the objective if you don’t kill the marked units before the mission is completed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillInf.myVisualisationText	Kill the hidden infantry
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BaseBuilding.myDescription	Establish defensive positions
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BaseBuilding.myLongDescription	The Russians are preparing to counterattack the village and you have a limited amount of time to prepare your defenses. You will have to choose between fortifying many points lightly or putting all your effort into a few well defended strongpoints.\n\nTo complete this objective you must erect at least one fortification at three of the many positions in and around the village.\n\nYou will fail this objective if you haven’t built any fortifications before the Russians attack.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BaseBuilding.myVisualisationText	Establish defensive positions
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneChanged.myString	Your drop zone has changed
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.dropZoneExpanded.myString	Your drop zone has expanded
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.newUnits.myString	You have been given command of new units
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenTA.myString	You have been given access to support weapons
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcments.myString	You have been given access to reinforcments
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReward.myString	You have been given a reward
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.maxAPRaised.myString	Your max AP has been raised.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.addTAPoints.myString	Your max TA points has been raised.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.givenReinforcmentsAndTA.myString	You have been given access to reinforcments and support weapons.
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.artyGiven.myString	You can now order down two free heavy artillery (M270).
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myHeader	COMBAT SCHOOL - Free Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myText	Sometimes you will be rewarded with a “free” unit. These are ordered from the Reinforcements Menu as usual but no points will be deducted from your Reinforcements Points pool, and if such a unit is destroyed it will not be replaced.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.Briefing.myText	BRIEFING: When war wore broke out in Europe the Soviet Black Sea Fleet destroyed the US 6th Fleet in a surprise attack. They then proceeded to launch an amphibious invasion near Marseille. NATO units have managed to contain the Soviet invaders but they have been unable to push them back. With the help of recently arrived US troops under the command of Colonel Sawyer it is hoped that a counter-offensive will be successful in pushing the Russians back into the sea.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.Briefing.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_01.myText	Time for you to prove my faith in you, Lieutenant Parker. While Captain Bannon keeps Ivan occupied to the south you are to strike deep at a fire base located near the light house. Those guns are causing a lot of damage so the sooner you get this done the better.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_01.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_02.myText	And Parker! You'll command a NATO unit. I expect you to show them the true mettle of an American officer. Eagle Six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_02.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_03.myText	Lieutenant, over here, cowards die a coward’s death. Keep that in mind and you will do well.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_03.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_04.myText	This is Bannon! I have enemy contact! Parker! Get your tanks over here and reinforce us!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_04.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_05.myText	You belay that order, Parker! Bannon, you will fend for yourself! Parker's mission is to destroy that firebase and it's not your prerogative to give him any orders. Is that understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_05.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_06.myText	Yes, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_06.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_07.myText	Well done, Parker! I'm giving you access to some of our artillery. Use it at your discretion.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_07.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_08.myText	Parker! Try to clear out that vineyard ahead so we can expand our supply lines.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_08.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_09.myText	This is Eagle Six. You impress me, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_09.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_10.myText	Bannon come in! I want you to send a platoon to guard the vineyard.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_11.myText	This is Bannon. Couldn’t Parker use his own units for that, sir?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_11.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_12.myText	Negative, Bannon. Parker will need all his units to complete his objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_12.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_13.myText	I’m sure he will. Sir. I’ll send Third Platoon. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_13.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_14.myText	This is Eagle six. Parker, we just learned that Ivan is holding captured AA-vehicles near the light house. You should try to recapture them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_14.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_15.myText	At least you managed to get one of the AA-vehicles, Parker. I'm giving command of it to you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_15.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_16.myText	Excellent, Parker! I'm giving command of the AA to you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_16.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_17.myText	Captain Bannon! Give me a SITREP! Have you accomplished your objective?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_17.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_18.myText	Not yet, sir. Enemy strength greater than expected. I could use some back-up, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_18.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_19.myText	Negative. Stay in place and keep Ivan pinned. I’m sending Parker to retake the village instead. You hear that Parker? Clear out the village and report back. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_19.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_20.myText	Show no mercy, Lieutenant! Those rodents showed none to my people!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_20.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_21.myText	You’ve breached their defenses, Parker! Now, push the attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_21.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_22.myText	Keep it up and the village will be ours within the hour!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_22.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_23.myText	Not much remaining now, Parker. Finish them off.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_23.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_24.myText	The village is ours! You’re shaping up to be a fine leader, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_24.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_25.myText	Eagle six, this is Foxtrot Six. My scouts report that the Russians are preparing a counterattack against the village! We’re fully engaged here and I have no men to spare!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_25.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_26.myText	Understood, Foxtrot Six. We’ll handle it. Parker! Prepare what defenses you can. You don’t have much time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_26.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_27.myText	I hope you spent your time well, Lieutenant. Those defenses will soon be needed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_27.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_28.myText	Without proper defenses you will be hard put to defend the village, Parker. I hope you’ve taken this into account.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_28.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_29.myText	This is Foxtrot six. My scouts now tell me that the Russians are on the way. You better be ready Lieutenant! Those are my men you’re leading!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_29.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_30.myText	You heard him, Parker. The village must not fall. Bannon will support you from his position at the lighthouse. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_30.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_31.myText	Don’t forget to cover your flanks, Lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_31.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_32.myText	They’ll come at you again. Call in what reinforcements you can!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_32.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_33.myText	Don’t forget to call in fire support, Lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_33.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_34.myText	Parker! The village is about to fall! You need to get your people organized and drive Ivan out of there!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_35.myText	Damn it! We lost the village. Seems my confidence in you was misplaced Lieutenant. Perhaps you weren’t ready for command just yet. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_35.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_36.myText	The village is safe, Parker! And we’ve started on the path that will see Ivan thrown out of France. Well done!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_37.myText	You show some skill lieutenant. And it seems you've earned the respect of my men. Tres Bien.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_37.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_38.myText	Eagle Six, this is Bannon! We’ve destroyed the enemy and secured the base, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_38.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_39.myText	And none too soon either. I want you to relocate to the light house and take up firing positions there.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_39.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_40.myText	But sir, what good can we do from there?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_40.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_41.myText	You will have to stop questioning every order I give you, Captain, or you will find yourself transferred to another battalion. Is that clear?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_41.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_42.myText	Yes, sir. Moving to the lighthouse now. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_42.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_43.myText	This is Foxtrot six. My aviation company has engaged the enemy and my ground forces will soon be in contact.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_43.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_44.myText	Foxtrot six here. The bastards are fighting hard! But we’ll crush them, by god!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_44.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_45.myText	This is Foxtrot six! The rodents are retreating! This day will soon be ours!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_45.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_46.myText	You should be more careful with what you shoot at in the future, Lieutenant. Those AA-units would’ve been useful.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_46.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_47.myText	Good Parker, now don’t lose that position again!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_47.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_48.myText	Parker! Get the hell out of my way and focus on your objective!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_48.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_49.myText	You heard him, Lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_49.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_50.myText	I don’t need your help, Parker! Don’t you have a mission to accomplish?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_50.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_51.myText	You have your orders, Parker. Bannon’s people can manage by themselves. Disobey me again and I will relieve you of command. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_51.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_52.myText	What are you doing here, Lieutenant? I thought the Colonel had other orders for you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_52.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_53.myText	I did. And you’d be wise to follow them Lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_53.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_54.myText	If you cannot solve your own objectives you are not fit to lead my men, Lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_54.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_55.myText	He’s right, Parker! Get back to your objective or your command will be a short one.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_55.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_56.myText	That artillery is hurting my men! What is keeping you lieutenant?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_56.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_57.myText	Parker! Don't they teach you anything useful at West Point? That damn artillery is landing all over my tanks!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_57.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_58.myText	Parker! You were ordered to take out that fire base. If you can't accomplish your objective I'll find someone who will!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_58.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_59.myText	Parker! Ivan will be back soon. I suggest you speed up with getting those positions up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_59.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_60.myText	Eagle six to Foxtrot six! Give me a SITREP.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_60.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_61.myText	Foxtrot six, here. We are holding, colonel. But their anti air defenses are proving a nuisance
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_61.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_62.myText	Roger that. I'll se about getting you some reinforcements. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_62.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_63.myText	Lieutenant! You are being ambushed by Soviet infantry hiding in the forest! Call in some napalm on those bastards!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_63.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_64.myText	Parker! Be careful when you approach the hill. They’ll have fighting positions set up on the forward slope with the advantage of elevation.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_64.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_65.myText	Sir, shouldn't the lieutenant know this stuff already? I mean, a West Point graduate and all that?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_65.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_66.myText	I do not appreciate sarcasm from my subordinates, captain. You mind your own business until told otherwise, understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_66.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_67.myText	Yes, sir. Sorry, sir.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_67.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_68.myText	Don’t be sorry, captain. Just do your job!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_68.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_69.myText	Lieutenant. You've entered the camp. Destroy all enemy artillery vehicles in sight.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_69.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_70.myText	And we would prefer if you did it at once, lieutenant. My men are suffering here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_70.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_71.myText	Lieutenant! If you secure that vineyard your units could get into combat a lot faster. 
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_71.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_72.myText	And watch where you call in your fire support so you don't destroy the AA units by mistake, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_72.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_73.myText	But watch out for infantry hiding in those townhouses, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_73.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_74.myText	My men say you are doing good, lieutenant. Don't lose their trust now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_74.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_75.myText	Urban combat is a dangerous discipline, lieutenant. Make sure you protect your flanks at all time. And remember to respect your enemy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_75.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_76.myText	What's to respect, sir? They're a sorry bunch.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_76.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_77.myText	This is a lethal environment, captain. As I'm sure you will learn soon enough. The moment you stop respecting Ivan is the moment you will find yourself dead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_77.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_78.myText	You should listen to your commander, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_78.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_79.myText	Ah, yes, commandant. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_79.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_80.myText	Didn't seem that much of a fight to me.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_80.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_81.myText	Keep your opinions to yourself, captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_81.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_82.myText	Eagle six, this is Bannon. What is our policy regarding prisoners, sir?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_82.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_83.myText	What are you suggesting captain? We follow the Geneva Convention, but if they refuse to surrender you shouldn’t hesitate to shoot them. Is that clear enough for you?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_83.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_84.myText	Crystal clear, sir. Bannon out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_84.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_85.myText	They should send some our way, dammit! What the hell are we doing up here!?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_85.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_86.myText	You're holding the high ground, captain. Now stay off the air unless you have something useful to report.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_86.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_87.myText	You are obviously not ready for command, lieutenant. I'll have to find another commander to take that hill for me.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_87.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_88.myText	Damn you Parker! I warned you about disobeying my orders! You are dismissed!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_88.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_89.myText	You should deal with those Soviet soldiers in the woods, lieutenant. Burn them out like cockroaches!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_89.myPortraitText	SABATIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_90.myText	Good work, lieutenant. That infantry won't bother us anymore. I'm giving you access to some additional fire support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_90.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_91.myText	You missed taking out that infantry, Parker. We’ll have to leave them to the mop-up people.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_91.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_92.myText	Ivan is pulling back! Don't pursue. Others will take care of the mop-up operation.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.e4_92.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	The first attack of the NATO counteroffensive in southern France has proven a resounding success.  Due to your efforts the Soviet forces have been pushed back several kilometres. Now is the time to reinforce that success and continue the attack until the Russians have been defeated.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	The counteroffensive has failed, and it will be months before NATO has gathered enough strength to try again. It will do so without you, however, since you have been deemed unworthy of command and sent back home to the U.S. for further training.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_09_01.myTitle	Companies
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_09_01.myText	You can divide your units into companies for easier access. Select any units and hold a direction on [[DP]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_09_02.myTitle	Armor Facing
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_09_02.myText	Tanks have heavier armor towards the front. Hold [[A]] and change facing using [[LS]].
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_09_03.myTitle	Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_09_03.myText	Napalm Strikes are highly effective against infantry and clearing paths through woods.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_3.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_4.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_4.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_4.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TakeCity_4.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_3.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_4.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_4.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_4.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_4.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_5.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_5.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_5.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_5.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_6.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_6.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_6.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_City_6.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hill.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hill.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hill.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Hill.myEnemyCapturedText	<empty>

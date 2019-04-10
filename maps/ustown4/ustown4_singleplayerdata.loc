@@ -1,0 +1,361 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	By blowing the highway bridge we actually managed to slow the Russians down... for a while. 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	The Colonel led us south and we met little resistance along the way, but Bannon and Charlie Company kept lagging behind. Bannon blamed the mud but I think he was secretly hoping to get away from the colonel.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	Eventually, we reached a small town called Pine Valley. It was decided that we would make a stand there and wait for reinforcements.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	But first we had to retake the town from the airborne forces that had gotten there ahead of us. Most of the men hadn't slept for two or three days and the Colonel only allowed
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	a few hours of rest. But I never heard a complaint. Everybody knew what was at stake and what we were fighting for.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGas.myDescription	Secure the gas station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGas.myLongDescription	Soviet Units are already occupying Pine Valley. In order to reclaim the town we are mounting a hasty attack against perimeter targets. First reclaim the gas station and then dig in. Further orders will be given once the objective has been accomplished.\n\nTo complete this objective you must capture the position by the gas station and build fortifications there.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeGas.myVisualisationText	Secure the gas station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myDescription	Clear the way into Pine Valley
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myLongDescription	Phase two of the attack to retake Pine Valley has begun. You are ordered to clear three enemy defensive positions along the outer perimeter. Bannon and Charlie Company will attack along the western flank in direction of the Town Square with Webb and Alpha Company in support.\n\nTo complete this objective you must destroy the Soviet fortifications marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeCity.myVisualisationText	Clear the way into Pine Valley
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeTV.myDescription	Secure the TV station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeTV.myLongDescription	The remnants of the Soviet forces in Pine Valley have withdrawn to an assembly area at the TV station. They are using heavy artillery to shield all frontal approaches Flank around the impact area and destroy the enemy. Move around the artillery barrage, destroy all Soviet units at the TV station and secure the area.\n\nTo complete this objective you must capture the position marked on the map and destroy all enemies in the area.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeTV.myVisualisationText	Secure the TV station
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldMarket.myDescription	Defend the supermarket
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldMarket.myLongDescription	Although the main Soviet drive is expected to come from the northeast, supporting attacks are also expected through the suburbs against the supermarket. They must not be allowed to breakthrough. Hold the area until told otherwise.\n\nTo complete this objective you must hold the position marked on the map until ordered to do otherwise.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldMarket.myVisualisationText	Defend the supermarket
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReTakeMarket.myDescription	Secure the supermarket
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReTakeMarket.myLongDescription	The Soviets have opened a breach in our defenses at the supermarket. Make an immediate counterattack and seal the perimeter.\n\nTo complete this objective you must recapture the position marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.ReTakeMarket.myVisualisationText	Secure the supermarket
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldTownSquare.myDescription	Defend the Town Square
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldTownSquare.myLongDescription	You must defend the Town Square. If Pine Valley falls there will be nothing to stop the Soviet invasion force from continuing all the way to Oregon and beyond. Hold on for as long as it takes.\n\nTo complete this objective you must hold the position marked on the map until further notice.\n\nYou will fail the mission if the Russians manage to capture the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldTownSquare.myVisualisationText	Defend the Town Square
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeEntrance.myDescription	Retake the southeastern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeEntrance.myLongDescription	Webb's company has been forced back from their main defensive positions at the southeastern approach to Pine Valley. You are ordered to retake those positions.\n\nTo complete this objective you must capture the position marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.TakeEntrance.myVisualisationText	Retake the southeastern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldEntrance.myDescription	Hold the southeastern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldEntrance.myLongDescription	A renewed Soviet attack is expected shortly. You are to hold position at the southeastern approach until further notice.\n\nTo complete this objective you must hold the position marked on the map until told to do otherwise.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.HoldEntrance.myVisualisationText	Hold the southeastern approach
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MissouriTA.myDescription	Break the Soviet offensive
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MissouriTA.myLongDescription	The USS Missouri is available to provide heavy fire support. Call in heavy artillery fire upon the advancing Soviet forces until their offensive has been broken.\n\nTo complete the objective you must call in fire on the Russians until they decide to withdraw.\n\nYou will fail the mission if the Russians manage to capture the position at Town Square.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.MissouriTA.myVisualisationText	Break the Soviet offensive
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSniper.myDescription	Eliminate the Soviet sniper
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSniper.myLongDescription	A Soviet sniper has taken up position somewhere near the gas station. Locate and eliminate him.\n\nTo complete this objective you must locate and kill the Soviet sniper.\n\nYou will fail the objective is the sniper manages to sneak away.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillSniper.myVisualisationText	Eliminate the Soviet sniper
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myDescription	Destroy the Soviet artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myLongDescription	Soviet motorized mortars have been spotted near the research facility. They constitute a danger to all exposed infantry and should be destroyed if possible.\n\nTo complete this objective you must destroy the Soviet artillery pieces marked on the map.\n\nYou will fail the objective if you don't destroy the artillery before the way into Pine Valley has been cleared.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillArty.myVisualisationText	Destroy the Soviet artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HealBannon.myDescription	Help Captain Bannon with repairs
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HealBannon.myLongDescription	Bannon's company is hard pressed at the gas station and need help with repairs. Send a humvee there to sort things out and keep those tanks in the fight.\n\nTo complete this objective you must repair the tank belonging to Captain Bannon's company.\n\nYou will fail this objective if the tank is destroyed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.HealBannon.myVisualisationText	Help Captain Bannon with repairs
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveArtillery.myDescription	Aid the artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveArtillery.myLongDescription	A mobile mortar platoon has been caught behind the Soviet advance and now they're under attack. Help them if possible.\n\nTo complete the objective you must link up with the artillery near the research station and save them from the enemy attack.\n\nYou will fail the objective if the artillery is destroyed.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SaveArtillery.myVisualisationText	Aid the artillery
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillTvSpotter.myDescription	Eliminate the Soviet forward observer
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillTvSpotter.myLongDescription	In order to call in artillery at danger close range the Soviets must have a forward observer somewhere near the TV station. If you can eliminate him the artillery barrage will probably be lifted.\n\nTo complete this objective you must locate and kill the Soviet forward observer.\n\nYou will fail this objective if you don't kill the FO before the TV-station has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.KillTvSpotter.myVisualisationText	Eliminate the Soviet forward observer
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SOEArtillery.myDescription	Destroy the enemy mortars
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SOEArtillery.myLongDescription	The enemy is moving in mortar vehicles close to your position. Destroy them if possible.\n\nTo complete the objective you must locate and destroy the enemy mortars.\n\nYou will fail the objective if the mortars haven't been destroyed when you are given your next set of orders.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.SOEArtillery.myVisualisationText	Destroy the enemy mortars
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeCityInXMinutes.myDescription	Clear the strongpoints ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeCityInXMinutes.myLongDescription	The Soviet main force is not far out and the sooner we gain entry to the city the better.\n\nTo complete this objective you must destroy the Soviet fortifications before you run out of time.\n\nYou will fail the objective if you don't destroy the fortifications before the time is up.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.TakeCityInXMinutes.myVisualisationText	Clear the strongpoints ASAP
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjAttackGround.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjAttackGround.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjAttackGround.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjHoldFire.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjHoldFire.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.HelptipObjHoldFire.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___dropZoneChanged.myString	Your drop zone has changed
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___dropZoneExpanded.myString	Your drop zone has expanded
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___newUnits.myString	You have been given command of new units
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___newTank.myString	You have been given command of a new tank. It is currently located at your dropzone
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___newUnit.myString	You have been given command of a new unit
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___givenTA.myString	You have been given access to support weapons
+mySinglePlayerData.mySinglePlayerMissionStats.myScriptEvents.___abrahmGiven.myString	You can now order down one free Abrams tank.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myHeader	COMBAT SCHOOL – Special abilities
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.SpecialAbilities.myText	All units have special abilities. There are both offensive and defensive varieties. Use them to increase unit lethality or to protect your unit in a desperate situation. All abilities have a cooldown timer and this should be taken into consideration when the ability is used.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myHeader	COMBAT SCHOOL – Fortifications
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.Fortifications.myText	To fortify a position you need to place units in all the connected perimeter points of that position. The more units you have there, the faster the position will be fortified and, once fortified, those fortifications will be harder to destroy when under attack by enemy units.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.TacticalAid.myHeader	COMBAT SCHOOL - Tactical Aid
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.TacticalAid.myText	Tactical Aid represents off-map fire support that you can call in, such as napalm strikes or artillery barrages. Tactical Aid points are earned by destroying the enemy and completing objectives. To place a Tactical Aid, you choose one from the Tactical Aid menu and then right-click in the world where you want to place it.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MoveDropZone.myHeader	COMBAT SCHOOL - Drop-zone
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.MoveDropZone.myText	You can move the point where your reinforcements will be dropped. To do this you click the Drop Zone button and then left click within the marked area where you want the new drop zone to be placed. Make sure you utilize this function to shorten your supply lines whenever possible.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AttackGround.myHeader	COMBAT SCHOOL - Attack Ground
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.AttackGround.myText	To attack unoccupied buildings or ground areas, you press and hold the attack ground button (default: F) and then left-click on your chosen target area. Artillery must always be targeted this way.
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myHeader	COMBAT SCHOOL - Free Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTipTexts.FreeUnits.myText	Sometimes you will be rewarded with a “free” unit. These are ordered from the Reinforcements Menu as usual but no points will be deducted from your Reinforcements Points pool, and if such a unit is destroyed it will not be replaced.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_01.myText	You have your orders, Parker. Secure that gas station and dig in.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_01.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_02.myText	And Parker, Private Uris didn't make it. Make sure you get that sniper.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_02.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_03.myText	You do honor to Private Uris, Parker. Carry on.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_03.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_04.myText	Sniper! Up on that chimney!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_04.myPortraitText	SOLDIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_05.myText	Man down! Sniper!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_05.myPortraitText	SOLDIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06.myText	Incoming sniper fire!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06.myPortraitText	SOLDIER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06a.myText	That sniper is still active, Parker! Make him inactive before he gets away.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_06a.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_07.myText	Seems the sniper slipped away, Parker. I'm sure you did your best.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_07.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_08.myText	Well done, Parker! We expect Ivan to counter-attack towards you any minute now. Make sure you fortify your position.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_08.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_09.myText	Parker! Hold your ground. We'll continue the attack as soon as Bannon's company has broken through.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_09.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_10.myText	Clear out the enemy and retake that gas station, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_10.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_11.myText	Eagle six. This is Bannon. We’re facing heavy resistance at the super market. Need support, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_11.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_12.myText	I have no more support to give you, Bannon. Push harder! Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_12.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_13.myText	Eagle six. This is Bannon. The supermarket has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_13.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_14.myText	Roger that, Bannon. Continue the attack along the western flank. Webb's company is still in support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_14.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_15.myText	Parker! I want you to clear and secure three strongpoints near the town center. We're pushing the enemy back. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_15.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_16.myText	First strongpoint cleared. Two remaining.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_16.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_17.myText	Parker! This is Eagle six. Enemy light artillery has been spotted near the research facility. See if you can take them out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_17.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_18.myText	Good job clearing that artillery, Parker.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_18.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_19.myText	Not very impressive, Parker. The Soviet artillery has pulled back unharmed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_19.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20.myText	One strongpoint remaining, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20a.myText	Bannon! I want a SITREP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_20a.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_21.myText	Bannon here! The commies are everywhere and they're ambushing my tanks with RPGs!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_21.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_22.myText	Hold where you are, Bannon. Webb will take over the attack. You copy that, Webb?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_22.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_23.myText	Copy, sir. We're moving into the attack now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_23.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_24.myText	Eagle six. This is Webb. We've breached the enemy defenses.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_24.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_25.myText	Roger that, Webb. Excellent job, everyone! Ivan is withdrawing to the south. Keep the pressure up and the town will be ours before lunch.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_25.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_26.myText	Parker! Remaining enemy units are using artillery to shield themselves near the TV-station. I want you to flank around through the woods on the hill, approach the station from the back and kill every Russian you encounter. Bannon and Webb will advance along the beach.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_26.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_27.myText	Move through the clearing near the forest, Parker! Stay away from the beach! Your objective is the TV station. And see if you can get their artillery observer as well. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_27.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_28.myText	Parker! Ivan's artillery has gone silent, now take that TV station!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_28.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_30.myText	Eagle six to Bannon! How's your advance going?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_30.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_31.myText	We're bogged down by Soviet infantry, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_31.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_32.myText	This is Webb, request permission to bypass Bannon's company and move against the TV-station.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_32.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_33.myText	That's a negative Webb. I want you to support Bannon instead. Parker will handle the TV-station.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_33.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_34.myText	Well done Parker! The TV-station has been secured, and only a few Soviet stragglers remain. Commander's briefing at the Town Square at thirteen hundred hours. We don't have much time. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_34.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_36.myText	Parker, you have the supermarket. The entire northern flank depends on you. Hold the supermarket until relieved. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_36.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_37.myText	Bannon, here! We're engaging a large number of tanks coming from the northeast. I don't know how long we can hold!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_37.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_38.myText	Roger that Bannon. Eagle six, to Webb, I need you to reinforce Bannon's position.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_38.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_39.myText	Copy. I'm sending second platoon. Out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_39.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_40.myText	Parker, secure your position and do it NOW. We cannot allow a Soviet breakthrough.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_40.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_41.myText	The perimeter has been secured. Well done, Parker. Now, hold.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_41.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_42.myText	This is Bannon! We're taking a beating here! My tracks are heavily damaged and we just lost our recovery vehicle!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_42.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_43.myText	Copy that Bannon. I'll see what I can do.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_43.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_44.myText	Come in Parker! If you have a spare humvee I want you to send it over to Bannon at the gas station ASAP.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_44.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_45.myText	Not a minute too soon, Parker. Your slowness almost cost me another tank.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_45.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_46.myText	Well done, Parker. I'm detailing an M1 to you. Make good use of it. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_46.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_47.myText	Bannon here! How about those mechanics Parker?! I've got a malfunctioning main gun and two thrown tracks, but please don't hurry on our account! Bannon, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_47.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_48.myText	This is Bannon. I just lost another tank. Thanks for nothing Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_48.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_49.myText	Cut the chatter, Bannon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_49.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_50.myText	Parker! Ivan is calling in artillery on your position! Pull back before he zeroes in! I repeat: Pull back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_50.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_51.myText	Fall back NOW, Parker! That artillery is closing in!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_51.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_52.myText	Eagle six. This is Webb. The Soviets are making a determined attack against my position. We've taken heavy casualties. Moving to alternate defensive positions now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_52.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_53.myText	Roger that. Parker! I need you to reinforce the south-eastern approach.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_53.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_54.myText	Hold position until further notice, Parker! We're expecting Ivan to attack along the entire perimeter. There might be some help coming though. The USS Missouri has set course for Pine Valley Bay. We may have her heavy guns here before the day is over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_54.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_55.myText	This is Bannon [static] heavy attack and cannot hold. [static] pulling back towards the Town Square!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_55.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_56.myText	Negative, Bannon! You are to stay and fight. Do you copy?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_56.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_57.myText	Say again, Eagle [static] I read you one by one!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_57.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_58.myText	Damn it! I'm ordering you to stay in position Bannon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_58.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_59.myText	[static] casualties. [static] withdrawing Bannon out!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_59.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_60.myText	Bannon! Come in Charlie Six! God damn it. This is Eagle six to all units. Pull back to the Town Square. I repeat, pull back to the Town Square. We have to tighten our defense!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_60.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_61.myText	The Russians are everywhere! They'll slaughter us! We have to get out of here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_61.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_62.myText	Take up defensive positions, Bannon! That's a direct order.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_62.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_63.myText	But, sir! We can't hold!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_63.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_64.myText	If you run I'll shoot you myself! Now rally your company!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_64.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_65.myText	Stay in position everyone. Fight them off!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_65.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_66.myText	Come on you, bastards! Come on and die!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_66.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_67.myText	Spare us your comments, Bannon!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_67.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_68.myText	This is Eagle six. They're coming from all directions! Check your ammo and mark your targets!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_68.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_69.myText	If we lose this town we lose the entire coast!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_69.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_70.myText	We have to halt Ivan's advance at all costs!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_70.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_71.myText	Parker! I just got a call from our mortar detachment! They're under attack near the research facility. Aid them if possible.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_71.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_72.myText	Well done, Parker. I'm giving you command of the mortars. Provide what support you can. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_72.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_73.myText	Parker! I just lost contact with our mortar detachment. That's some good men we just lost. Eagle six, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_73.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_74.myText	This is Eagle six! We're falling back towards the beach! I say again: We're falling back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_74.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_75.myText	Parker! We just got access to some fire support assets. Call on them when needed.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_75.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_76.myText	The air cav of the Oregon Guard are offering us some support, Parker! They'll use their helicopters to fly in reinforcements, if you need them. Call them on the fire support channel.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_76.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_77.myText	Bannon here! We're closing in on the supermarket and we've only met light resistance so far. This is gonna be a cakewalk.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_77.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_78.myText	Be careful, captain. They might have ambushes set up along your axis of attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_78.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_79.myText	I have been in battle before, you know... Crap! There they are! Gunner, right tank! Fire!!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_79.myPortraitText	BANNON
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_80.myText	We're gonna have to move faster, colonel. I just got word from my scouts that the Soviet main force isn't far out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_80.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_81.myText	Damn it! We have to clear the town before they get here or we'll be caught in the vise. Get to it, Parker! Use all available means to destroy those strongpoints!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_81.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_82.myText	What are you waiting for, Parker! You need to take out those strongpoints!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_82.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_83.myText	If you don't destroy those strongpoints soon, Parker we'll have to fight on two fronts at the same time!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_83.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_84.myText	Parker! The Soviet main force will be here soon. How about you deal with those strongpoints so that we can take this damn town!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_84.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85a.myText	Well done, Parker! Hopefully we'll have a complete breakthrough soon. But the air cav has been repositioned so you can't call on those choppers any more. Make do with what you've got.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85a.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85b.myText	Well done, Parker! Hopefully we'll have a complete breakthrough soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_85b.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_86.myText	Parker! My men spotted some Soviet mortars setting up near your position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_86.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_87.myText	Take them out if you can, Parker! But your main objective is to hold that road, understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_87.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_88.myText	You have incoming fire, Lieutenant Parker! You should take out those enemy mortars ASAP!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_88.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_89.myText	Good job dealing with those mortars, Parker!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_89.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_90.myText	Not good, Parker. You should've dealt with those mortars. Now they'll just make life difficult for someone else.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_90.myPortraitText	Sawyer
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_91.myText	Parker! Just hold your position! I've ordered my artillery to fire on the Russians. Move in when I give the all clear.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_91.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_92.myText	You're clear to move in, Parker! The Russians are falling back. Retake that position before they rally again.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_92.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_93.myText	Parker! We have incoming Russian choppers! The air force is flying several CAPs in the area. Call them on the fire support channel and have them launch anti-air strikes on those choppers.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_93.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_94.myText	To all friendly units. This is Colonel Wilkins of the Oregon National Guard. We're coming into Pine Valley from the south. Please identify your targets before firing, over.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_94.myPortraitText	WILKINS
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_95.myText	Damn you for being late, Wilkins! And bless you for coming! We were about to throw rocks at them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_95.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_96.myText	I bet you were, Sawyer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_96.myPortraitText	WILKINS
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_97.myText	To all fifth battalion elements. Cease fire. I repeat: Cease fire. The cavalry has arrived and Ivan is retreating. The town is ours. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_97.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_98.myText	What's your problem, Bannon? You were eager enough in Europe.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_98.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_99.myText	Good hit, Parker! There can't be many left.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_99.myPortraitText	WEBB
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_100.myText	Parker! You just became our forward observer. I want you to organize fire support from the Missouri while I rally the battalion.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_100.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_101.myText	You moved fast Parker. I'm detailing an M1 tank to you. Put it to good use.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_101.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_102.myText	Not good, Parker! You're gonna have to speed up your attack or we'll be fighting on two fronts before we're ready!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_102.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_103.myText	They have a squadron of Sheridan light tanks they can bring in. But they only have five of those babies at the depot, and then you will have to make do with what you've got, understood?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_103.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_104.myText	Parker! The air cav says they only have one tank left at the depot. Make sure you put it to good use.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_104.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_105.myText	That was the last of the Sheridan tanks, Parker! The air cav is needed elsewhere so you can't call on them any longer. From now on, we're on our own.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_105.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_106.myText	Those are the biggest guns in the fleet you have at your disposal, Parker. Nine sixteen inch cannons. They should be enough to break Ivan's back! Just make sure you give them the right coordinates. I'm counting on your skill. Eagle six out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_106.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_107.myText	And make sure you kill all mobile defenders before you take on any fortifications, Parker! Otherwise you will have a hard time destroying them!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.ust4_107.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myText	Parker! Counter-attack that position now, before Ivan gets any fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myText	I need you to re-capture that position, Parker! Ivan is digging in and we'll lose the battle if he succeeds.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myText	Retake that position before Ivan fortifies, Parker! Or we'll lose all we've fought for here!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_ru_fortif_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myText	Ivan just drove us off a position, lieutenant. I want you to take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_1.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myText	Parker! Ivan is pushing forward! Fight them back and retake that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_2.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myText	I'll be god damn! You just lost a position, Parker! Take it back!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.cp_lost_sawyer_3.myPortraitText	SAWYER
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	You liberated the town of Pine Valley and forced the Russians to withdraw. The enemy has been dealt a hard blow from which it will take a while to recover. During this respite we will try to build up our strength. The President has ordered more National Guard and regular army units into the area but it is doubtful whether they will be enough to force the Russians out of Seattle.
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Your forces were annihilated when caught between the Soviet main force and Russian airborne units in Cascade Falls. The Soviet offensive has therefore continued unhindered.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_01.myTitle	Free Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_01.myText	Occasionally a limited set of free units are made available and may be deployed as any other.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_02.myTitle	Timed Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_02.myText	Some objectives must be completed within a frame time in addition to other conditions.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_03.myTitle	Attack Ground
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_03.myText	To have units fire at a specific location, hold  and press .
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_04.myTitle	Hold Fire
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_05_04.myText	To have units hold fire, hold  and press . Press again to resume fire.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_GotoObjective.myTitle	Objectives
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_GotoObjective.myText	Hold  and press Down on the  to cycle through available objectives.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_1.myTitle	Reinforcements
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_VoiceCom_1.myText	To access the reinforcements menu using voice commands, hold  and name the units you require then release the button.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Research.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myUiName	TV Station
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_TV.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Market.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Beach.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Town.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_GasStation.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CommandPoint__0l.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CPBarricade3.myEnemyCapturedText	<empty>

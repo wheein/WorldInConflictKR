@@ -1,0 +1,268 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Underpass
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Underpass
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Underpass
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Underpass
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	King Dome
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the King Dome
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the King Dome
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the King Dome
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myUiName	I-90 Ramp
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeCapturedText	We captured the I-90 Ramp
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myWeLostText	We lost control of the I-90 Ramp
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__6.myEnemyCapturedText	Enemy captured the I-90 Ramp
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myUiName	5th & Jackson
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeCapturedText	We captured 5th & Jackson
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myWeLostText	We lost control of 5th & Jackson
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__5.myEnemyCapturedText	Enemy captured 5th & Jackson
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	King Street Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured King Street Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost King Street Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured King Street Station
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	1st Avenue
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured 1st Avenue
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of 1st Avenue
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured 1st Avenue
+myWicedMap.myMissionStats.myName	as_Dome
+myWicedMap.myMissionStats.mySPName	%02d - Invasion!
+myWicedMap.myMissionStats.myDescription	The tranquillity of everyday life is shattered as the Soviet invasion is launched around the harbor, Kingdome Stadium, and narrow streets of downtown Seattle.
+myWicedMap.myMissionStats.mySPDescription	The Russians have launched a surprise attack on Seattle and caught the few U.S. defenders there unaware. You are Lieutenant Parker, and your objectives are to rally all remaining U.S. forces, evacuate as many civilians as you can, and pull out of the city before it's too late.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	DOME
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	DOME
+myWicedMap.myMissionStats.myPrimaryObjectives.FindBrigade.myDescription	Find the brigade CP.
+myWicedMap.myMissionStats.myPrimaryObjectives.FindBrigade.myLongDescription	According to the last transmissions made the Brigade command post should located somewhere in this area. You need to locate it in order to receive new sets of orders.
+myWicedMap.myMissionStats.myPrimaryObjectives.FindBrigade.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.StayAlive.myDescription	At least [x] of your troops must survive.
+myWicedMap.myMissionStats.myPrimaryObjectives.StayAlive.myLongDescription	If you loose all your units the mission cannot be completed.
+myWicedMap.myMissionStats.myPrimaryObjectives.StayAlive.myVisualisationText	<empty>
+myWicedMap.myMissionStats.myPrimaryObjectives.CaptureCP1.myDescription	Destroy Soviet forces and capture the command point.
+myWicedMap.myMissionStats.myPrimaryObjectives.CaptureCP1.myLongDescription	The Soviets have occupied an important strategic position that bars your way. Use any means necessary to destroy them and secure the area.
+myWicedMap.myMissionStats.myPrimaryObjectives.CaptureCP1.myVisualisationText	Destroy Soviet forces and capture the command point.
+myWicedMap.myMissionStats.myPrimaryObjectives.Flanker.myDescription	Flank and destroy the enemy units.
+myWicedMap.myMissionStats.myPrimaryObjectives.Flanker.myLongDescription	Flank and destroy the enemy units to the north-east.
+myWicedMap.myMissionStats.myPrimaryObjectives.Flanker.myVisualisationText	Flank and destroy the enemy units.
+myWicedMap.myMissionStats.myPrimaryObjectives.LinkUpAtStadium.myDescription	Link up with friendly units at the stadium.
+myWicedMap.myMissionStats.myPrimaryObjectives.LinkUpAtStadium.myLongDescription	You have been ordered to form a rear guard at the Stadium. Move there now and link up with other friendly units.
+myWicedMap.myMissionStats.myPrimaryObjectives.LinkUpAtStadium.myVisualisationText	Link up with friendly units at the stadium.
+myWicedMap.myMissionStats.myPrimaryObjectives.DestroyArtillery.myDescription	Locate and destroy all enemy artillery pieces.
+myWicedMap.myMissionStats.myPrimaryObjectives.DestroyArtillery.myLongDescription	Enemy artillery has zeroed in on the stadium. Locate and destroy all enemy artillery pieces.
+myWicedMap.myMissionStats.myPrimaryObjectives.DestroyArtillery.myVisualisationText	Locate and destroy all enemy artillery pieces.
+myWicedMap.myMissionStats.myPrimaryObjectives.RepellFirstWave.myDescription	Retreat back to the stadium and hold the line there.
+myWicedMap.myMissionStats.myPrimaryObjectives.RepellFirstWave.myLongDescription	Your position is untenable. Retreat back to the stadium and leave some of your infantry behind in the buildings along the way. When you have reached the stadium you most hold back the enemy there.
+myWicedMap.myMissionStats.myPrimaryObjectives.RepellFirstWave.myVisualisationText	Retreat back to the stadium and hold the line there.
+myWicedMap.myMissionStats.myPrimaryObjectives.Locked.myDescription	Link up with the tank platoon and guide them back to the stadium.
+myWicedMap.myMissionStats.myPrimaryObjectives.Locked.myLongDescription	A friendly tank unit is moving into the area but need guidance to reach the stadium. Meet with them and lead them back.
+myWicedMap.myMissionStats.myPrimaryObjectives.Locked.myVisualisationText	Link up with the tank platoon.
+myWicedMap.myMissionStats.myPrimaryObjectives.FinalHold.myDescription	Hold the line at the stadium for [x] minutes.
+myWicedMap.myMissionStats.myPrimaryObjectives.FinalHold.myLongDescription	The enemy is launching a major attack against the stadium. You must hold until brigade has completed the retreat.
+myWicedMap.myMissionStats.myPrimaryObjectives.FinalHold.myVisualisationText	Hold the line at the stadium for [x] minutes.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeHarborCP.myDescription	Secure and hold the area around the Highway Bridge.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeHarborCP.myLongDescription	Take and hold all strategic locations around the Highway Bridge.
+myWicedMap.myMissionStats.myPrimaryObjectives.TakeHarborCP.myVisualisationText	Secure and hold the area around the Highway Bridge.
+myWicedMap.myMissionStats.myPrimaryObjectives.SecureKingDome.myDescription	Secure the area around the stadium.
+myWicedMap.myMissionStats.myPrimaryObjectives.SecureKingDome.myLongDescription	Take and hold all important strategic locations around the stadium.
+myWicedMap.myMissionStats.myPrimaryObjectives.SecureKingDome.myVisualisationText	Secure the area around the stadium.
+myWicedMap.myMissionStats.myPrimaryObjectives.Follow.myDescription	Follow the friendly units out of town.
+myWicedMap.myMissionStats.myPrimaryObjectives.Follow.myLongDescription	All US forces are pulling out of Seattle. Follow the friendly units out of town.
+myWicedMap.myMissionStats.myPrimaryObjectives.Follow.myVisualisationText	Follow the friendly units out of town.
+myWicedMap.myMissionStats.mySecondaryObjectives.TacticalAid.myDescription	Place an artillery strike on the Soviet infantry.
+myWicedMap.myMissionStats.mySecondaryObjectives.TacticalAid.myLongDescription	You have gotten access to an artillery battery stationed just outside of Seattle. Call in a strike at your discretion and destroy the houses where the enemy has barricaded himself.
+myWicedMap.myMissionStats.mySecondaryObjectives.TacticalAid.myVisualisationText	Place an artillery strike on the Soviet infantry.
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	Underpass
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	Capture the Underpass
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	Capture the Underpass
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	1st Avenue
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	Capture 1st Avenue
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	Capture 1st Avenue
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	King Dome
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	Capture the King Dome
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	Capture the King Dome
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	King Street Station
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	Capture King Street Station
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	Capture King Street Station
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myDescription	5th & Jackson
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myLongDescription	Capture 5th & Jackson
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__5.myVisualisationText	Capture 5th & Jackson
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myDescription	I-90 Ramp
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myLongDescription	Capture the I-90 Ramp
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__6.myVisualisationText	Capture the I-90 Ramp
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	Underpass
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	Defend the Underpass
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	Defend the Underpass
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	1st Avenue
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	Defend 1st Avenue
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	Defend 1st Avenue
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	King Dome
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	Defend the King Dome
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	Defend the King Dome
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	King Street Station
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	Defend King Street Station
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	Defend King Street Station
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myDescription	5th & Jackson
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myLongDescription	Defend 5th & Jackson
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__5.myVisualisationText	Defend 5th & Jackson
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myDescription	I-90 Ramp
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myLongDescription	Defend the I-90 Ramp
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__6.myVisualisationText	Defend the I-90 Ramp
+myWicedMap.myMissionStats.myScriptEvents.Obj1Primary.myString	TAKE CP KILL DUDES!
+myWicedMap.myMissionStats.myScriptEvents.ScriptEventNewReinforcements.myString	You have been given command of new units.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool7.myHeader	COMBAT SCHOOL - LESSON 7
+myWicedMap.myMissionStats.myTipTexts.CombatSchool7.myText	A Command Point represents a strategically important position. Each Command Point consists of two or three linked Perimeter Points noted by white circles on the map. All Perimeter Points within a Command Point must be held at the same time in order for the command point to be taken.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool8.myHeader	COMBAT SCHOOL - LESSON 8
+myWicedMap.myMissionStats.myTipTexts.CombatSchool8.myText	All units have an armour rating. Generally, this rating is lower to the sides, rear and top of the vehicles. This makes them more vulnerable to fire coming from those directions. You should utilize this in combat and manoeuvre your vehicles so that their front is facing the enemy at all times.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool9.myHeader	COMBAT SCHOOL LESSON 9
+myWicedMap.myMissionStats.myTipTexts.CombatSchool9.myText	A Command Point can be secured by two different teams working together. If a friendly unit hold a Perimeter Point you only need to secure all remaining Perimeter Points for the Command Point to be taken.
+myWicedMap.myMissionStats.myTipTexts.CombatSchool10.myHeader	COMBAT SCHOOL - LESSON 10
+myWicedMap.myMissionStats.myTipTexts.CombatSchool10.myText	You just got access to some friendly artillery in the form of Tactical Aid. You earn Tactical Aid points by performing successful actions such as taking command points and destroying the enemy. These points can then be spent on artillery strikes, air strikes and the like. If you wish to place an artillery strike you press the Tactical Aid button and choose the artillery strike option. You then place the strike by right-clicking anywhere on the map
+myWicedMap.myMissionStats.myTipTexts.CombatSchool11.myHeader	COMBAT SCHOOL - LESSON 11
+myWicedMap.myMissionStats.myTipTexts.CombatSchool11.myText	When you are ordered to secure an area you must take control of the Command Point located in that area. If you are ordered to hold an area this means that that the enemy cannot be allowed to take the Command Point in that area. You will fail such an objective if the designated command point turns red
+myWicedMap.myMissionStats.myTipTexts.RetreatToKD.myHeader	<empty>
+myWicedMap.myMissionStats.myTipTexts.RetreatToKD.myText	Retreat towards the stadium and leave some of your infantry squads in the buildings along the way in order to delay the Soviet advance.
+myWicedMap.myMissionStats.myMessageBoxList.DUMMY.myText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.DUMMY.myPortraitText	<empty>
+myWicedMap.myMissionStats.myMessageBoxList.02_01.myText	Stay alert. We're close to the Soviet beachhead.
+myWicedMap.myMissionStats.myMessageBoxList.02_01.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_02.myText	I wonder where the Soviets are. Things are definitely too calm around here.
+myWicedMap.myMissionStats.myMessageBoxList.02_02.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_03.myText	Incoming! Button up everyone!
+myWicedMap.myMissionStats.myMessageBoxList.02_03.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_04.myText	Enemy vehicles! We'll have to fight our way through! Lock and load!
+myWicedMap.myMissionStats.myMessageBoxList.02_04.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_05.myText	Enemy units destroyed, sir. We can move in and secure the area.
+myWicedMap.myMissionStats.myMessageBoxList.02_05.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_06.myText	Well done, LT.
+myWicedMap.myMissionStats.myMessageBoxList.02_06.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_07.myText	This is Tango Six. All units remaining in downtown Seattle are to form a rear guard at the Stadium and delay the Soviet advance there. We are pulling back the brigade CP now. Give us as long as you can. Tango Six out.
+myWicedMap.myMissionStats.myMessageBoxList.02_07.myPortraitText	TANGO SIX
+myWicedMap.myMissionStats.myMessageBoxList.02_08.myText	That was the brigade commander, LT. We just became a part of the rear guard. Order our people to the stadium. The Sheridans will follow.
+myWicedMap.myMissionStats.myMessageBoxList.02_08.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_09.myText	More enemy units to the north-east, sir. We should flank and destroy them so that they don't attack us from behind later on.
+myWicedMap.myMissionStats.myMessageBoxList.02_09.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_10.myText	A well executed manoeuvre, LT.
+myWicedMap.myMissionStats.myMessageBoxList.02_10.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_11.myText	This is Juliet One to anyone who's out there! We're under heavy attack at the stadium. Please assist!
+myWicedMap.myMissionStats.myMessageBoxList.02_11.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_12.myText	This is Sierra Seven. We're moving to your position at this time, over.
+myWicedMap.myMissionStats.myMessageBoxList.02_12.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_13.myText	Roger that Sierra. We'll try and hold.
+myWicedMap.myMissionStats.myMessageBoxList.02_13.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_14.myText	Not a minute too early, Sierra. Help us clear the area.
+myWicedMap.myMissionStats.myMessageBoxList.02_14.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_15.myText	Got it, Juliet. We're engaging.
+myWicedMap.myMissionStats.myMessageBoxList.02_15.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_16.myText	We need to secure all important positions around the stadium, Sierra.
+myWicedMap.myMissionStats.myMessageBoxList.02_16.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_17.myText	Roger that, Juliet.
+myWicedMap.myMissionStats.myMessageBoxList.02_17.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_18.myText	Damn, that was close. Good of you to show up Sierra.
+myWicedMap.myMissionStats.myMessageBoxList.02_18.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_19.myText	We were looking for the brigade CP.
+myWicedMap.myMissionStats.myMessageBoxList.02_19.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_20.myText	Did you get the order?
+myWicedMap.myMissionStats.myMessageBoxList.02_20.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_21.myText	Yeah, we got it. Form a rear guard and hold.
+myWicedMap.myMissionStats.myMessageBoxList.02_21.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_22.myText	Correct. We draw the line here, and we have to hold for as long as we can. Brigade need all the time they can get.
+myWicedMap.myMissionStats.myMessageBoxList.02_22.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_23.myText	Damn it! Somebody will have to take out that artillery!
+myWicedMap.myMissionStats.myMessageBoxList.02_23.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_24.myText	We'll go.
+myWicedMap.myMissionStats.myMessageBoxList.02_24.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_25.myText	The shells are coming in from the harbour area and that's Indian country. Be careful. My people will lead the way.
+myWicedMap.myMissionStats.myMessageBoxList.02_25.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_26.myText	This is Tango Six. We are sending reinforcements to your position at this time. Out.
+myWicedMap.myMissionStats.myMessageBoxList.02_26.myPortraitText	TANGO SIX
+myWicedMap.myMissionStats.myMessageBoxList.02_27.myText	Sir! We have friendlies getting shot up by Soviet antitank infantry hiding in the buildings! We have to do something.
+myWicedMap.myMissionStats.myMessageBoxList.02_27.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_28.myText	I have contact with a TOC-officer and she's offering us a fire mission!
+myWicedMap.myMissionStats.myMessageBoxList.02_28.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_65.myText	Sierra Seven, this is Tango six. You have forty-five seconds to call in that strike. I have another artillery battery standing by, waiting to fire.
+myWicedMap.myMissionStats.myMessageBoxList.02_65.myPortraitText	TANGO SIX
+myWicedMap.myMissionStats.myMessageBoxList.02_29.myText	We got some of them, sir!
+myWicedMap.myMissionStats.myMessageBoxList.02_29.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_30.myText	This is Tango Six. I have enemy personnel in the open. Fire for effect at coordinates sent.
+myWicedMap.myMissionStats.myMessageBoxList.02_30.myPortraitText	TANGO SIX
+myWicedMap.myMissionStats.myMessageBoxList.02_31.myText	Coordinates locked down. Firing for effect.
+myWicedMap.myMissionStats.myMessageBoxList.02_31.myPortraitText	TOC OFFICER
+myWicedMap.myMissionStats.myMessageBoxList.02_32.myText	Well done, LT. Let's move on to the docks.
+myWicedMap.myMissionStats.myMessageBoxList.02_32.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_33.myText	They're gone, LT. Let's move on to the docks.
+myWicedMap.myMissionStats.myMessageBoxList.02_33.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_34.myText	The longer we wait, the more people will die. Try and get a move on, sir.
+myWicedMap.myMissionStats.myMessageBoxList.02_34.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_35.myText	We stay here, we die here, sir. Order our guys to move out NOW!
+myWicedMap.myMissionStats.myMessageBoxList.02_35.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_36.myText	There's the artillery! Take out the escorts first!
+myWicedMap.myMissionStats.myMessageBoxList.02_36.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_37.myText	Good job clearing those artillery pieces, Sierra. Secure and hold the area for as long as you can. I'm sending some of my guys to your position.
+myWicedMap.myMissionStats.myMessageBoxList.02_37.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_38.myText	Sir, we have to hold! Reclaim the area at once!
+myWicedMap.myMissionStats.myMessageBoxList.02_38.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_39.myText	Sierra, this is Juliet. I have reports of a large number of enemy vehicles coming your way. You should pull back to the stadium.
+myWicedMap.myMissionStats.myMessageBoxList.02_39.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_40.myText	You heard him, LT. But I suggest we leave some infantry behind. They can take up positions in the buildings as a rearguard.
+myWicedMap.myMissionStats.myMessageBoxList.02_40.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_41.myText	Not much time left LT. We should get out of here.
+myWicedMap.myMissionStats.myMessageBoxList.02_41.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_42.myText	Damn, they're many! We can't hold, LT. We should pull back to the stadium at once.
+myWicedMap.myMissionStats.myMessageBoxList.02_42.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_43.myText	Good to see you back, sierra. We'll hold the line here.
+myWicedMap.myMissionStats.myMessageBoxList.02_43.myPortraitText	STADIUM COMMANDER
+myWicedMap.myMissionStats.myMessageBoxList.02_44.myText	Here they come! Stand fast everyone!
+myWicedMap.myMissionStats.myMessageBoxList.02_44.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_45.myText	They're breaking through! All units counter-attack!
+myWicedMap.myMissionStats.myMessageBoxList.02_45.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_46.myText	I bet we haven't seen the last of them. Sierra, there's a tank platoon moving towards us from the north. Could you meet up with them and lead them here?
+myWicedMap.myMissionStats.myMessageBoxList.02_46.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_47.myText	Not a problem, Juliet. 
+myWicedMap.myMissionStats.myMessageBoxList.02_47.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_48.myText	I see friendlies LT. And they're engaged! We should help out.
+myWicedMap.myMissionStats.myMessageBoxList.02_48.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_49.myText	Thanks for the help. We were on our way to the stadium when they ambushed us. Seems they're everywhere.
+myWicedMap.myMissionStats.myMessageBoxList.02_49.myPortraitText	M60 CAPTAIN
+myWicedMap.myMissionStats.myMessageBoxList.02_50.myText	No kidding, captain. If you'll just follow us back to the stadium.
+myWicedMap.myMissionStats.myMessageBoxList.02_50.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_50a.myText	Will do.
+myWicedMap.myMissionStats.myMessageBoxList.02_50a.myPortraitText	M60 CAPTAIN
+myWicedMap.myMissionStats.myMessageBoxList.02_51.myText	You made it! Those tanks will be needed.
+myWicedMap.myMissionStats.myMessageBoxList.02_51.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_52.myText	We're expecting a renewed enemy attack any minute now. I just got word from brigade and they want us to hold for [x] more minutes.
+myWicedMap.myMissionStats.myMessageBoxList.02_52.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_53.myText	They're flanking!
+myWicedMap.myMissionStats.myMessageBoxList.02_53.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_54.myText	Contact rear!
+myWicedMap.myMissionStats.myMessageBoxList.02_54.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_55.myText	Contact right!
+myWicedMap.myMissionStats.myMessageBoxList.02_55.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_56.myText	Watch out for those tanks, LT!
+myWicedMap.myMissionStats.myMessageBoxList.02_56.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_57.myText	They'll be back! Check your ammo!
+myWicedMap.myMissionStats.myMessageBoxList.02_57.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_58.myText	Infantry in the open!
+myWicedMap.myMissionStats.myMessageBoxList.02_58.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_59.myText	Lay it on them!
+myWicedMap.myMissionStats.myMessageBoxList.02_59.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_60.myText	Hold the line damn it!
+myWicedMap.myMissionStats.myMessageBoxList.02_60.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_61.myText	We pull back in [x] minutes.
+myWicedMap.myMissionStats.myMessageBoxList.02_61.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_62.myText	This is Juliet Six to all units in Seattle. The city is lost and we are retreating, I repeat, we're pulling back. Let's live to fight another day.
+myWicedMap.myMissionStats.myMessageBoxList.02_62.myPortraitText	JULIET ONE
+myWicedMap.myMissionStats.myMessageBoxList.02_63.myText	We should follow these guys out of town. And then we'll split up and take different routes towards the rally point at Roslyn.
+myWicedMap.myMissionStats.myMessageBoxList.02_63.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_64.myText	Alright everyone, we're moving towards Roslyn and the rally point. I want a staggered column and all eyes on the lookout for enemy forces. We're not in the clear yet.
+myWicedMap.myMissionStats.myMessageBoxList.02_64.myPortraitText	MSG SAWYER
+myWicedMap.myMissionStats.myMessageBoxList.02_100.myText	Times up. TOC locked the coordinates, artillery comes any second now.
+myWicedMap.myMissionStats.myMessageBoxList.02_100.myPortraitText	MSG SAWYER

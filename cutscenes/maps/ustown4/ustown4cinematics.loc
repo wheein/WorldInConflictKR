@@ -1,0 +1,38 @@
+﻿Cine1.myPresentation.Blank.myEvents.PresentationEvent(0).myLocalizedText	The Hills above Pine Valley\\1000 Hours\\Four days after the invasion
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(0)	[003.4-005.5] Whiskey five. Come in.
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(1)	[005.6-009.5] I can't get a reception. \nKeep trying, and tell me as soon as you get through.
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(2)	[010.0-013.5] ...get over here before he craps all over you! You get it?!
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(3)	[014.3-017.5] Colonel Sawyer, sir!
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(4)	[015.0-017.5] \nCaptain Bannon, Captain Webb. Lieutenant Parker. 
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(5)	[017.8-020.5] Let's get started. This is the town of Pine Valley.
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(6)	[020.7-024.5] Sir! I just talked to Colonel Wilkins. \nHe's been delayed and his battalion won't be here until-
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(7)	[024.7-028.3] Sniper!\nReturn fire! Get a medic over here!
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(8)	[028.7-038.8] Now, listen up! We're here. Ivan is coming from this direction and we've been ordered to \ntake and hold the town until Colonel Wilkins arrives with reinforcements.
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(9)	[038.9-042.5] Yeah it's about time we showed those commie bastards!
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(10)	[042.9-054.0] Bannon! There is a supermarket here and I need you to secure it. \nNow, Webb and Alpha Company will support you. And make sure you get it right this time. Are we clear?
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(11)	[054.2-060] Yes, sir. Got it, sir.
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(12)	[055.5-060.0] \nParker! I need you to take this Gas Station ASAP.
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(13)	[061.5-64.1] And please, take care of that sniper.
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(14)	[064.3-066.3] Get to it!
+Cine1.myPresentation.M03F01.mySubTitles.LOCTEXT(15)	[066.5-068.0] Where the hell is that medic?!
+Cine1.myPresentation.M03F01.myEvents.PresentationEvent(0).myLocalizedText	The Hills above Pine Valley\\1000 Hours\\Four days after the invasion
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(0)	[002.3-009.1] Alright people. Wilkins battalion is on the way but Ivan is moving fast down the Seattle freeway. \nWe expect him to attack us within the hour.
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(1)	[009.2-015.2] But sir! What if Colonel Wilkins doesn't make it?
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(2)	[011.7-015.2] \nCan it, Captain. I want your tanks to bolster the defenses at the gas station.
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(3)	[015.4-018.5] But sir, my tracks are pretty beat.\nBannon! You come with me.
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(4)	[018.7-024.3] Look captain! I don't care if your tracks are shredded! \nWe're gonna need every available unit, now can I count on you or not?
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(5)	[024.5-027.5] Yes sir! Of course sir!\nGood, get out of my face.
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(6)	[027.7-033.5] Webb, you set up positions to the south. \nAnd Parker! You dig in around the supermarket. 
+Cine2.myPresentation.M03F03.mySubTitles.LOCTEXT(7)	[033.6-040.8] You are in reserve so be prepared to move if needed. \nWe have to hold until Colonel Wilkins arrives. Dismissed.
+Cine2.myPresentation.M03F03.myEvents.PresentationEvent(0).myLocalizedText	Commander's Briefing\\Pine Valley Town Hall\\1300 Hours - Four days after the invasion
+Cine3.myPresentation.M03F05.mySubTitles.LOCTEXT(0)	[000.7-005.0] Well if they make a determined attack we won't be able to hold out for long.\nHow far out are you?
+Cine3.myPresentation.M03F05.mySubTitles.LOCTEXT(1)	[005.4-008.2] Only a few miles, but we're having trouble with Soviet scout units.
+Cine3.myPresentation.M03F05.mySubTitles.LOCTEXT(2)	[008.3-012.0] Well, don't be too long or we won't be here when you arrive!
+Cine4.myPresentation.M03F04S01.mySubTitles.LOCTEXT(0)	[011.2-016.0] USS Missouri requesting contact with US forces in Pine Valley.
+Cine4.myPresentation.M03F04S01.mySubTitles.LOCTEXT(1)	[022.0-031.0] I repeat, this is USS Missouri requesting contact with US forces in Pine Valley. \nWe need target coordinates if we are to provide accurate fire support.
+Cine4.myPresentation.M03F04S02.mySubTitles.LOCTEXT(0)	[000.2-003.5] I repeat, we need target coordinates to provide accurate fire support.
+Cine4.myPresentation.M03F04S02.mySubTitles.LOCTEXT(1)	[003.6-012.0] This is Eagle Six in Pine Valley and are we glad to see you, Missouri! \nWe need fire support at Foxtrot six and Echo five, over.
+Cine4.myPresentation.M03F04S02.mySubTitles.LOCTEXT(2)	[012.1-013.5] Roger that, Eagles six.
+Cine4.myPresentation.M03F04S02.mySubTitles.LOCTEXT(3)	[013.6-019.0] Fire for effect Missouri. Eagle Six out.
+Cine5.myPresentation.ObjectViewer.mySubTitles.LOCTEXT(0)	[011.2-016.0] USS Missouri requesting contact with US forces in Pine Valley.
+Cine5.myPresentation.ObjectViewer.mySubTitles.LOCTEXT(1)	[022.0-031.0] I repeat, this is USS Missouri requesting contact with US forces in Pine Valley. \nWe need target coordinates if we are to provide accurate fire support.

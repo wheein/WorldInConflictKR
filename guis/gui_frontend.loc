@@ -1,0 +1,845 @@
+﻿myGuiFile.myGuis.Backdrop.myWidgets.myVideo_BackgroundVideo.myText	<empty>
+myGuiFile.myGuis.Backdrop.myWidgets.myVideo_BackgroundVideo.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.BG.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.BG01.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.Bg_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.LINE_2.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.MAIN_SCREEN.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.TOP_BORDER_left.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.LINE_1.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myButton_Exit.myText	EXIT
+myGuiFile.myGuis.Menu_Background.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myPlate_wic_logo.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.TOP_BORDER_Center.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.myPlate_BottomBorder.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.LINE_101.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Background.myWidgets.TOP_BORDER_right.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_BlackBackground.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.BG01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.button_border.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.button_border02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg03.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg04.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.myPlate_ResumeBg05.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Background.myWidgets.button_border01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.BG01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.MAIN_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.TOP_BORDER_Center.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.TOP_BORDER_Center02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.myPlate_BottomBorder.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.MAIN_SCREEN.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_BackgroundOpen.myWidgets.TOP_BORDER_Center01.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Restart.myText	RESTART MISSION
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Save.myText	SAVE
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Load.myText	LOAD
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Load.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Objectives.myText	OBJECTIVES
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Objectives.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_BotOptions.myText	BOT OPTIONS
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_BotOptions.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Options.myText	OPTIONS
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Exit.myText	EXIT
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Resume.myText	RESUME GAME
+myGuiFile.myGuis.Ingame_Main.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Resume.myText	RESUME GAME
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Options.myText	OPTIONS
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Controls.myText	CONTROLS
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Controls.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Audio.myText	AUDIO
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Audio.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Game.myText	GAME
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Game.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Exit.myText	EXIT
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Save.myText	SAVE
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Load.myText	LOAD
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Load.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Objectives.myText	OBJECTIVES
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Objectives.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_BotOptions.myText	BOT OPTIONS
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_BotOptions.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Restart.myText	RESTART MISSION
+myGuiFile.myGuis.Ingame_Options.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Resume.myText	RESUME GAME
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Options.myText	OPTIONS
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Exit.myText	EXIT
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToMenu.myText	EXIT TO MAIN MENU
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToMenu.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToWindows.myText	EXIT TO WINDOWS
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_ExitToWindows.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Save.myText	SAVE
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Load.myText	LOAD
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Load.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Objectives.myText	OBJECTIVES
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Objectives.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_BotOptions.myText	BOT OPTIONS
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_BotOptions.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Restart.myText	RESTART MISSION
+myGuiFile.myGuis.Ingame_Exit.myWidgets.myButton_Restart.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_BackgroundButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_BackgroundInterlace.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_Save.myText	SAVE GAME
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_Save.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Save.myText	SAVE
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Save.myToolTip	SAVE YOUR CURRENT GAME.
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Delete.myText	DELETE
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Delete.myToolTip	DELETE YOUR SELECTED SAVED GAME.
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Cancel.myText	CANCEL
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myButton_Cancel.myToolTip	CANCEL.
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myMultiColumn_SavedGames.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myMultiColumn_SavedGames.myColumns	NAME;40;MISSION;35;DATE/TIME;25;
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_line_horizontal4.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myTextInput_SaveGame.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_SaveGame.myText	SAVE GAME NAME
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myText_SaveGame.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_line02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_SavePopup.myWidgets.myPlate_line03.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BackgroundButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BackgroundInterlace.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Delete.myText	DELETE
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Delete.myToolTip	DELETE SELECTED SAVED GAME.
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Load.myText	LOAD
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Load.myToolTip	LOAD SELECTED SAVED GAME.
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myMultiColumn_SavedGames.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myMultiColumn_SavedGames.myColumns	NAME;40;MISSION;35;DATE/TIME;25;
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myTextList_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_MissionInfo.myText	MISSION: MISSIONNAME
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_ScreenshotBorder.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_Screenshot.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_SaveGameText.myText	LOAD GAME
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myText_SaveGameText.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line02.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line03.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line_horizontal4.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myPlate_line_horizontal401.myToolTip	<empty>
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Cancel.myText	CANCEL
+myGuiFile.myGuis.Ingame_LoadPopup.myWidgets.myButton_Cancel.myToolTip	CANCEL.
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Multiplayer.myText	MULTIPLAYER
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Singleplayer.myText	SINGLE PLAYER
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Options.myText	OPTIONS
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.GameVersion.myText	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.GameVersion.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice.myText	World in Conflict - Closed MP Beta - Not for Distribution
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice01.myText	ESRB Notice:
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice01.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice02.myText	This Game Has Not Yet Been Rated
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice02.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice03.myText	Game Experience May Change During Online Play
+myGuiFile.myGuis.Menu_Main.myWidgets.myText_LegalNotice03.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Exit.myText	EXIT
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Exit.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myPlate_WICLOGO.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Tutorial.myText	TUTORIAL
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Credits.myText	CREDITS
+myGuiFile.myGuis.Menu_Main.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Singleplayer.myText	SINGLE PLAYER
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Resume.myText	RESUME CAMPAIGN
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Resume.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_New.myText	NEW CAMPAIGN
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_New.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Campaign.myText	CAMPAIGN
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Campaign.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Cinematics.myText	CINEMATICS
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Cinematics.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Custom.myText	CUSTOM MISSION
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Custom.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Multiplayer.myText	MULTIPLAYER
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Options.myText	OPTIONS
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Tutorial.myText	TUTORIAL
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Credits.myText	CREDITS
+myGuiFile.myGuis.Menu_Singleplayer.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Singleplayer.myText	SINGLE PLAYER
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Multiplayer.myText	MULTIPLAYER
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Internet.myText	ONLINE
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Internet.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_LocalNetwork.myText	LOCAL NETWORK
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_LocalNetwork.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Replays.myText	REPLAYS
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Replays.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Options.myText	OPTIONS
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Tutorial.myText	TUTORIAL
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Credits.myText	CREDITS
+myGuiFile.myGuis.Menu_Multiplayer.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Singleplayer.myText	SINGLE PLAYER
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Singleplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Multiplayer.myText	MULTIPLAYER
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Multiplayer.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Controls.myText	CONTROLS
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Controls.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Graphics.myText	GRAPHICS
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Graphics.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Audio.myText	AUDIO
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Audio.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Mod.myText	SELECT MOD
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Mod.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Options.myText	OPTIONS
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Options.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Game.myText	GAME
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Game.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Tutorial.myText	TUTORIAL
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Tutorial.myToolTip	<empty>
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Credits.myText	CREDITS
+myGuiFile.myGuis.Menu_Options.myWidgets.myButton_Credits.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myPlate_LineHorizontal.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_SetMod.myText	SELECT MOD
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_SetMod.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.Lines_Vertical.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_NoMod.myText	UNLOAD MOD
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myButton_NoMod.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myMultiColumn_ModList.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myMultiColumn_ModList.myColumns	NAME;80;ACTIVE;20;
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myText_ActiveProfile.myText	MOD
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myText_ActiveProfile.myToolTip	<empty>
+myGuiFile.myGuis.Options_SelectMod.myWidgets.myPlate_Border.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_buttonBGsmall.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_Box.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.SetPlayerBox.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.PlayerNameInput.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myText_PlayerName.myText	SET PLAYER NAME
+myGuiFile.myGuis.BrowseServers.myWidgets.myText_PlayerName.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_MapDisplayBackground.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.MapImagePlate.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myGamesList.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myGamesList.myColumns	NAME;53;MAP;11;P;4;PLAYERS;13;PING;9;MOD;10;
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlayers.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myServerInfo.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myServerInfo.myColumns	A;50;B;50;
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Info.myText	INFO
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Info.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Players.myText	PLAYERS
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Players.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Join.myText	JOIN
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Join.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_1.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_1b.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_2.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_line_horizontal_2b.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_JoinServer.myText	SERVERS
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_JoinServer.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_CreateServer.myText	CREATE SERVER
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_CreateServer.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.Lines_Vertical2.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_ConnectToIP.myText	CONNECT TO IP
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_ConnectToIP.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.Lines_Vertical3.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myPlate_Border.myToolTip	<empty>
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Wireless.myText	WIRELESS
+myGuiFile.myGuis.BrowseServers.myWidgets.myButton_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Button.myText	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Button.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_JoinServer.myText	SERVERS
+myGuiFile.myGuis.Wireless.myWidgets.myButton_JoinServer.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_CreateServer.myText	CREATE SERVER
+myGuiFile.myGuis.Wireless.myWidgets.myButton_CreateServer.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Wireless.myText	WIRELESS
+myGuiFile.myGuis.Wireless.myWidgets.myButton_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocHeadline.myText	WIRELESS AD-HOC NETWORK
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocHeadline.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc01.myText	World in Conflict has detected that you have a wireless network device installed.
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc01.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc02.myText	To make it easy to connect to other wireless computers without a router, World in Conflict can create an ad-hoc network for peer-to-peer connections. All players will have to enable the ad-hoc network option before creating or joining a game for this to work correctly.
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc02.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc03.myText	Please note that while the ad-hoc network is enabled, any wireless internet connection will be disabled. Disabling the ad-hoc network or exiting the game will automatically restore the connection. Wired internet connections are not affected.
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc03.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Wireless.myText	WIRELESS STATUS:
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc.myText	AD-HOC STATUS:
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHoc.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocStatus.myText	_STATUS_
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_AdHocStatus.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_WirelessStatus.myText	_STATUS_
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_WirelessStatus.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_PeersText.myText	PEERS FOUND:
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_PeersText.myToolTip	<empty>
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Peers.myText	0
+myGuiFile.myGuis.Wireless.myWidgets.myTextLabel_Peers.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_FadedBackground.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_BackgroundScreen01.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Headline.myText	CONNECT TO IP
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Headline.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Connect.myText	CONNECT
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Connect.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Cancel.myText	CANCEL
+myGuiFile.myGuis.ConnectToIP.myWidgets.myButton_Cancel.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_line_horizontal.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_line_horizontal2.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_LineVertical01.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myPlate_LineVertical02.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_IP.myText	IP ADDRESS:
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_IP.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Port.myText	PORT:
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Port.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Password.myText	PASSWORD (OPTIONAL):
+myGuiFile.myGuis.ConnectToIP.myWidgets.myText_Password.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myTextInput_IP.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myTextInput_Port.myToolTip	<empty>
+myGuiFile.myGuis.ConnectToIP.myWidgets.myTextInput_Password.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_BG2.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_JoinServer.myText	SERVERS
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_JoinServer.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_CreateServer.myText	CREATE SERVER
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_CreateServer.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myPlate_BG3.myToolTip	<empty>
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_Wireless.myText	WIRELESS
+myGuiFile.myGuis.Create_Multiplayer.myWidgets.myButton_Wireless.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myPlate_LineHorizontal.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myButton_Ok.myText	START CAMPAIGN
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myButton_Ok.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myTextInput_Name.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_EnterName.myText	ENTER NAME:
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_EnterName.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myDropDown_Menu.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_Difficulty.myText	DIFFICULTY:
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myText_Difficulty.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myPlate_Bg.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_01.myText	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_00.myText	<empty>
+myGuiFile.myGuis.Singleplayer_StartNew.myWidgets.myVideo_Picture_00.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_InfoBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_MissionBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_MedalsBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MyCampaign.myText	MY CAMPAIGN
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SaveGames.myText	SAVED GAMES
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Current.myText	CURRENT CAMPAIGN:
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Current.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SetAsActive.myText	SET AS ACTIVE
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_SetAsActive.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_ScreenshotBorder.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_Screenshot.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInfo.myText	MISSION: MISSIONNAME
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalsEarned.myText	AWARDS EARNED
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalsEarned.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionList.myText	AVAILABLE MISSIONS
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionList.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_buttonBG01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myPlate_LineHorizontal.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Replay.myText	REPLAY MISSION
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Replay.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MedalStats.myText	AWARDS
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myTextList_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_1.myText	MEDAL NAME
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_2.myText	MEDAL NAME
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_3.myText	MEDAL NAME
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MedalName_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_1.myText	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_2.myText	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_3.myText	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myButton_Medal_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInformation.myText	MISSION INFORMATION
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_MissionInformation.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myDropDown_Difficulty.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Difficulty.myText	DIFFICULTY SETTING:
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Difficulty.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Mission.myText	MISSION
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myText_Mission.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myTextList_ListOfMissions.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_MyCampaign.myWidgets.myDropDown_Menu.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MyCampaign.myText	MY CAMPAIGN
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_SaveGames.myText	SAVED GAMES
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myMultiColumn_SavedGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myMultiColumn_SavedGames.myColumns	NAME;40;MISSION;35;DATE/TIME;25;
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Load.myText	LOAD
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Load.myToolTip	Load selected saved game
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Delete.myText	DELETE
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_Delete.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MedalStats.myText	AWARDS
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_ScreenshotBorder.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_Screenshot.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myText_MissionInfo.myText	MISSION: MISSIONNAME
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myText_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myTextList_MissionInfo.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_SaveGames.myWidgets.myPlate_Box.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MyCampaign.myText	MY CAMPAIGN
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_SaveGames.myText	SAVED GAMES
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MedalStats.myText	AWARDS
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_1.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_2.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_3.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_4.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_5.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_6.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_7.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_8.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_9.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_10.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_11.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_12.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_13.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_14.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_15.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_15.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_16.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_16.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_17.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_17.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_18.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_18.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_19.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_19.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_20.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_20.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_21.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_21.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_22.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_22.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_23.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_23.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_24.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_24.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_25.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_25.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_26.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_26.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_27.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_27.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_28.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_28.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_29.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_29.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_30.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_30.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_31.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myButton_Medal_31.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_M14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M1.myText	US MISSION 1:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M2.myText	US MISSION 2:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M3.myText	US MISSION 3:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M4.myText	US MISSION 4:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M5.myText	US MISSION 5:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M6.myText	US MISSION 6:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M7.myText	US MISSION 7:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M8.myText	US MISSION 8:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M9.myText	US MISSION 9:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M10.myText	US MISSION 10:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M11.myText	US MISSION 11:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M12.myText	US MISSION 12:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M13.myText	US MISSION 13:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M14.myText	US MISSION 14:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_M14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_Line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_Current.myText	FACTION:
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myText_Current.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myDropDown_Campaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals.myWidgets.myPlate_Line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_buttonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MyCampaign.myText	MY CAMPAIGN
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MyCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_SaveGames.myText	SAVED GAMES
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_SaveGames.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MedalStats.myText	AWARDS
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_MedalStats.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_1.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_2.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_3.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_4.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_5.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_6.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_7.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_7.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_8.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_8.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_9.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_9.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_10.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_10.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_11.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_11.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_12.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_12.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_13.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_13.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_14.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myButton_Medal_14.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M1.myText	USSR MISSION 1:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M2.myText	USSR MISSION 2:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M3.myText	USSR MISSION 3:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M3.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M4.myText	USSR MISSION 4:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M4.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M5.myText	USSR MISSION 5:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M5.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M6.myText	USSR MISSION 6:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_M6.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_Line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_Current.myText	FACTION:
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myText_Current.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myDropDown_Campaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Medals2.myWidgets.myPlate_Line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic000.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro000.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro000.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic001.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro001.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro001.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic002.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro002.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro002.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic003.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro003.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro003.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic004.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro004.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro004.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic005.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro005.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro005.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic006.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro006.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro006.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic007.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro007.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro007.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic008.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro008.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro008.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic009.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro009.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro009.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic010.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro010.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro010.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic011.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro011.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro011.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic012.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro012.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro012.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic013.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro013.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro013.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic014.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro014.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro014.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro015.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic015.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG015.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic016.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro016.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro016.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic017.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro017.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro017.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic018.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro018.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro018.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_CinematicBG019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro019.myText	NAME OF CINEMATIC
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myText_CinematicIntro019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic019.myText	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myVideo_Cinematic019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_Cinematics.myWidgets.myPlate_HeaderBG019.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myButton_Resume.myText	RESUME CAMPAIGN
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myButton_Resume.myToolTip	RESUMES YOUR CURRENT CAMPAIGN.
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myPlate_Bg.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myVideo_Picture.myText	<empty>
+myGuiFile.myGuis.Singleplayer_ResumeCampaign.myWidgets.myVideo_Picture.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Background.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_DialogBackground.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Interlace.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Header.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Headline.myText	WORLD IN CONFLICT: SOVIET ASSAULT DETECTED
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Headline.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message.myText	An installation of World in Conflict: Soviet Assault was detected, but you have an old campaign already active. To play the new Soviet missions, you must start a new campaign. We recommend that you do so now.
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message1.myText	Your old World in Conflict campaign will be saved and can be continued at a later time, but without the Soviet missions.
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message1.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message2.myText	Start a new campaign now?
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myTextLabel_Message2.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_StartNewCampaign.myText	YES
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_StartNewCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_ContinueOldCampaign.myText	NO
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myButton_ContinueOldCampaign.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_lineTop.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_Icon.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_LeftLine.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_RecommendNewCampaign.myWidgets.myPlate_RightLine.myToolTip	<empty>
+myGuiFile.myGuis.ViewReplay.myWidgets.ReplayList.myToolTip	<empty>
+myGuiFile.myGuis.ViewReplay.myWidgets.ViewReplayButton.myText	VIEW
+myGuiFile.myGuis.ViewReplay.myWidgets.ViewReplayButton.myToolTip	View the selected replay
+myGuiFile.myGuis.ViewReplay.myWidgets.DeleteReplayButton.myText	DELETE
+myGuiFile.myGuis.ViewReplay.myWidgets.DeleteReplayButton.myToolTip	Deletes the currently selected replay
+myGuiFile.myGuis.ViewReplay.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.ViewReplay.myWidgets.myPlate_line01.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myTextLabelMissionBriefing.myText	MISSION BRIEFING
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myTextLabelMissionBriefing.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myCustomMissionList.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myCustomMissionList.myColumns	NAME;60;MAP;40
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_MapDisplayBackground.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.PlayMissionButton.myText	PLAY MISSION
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.PlayMissionButton.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.MapImagePlate.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myTextListMissionBriefing.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_line.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myPlate_Border.myToolTip	<empty>
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myText_SaveGameText.myText	CUSTOM MISSION INFORMATION
+myGuiFile.myGuis.Singleplayer_CustomMission.myWidgets.myText_SaveGameText.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_ButtonBG.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myLoginButton.myText	LOGIN
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myLoginButton.myToolTip	Log in to Massgate for online games
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myCreateAccountButton.myText	CREATE NEW ACCOUNT
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myCreateAccountButton.myToolTip	Create a new Massgate account
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.mySaveCheckBox.myText	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.mySaveCheckBox.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPasswordReminderButton.myText	PASSWORD HELP
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPasswordReminderButton.myToolTip	Press here if you forgot, or would like to change, your password.
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPasswordInput.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myEmailInput.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_RememberInfo.myText	REMEMBER INFORMATION
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_RememberInfo.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Password.myText	PASSWORD
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Password.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Email.myText	EMAIL
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Email.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_ButtonBG01.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myProfileButton.myText	SELECT PROFILE
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myProfileButton.myToolTip	Manage account profiles (requires entered email and password)
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myAccessCodeButton.myText	ENTER ACCESS CODE
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myAccessCodeButton.myToolTip	Enter your Access Code.
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myTextList_Information.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Topic.myText	MASSGATE STATUS
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_Topic.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice01.myText	ESRB Notice:
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice01.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice03.myText	Game Experience May Change During Online Play
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myText_LegalNotice03.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_BannerBG.myToolTip	<empty>
+myGuiFile.myGuis.New_WiC_Login_WIP.myWidgets.myPlate_Banner.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_FadedBackground.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen03.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen01.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_BackgroundScreen02.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_ButtonBG3.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myText_ActiveProfile.myText	ACTIVE PROFILE: __PEERPROFILENAME__
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myText_ActiveProfile.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Add.myText	ADD
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Add.myToolTip	Add a new profile to your account
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Remove.myText	REMOVE
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Remove.myToolTip	Remove selected profile from your account
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_SetActive.myText	SET AS ACTIVE PROFILE
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_SetActive.myToolTip	Login with this profile now and next time
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Cancel.myText	CLOSE
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myButton_Cancel.myToolTip	Remove selected profile from your account
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myMultiColumn_Profiles.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myMultiColumn_Profiles.myColumns	;10;;90;
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_line_horizontal4.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles.myWidgets.myPlate_LineHorizontal02.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_FadedBackground.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_BackgroundScreen.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_BackgroundScreen01.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_GrayHeader.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_AddProfile.myText	ADD PROFILE
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_AddProfile.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_ProfileName.myText	ENTER PROFILE NAME:
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myText_ProfileName.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myTextInput_ProfileName.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_OK.myText	OK
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_OK.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_Cancel.myText	CANCEL
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myButton_Cancel.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_line_horizontal.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_line_horizontal2.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_LineVertical01.myToolTip	<empty>
+myGuiFile.myGuis.New_ManageProfiles_Add.myWidgets.myPlate_LineVertical02.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_BG.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_BGPic.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_ButtonBg.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_PreOrder.myText	CLICK HERE TO BUY!
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_PreOrder.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myLabel_ClosingIn.myText	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myLabel_ClosingIn.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myPlate_ButtonBg2.myToolTip	<empty>
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_Close.myText	CLOSE
+myGuiFile.myGuis.EndSplashScreen.myWidgets.myButton_Close.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.Plate1.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.Plate2.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myPlate_Test.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo00.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo00.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo01.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo01.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo02.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo02.myToolTip	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo03.myText	<empty>
+myGuiFile.myGuis.Credits.myWidgets.myVideo_BackgroundVideo03.myToolTip	<empty>
+myGuiFile.myGuis.PythonDebug.myWidgets.DebugHistory.myToolTip	<empty>

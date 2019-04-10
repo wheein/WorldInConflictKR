@@ -1,0 +1,86 @@
+﻿myKeyboardActions.Exit_Close.myLocName	<empty>
+myKeyboardActions.Attack.myLocName	Attack Ground
+myKeyboardActions.Back.myLocName	Camera Backwards
+myKeyboardActions.CameraToLZ.myLocName	Go to Drop Zone
+myKeyboardActions.CameraSwapUnitGroup.myLocName	Swap Unit Group
+myKeyboardActions.ChangeFaction.myLocName	Change Faction
+myKeyboardActions.Chat.myLocName	Chat to All
+myKeyboardActions.ChatTeam.myLocName	Chat to Team
+myKeyboardActions.CreateSquadModifier.myLocName	<empty>
+myKeyboardActions.CycleBehaviour.myLocName	Hold Fire
+myKeyboardActions.CycleFormation.myLocName	Change Formation
+myKeyboardActions.DeploySpawner.myLocName	Deploy Units
+myKeyboardActions.EnterBuilding.myLocName	Enter Nearest Building
+myKeyboardActions.EnterUnit.myLocName	Enter Nearest Transport
+myKeyboardActions.ExitUnits.myLocName	Unload
+myKeyboardActions.Follow.myLocName	Follow
+myKeyboardActions.Forward.myLocName	Camera Forward
+myKeyboardActions.Left.myLocName	Camera Left
+myKeyboardActions.Move.myLocName	Move
+myKeyboardActions.MoveBackwards.myLocName	Move Backwards
+myKeyboardActions.OpenObjectivesScreen.myLocName	Objectives Menu
+myKeyboardActions.Pause.myLocName	Pause
+myKeyboardActions.Right.myLocName	Camera Right
+myKeyboardActions.Reinforcements.myLocName	Reinforcements Menu
+myKeyboardActions.Repair.myLocName	Repair
+myKeyboardActions.Screenshot.myLocName	Take Screenshot
+myKeyboardActions.SelectSquad1.myLocName	<empty>
+myKeyboardActions.SelectSquad2.myLocName	<empty>
+myKeyboardActions.SelectSquad3.myLocName	<empty>
+myKeyboardActions.SelectSquad4.myLocName	<empty>
+myKeyboardActions.SelectSquad5.myLocName	<empty>
+myKeyboardActions.SelectSquad6.myLocName	<empty>
+myKeyboardActions.SelectSquad7.myLocName	<empty>
+myKeyboardActions.SelectSquad8.myLocName	<empty>
+myKeyboardActions.SelectSquad9.myLocName	<empty>
+myKeyboardActions.SelectSquad10.myLocName	<empty>
+myKeyboardActions.SetSpawnPosition.myLocName	Change Drop Zone
+myKeyboardActions.ShowAllHealth.myLocName	<empty>
+myKeyboardActions.ShowScore.myLocName	Scoreboard
+myKeyboardActions.Stack.myLocName	<empty>
+myKeyboardActions.StackModifer.myLocName	<empty>
+myKeyboardActions.Stop.myLocName	Stop
+myKeyboardActions.TacticalAid.myLocName	Tactical Aid Menu
+myKeyboardActions.ToggleConsole.myLocName	<empty>
+myKeyboardActions.ToggleGUI.myLocName	Toggle GUI Drawing
+myKeyboardActions.ToggleMegamap.myLocName	Mega Map
+myKeyboardActions.VOIP_Talkbutton.myLocName	VOIP Talk Button
+myKeyboardActions.VoteYes.myLocName	Vote YES
+myKeyboardActions.VoteNo.myLocName	Vote NO
+myKeyboardActions.ToggleRequest.myLocName	Request Menu
+myKeyboardActions.OffensiveRechargable.myLocName	Offensive Special Ability
+myKeyboardActions.DefensiveRechargable.myLocName	Defensive Special Ability
+myKeyboardActions.myNextAbility.myLocName	Next Special Ability
+myKeyboardActions.myPrevAbility.myLocName	Prev Special Ability
+myKeyboardActions.UndoSelection.myLocName	Undo Selection Change
+myKeyboardActions.SelectTypeModifier.myLocName	<empty>
+myKeyboardActions.DisbandUnit.myLocName	Disband Selected Units
+myKeyboardActions.myResupply.myLocName	Resupply Squad
+myKeyboardActions.Shortcut1.myLocName	Ingame Menu Shortcut 1
+myKeyboardActions.Shortcut2.myLocName	Ingame Menu Shortcut 2
+myKeyboardActions.Shortcut3.myLocName	Ingame Menu Shortcut 3
+myKeyboardActions.Shortcut4.myLocName	Ingame Menu Shortcut 4
+myKeyboardActions.Shortcut5.myLocName	Ingame Menu Shortcut 5
+myKeyboardActions.Shortcut6.myLocName	Ingame Menu Shortcut 6
+myKeyboardActions.Shortcut7.myLocName	Ingame Menu Shortcut 7
+myKeyboardActions.Shortcut8.myLocName	Ingame Menu Shortcut 8
+myKeyboardActions.Shortcut9.myLocName	Ingame Menu Shortcut 9
+myKeyboardActions.Shortcut10.myLocName	Ingame Menu Shortcut 10
+myKeyboardActions.ShortcutTab.myLocName	Cycle Ingame Menu Tab
+myKeyboardActions.SelectCat1.myLocName	Select Ingame Menu Tab 1
+myKeyboardActions.SelectCat2.myLocName	Select Ingame Menu Tab 2
+myKeyboardActions.SelectCat3.myLocName	Select Ingame Menu Tab 3
+myKeyboardActions.SelectCat4.myLocName	Select Ingame Menu Tab 4
+myKeyboardActions.SelectCat5.myLocName	Select Ingame Menu Tab 5
+myKeyboardActions.StoreCamera0.myLocName	Store Camera 1
+myKeyboardActions.StoreCamera1.myLocName	Store Camera 2
+myKeyboardActions.StoreCamera2.myLocName	Store Camera 3
+myKeyboardActions.StoreCamera3.myLocName	Store Camera 4
+myKeyboardActions.RestoreCamera0.myLocName	Restore Camera 1
+myKeyboardActions.RestoreCamera1.myLocName	Restore Camera 2
+myKeyboardActions.RestoreCamera2.myLocName	Restore Camera 3
+myKeyboardActions.RestoreCamera3.myLocName	Restore Camera 4
+myKeyboardActions.Camera_Height_Up.myLocName	Raise Camera Height
+myKeyboardActions.Camera_Height_Down.myLocName	Lower Camera Height
+myKeyboardActions.MouseLook.myLocName	Mouse Look
+myKeyboardActions.SelectDeployed.myLocName	Select Last Deployed Units

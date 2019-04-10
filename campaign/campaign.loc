@@ -1,0 +1,248 @@
+﻿myCampaigns.cmp1.myCampaignName	WIC
+myCampaigns.cmp1.myItems.Cinematic_Seattle.myName	Seattle
+myCampaigns.cmp1.myItems.Cinematic_Seattle.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.primary1.myName	National Defense Service Ribbon
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.primary1.myDescription	Awarded for honorable conduct during the retreat from Seattle.
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.secondary1.myName	Army Achievement Medal
+myCampaigns.cmp1.myItems.Mission1-Seattle2.myMedalsForCompletion.secondary1.myDescription	Awarded for excellent performance when repairing a stranded Bradley. 
+myCampaigns.cmp1.myItems.Mission2_PhoneCall.myName	A Rude Awakening
+myCampaigns.cmp1.myItems.Mission2_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.primary2.myName	Humanitarian Service Ribbon
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.primary2.myDescription	Awarded for meritorious participation in the evacuation of civilians from the Seattle suburbs during combat operations against the Soviet Union.
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.secondary2.myName	Bronze Star
+myCampaigns.cmp1.myItems.Mission2-Seattle3.myMedalsForCompletion.secondary2.myDescription	Awarded for heroic performance in combat operations against the Soviet Union. Due to your diligence a Soviet paratrooper operation was thwarted and the I-90 Bridge could be destroyed as planned, thereby delaying the Soviet advance out of Seattle.
+myCampaigns.cmp1.myItems.Mission3_PhoneCall.myName	Calling Home
+myCampaigns.cmp1.myItems.Mission3_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.primary3.myName	Army Meritorious Unit Commendation
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.primary3.myDescription	Your battalion has been awarded this commendation for exceptionally meritorious conduct and valorous actions against the Soviet invaders during the defense of Pine Valley.
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.secondary3.myName	Silver Star
+myCampaigns.cmp1.myItems.Mission3-Ustown4.myMedalsForCompletion.secondary3.myDescription	Awarded for exceptional gallantry and extraordinary heroism during the defense of Pine Valley. Due to your diligence and bravery, friendly forces were able to hold the town against an overwhelming Soviet attack. 
+myCampaigns.cmp1.myItems.Mission4_PhoneCall.myName	Land of the Free
+myCampaigns.cmp1.myItems.Mission4_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.primary4.myName	Officer Professional Development Ribbon
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.primary4.myDescription	You have been awarded this ribbon for showing professional dedication and promising development as a commissioned officer in the United States Army.
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.secondary4.myName	Army Distinguished Service Medal
+myCampaigns.cmp1.myItems.Mission4-Usfarmland3.myMedalsForCompletion.secondary4.myDescription	Awarded for exceptionally meritorious service in a duty of great responsibility. Due to your impeccable performance Soviet forces were held at bay and their advance toward Cascade Falls and Fort Teller delayed so that the defenders there had time to prepare.
+myCampaigns.cmp1.myItems.Mission5_PhoneCall.myName	Family Ties
+myCampaigns.cmp1.myItems.Mission5_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.primary5.myName	Army Valorous Unit Award
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.primary5.myDescription	Your battalion has been given this award to commemorate your extraordinary heroism, uncommon valor and selfless sacrifice during the defense of Cascade Falls.
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.secondary5.myName	Distinguished Service Cross
+myCampaigns.cmp1.myItems.Mission5-Ustown3.myMedalsForCompletion.secondary5.myDescription	Awarded for extreme gallantry and risk of life in actual combat with the armed forces of the Soviet Union. Due to your extraordinary bravery during the defense of Cascade Falls, where you repeatedly acted above and beyond the call of duty, the Soviet assault was stalled and the secret of Fort Teller kept safe.
+myCampaigns.cmp1.myItems.Mission6_PhoneCall.myName	Colonel Sawyer 
+myCampaigns.cmp1.myItems.Mission6_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.primary6.myName	Combat Infantryman Badge
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.primary6.myDescription	The recipient was personally present and under hostile fire while serving in a unit actively engaged in ground combat with the enemy during operations in Southern France.
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.secondary6.myName	Army Commendation medal
+myCampaigns.cmp1.myItems.Mission6-Europe4.myMedalsForCompletion.secondary6.myDescription	Awarded for heroism in combat against the Soviet Union. Due to your actions the initial battle of Southern France was won and the offensive could proceed as planned.
+myCampaigns.cmp1.myItems.Mission7_PhoneCall.myName	Tête-à-tête
+myCampaigns.cmp1.myItems.Mission7_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.primary7.myName	Armed Forces Expeditionary Ribbon
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.primary7.myDescription	Awarded for meritorious conduct in combat operations on foreign soil against the Soviet Union.
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.secondary7.myName	Legion of Merit
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.secondary7.myDescription	Awarded for exceptionally meritorious conduct during the NATO offensive against the Soviet Union in Southern France. Despite personal risk of life you acted with merit while completing the final assault on the Soviet divisional command post.
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.extra1.myName	French Campaign Ribbon
+myCampaigns.cmp1.myItems.Mission7-Europe2.myMedalsForCompletion.extra1.myDescription	Awarded for the successful conclusion of combat operations aimed to end the Soviet occupation of Southern France.
+myCampaigns.cmp1.myItems.Mission8_PhoneCall.myName	Task Force Raven
+myCampaigns.cmp1.myItems.Mission8_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.primary8.myName	Rank Insignia: 1st Lieutenant
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.primary8.myDescription	Due to the promise you show as an officer and leader of men you have been promoted to the rank of 1st Lieutenant in the United States Army.
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.secondary8.myName	Joint Service Commendation Medal
+myCampaigns.cmp1.myItems.Mission8-Russia2.myMedalsForCompletion.secondary8.myDescription	Awarded for exceptional heroism during operations undertaken within the Soviet Union. Due to your actions, the difficult operation to rescue the downed pilots and salvage important intelligence could be completed.
+myCampaigns.cmp1.myItems.Mission9_PhoneCall.myName	Forgiveness
+myCampaigns.cmp1.myItems.Mission9_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.primary9.myName	NATO Ribbon
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.primary9.myDescription	Awarded for commendable conduct while serving in a NATO-attached unit engaged in combat operations against hostile forces.
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.secondary9.myName	Defense Distinguished Service Medal
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.secondary9.myDescription	Awarded for distinguished service while conducting operations together with a NATO unit on Soviet soil. Due to your commendable leadership and heroic actions several Soviet submarines were sunk and their plan to launch an attack on the US East Coast was partly thwarted.
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.extra2.myName	Soviet Campaign Ribbon
+myCampaigns.cmp1.myItems.Mission9-Russia4.myMedalsForCompletion.extra2.myDescription	Awarded for the successful conclusion of combat operations within the Soviet Union.
+myCampaigns.cmp1.myItems.Mission10_PhoneCall.myName	Reorganizing
+myCampaigns.cmp1.myItems.Mission10_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Cinematic_NewYork.myName	New York
+myCampaigns.cmp1.myItems.Cinematic_NewYork.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.primary10.myName	Air Assault Badge
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.primary10.myDescription	Awarded for professional conduct during air assault operations against hostile forces
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.secondary10.myName	Distinguished Service Cross
+myCampaigns.cmp1.myItems.Mission10-Newyork1.myMedalsForCompletion.secondary10.myDescription	For your extreme gallantry and risk of life in actual combat with the armed forces of the Soviet Union you have been awarded a second Distinguished Service Cross. Your actions helped turn back the Soviet incursion in New York, free the hostages held there and cleanse the Soviet insurgents from the islands south of Manhattan.
+myCampaigns.cmp1.myItems.Mission11_PhoneCall.myName	Redemption
+myCampaigns.cmp1.myItems.Mission11_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.primary11.myName	Combat Medical Badge
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.primary11.myDescription	The recipient was personally present and under hostile fire while serving in a medical and engineering capacity in a unit actively engaged in ground combat with the enemy.
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.secondary11.myName	Joint Service Achievement Medal
+myCampaigns.cmp1.myItems.Mission11-Usfarmland2.myMedalsForCompletion.secondary11.myDescription	Awarded for your sustained exceptional performance during prolonged combat actions against the Soviet Union. Due to your leadership skills and personal bravery US forces were rallied after the battle for Cascade Falls and scattered Soviet units remaining in the area were destroyed.
+myCampaigns.cmp1.myItems.Mission12_PhoneCall.myName	A Hard Call
+myCampaigns.cmp1.myItems.Mission12_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.primary12.myName	Rank Insignia: Captain
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.primary12.myDescription	Due to your proficiency as an army officer you have now been fast-tracked for promotion to the rank of Captain in the United States Army.
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.secondary12.myName	Silver Star
+myCampaigns.cmp1.myItems.Mission12-Ustown1.myMedalsForCompletion.secondary12.myDescription	For showing exceptional gallantry and extraordinary heroism during the counteroffensive toward Seattle you have been awarded a second Silver Star. Thanks to your impeccable performance and outstanding heroic actions the entire operation could move ahead of schedule, increasing the chance of retaking Seattle in time.
+myCampaigns.cmp1.myItems.Mission13_PhoneCall.myName	The Price of Duty
+myCampaigns.cmp1.myItems.Mission13_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.primary13.myName	Joint Meritorious Unit Award
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.primary13.myDescription	Your company has been given this award for exceptional performance during the recapture of Sandfish Island from Soviet forces.
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.secondary13.myName	Legion of Merit
+myCampaigns.cmp1.myItems.Mission13-Seattle4.myMedalsForCompletion.secondary13.myDescription	For displaying exceptionally meritorious conduct during amphibious actions in the Puget Sound you have been awarded a second Legion of Merit. Due to your superlative performance Sandfish Island was taken expediently and with minimum loss of life.
+myCampaigns.cmp1.myItems.Mission14_PhoneCall.myName	Have to Get Out
+myCampaigns.cmp1.myItems.Mission14_PhoneCall.myDescription	<empty>
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.primary14.myName	American Defense Medal
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.primary14.myDescription	You have been awarded this ribbon for successful participation in the defense of the United States of America against the invasion and subsequent occupation attempt made by the Soviet Union.
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.secondary14.myName	Congressional Medal of Honor
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.secondary14.myDescription	For distinguishing yourself conspicuously by gallantry above and beyond the call of duty in combat against Soviet forces, you have been awarded the Congressional Medal of Honor. Knowingly risking your own life, you went into the very heart of enemy-held territory and destroyed their ability to command. This caused the immediate collapse of Soviet forces defending Seattle and set an example of  selfless sacrifice and impeccable behavior for other soldiers to aspire to.
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.extra3.myName	Army Presidential Unit Citation
+myCampaigns.cmp1.myItems.Mission14-Seattle1.myMedalsForCompletion.extra3.myDescription	Your battalion has been given this award for exceptional displays of gallantry, determination, and esprit de corps in accomplishing its mission under extremely difficult and hazardous conditions.
+myCampaigns.WIC_SA.myCampaignName	WIC_SA
+myCampaigns.WIC_SA.myItems.Prelude.myName	<empty>
+myCampaigns.WIC_SA.myItems.Prelude.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.primary15.myName	Order for Service of the Homeland
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.primary15.myDescription	Bestowed for exemplary service to the Motherland during the liberation of West Berlin.
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.secondary15.myName	Order of Bogdan Khmelnitsky
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.secondary15.myDescription	Bestowed for a display of exceptional bravery and resourcefulness when aiding a comrade with much needed anti-aircraft support during the battle for West Berlin.
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.extra4.myName	For the Liberation of Berlin
+myCampaigns.WIC_SA.myItems.Mission1-Berlin1.myMedalsForCompletion.extra4.myDescription	Awarded to those fortunate comrades who participated in the liberation of Berlin - an act which has led to the unification of the once divided German capital.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Cinematic_SA_Seattle.myName	Seattle
+myCampaigns.WIC_SA.myItems.Cinematic_SA_Seattle.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.primary1.myName	National Defense Service Ribbon
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.primary1.myDescription	Awarded for honorable conduct during the retreat from Seattle.
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.secondary1.myName	Army Achievement Medal
+myCampaigns.WIC_SA.myItems.Mission2-Seattle2.myMedalsForCompletion.secondary1.myDescription	Awarded for excellent performance when repairing a stranded Bradley. 
+myCampaigns.WIC_SA.myItems.Mission3_PhoneCall.myName	A Rude Awakening
+myCampaigns.WIC_SA.myItems.Mission3_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.primary2.myName	Humanitarian Service Ribbon
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.primary2.myDescription	Awarded for meritorious participation in the evacuation of civilians from the Seattle suburbs during combat operations against the Soviet Union.
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.secondary2.myName	Bronze Star
+myCampaigns.WIC_SA.myItems.Mission3-Seattle3.myMedalsForCompletion.secondary2.myDescription	Awarded for heroic performance in combat operations against the Soviet Union. Due to your diligence a Soviet paratrooper operation was thwarted and the I-90 Bridge could be destroyed as planned, thereby delaying the Soviet advance out of Seattle.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission4-Letter.myName	Tractors
+myCampaigns.WIC_SA.myItems.Mission4-Letter.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.primary16.myName	Excellent Reconnaissance Scout Badge
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.primary16.myDescription	Bestowed for excellent performance as a motorized rifle scout during combat maneuvers in America.
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.secondary16.myName	Medal for Combat Service
+myCampaigns.WIC_SA.myItems.Mission4-UsFarmland1.myMedalsForCompletion.secondary16.myDescription	Due to your exceptional conduct when dealing with a strong adversary you have been awarded this medal. Your expedient use of firepower and small unit tactics contributed to the successful destruction of enemy forces outside Seattle. 
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission5_PhoneCall.myName	Calling Home
+myCampaigns.WIC_SA.myItems.Mission5_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.primary3.myName	Army Meritorious Unit Commendation
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.primary3.myDescription	Your battalion has been awarded this commendation for exceptionally meritorious conduct and valorous actions against the Soviet invaders during the defense of Pine Valley.
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.secondary3.myName	Silver Star
+myCampaigns.WIC_SA.myItems.Mission5-Ustown4.myMedalsForCompletion.secondary3.myDescription	Awarded for exceptional gallantry and extraordinary heroism during the defense of Pine Valley. Due to your diligence and bravery, friendly forces were able to hold the town against an overwhelming Soviet attack. 
+myCampaigns.WIC_SA.myItems.Mission6_PhoneCall.myName	Land of the Free
+myCampaigns.WIC_SA.myItems.Mission6_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.primary4.myName	Officer Professional Development Ribbon
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.primary4.myDescription	You have been awarded this ribbon for showing professional dedication and promising development as a commissioned officer in the United States Army.
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.secondary4.myName	Army Distinguished Service Medal
+myCampaigns.WIC_SA.myItems.Mission6-Usfarmland3.myMedalsForCompletion.secondary4.myDescription	Awarded for exceptionally meritorious service in a duty of great responsibility. Due to your impeccable performance Soviet forces were held at bay and their advance toward Cascade Falls and Fort Teller delayed so that the defenders there had time to prepare.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission7-Interview.myName	Extreme measures
+myCampaigns.WIC_SA.myItems.Mission7-Interview.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.primary17.myName	Excellent Infantryman Badge 
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.primary17.myDescription	For showing diligence and focus when commanding an infantry unit in battle you have been awarded this badge of excellence.
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.secondary17.myName	For Combat Merits
+myCampaigns.WIC_SA.myItems.Mission7-UsFarmland5.myMedalsForCompletion.secondary17.myDescription	Bestowed for meritorious conduct during the battle. Your swift destruction of enemy supplies and the elimination of enemy officers and engineers will prove to the enemy that the Red Army's might is not to be questioned.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission8_PhoneCall.myName	Family Ties
+myCampaigns.WIC_SA.myItems.Mission8_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.primary5.myName	Army Valorous Unit Award
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.primary5.myDescription	Your battalion has been given this award to commemorate your extraordinary heroism, uncommon valor and selfless sacrifice during the defense of Cascade Falls.
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.secondary5.myName	Distinguished Service Cross
+myCampaigns.WIC_SA.myItems.Mission8-Ustown3.myMedalsForCompletion.secondary5.myDescription	Awarded for extreme gallantry and risk of life in actual combat with the armed forces of the Soviet Union. Due to your extraordinary bravery during the defense of Cascade Falls, where you repeatedly acted above and beyond the call of duty, the Soviet assault was stalled and the secret of Fort Teller kept safe.
+myCampaigns.WIC_SA.myItems.Mission9_PhoneCall.myName	Colonel Sawyer 
+myCampaigns.WIC_SA.myItems.Mission9_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.primary6.myName	Combat Infantryman Badge
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.primary6.myDescription	The recipient was personally present and under hostile fire while serving in a unit actively engaged in ground combat with the enemy during operations in Southern France.
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.secondary6.myName	Army Commendation Medal
+myCampaigns.WIC_SA.myItems.Mission9-Europe4.myMedalsForCompletion.secondary6.myDescription	Awarded for heroism in combat against the Soviet Union. Due to your actions the initial battle of Southern France was won and the offensive could proceed as planned.
+myCampaigns.WIC_SA.myItems.Mission10_PhoneCall.myName	Tête-à-tête
+myCampaigns.WIC_SA.myItems.Mission10_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.primary7.myName	Armed Forces Expeditionary Ribbon
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.primary7.myDescription	Awarded for meritorious conduct in combat operations on foreign soil against the Soviet Union.
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.secondary7.myName	Legion of Merit
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.secondary7.myDescription	Awarded for exceptionally meritorious conduct during the NATO offensive against the Soviet Union in Southern France. Despite personal risk of life you acted with merit while completing the final assault on the Soviet divisional command post.
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.extra1.myName	French Campaign Ribbon
+myCampaigns.WIC_SA.myItems.Mission10-Europe2.myMedalsForCompletion.extra1.myDescription	Awarded for the successful conclusion of combat operations aimed to end the Soviet occupation of Southern France.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission11-Letter.myName	Good news!
+myCampaigns.WIC_SA.myItems.Mission11-Letter.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.primary18.myName	Distinguished Military Service
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.primary18.myDescription	For your participation in the successful raid into enemy territory you have been awarded the Distinguished Military Service Medal 1st Class.
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.secondary18.myName	Order of Alexander Nevsky
+myCampaigns.WIC_SA.myItems.Mission11-Norway1.myMedalsForCompletion.secondary18.myDescription	Awarded for outstanding heroism when repelling an incoming Norwegian air strike. If it hadn't been for your excellent maneuvering and expediency when capturing the SAM-launchers, many comrades on the beach would have perished in the incoming strike.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission12_PhoneCall.myName	Task Force Raven
+myCampaigns.WIC_SA.myItems.Mission12_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.primary8.myName	Rank Insignia: 1st Lieutenant
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.primary8.myDescription	Due to the promise you show as an officer and leader of men you have been promoted to the rank of 1st Lieutenant in the United States Army.
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.secondary8.myName	Joint Service Commendation Medal
+myCampaigns.WIC_SA.myItems.Mission12-Russia2.myMedalsForCompletion.secondary8.myDescription	Awarded for exceptional heroism during operations undertaken within the Soviet Union. Due to your actions, the difficult operation to rescue the downed pilots and salvage important intelligence could be completed.
+myCampaigns.WIC_SA.myItems.Mission13_PhoneCall.myName	Forgiveness
+myCampaigns.WIC_SA.myItems.Mission13_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.primary9.myName	NATO Ribbon
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.primary9.myDescription	Awarded for commendable conduct while serving in a NATO-attached unit engaged in combat operations against hostile forces.
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.secondary9.myName	Defense Distinguished Service Medal
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.secondary9.myDescription	Awarded for distinguished service while conducting operations together with a NATO unit on Soviet soil. Due to your commendable leadership and heroic actions several Soviet submarines were sunk and their plan to launch an attack on the US East Coast was partly thwarted.
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.extra2.myName	Soviet Campaign Ribbon
+myCampaigns.WIC_SA.myItems.Mission13-Russia4.myMedalsForCompletion.extra2.myDescription	Awarded for the successful conclusion of combat operations within the Soviet Union.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission14-Letter.myName	Missives
+myCampaigns.WIC_SA.myItems.Mission14-Letter.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.primary19.myName	Excellent Artillery Man Badge 
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.primary19.myDescription	Awarded for your skillful use of artillery when defending the Motherland against enemy raiders.
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.secondary19.myName	Order of the Red Star
+myCampaigns.WIC_SA.myItems.Mission14-Russia3.myMedalsForCompletion.secondary19.myDescription	For your successful protection of the prison camp you have been awarded the Order of the Red Star. Your skill in the use of both artillery and Frontal Aviation assets proved invaluable during the battle and helped save the lives of both the NATO prisoners and your comrades in the battle group. 
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission15_PhoneCall.myName	Reorganizing
+myCampaigns.WIC_SA.myItems.Mission15_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Cinematic_SA_NewYork.myName	New York
+myCampaigns.WIC_SA.myItems.Cinematic_SA_NewYork.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.primary10.myName	Air Assault Badge
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.primary10.myDescription	Awarded for professional conduct during air assault operations against hostile forces
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.secondary10.myName	Distinguished Service Cross
+myCampaigns.WIC_SA.myItems.Mission15-Newyork1.myMedalsForCompletion.secondary10.myDescription	For your extreme gallantry and risk of life in actual combat with the armed forces of the Soviet Union you have been awarded a second Distinguished Service Cross. Your actions helped turn back the Soviet incursion in New York, free the hostages held there and cleanse the Soviet insurgents from the islands south of Manhattan.
+myCampaigns.WIC_SA.myItems.Mission16_PhoneCall.myName	Redemption
+myCampaigns.WIC_SA.myItems.Mission16_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.primary11.myName	Combat Medical Badge
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.primary11.myDescription	The recipient was personally present and under hostile fire while serving in a medical and engineering capacity in a unit actively engaged in ground combat with the enemy.
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.secondary11.myName	Joint Service Achievement Medal
+myCampaigns.WIC_SA.myItems.Mission16-Usfarmland2.myMedalsForCompletion.secondary11.myDescription	Awarded for your sustained exceptional performance during prolonged combat actions against the Soviet Union. Due to your leadership skills and personal bravery US forces were rallied after the battle for Cascade Falls and scattered Soviet units remaining in the area were destroyed.
+myCampaigns.WIC_SA.myItems.Mission17_PhoneCall.myName	A Hard Call
+myCampaigns.WIC_SA.myItems.Mission17_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.primary12.myName	Rank Insignia: Captain
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.primary12.myDescription	Due to your proficiency as an army officer you have now been fast-tracked for promotion to the rank of Captain in the United States Army.
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.secondary12.myName	Silver Star
+myCampaigns.WIC_SA.myItems.Mission17-Ustown1.myMedalsForCompletion.secondary12.myDescription	For showing exceptional gallantry and extraordinary heroism during the counteroffensive toward Seattle you have been awarded a second Silver Star. Thanks to your impeccable performance and outstanding heroic actions the entire operation could move ahead of schedule, increasing the chance of retaking Seattle in time.
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_US-RU.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission18-Interview.myName	Comrades
+myCampaigns.WIC_SA.myItems.Mission18-Interview.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.primary20.myName	Combined Arms Specialist
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.primary20.myDescription	Awarded for the display of extraordinary skill in combined arms warfare against a superior force during the American campaign. 
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.secondary20.myName	For Valor 
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.secondary20.myDescription	Awarded for exceptional heroism during maneuvers in America. Due to your exemplary actions, often performed with complete disregard for your own life, many wounded comrades were saved from certain death by American hands. If all the sons of the state carried themselves with such valor this war would already have been won.
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.extra5.myName	KGB Medal 
+myCampaigns.WIC_SA.myItems.Mission18-UsFarmland4.myMedalsForCompletion.extra5.myDescription	Awarded for meritorious action in the service of the KGB. For your unwavering faith in the policies of the state, your sound political sense and high moral standards you are hereby commended with this medal.
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myName	<empty>
+myCampaigns.WIC_SA.myItems.SwitchSide_RU-US.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission19_PhoneCall.myName	The Price of Duty
+myCampaigns.WIC_SA.myItems.Mission19_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.primary13.myName	Joint Meritorious Unit Award
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.primary13.myDescription	Your company has been given this award for exceptional performance during the recapture of Sandfish Island from Soviet forces.
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.secondary13.myName	Legion of Merit
+myCampaigns.WIC_SA.myItems.Mission19-Seattle4.myMedalsForCompletion.secondary13.myDescription	For displaying exceptionally meritorious conduct during amphibious actions in the Puget Sound you have been awarded a second Legion of Merit. Due to your superlative performance Sandfish Island was taken expediently and with minimum loss of life.
+myCampaigns.WIC_SA.myItems.Mission20_PhoneCall.myName	Have to Get Out
+myCampaigns.WIC_SA.myItems.Mission20_PhoneCall.myDescription	<empty>
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.primary14.myName	American Defense Medal
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.primary14.myDescription	You have been awarded this ribbon for successful participation in the defense of the United States of America against the invasion and subsequent occupation attempt made by the Soviet Union.
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.secondary14.myName	Congressional Medal of Honor
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.secondary14.myDescription	For distinguishing yourself conspicuously by gallantry above and beyond the call of duty in combat against Soviet forces, you have been awarded the Congressional Medal of Honor. Knowingly risking your own life, you went into the very heart of enemy-held territory and destroyed their ability to command. This caused the immediate collapse of Soviet forces defending Seattle and set an example of  selfless sacrifice and impeccable behavior for other soldiers to aspire to.
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.extra3.myName	Army Presidential Unit Citation
+myCampaigns.WIC_SA.myItems.Mission20-Seattle1.myMedalsForCompletion.extra3.myDescription	Your battalion has been given this award for exceptional displays of gallantry, determination, and esprit de corps in accomplishing its mission under extremely difficult and hazardous conditions.

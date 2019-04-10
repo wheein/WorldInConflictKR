@@ -1,0 +1,32 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myUiName	Temple Ruins
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myWeCapturedText	We captured the Temple Ruins
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myWeLostText	We lost control of the Temple Ruins
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myEnemyCapturedText	Enemy captured the Temple Ruins
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myUiName	Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myWeCapturedText	We captured the Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myWeLostText	We lost control of the Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myEnemyCapturedText	Enemy captured the Gas Station
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myUiName	Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myWeCapturedText	We captured the Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myWeLostText	We lost control of the Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myEnemyCapturedText	Enemy captured the Village
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myUiName	Airfield
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myWeCapturedText	We captured the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myWeLostText	We lost control of the Airfield
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myEnemyCapturedText	Enemy captured the Airfield
+myWicedMap.myMissionStats.myName	do_Tequila
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	A sleepy Mexican village is shaken out of its siesta by the sound of roaring Soviet and U.S. tanks.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading1.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading2.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading3.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading4.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading5.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading6.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading7.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading8.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading9.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading10.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading11.myText	TEQUILA
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.Loading12.myText	TEQUILA

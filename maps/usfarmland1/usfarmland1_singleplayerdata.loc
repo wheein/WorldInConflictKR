@@ -1,0 +1,303 @@
+﻿mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide1.myText	In America itself, our valiant forces are making excellent progress. The front is expanded 
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide2.myText	daily as city after
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide3.myText	city falls into our hands. Everywhere our troops are met
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide4.myText	by cheering citizens, happy to be liberated
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide5.myText	from the yoke of their oppressive government. Already the American proletariat
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide6.myText	is joining us in spontaneous -- The initial landing went well and within a few
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide7.myText	days we had Seattle secured and several regiments moving out into the surrounding countryside. It felt great to finally roam free after having spent weeks inside the cramped container ships.
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide8.myText	The Americans soon rallied their forces though, and we began to encounter pockets of heavy resistance. After a pitched fight
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide9.myText	they would melt back into the countryside, leaving us to count our dead and wounded. It didn't take long before the strain and frustration of being in a hostile country so far from home began to show on some of the men ...
+mySinglePlayerData.mySinglePlayerMissionStats.myLoadingBriefing.myLoadingSlides.Slide10.myText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon.myDescription	Scout ahead toward the airstrip
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon.myLongDescription	You have been ordered to scout ahead. Move your units to the designated area and watch out for enemy units.\n\nTo complete this objective you must move at least one unit to the area marked on your map.\n\nYou will fail the objective and the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon.myVisualisationText	Scout ahead toward the airstrip
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2.myDescription	Scout east toward the farm
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2.myLongDescription	Continue your reconnaissance and move toward the designated area.\n\nTo complete this objective you must move at least one unit to the area marked on your map. \n\nYou will fail the objective and the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Recon2.myVisualisationText	Scout east toward the farm
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridge.myDescription	Capture the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridge.myLongDescription	The bridge must be captured for the offensive to continue. Move you units to the other side of the river and secure the bridgehead. Second Company will move in to support you once your units are in place.\n\nTo complete this objective you must capture the position on the other side. Friendly units will assist you.\n\nYou will fail the objective and the mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureBridge.myVisualisationText	Capture the bridge
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAttackers.myDescription	Destroy the attackers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAttackers.myLongDescription	The bridge will not be secure until the American attackers have been destroyed.\n\nTo complete this objective you must destroy the American attackers.\n\nYou will fail this mission if you lose all your units.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DestroyAttackers.myVisualisationText	Destroy the attackers
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureFords.myDescription	Secure the eastern ford
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureFords.myLongDescription	You must secure the eastern ford in support of the main attack to the west.\n\nTo complete this objective you must capture and fortify the position marked on the map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.SecureFords.myVisualisationText	Secure the eastern ford
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Farm.myDescription	Clear the farm
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Farm.myLongDescription	Move to the farm and destroy all enemy forces in the marked area.\n\nTo complete this objective you must destroy all enemy units in and around the farm marked on your map.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.Farm.myVisualisationText	Clear the farm
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBridge.myDescription	Defend the bridgehead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBridge.myLongDescription	You must protect the bridgehead against the American counter-attack.\n\nTo complete this objective you must hold the bridgehead against the American counter-attack.\n\nYou will fail the objective if the Americans fortify the position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.DefendBridge.myVisualisationText	Defend the bridgehead
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.PushBack.myDescription	Counter-attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.PushBack.myLongDescription	The Americans are retreating. Advance and destroy them.\n\nTo complete this objective you must capture and fortify the position marked on the map. \n\nYou will fail the objective and the mission if the Americans manage to take back and fortify their position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.PushBack.myVisualisationText	Counter-attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.PushBack2.myDescription	Rout the enemy
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.PushBack2.myLongDescription	The enemy retreat has been turned into a rout. Press the attack and drive them off the battlefield.\n\nTo complete this objective you must capture and fortify the position marked on the map.\n\nYou will fail the objective and the mission if the Americans manage to take back and fortify their position.
+mySinglePlayerData.mySinglePlayerMissionStats.myPrimaryObjectives.PushBack2.myVisualisationText	Rout the enemy
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BaseBuildingSec.myDescription	Set up defensive positions
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BaseBuildingSec.myLongDescription	A massive American counter-attack is expected. Set up what defenses you can at the positions marked on your map.\n\nTo complete this objective you must fortify three out of four positions before the enemy arrives.\n\nYou will fail the objective if you don't fortify enough positions before the enemy arrives.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.BaseBuildingSec.myVisualisationText	Set up defensive positions
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyAbrams.myDescription	Destroy the M1-tank
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyAbrams.myLongDescription	The Americans have only a few M1-Abrams in the area around Seattle and each one poses a real threat to our lighter forces. Locate and destroy that tank if the opportunity presents itself.\n\nTo complete this objective you must destroy the American tank marked on your map.\n\nYou will fail this objective if the tank is not destroyed when the eastern ford has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.mySecondaryObjectives.DestroyAbrams.myVisualisationText	Destroy the M1-tank
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ObjTutorialResupply.myDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ObjTutorialResupply.myLongDescription	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialObjectives.ObjTutorialResupply.myVisualisationText	<empty>
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_01.myText	Malashenko to Sokol-1. This place is too calm.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_01.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_02.myText	I agree, Captain. The river is the perfect place for them to defend. We need better intelligence before we continue the advance.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_02.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_03.myText	Sokol-1 to Romanov. Move ahead and scout out the area. And be wary of ambushes.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_03.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_04.myText	To all battle group elements. Spread out and hold in place. Romanov will scout ahead. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_04.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_05.myText	Govorit Malashenko. Ponjal. The Americans are here somewhere. Be careful, Lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_05.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_06.myText	No sign of the enemy yet.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_06.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_07.myText	Still no sign of the Americans ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_07.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_08.myText	Malashenko here. They are close. I can feel it.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_08.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_09.myText	I believe you are right Captain, but we must secure that bridge regardless.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_09.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_10.myText	Sokol-1 to all units. Continue the advance toward the river but hold in place on the north side until the bridge has been secured.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_10.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_11.myText	Understood, Tovarishj Polkovnik. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_11.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_12.myText	American scouts! Do not pursue, Romanov. The objective is the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_12.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_13.myText	Shipovnik here. If we don't kill them they will most likely alert the rest of the defenders.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_13.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_14.myText	It's too late for that, Shipovnik. We must have that bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_14.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_15.myText	We missed them now anyway ...
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_15.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_16.myText	Well done, Lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_16.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_17.myText	Ja, Sokol-1. Neutralize the enemy so that we can start using the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_17.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_18.myText	The bridge is secure. Well done, everyone. Move across by company. I want column formation--
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_18.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_19.myText	Malashenko here! We have incoming fighters!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_19.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_20.myText	Romanov! Make a supporting attack on the eastern ford while Second and Third Company flank around to the west. We must reinforce our stranded comrades on the other side of the river.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_20.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_21.myText	It looks like the Americans are finally making a stand. Count on heavy resistance. I'm giving you light tank support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_21.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_22.myText	Excellent, lieutenant. I'm sending further reinforcements to you. Captain Malashenko, what is your situation?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_22.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_23.myText	We've broken through the enemy lines. The Americans are pulling back.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_23.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_24.myText	Understood. Link up with your men and set up a perimeter.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_24.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_25.myText	This is Sokol-1. We have a large concentration of enemy units at the farm. We have finally been given priority air support and I am calling in a strike now.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_25.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_26.myText	Sokol-1 to Romanov! Frontal Aviation will deal with the Americans! Make sure you are clear of the target area!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_26.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_27.myText	Malashenko to Sokol-1. What do we do about that bridge?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_27.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_28.myText	Romanov will secure the bridgehead and then we'll repair the bridge. You must protect the southwestern flank.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_28.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_29.myText	Nothing will be allowed through. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_29.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_30.myText	Malashenko here. We're engaging an enemy force, estimated battalion strength. And I see another group moving toward the bridge.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_30.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_31.myText	You must hold, Romanov. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_31.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_32.myText	The enemy attack has finally been spent. They are falling back.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_32.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_33.myText	The bridge is lost. All battalion elements fall back and regroup. I will report to the general.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_33.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_34.myText	Set up some sandbagged positions if you can. You don't have much time. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_34.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_35.myText	Good. A multilayered defense is always the best option against a concentrated attack.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_35.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_36.myText	The enemy is coming, lieutenant. You will have to make do with what you've got.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_36.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_40.myText	Well done, lieutenant! Now, press the attack!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_40.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_41.myText	We have the field. The river crossing is secured and now the rest of the battle group can move across. Excellent performance all around. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_41.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_42.myText	This is Sokol-1. The bridge has been repaired. You are free to move your units across.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_42.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_43.myText	Romanov! Fill your sandbags faster. The Americans are closing in.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_43.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_44.myText	The main force is not far out now, lieutenant.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_44.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_45.myText	No time left, Romanov! How are those positions coming along?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_45.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_46.myText	Malashenko to Sokol-1. I wish the Americans would have the guts to stand and fight us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_46.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_47.myText	Nothing at this time. Priority has been given to the regiments moving toward the coast. They've sent paratroopers to occupy several of coastal towns and they will need support.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_47.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_48.myText	If the Americans stand and fight today we're going to need all the fire support we can get.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_48.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_49.myText	Don't hope for too much, Captain. We lack the fire support for a decisive engagement.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_49.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_50.myText	We can do without it! My men are already chomping at the bit.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_50.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_51.myText	I am sure we will find the Americans soon enough, Captain.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_51.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_52.myText	I hope so. Then we shall destroy them utterly. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_52.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_53.myText	Your orders are to scout ahead, Romanov. The entire battle group is waiting on you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_53.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_54.myText	Trusi Amerikantsie. Why won't they face us?!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_54.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_55.myText	Patience, Captain. I need you to keep your wits about you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_55.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_56.myText	Don't worry about me, uncle. Worry about the enemy. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_56.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_57.myText	What is ailing you, lieutenant? My orders are clear. Scout toward the farm.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_57.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_58.myText	Romanov, your objective is to capture the bridge. Second Company will move in to support you once you are in place.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_58.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_59.myText	They're going for the bridge! Chyort poberi! Clear the bridge! Clear the bridge!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_59.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_60.myText	Malashenko na svjazi. We are engaging the enemy at the western ford. My men on the other side are now completely surrounded.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_60.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_61.myText	Sokol-1 here. We will get to them, Captain. Romanov should draw some of their forces away to the east soon.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_61.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_62.myText	He better. Malashenko, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_62.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_63.myText	Govorit Malashenko. My men are hard beset by the enemy. I thought Romanov would draw them off?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_63.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_64.myText	Romanov is attacking the eastern ford as planned. A breakthrough on either side will force the Americans to retreat.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_64.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_65.myText	Understood, but it's not enough. I request a bridge-layer.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_65.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_66.myText	Request denied, Captain. Again. Sending in a bridge layer now would only ensure its destruction.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_66.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_67.myText	But we have to get across the river!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_67.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_68.myText	And we will do so at the fords. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_68.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_69.myText	We have control of the eastern ford. Get some fortifications up, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_69.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_70.myText	We also have reports of an enemy M1 Abrams tank in the area. This is the most lethal tank in the American arsenal. Destroy it if you get the opportunity.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_70.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_71.myText	That Abrams tank is posing a serious threat to our forces, Romanov. Destroy it if you can.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_71.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_72.myText	Good. Each loss of those tanks is a serious blow to the Americans.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_72.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_73.myText	Romanov, I'm diverting an Su-25 to deal with the Abrams. I had hoped you would handle that tank yourself. Sokol-1 out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_73.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_74.myText	Romanov, I want you to move south and clear the enemy forces from the large farm ahead.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_74.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_75.myText	Govorit Malashenko. The Americans are renewing their attack from the southwest.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_75.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_76.myText	Understood, Captain. Can you hold?
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_76.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_77.myText	We can hold against whatever those craven bastards throw against us.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_77.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_78.myText	Good. I'm talking to our esteemed comrades in the air force and they will soon give us priority.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_78.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_79.myText	We don't need their support! The Americans will soon break and flee.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_79.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_80.myText	I am sure they will, Captain. But some air support will be welcome. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_80.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_81.myText	Romanov! Get away from the farm! The bombers are on their way!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_81.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_82.myText	Sokol-1 to Romanov. Move to the bridge at once and dig in. The Americans will be back soon, and in greater numbers.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_82.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_83.myText	Sokol-1 here. Army Command has finally deemed it prudent to give us fire support. A mortar section and a flight of Su-25s are now on call.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_83.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_84.myText	Govorit Malashenko. The Americans are attacking in strength. We're facing at least a regiment's worth of troops.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_84.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_85.myText	Ja, Sokol-1. The GRU reports them as part of the Oregon National Guard. Our orders are to fix them in place and destroy them.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_85.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_86.myText	We'll destroy them to the last man. Malashenko out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_86.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_87.myText	The American attack shows no sign of weakening. You must hold on to that bridge, Romanov.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_87.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_88.myText	Don't give them any respite, Romanov! Counter-attack at once!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_88.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_89.myText	To all Sokol-1 elements. The Americans are falling back. Advance and destroy them. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_89.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_90.myText	Very good, Romanov. Consolidate your position before advancing further. We cannot afford to lose the ground we've gained.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_90.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_91.myText	This is Malashenko. We've destroyed an enemy mechanized company. Continuing the advance at this time.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_91.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_92.myText	Well done, Captain. Don't let them get away. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_92.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_93.myText	Malashenko to Sokol-1. We are now at position four and dealing with light skirmish forces.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_93.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_94.myText	Understood. Hold in place. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_94.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_95.myText	Almost there, Romanov. Get some fortifications up!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_95.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_96.myText	This is Malashenko. Request permission to pursue the enemy.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_96.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_97.myText	Njet, Captain. We must keep the perimeter intact. We have dealt the Americans a hard blow. It will have to be enough for today.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_97.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_98.myText	Damn it, Romanov! I told you to be careful with your units. Don't lose any more!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_98.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_99.myText	Sokol-1 to Romanov. Priyom! This is Sokol-1 calling Romanov! Priyom!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_99.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_100.myText	Ja Sokol-1. The farm has been cleared.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_100.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_101.myText	Secure your position, lieutenant!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_101.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_102.myText	The Americans are regaining their foothold. Push them back, Romanov!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_102.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_103.myText	The counter-attack has failed. The Americans have dug in too hard. All units pull back.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_103.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_104.myText	You were to rout the enemy, Romanov! Secure that position!
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_104.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_105.myText	Retake the ground you lost, Romanov! Before it's too late.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_105.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_106.myText	The Americans have proved tenacious beyond our expectations. Our advance has been stalled. All units pull back. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_106.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_107.myText	Hold off the enemy. I'm sending First Platoon across to support you.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_107.myPortraitText	MALASHENKO
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_108.myText	I don't like this, Lieutenant. Take your group east and continue the reconnaissance. Sokol-1, out.
+mySinglePlayerData.mySinglePlayerMissionStats.myMessageBoxList.usf1_108.myPortraitText	ORLOVSKY
+mySinglePlayerData.mySinglePlayerMissionStats.myWonText	We have greatly expanded the perimeter around Seattle because of your decisive victory against the Americans. Now we can concentrate on pacifying the areas under our control, and start preparing for the next step in our overall plan. Well done, comrade!
+mySinglePlayerData.mySinglePlayerMissionStats.myLostText	Because your battle group failed to gain ground today, the entire offensive has been stalled. This will give the Americans ample time to prepare a large counter-offensive against our forces, and might jeopardize our entire operation in the United States. Your commissar will discuss this failure with you at the earliest possible convenience.
+mySinglePlayerData.mySinglePlayerMissionStats.myLocStrings.Assist	Assist status: %d/%d
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_04_01.myTitle	Selecting Units
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_04_01.myText	To select multiple units, hold  on a unit and move the cursor over all other units you want selected.
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_04_02.myTitle	Resupply Squad
+mySinglePlayerData.mySinglePlayerMissionStats.myTutorialMessageBoxes.Helptip_04_02.myText	Infantry units may be resupplied by pressing  on its unit icon.
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Bridge.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Ford_2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_DefendBridge.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_DefendBridge.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_DefendBridge.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_DefendBridge.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_PushBack2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_1.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_1.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_1.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_1.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_2.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_2.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_2.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_2.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_3.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_3.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_3.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_3.myEnemyCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_4.myUiName	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_4.myWeCapturedText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_4.myWeLostText	<empty>
+mySinglePlayerData.mySinglePlayerInstanceData.myAreaInstances.CP_Base_4.myEnemyCapturedText	<empty>

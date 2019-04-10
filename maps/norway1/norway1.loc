@@ -1,0 +1,37 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CP_FishingVillage.myUiName	Fishing Village
+myWicedMap.myInstanceData.myAreaInstances.CP_FishingVillage.myWeCapturedText	We captured the Fishing Village
+myWicedMap.myInstanceData.myAreaInstances.CP_FishingVillage.myWeLostText	We lost control of the Fishing Village
+myWicedMap.myInstanceData.myAreaInstances.CP_FishingVillage.myEnemyCapturedText	Enemy captured the Fishing Village
+myWicedMap.myInstanceData.myAreaInstances.CP_BaseEntrance.myUiName	Base Entrance
+myWicedMap.myInstanceData.myAreaInstances.CP_BaseEntrance.myWeCapturedText	We captured the Base Entrance
+myWicedMap.myInstanceData.myAreaInstances.CP_BaseEntrance.myWeLostText	We lost control of the Base Entrance
+myWicedMap.myInstanceData.myAreaInstances.CP_BaseEntrance.myEnemyCapturedText	Enemy captured the Base Entrance
+myWicedMap.myInstanceData.myAreaInstances.CP_Ravine.myUiName	Ravine
+myWicedMap.myInstanceData.myAreaInstances.CP_Ravine.myWeCapturedText	We captured the Ravine
+myWicedMap.myInstanceData.myAreaInstances.CP_Ravine.myWeLostText	We lost control of the Ravine
+myWicedMap.myInstanceData.myAreaInstances.CP_Ravine.myEnemyCapturedText	Enemy captured the Ravine
+myWicedMap.myInstanceData.myAreaInstances.CP_SAMEmplacement.myUiName	SAM Emplacement
+myWicedMap.myInstanceData.myAreaInstances.CP_SAMEmplacement.myWeCapturedText	We captured the SAM Emplacement
+myWicedMap.myInstanceData.myAreaInstances.CP_SAMEmplacement.myWeLostText	We lost control of the SAM Emplacement
+myWicedMap.myInstanceData.myAreaInstances.CP_SAMEmplacement.myEnemyCapturedText	Enemy captured the SAM Emplacement
+myWicedMap.myMissionStats.myName	do_Fjord
+myWicedMap.myMissionStats.mySPName	%02d - Lightning Strike
+myWicedMap.myMissionStats.myDescription	The distant Northern Lights bear witness to a Soviet raid on the Norwegian coast above the Arctic Circle.
+myWicedMap.myMissionStats.mySPDescription	In a lightning-fast raid on the Norwegian coast, the strike team led by Colonel Orlovsky hopes to destroy an air defense command center hidden deep inside a mountain. The main objective is to open up a corridor for Soviet bombers to fly through and hit NATO targets hitherto unreachable.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	FJORD
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	FJORD
+myWicedMap.myLocStrings.TakeAATimer	Main enemy air strike
+myWicedMap.myLocStrings.TakeAAQuicklyTimer	First bomber wave

@@ -1,0 +1,39 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myUiName	Marketplace
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myWeCapturedText	We captured the Marketplace
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myWeLostText	We lost control of the Marketplace
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__0.myEnemyCapturedText	Enemy captured the Marketplace
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myUiName	Farm
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myWeCapturedText	We captured the Farm
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myWeLostText	We lost control of the Farm
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__1.myEnemyCapturedText	Enemy captured the Farm
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myUiName	Mansion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myWeCapturedText	We captured the Mansion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myWeLostText	We lost control of the Mansion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__2.myEnemyCapturedText	Enemy captured the Mansion
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myUiName	Church
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myWeCapturedText	We captured the Church
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myWeLostText	We lost control of the Church
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__3.myEnemyCapturedText	Enemy captured the Church
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myUiName	Main Street
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myWeCapturedText	We captured the Main Street
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myWeLostText	We lost control of the Main Street
+myWicedMap.myInstanceData.myAreaInstances.CP_CommandPoint__4.myEnemyCapturedText	Enemy captured the Main Street
+myWicedMap.myMissionStats.myName	do_Canal
+myWicedMap.myMissionStats.mySPName	<empty>
+myWicedMap.myMissionStats.myDescription	A tranquil canal divides Soviet and NATO forces as they fight for control of a small French village.
+myWicedMap.myMissionStats.mySPDescription	<empty>
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	CANAL
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	CANAL

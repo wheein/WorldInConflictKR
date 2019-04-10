@@ -1,0 +1,70 @@
+﻿myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myUiName	Mayor's House
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeCapturedText	We captured the Mayor's House
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myWeLostText	We lost control of the Mayor's House
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__0.myEnemyCapturedText	Enemy captured the Mayor's House
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myUiName	Main Street
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeCapturedText	We captured the Main Street
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myWeLostText	We lost control of the Main Street
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__1.myEnemyCapturedText	Enemy captured the Main Street
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myUiName	Market Place
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeCapturedText	We captured the Market Place
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myWeLostText	We lost control of the Market Place
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__2.myEnemyCapturedText	Enemy captured the Market Place
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myUiName	Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeCapturedText	We captured the Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myWeLostText	We lost control of the Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__3.myEnemyCapturedText	Enemy captured the Supply Base
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myUiName	Church
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeCapturedText	We captured the Church
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myWeLostText	We lost control of the Church
+myWicedMap.myInstanceData.myAreaInstances.CommandPoint__4.myEnemyCapturedText	Enemy captured the Church
+myWicedMap.myMissionStats.myName	as_Hillside
+myWicedMap.myMissionStats.mySPName	%02d - Deep Strike
+myWicedMap.myMissionStats.myDescription	The battle for Southern France rages on as NATO and Soviet forces bombard a quaint French town to smithereens in their attempt to control it.
+myWicedMap.myMissionStats.mySPDescription	The combat team lead by Colonel Sawyer has been tasked with striking at the headquarters of the entire Soviet division before the final phase of the offensive begins. Recapture the town, fight your way to the top of the hill and deliver a crippling blow to the Soviet occupation force by destroying that HQ.
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(0).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(1).myText	HILLSIDE
+myWicedMap.myMissionStats.myLoadingBriefing.myLoadingSlides.LoadingSlide(2).myText	HILLSIDE
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myDescription	Mayor's House
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myLongDescription	Capture the Mayor's House
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__0.myVisualisationText	Capture the Mayor's House
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myDescription	Main Street
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myLongDescription	Capture the Main Street
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__1.myVisualisationText	Capture the Main Street
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myDescription	Market Place
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myLongDescription	Capture the Market Place
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__2.myVisualisationText	Capture the Market Place
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myDescription	Supply Base
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myLongDescription	Capture the Supply Base
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__3.myVisualisationText	Capture the Supply Base
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myDescription	Church
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myLongDescription	Capture the Church
+myWicedMap.myMissionStats.myAttackCPObjectives.CommandPoint__4.myVisualisationText	Capture the Church
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myDescription	Mayor's House
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myLongDescription	Defend the Mayor's House
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__0.myVisualisationText	Defend the Mayor's House
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myDescription	Main Street
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myLongDescription	Defend the Main Street
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__1.myVisualisationText	Defend the Main Street
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myDescription	Market Place
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myLongDescription	Defend the Market Place
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__2.myVisualisationText	Defend the Market Place
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myDescription	Supply Base
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myLongDescription	Defend the Supply Base
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__3.myVisualisationText	Defend the Supply Base
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myDescription	Church
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myLongDescription	Defend the Church
+myWicedMap.myMissionStats.myDefendCPObjectives.CommandPoint__4.myVisualisationText	Defend the Church
+myWicedMap.myLocStrings.Mainoffensivebegins	Main offensive begins:
